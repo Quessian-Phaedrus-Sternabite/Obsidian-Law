@@ -1,7 +1,6 @@
+# 246 U.S. 343
 
-## Case Number
-
-Link
+https://supreme.justia.com/cases/federal/us/246/343/
 
 ### Summary
 

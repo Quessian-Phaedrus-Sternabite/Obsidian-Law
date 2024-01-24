@@ -53,18 +53,18 @@
     "Embedded 1/International Harvester Co. v. Kentucky.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 4,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.017391304347826087,
-      "characterCount": 15,
-      "nonWhitespaceCharacterCount": 11,
+      "pageCount": 0.05652173913043478,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055732483,
-      "modifiedDate": 1706055996752,
-      "sizeInBytes": 15
+      "modifiedDate": 1706056835847,
+      "sizeInBytes": 115
     },
     "Embedded 1/Collins v. Kentucky.md": {
       "isDirectory": false,
@@ -85,18 +85,18 @@
     "Embedded 1/Hygrade Provision Co. v. Sherman.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 5,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.021739130434782608,
-      "characterCount": 68,
-      "nonWhitespaceCharacterCount": 63,
+      "pageCount": 0.05652173913043478,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056013108,
-      "modifiedDate": 1706056298842,
-      "sizeInBytes": 68
+      "modifiedDate": 1706056821136,
+      "sizeInBytes": 114
     },
     "Cheat Sheet.md": {
       "isDirectory": false,
@@ -117,18 +117,34 @@
     "Embedded 1/Omaechevarria v. Idaho.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 24,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 97,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 144,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056271360,
-      "modifiedDate": 1706056802726,
-      "sizeInBytes": 128
+      "modifiedDate": 1706056920299,
+      "sizeInBytes": 175
+    },
+    "Name of embedded.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043478260869565216,
+      "characterCount": 57,
+      "nonWhitespaceCharacterCount": 48,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706056880041,
+      "modifiedDate": 1706056906998,
+      "sizeInBytes": 57
     }
   }
 }
