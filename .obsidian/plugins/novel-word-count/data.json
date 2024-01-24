@@ -161,6 +161,22 @@
       "createdDate": 1706056940210,
       "modifiedDate": 1706057013598,
       "sizeInBytes": 174
+    },
+    "Embedded 1/Nash v. United States.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 145,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706057044427,
+      "modifiedDate": 1706057137327,
+      "sizeInBytes": 175
     }
   }
 }

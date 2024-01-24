@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md",
+                "file": "Embedded 1/Nash v. United States.md",
                 "mode": "source",
                 "source": false
               }
@@ -46,14 +46,6 @@
             "dimension": 59.43627450980392,
             "children": [
               {
-                "id": "eb1598e945b9ff4b",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {}
-                }
-              },
-              {
                 "id": "744943cc774aeba2",
                 "type": "leaf",
                 "state": {
@@ -66,11 +58,15 @@
                 }
               },
               {
-                "id": "f4f975678262d2f2",
+                "id": "96a0e224cfc25e5c",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cheat Sheet.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ],
@@ -166,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md",
+                "file": "Embedded 1/Nash v. United States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md",
+                "file": "Embedded 1/Nash v. United States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md"
+                "file": "Embedded 1/Nash v. United States.md"
               }
             }
           },
@@ -261,13 +257,14 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
-    "Embedded 1/United States v. Cohen Grocery Co..md",
-    "Cheat Sheet.md",
-    "Important Quirbs.md",
     "Case Law/Connaly v. General Construction (1926).md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/Nash v. United States.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Cheat Sheet.md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
     "Name of embedded.md",
+    "Important Quirbs.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Collins v. Kentucky.md",
     "Untitled 1.md",
@@ -289,7 +286,6 @@
     "The Fall and Rise of Gather/Information/Species.md",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
