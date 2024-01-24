@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/People ex rel. Rodgers v. Coler.md",
+                "file": "State v. Partlow.md",
                 "mode": "source",
                 "source": false
               }
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/People ex rel. Rodgers v. Coler.md",
+                "file": "State v. Partlow.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/People ex rel. Rodgers v. Coler.md",
+                "file": "State v. Partlow.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/People ex rel. Rodgers v. Coler.md"
+                "file": "State v. Partlow.md"
               }
             }
           },
@@ -255,13 +255,14 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
+    "Cheat Sheet.md",
+    "State v. Partlow.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/United States v. Cohen Grocery Co..md",
     "Embedded 1/United States v. Capital Traction Co..md",
-    "Cheat Sheet.md",
     "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
     "Embedded 1/Collins v. Kentucky.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
@@ -285,7 +286,6 @@
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
     "The Fall and Rise of Gather/Categories/Stories.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/So You Want to Master the Universe!.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",

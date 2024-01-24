@@ -1,7 +1,6 @@
-## 166 N.Y. 1
+## 91 N.C. 550
 
-https://casetext.com/case/people-ex-rel-rodgers-v-coler
-NOTE: New York, not US.
+https://casetext.com/case/state-v-partlow-6
 
 ### Summary
 

@@ -213,18 +213,34 @@
     "Embedded 1/People ex rel. Rodgers v. Coler.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 126,
-      "nonWhitespaceCharacterCount": 97,
+      "pageCount": 0.12608695652173912,
+      "characterCount": 200,
+      "nonWhitespaceCharacterCount": 165,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706057917479,
-      "modifiedDate": 1706057926796,
-      "sizeInBytes": 126
+      "modifiedDate": 1706058048457,
+      "sizeInBytes": 200
+    },
+    "State v. Partlow.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 165,
+      "nonWhitespaceCharacterCount": 135,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058086179,
+      "modifiedDate": 1706058121907,
+      "sizeInBytes": 165
     }
   }
 }
