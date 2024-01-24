@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 234 U.S. 216 
@@ -15,4 +15,4 @@ Ruled invalid due to not being able to easily determine real price ([[Important 
 ### Use
 
 ### Embedded Case Law
-[[Nash v. United States]]
+[[Nash v. United States]] (1)
