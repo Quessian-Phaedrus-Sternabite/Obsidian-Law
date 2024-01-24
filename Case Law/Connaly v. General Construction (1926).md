@@ -8,6 +8,8 @@ https://supreme.justia.com/cases/federal/us/269/385/
 ### Use
 * Could support Carter
 	*  "A criminal statute which either forbids or requires the doing of an act in terms so vague that men of common intelligence must guess at its meaning and differ as to its application lacks the first essential of due process of law. "
+* Could support State
+	* Technically, this law is vague, whereas "1000 feet of a school" is specific. 
 
 ### Embedded
 [[International Harvester Co. v. Kentucky]]
