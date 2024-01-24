@@ -14,4 +14,5 @@ https://supreme.justia.com/cases/federal/us/269/385/
 [[Collins v. Kentucky]]
 [[Hygrade Provision Co. v. Sherman]]
 [[Omaechevarria v. Idaho]]
-[[United States v. Cohen Gr]]
+[[United States v. Cohen Grocery Co.]]
+[[Waters-Pierce Oil Co. v. Texas]]
