@@ -1,5 +1,5 @@
 ---
-supports: Carter
+supports: 
 level: "1"
 ---
 ## 166 N.Y. 1

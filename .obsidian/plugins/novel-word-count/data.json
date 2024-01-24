@@ -21,18 +21,18 @@
     "Case Law/Connaly v. General Construction (1926).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 178,
+      "wordCount": 181,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7739130434782608,
-      "characterCount": 1173,
-      "nonWhitespaceCharacterCount": 987,
-      "linkCount": 17,
+      "pageCount": 0.7869565217391304,
+      "characterCount": 1195,
+      "nonWhitespaceCharacterCount": 1006,
+      "linkCount": 18,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706054463719,
-      "modifiedDate": 1706058324017,
-      "sizeInBytes": 1209
+      "modifiedDate": 1706058570615,
+      "sizeInBytes": 1231
     },
     "Important Quirbs.md": {
       "isDirectory": false,
@@ -223,8 +223,8 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706057917479,
-      "modifiedDate": 1706058481948,
-      "sizeInBytes": 236
+      "modifiedDate": 1706058483820,
+      "sizeInBytes": 230
     },
     "Embedded 1/State v. Partlow.md": {
       "isDirectory": false,
@@ -261,18 +261,34 @@
     "Embedded 1/Schmidt v. Kansas City Distilling Co..md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.1,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058243396,
-      "modifiedDate": 1706058243396,
-      "sizeInBytes": 0
+      "modifiedDate": 1706058532081,
+      "sizeInBytes": 156
+    },
+    "Embedded 1/State v. Tibbetts.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058573292,
+      "modifiedDate": 1706058577652,
+      "sizeInBytes": 156
     }
   }
 }

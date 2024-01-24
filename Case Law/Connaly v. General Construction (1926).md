@@ -27,6 +27,7 @@ https://supreme.justia.com/cases/federal/us/269/385/
 [[People ex rel. Rodgers v. Coler]]
 [[State v. Partlow]]
 [[Commonwealth v. Bank of Pennsylvania]]
+[[State v. Tibbetts]]
 [[Schmidt v. Kansas City Distilling Co.]]
 [[Woods v. Cochrane and Smith]]
 [[State ex rel. Christie v. Meek]]
