@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "State v. Partlow.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "mode": "source",
                 "source": false
               }
@@ -146,7 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 406
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -162,7 +162,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "State v. Partlow.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -179,7 +179,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "State v. Partlow.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -202,7 +202,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "State v. Partlow.md"
+                "file": "Case Law/Connaly v. General Construction (1926).md"
               }
             }
           },
@@ -257,9 +257,10 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
-    "Cheat Sheet.md",
-    "State v. Partlow.md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
     "Case Law/Connaly v. General Construction (1926).md",
+    "Cheat Sheet.md",
+    "Embedded 1/State v. Partlow.md",
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/United States v. Cohen Grocery Co..md",
     "Embedded 1/United States v. Capital Traction Co..md",
@@ -285,7 +286,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Shifting.md",
     "The Fall and Rise of Gather/Categories/Legends.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Broken.md",
-    "The Fall and Rise of Gather/Categories/Stories.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",

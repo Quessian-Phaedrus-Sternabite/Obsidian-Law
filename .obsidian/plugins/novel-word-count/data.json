@@ -226,21 +226,37 @@
       "modifiedDate": 1706058048457,
       "sizeInBytes": 200
     },
-    "State v. Partlow.md": {
+    "Embedded 1/State v. Partlow.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10434782608695652,
-      "characterCount": 165,
-      "nonWhitespaceCharacterCount": 135,
+      "pageCount": 0.12608695652173912,
+      "characterCount": 194,
+      "nonWhitespaceCharacterCount": 159,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058086179,
-      "modifiedDate": 1706058121907,
-      "sizeInBytes": 165
+      "modifiedDate": 1706058137634,
+      "sizeInBytes": 194
+    },
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 28,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12173913043478261,
+      "characterCount": 230,
+      "nonWhitespaceCharacterCount": 197,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058157440,
+      "modifiedDate": 1706058230048,
+      "sizeInBytes": 230
     }
   }
 }
