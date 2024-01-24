@@ -7,8 +7,9 @@ level: Base
 https://supreme.justia.com/cases/federal/us/501/957/
 
 ### Summary
+(This one's a doozy)
 
-Summary of case
+After claiming life in prison for possessing 650 grams of crack was "cruel and unusual," Harmelin was declined a change in sentencing.
 
 ### Use
 
