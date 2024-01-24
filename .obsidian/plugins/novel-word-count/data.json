@@ -306,21 +306,37 @@
       "modifiedDate": 1706058790964,
       "sizeInBytes": 161
     },
-    "State ex rel. Christie v. Meek.md": {
+    "Embedded 1/State ex rel. Christie v. Meek.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.10434782608695652,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 97,
+      "pageCount": 0.11304347826086956,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 190,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058836822,
-      "modifiedDate": 1706058958043,
-      "sizeInBytes": 157
+      "modifiedDate": 1706058974467,
+      "sizeInBytes": 251
+    },
+    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10869565217391304,
+      "characterCount": 135,
+      "nonWhitespaceCharacterCount": 103,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058983167,
+      "modifiedDate": 1706059040808,
+      "sizeInBytes": 164
     }
   }
 }
