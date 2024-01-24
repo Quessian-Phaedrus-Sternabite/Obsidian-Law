@@ -32,8 +32,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -164,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Important Quirbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Important Quirbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
+                "file": "Important Quirbs.md"
               }
             }
           },
@@ -257,10 +256,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "a12726d9e7bff2c4",
+  "active": "cc85e560a7cf17b9",
   "lastOpenFiles": [
-    "Case Law/Connaly v. General Construction (1926).md",
     "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Connaly v. General Construction (1926).md",
     "Cheat Sheet.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
