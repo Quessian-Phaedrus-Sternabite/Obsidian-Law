@@ -21,18 +21,18 @@
     "Case Law/Connaly v. General Construction (1926).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 136,
+      "wordCount": 156,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.591304347826087,
-      "characterCount": 914,
-      "nonWhitespaceCharacterCount": 774,
-      "linkCount": 13,
+      "pageCount": 0.6782608695652174,
+      "characterCount": 1043,
+      "nonWhitespaceCharacterCount": 882,
+      "linkCount": 16,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706054463719,
-      "modifiedDate": 1706056202283,
-      "sizeInBytes": 914
+      "modifiedDate": 1706056258328,
+      "sizeInBytes": 1043
     },
     "Important Quirbs.md": {
       "isDirectory": false,
@@ -85,18 +85,18 @@
     "Embedded 1/Hygrade Provision Co. v. Sherman.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 5,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
+      "pageCount": 0.021739130434782608,
+      "characterCount": 68,
+      "nonWhitespaceCharacterCount": 63,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056013108,
-      "modifiedDate": 1706056013108,
-      "sizeInBytes": 0
+      "modifiedDate": 1706056298842,
+      "sizeInBytes": 68
     },
     "Cheat Sheet.md": {
       "isDirectory": false,
@@ -113,6 +113,22 @@
       "createdDate": 1706056111501,
       "modifiedDate": 1706056174474,
       "sizeInBytes": 101
+    },
+    "Embedded 1/Omaechevarria v. Idaho.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706056271360,
+      "modifiedDate": 1706056271360,
+      "sizeInBytes": 0
     }
   }
 }
