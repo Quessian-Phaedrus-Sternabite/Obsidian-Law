@@ -353,6 +353,22 @@
       "createdDate": 1706059085649,
       "modifiedDate": 1706059096762,
       "sizeInBytes": 148
+    },
+    "Untitled.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706059550404,
+      "modifiedDate": 1706059550404,
+      "sizeInBytes": 0
     }
   }
 }

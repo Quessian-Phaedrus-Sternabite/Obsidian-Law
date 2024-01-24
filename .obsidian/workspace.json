@@ -6,7 +6,7 @@
       {
         "id": "da22538a389aedc6",
         "type": "tabs",
-        "dimension": 68.45637583892618,
+        "dimension": 65.85034013605441,
         "children": [
           {
             "id": "cc85e560a7cf17b9",
@@ -38,7 +38,7 @@
       {
         "id": "3dacbf1e21118ac3",
         "type": "split",
-        "dimension": 31.543624161073826,
+        "dimension": 34.14965986394558,
         "children": [
           {
             "id": "2f6bec5100ca5e4b",
@@ -164,7 +164,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +180,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,9 +201,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md"
-              }
+              "state": {}
             }
           },
           {
@@ -257,8 +253,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "a12726d9e7bff2c4",
+  "active": "bd70382d277b0b86",
   "lastOpenFiles": [
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Untitled.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Thomas v. Marshfield.md",
     "Cheat Sheet.md",
@@ -270,7 +268,6 @@
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/Omaechevarria v. Idaho.md",
     "Embedded 1/Nash v. United States.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Collins v. Kentucky.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
@@ -287,7 +284,6 @@
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
-    "The Fall and Rise of Gather/6. The Sixth Gathering/The Wages of War.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
