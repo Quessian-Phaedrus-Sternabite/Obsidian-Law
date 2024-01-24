@@ -1,0 +1,54 @@
+{
+  "settings": {
+    "countType": "word",
+    "countType2": "page",
+    "countType3": "none",
+    "showSameCountsOnFolders": true,
+    "folderCountType": "word",
+    "folderCountType2": "none",
+    "folderCountType3": "none",
+    "abbreviateDescriptions": false,
+    "alignment": "below",
+    "debugMode": false,
+    "wordsPerPage": 230,
+    "charsPerPage": 1500,
+    "charsPerPageIncludesWhitespace": false,
+    "wordCountType": "SpaceDelimited",
+    "pageCountType": "ByWords",
+    "excludeComments": false
+  },
+  "cachedCounts": {
+    "Case Law/Connaly v. General Construction (1926).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 81,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.3521739130434783,
+      "characterCount": 514,
+      "nonWhitespaceCharacterCount": 429,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706054463719,
+      "modifiedDate": 1706054952553,
+      "sizeInBytes": 514
+    },
+    "Important Quirbs.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.043478260869565216,
+      "characterCount": 66,
+      "nonWhitespaceCharacterCount": 56,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706054669034,
+      "modifiedDate": 1706054779395,
+      "sizeInBytes": 66
+    }
+  }
+}
