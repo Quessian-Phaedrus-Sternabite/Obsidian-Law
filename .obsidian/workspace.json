@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/Collins v. Kentucky.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "mode": "source",
                 "source": false
               }
@@ -166,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Collins v. Kentucky.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -183,7 +183,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Collins v. Kentucky.md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Collins v. Kentucky.md"
+                "file": "Case Law/Connaly v. General Construction (1926).md"
               }
             }
           },
@@ -261,14 +261,15 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Name of embedded.md",
-    "Case Law/Connaly v. General Construction (1926).md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
     "Cheat Sheet.md",
     "Important Quirbs.md",
+    "Case Law/Connaly v. General Construction (1926).md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Name of embedded.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/Collins v. Kentucky.md",
     "Untitled 1.md",
     "Embedded 2",
     "Embedded 1",
@@ -289,7 +290,6 @@
     "The Fall and Rise of Gather/5. The Fifth Gathering/Capital Planets 5.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Notable Characters 4.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/4. The Fourth Gathering.md",
-    "The Fall and Rise of Gather/Information/Crèches.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",

@@ -21,18 +21,18 @@
     "Case Law/Connaly v. General Construction (1926).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 174,
+      "wordCount": 178,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.7565217391304347,
-      "characterCount": 1146,
-      "nonWhitespaceCharacterCount": 965,
-      "linkCount": 16,
+      "pageCount": 0.7739130434782608,
+      "characterCount": 1172,
+      "nonWhitespaceCharacterCount": 987,
+      "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706054463719,
-      "modifiedDate": 1706056640178,
-      "sizeInBytes": 1146
+      "modifiedDate": 1706057042112,
+      "sizeInBytes": 1172
     },
     "Important Quirbs.md": {
       "isDirectory": false,
@@ -57,14 +57,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 115,
-      "nonWhitespaceCharacterCount": 97,
+      "characterCount": 116,
+      "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055732483,
-      "modifiedDate": 1706056835847,
-      "sizeInBytes": 115
+      "modifiedDate": 1706056928826,
+      "sizeInBytes": 116
     },
     "Embedded 1/Collins v. Kentucky.md": {
       "isDirectory": false,
@@ -73,14 +73,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 114,
-      "nonWhitespaceCharacterCount": 97,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055880300,
-      "modifiedDate": 1706056687611,
-      "sizeInBytes": 114
+      "modifiedDate": 1706056927250,
+      "sizeInBytes": 115
     },
     "Embedded 1/Hygrade Provision Co. v. Sherman.md": {
       "isDirectory": false,
@@ -89,30 +89,30 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 114,
-      "nonWhitespaceCharacterCount": 97,
+      "characterCount": 115,
+      "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056013108,
-      "modifiedDate": 1706056821136,
-      "sizeInBytes": 114
+      "modifiedDate": 1706056928315,
+      "sizeInBytes": 115
     },
     "Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 49,
+      "wordCount": 48,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.21304347826086956,
-      "characterCount": 282,
-      "nonWhitespaceCharacterCount": 221,
+      "pageCount": 0.20869565217391303,
+      "characterCount": 274,
+      "nonWhitespaceCharacterCount": 216,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056111501,
-      "modifiedDate": 1706056790540,
-      "sizeInBytes": 282
+      "modifiedDate": 1706056963013,
+      "sizeInBytes": 274
     },
     "Embedded 1/Omaechevarria v. Idaho.md": {
       "isDirectory": false,
@@ -121,14 +121,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.10434782608695652,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 144,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 145,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056271360,
-      "modifiedDate": 1706056920299,
-      "sizeInBytes": 175
+      "modifiedDate": 1706056931109,
+      "sizeInBytes": 176
     },
     "Name of embedded.md": {
       "isDirectory": false,
@@ -145,6 +145,22 @@
       "createdDate": 1706056880041,
       "modifiedDate": 1706056906998,
       "sizeInBytes": 57
+    },
+    "Embedded 1/United States v. Cohen Grocery Co..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 174,
+      "nonWhitespaceCharacterCount": 143,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706056940210,
+      "modifiedDate": 1706057013598,
+      "sizeInBytes": 174
     }
   }
 }

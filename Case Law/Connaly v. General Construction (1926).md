@@ -16,6 +16,7 @@ https://supreme.justia.com/cases/federal/us/269/385/
 [[Collins v. Kentucky]]
 [[Hygrade Provision Co. v. Sherman]]
 [[Omaechevarria v. Idaho]]
+[[Nash v. United States]]
 [[United States v. Cohen Grocery Co.]]
 [[Waters-Pierce Oil Co. v. Texas]]
 [[United States v. Capital Traction Co.]]

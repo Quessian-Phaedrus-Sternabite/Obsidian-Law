@@ -1,6 +1,6 @@
-## 246 U.S. 343
+## 255 U.S. 81
 
-https://supreme.justia.com/cases/federal/us/246/343/
+https://supreme.justia.com/cases/federal/us/255/81/
 
 ### Summary
 
