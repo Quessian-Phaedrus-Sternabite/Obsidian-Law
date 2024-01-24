@@ -32,7 +32,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -163,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Quirbs.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Quirbs.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Quirbs.md"
+                "file": "Case Law/Harmelin v. Michigan (1991).md"
               }
             }
           },
@@ -256,8 +257,9 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "cc85e560a7cf17b9",
+  "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
+    "Important Quirbs.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Cheat Sheet.md",
@@ -267,7 +269,6 @@
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Nash v. United States.md",
     "Embedded 1/Collins v. Kentucky.md",
-    "Important Quirbs.md",
     "Untitled.md",
     "Thomas v. Marshfield.md",
     "Embedded 1/State ex rel. Christie v. Meek.md",
