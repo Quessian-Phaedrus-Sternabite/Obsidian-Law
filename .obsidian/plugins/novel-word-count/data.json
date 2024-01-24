@@ -277,18 +277,50 @@
     "Embedded 1/State v. Tibbetts.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 25,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 122,
-      "nonWhitespaceCharacterCount": 91,
+      "pageCount": 0.10869565217391304,
+      "characterCount": 133,
+      "nonWhitespaceCharacterCount": 101,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058573292,
-      "modifiedDate": 1706058722453,
-      "sizeInBytes": 151
+      "modifiedDate": 1706058729049,
+      "sizeInBytes": 162
+    },
+    "Embedded 1/Woods v. Cochrane and Smith.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10869565217391304,
+      "characterCount": 132,
+      "nonWhitespaceCharacterCount": 100,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058733324,
+      "modifiedDate": 1706058790964,
+      "sizeInBytes": 161
+    },
+    "State ex rel. Christie v. Meek.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058836822,
+      "modifiedDate": 1706058836822,
+      "sizeInBytes": 0
     }
   }
 }
