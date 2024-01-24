@@ -13,3 +13,4 @@ Antitrust law was made in Kentucky that said people couldn't sell things for pri
 ### Use
 
 ### Embedded Case Law
+[[Nash v. United States]]
