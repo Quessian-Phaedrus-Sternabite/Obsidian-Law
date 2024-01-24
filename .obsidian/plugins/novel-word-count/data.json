@@ -369,6 +369,22 @@
       "createdDate": 1706059550404,
       "modifiedDate": 1706059550404,
       "sizeInBytes": 0
+    },
+    "Case Law/Harmelin v. Michigan (1991).md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706061793446,
+      "modifiedDate": 1706061832957,
+      "sizeInBytes": 162
     }
   }
 }

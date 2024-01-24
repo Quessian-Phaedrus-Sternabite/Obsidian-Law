@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/International Harvester Co. v. Kentucky.md"
+                "file": "Case Law/Harmelin v. Michigan (1991).md"
               }
             }
           },
@@ -259,14 +259,15 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
+    "Cheat Sheet.md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
     "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
     "Case Law/Connaly v. General Construction (1926).md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Nash v. United States.md",
     "Embedded 1/Collins v. Kentucky.md",
-    "Cheat Sheet.md",
     "Important Quirbs.md",
     "Untitled.md",
     "Thomas v. Marshfield.md",
@@ -287,7 +288,6 @@
     "Case Law",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Abandoned.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
