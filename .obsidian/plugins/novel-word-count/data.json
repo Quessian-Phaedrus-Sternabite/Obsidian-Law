@@ -177,6 +177,38 @@
       "createdDate": 1706057044427,
       "modifiedDate": 1706057137327,
       "sizeInBytes": 175
+    },
+    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 173,
+      "nonWhitespaceCharacterCount": 143,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706057235560,
+      "modifiedDate": 1706057263917,
+      "sizeInBytes": 173
+    },
+    "Embedded 1/United States v. Capital Traction Co..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706057266890,
+      "modifiedDate": 1706057266890,
+      "sizeInBytes": 0
     }
   }
 }
