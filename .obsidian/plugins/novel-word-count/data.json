@@ -57,14 +57,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 116,
+      "characterCount": 117,
       "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055732483,
-      "modifiedDate": 1706056928826,
-      "sizeInBytes": 116
+      "modifiedDate": 1706058458376,
+      "sizeInBytes": 146
     },
     "Embedded 1/Collins v. Kentucky.md": {
       "isDirectory": false,
@@ -73,14 +73,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 115,
+      "characterCount": 116,
       "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055880300,
-      "modifiedDate": 1706056927250,
-      "sizeInBytes": 115
+      "modifiedDate": 1706058443459,
+      "sizeInBytes": 145
     },
     "Embedded 1/Hygrade Provision Co. v. Sherman.md": {
       "isDirectory": false,
@@ -89,30 +89,30 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.05652173913043478,
-      "characterCount": 115,
+      "characterCount": 116,
       "nonWhitespaceCharacterCount": 98,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056013108,
-      "modifiedDate": 1706056928315,
-      "sizeInBytes": 115
+      "modifiedDate": 1706058450987,
+      "sizeInBytes": 145
     },
     "Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 48,
+      "wordCount": 52,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.20869565217391303,
-      "characterCount": 275,
-      "nonWhitespaceCharacterCount": 216,
+      "pageCount": 0.22608695652173913,
+      "characterCount": 301,
+      "nonWhitespaceCharacterCount": 237,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056111501,
-      "modifiedDate": 1706058336897,
-      "sizeInBytes": 275
+      "modifiedDate": 1706058404821,
+      "sizeInBytes": 301
     },
     "Embedded 1/Omaechevarria v. Idaho.md": {
       "isDirectory": false,
@@ -121,14 +121,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.10434782608695652,
-      "characterCount": 176,
+      "characterCount": 177,
       "nonWhitespaceCharacterCount": 145,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056271360,
-      "modifiedDate": 1706056931109,
-      "sizeInBytes": 176
+      "modifiedDate": 1706058476452,
+      "sizeInBytes": 206
     },
     "Name of embedded.md": {
       "isDirectory": false,
@@ -169,14 +169,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.10434782608695652,
-      "characterCount": 175,
+      "characterCount": 176,
       "nonWhitespaceCharacterCount": 145,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706057044427,
-      "modifiedDate": 1706057137327,
-      "sizeInBytes": 175
+      "modifiedDate": 1706058467857,
+      "sizeInBytes": 205
     },
     "Embedded 1/Waters-Pierce Oil Co. v. Texas.md": {
       "isDirectory": false,
@@ -217,14 +217,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.12608695652173912,
-      "characterCount": 200,
+      "characterCount": 201,
       "nonWhitespaceCharacterCount": 165,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706057917479,
-      "modifiedDate": 1706058048457,
-      "sizeInBytes": 200
+      "modifiedDate": 1706058481948,
+      "sizeInBytes": 236
     },
     "Embedded 1/State v. Partlow.md": {
       "isDirectory": false,
@@ -249,14 +249,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.12173913043478261,
-      "characterCount": 230,
+      "characterCount": 231,
       "nonWhitespaceCharacterCount": 197,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058157440,
-      "modifiedDate": 1706058230048,
-      "sizeInBytes": 230
+      "modifiedDate": 1706058440492,
+      "sizeInBytes": 260
     },
     "Embedded 1/Schmidt v. Kansas City Distilling Co..md": {
       "isDirectory": false,

@@ -1,3 +1,7 @@
+---
+supports: Carter
+level: "1"
+---
 ## 166 N.Y. 1
 
 https://casetext.com/case/people-ex-rel-rodgers-v-coler

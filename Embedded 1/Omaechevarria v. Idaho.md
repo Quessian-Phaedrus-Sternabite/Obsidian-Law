@@ -1,3 +1,7 @@
+---
+supports: 
+level: "1"
+---
 ## 246 U.S. 343
 
 https://supreme.justia.com/cases/federal/us/246/343/
