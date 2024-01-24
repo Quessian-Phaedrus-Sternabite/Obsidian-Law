@@ -21,18 +21,18 @@
     "Case Law/Connaly v. General Construction (1926).md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 84,
+      "wordCount": 102,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3652173913043478,
-      "characterCount": 540,
-      "nonWhitespaceCharacterCount": 452,
-      "linkCount": 1,
+      "pageCount": 0.4434782608695652,
+      "characterCount": 676,
+      "nonWhitespaceCharacterCount": 570,
+      "linkCount": 6,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706054463719,
-      "modifiedDate": 1706055720605,
-      "sizeInBytes": 540
+      "modifiedDate": 1706055841180,
+      "sizeInBytes": 676
     },
     "Important Quirbs.md": {
       "isDirectory": false,
@@ -49,6 +49,22 @@
       "createdDate": 1706054669034,
       "modifiedDate": 1706054779395,
       "sizeInBytes": 66
+    },
+    "Embedded 1/International Harvester Co. v. Kentucky.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706055732483,
+      "modifiedDate": 1706055732483,
+      "sizeInBytes": 0
     }
   }
 }
