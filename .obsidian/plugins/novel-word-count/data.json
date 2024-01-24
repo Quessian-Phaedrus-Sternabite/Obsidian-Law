@@ -69,18 +69,18 @@
     "Embedded 1/Collins v. Kentucky.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 13,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.0391304347826087,
-      "characterCount": 91,
-      "nonWhitespaceCharacterCount": 79,
+      "pageCount": 0.05652173913043478,
+      "characterCount": 114,
+      "nonWhitespaceCharacterCount": 97,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055880300,
-      "modifiedDate": 1706056681347,
-      "sizeInBytes": 91
+      "modifiedDate": 1706056687611,
+      "sizeInBytes": 114
     },
     "Embedded 1/Hygrade Provision Co. v. Sherman.md": {
       "isDirectory": false,
@@ -101,34 +101,34 @@
     "Cheat Sheet.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 44,
+      "wordCount": 49,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.19130434782608696,
-      "characterCount": 255,
-      "nonWhitespaceCharacterCount": 199,
+      "pageCount": 0.21304347826086956,
+      "characterCount": 282,
+      "nonWhitespaceCharacterCount": 221,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056111501,
-      "modifiedDate": 1706056492979,
-      "sizeInBytes": 255
+      "modifiedDate": 1706056790540,
+      "sizeInBytes": 282
     },
     "Embedded 1/Omaechevarria v. Idaho.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 23,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.1,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056271360,
-      "modifiedDate": 1706056271360,
-      "sizeInBytes": 0
+      "modifiedDate": 1706056802726,
+      "sizeInBytes": 128
     }
   }
 }

@@ -2,7 +2,7 @@
 U.S. (Best) -> State (Aren't bound, still good) -> Local (Pretty much unseen)
 
 
-Format:
+Format (Copy and paste if needed):
 
 ```
 Title
