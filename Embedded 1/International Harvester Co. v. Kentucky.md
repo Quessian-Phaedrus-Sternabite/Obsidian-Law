@@ -13,6 +13,9 @@ Antitrust law was made in Kentucky that said people couldn't sell things for pri
 Ruled invalid due to not being able to easily determine real price ([[Important Quirbs#^802bce |Vagueness Doctrine]])
 
 ### Use
-
+* Carter:
+	* Again corresponds to vagueness. This supports [[Connaly v. General Construction (1926)]], which it is embedded in.
+* State:
+	* Again, 
 ### Embedded Case Law
 [[Nash v. United States]] (1)
