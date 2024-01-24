@@ -25,14 +25,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.7739130434782608,
-      "characterCount": 1172,
+      "characterCount": 1173,
       "nonWhitespaceCharacterCount": 987,
       "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706054463719,
-      "modifiedDate": 1706057042112,
-      "sizeInBytes": 1172
+      "modifiedDate": 1706058324017,
+      "sizeInBytes": 1209
     },
     "Important Quirbs.md": {
       "isDirectory": false,
@@ -105,14 +105,14 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 0.20869565217391303,
-      "characterCount": 274,
+      "characterCount": 275,
       "nonWhitespaceCharacterCount": 216,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706056111501,
-      "modifiedDate": 1706056963013,
-      "sizeInBytes": 274
+      "modifiedDate": 1706058336897,
+      "sizeInBytes": 275
     },
     "Embedded 1/Omaechevarria v. Idaho.md": {
       "isDirectory": false,
@@ -257,6 +257,22 @@
       "createdDate": 1706058157440,
       "modifiedDate": 1706058230048,
       "sizeInBytes": 230
+    },
+    "Embedded 1/Schmidt v. Kansas City Distilling Co..md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706058243396,
+      "modifiedDate": 1706058243396,
+      "sizeInBytes": 0
     }
   }
 }

@@ -1,3 +1,7 @@
+---
+supports: Carter
+level: Base
+---
 ## 269 U.S. 385, 46 S.Ct. 126 (1926)
 
 https://supreme.justia.com/cases/federal/us/269/385/
