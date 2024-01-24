@@ -53,18 +53,18 @@
     "Embedded 1/International Harvester Co. v. Kentucky.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 77,
+      "wordCount": 101,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.3347826086956522,
-      "characterCount": 533,
-      "nonWhitespaceCharacterCount": 446,
+      "pageCount": 0.4391304347826087,
+      "characterCount": 669,
+      "nonWhitespaceCharacterCount": 559,
       "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706055732483,
-      "modifiedDate": 1706061227495,
-      "sizeInBytes": 568
+      "modifiedDate": 1706061291981,
+      "sizeInBytes": 704
     },
     "Embedded 1/Collins v. Kentucky.md": {
       "isDirectory": false,
