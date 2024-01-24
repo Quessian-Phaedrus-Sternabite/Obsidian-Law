@@ -309,18 +309,18 @@
     "State ex rel. Christie v. Meek.md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 24,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.10434782608695652,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706058836822,
-      "modifiedDate": 1706058836822,
-      "sizeInBytes": 0
+      "modifiedDate": 1706058958043,
+      "sizeInBytes": 157
     }
   }
 }
