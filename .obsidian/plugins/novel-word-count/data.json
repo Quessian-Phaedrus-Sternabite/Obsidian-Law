@@ -197,18 +197,34 @@
     "Embedded 1/United States v. Capital Traction Co..md": {
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "linkCount": 0,
+      "pageCount": 0.11304347826086956,
+      "characterCount": 135,
+      "nonWhitespaceCharacterCount": 103,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1706057266890,
-      "modifiedDate": 1706057266890,
-      "sizeInBytes": 0
+      "modifiedDate": 1706057909302,
+      "sizeInBytes": 135
+    },
+    "Embedded 1/People ex rel. Rodgers v. Coler.md": {
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.1,
+      "characterCount": 126,
+      "nonWhitespaceCharacterCount": 97,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1706057917479,
+      "modifiedDate": 1706057926796,
+      "sizeInBytes": 126
     }
   }
 }
