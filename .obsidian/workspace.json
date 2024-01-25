@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Case Law/Connaly v. General Construction (1926).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
+                "file": "Case Law/Connaly v. General Construction (1926).md"
               }
             }
           },
@@ -230,7 +230,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -259,8 +261,8 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
-    "Important Quirbs.md",
     "Case Law/Harmelin v. Michigan (1991).md",
+    "Important Quirbs.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Cheat Sheet.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
