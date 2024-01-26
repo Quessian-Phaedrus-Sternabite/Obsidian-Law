@@ -18,7 +18,9 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 
 * For State:
 	* "There are no adequate textual or historical standards to enable judges to determine whether a particular penalty is disproportional"
+* For Carter
+	* 650 grams of heroin is a **huge** amount. It indicates premediated action. In Carter's case, he only had 1.5 grams, and it was simply to pay rent, not as a result of major drug trafficking.
 
 ### Embedded
 
-[[Name of embedded]]
+[[Coker v. Georgia]]

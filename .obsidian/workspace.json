@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Coker v. Georgia.md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Coker v. Georgia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -180,7 +180,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Coker v. Georgia.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -203,7 +203,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
+                "file": "Embedded 1/Coker v. Georgia.md"
               }
             }
           },
@@ -258,10 +258,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "a12726d9e7bff2c4",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
-    "Important Quirbs.md",
     "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Coker v. Georgia.md",
+    "Important Quirbs.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
@@ -272,7 +273,7 @@
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Nash v. United States.md",
     "Untitled.md",
-    "Thomas v. Marshfield.md",
+    "Embedded 1/Thomas v. Marshfield.md",
     "Embedded 1/State ex rel. Christie v. Meek.md",
     "Embedded 1/Woods v. Cochrane and Smith.md",
     "Embedded 1/State v. Tibbetts.md",
@@ -288,7 +289,6 @@
     "Embedded 1",
     "Case Law",
     "The Fall and Rise of Gather/4. The Fourth Gathering/Screams.md",
-    "The Fall and Rise of Gather/4. The Fourth Gathering/Recovery.md",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Images",
