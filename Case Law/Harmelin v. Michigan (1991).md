@@ -15,8 +15,9 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 5 points of cruel and unusual punishment:
 	1. It is up to the courts to assign prison terms for *specific* crimes.
 	2. There are many different aspects of imprisonment, and all are included in the 8th amendment.
-	3. There will always be differences.
-
+	3. There will always be differences in recommended and delivered sentencing.
+	4. Proportionality *must* be objective
+	5. Strict proportionality is not required, there simply can't be gro
 
 ### Use
 
