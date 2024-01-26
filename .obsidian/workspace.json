@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/Coker v. Georgia.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "mode": "source",
                 "source": false
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Coker v. Georgia.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -181,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Coker v. Georgia.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -204,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Coker v. Georgia.md"
+                "file": "Case Law/Harmelin v. Michigan (1991).md"
               }
             }
           },
@@ -261,9 +261,9 @@
   },
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
-    "Cheat Sheet.md",
     "Embedded 1/Coker v. Georgia.md",
     "Case Law/Harmelin v. Michigan (1991).md",
+    "Cheat Sheet.md",
     "Important Quirbs.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
