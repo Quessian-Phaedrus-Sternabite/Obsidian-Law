@@ -24,11 +24,11 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 
 * For State:
 	* "There are no adequate textual or historical standards to enable judges to determine whether a particular penalty is disproportional.
-	* In the event that [[Coker v. Georgia]] is cited, mention the quote that "death is different" and requires further protection.
+	* In the event that [[Coker v. Georgia (1977)]] is cited, mention the quote that "death is different" and requires further protection.
 * For Carter
 	* 650 grams of heroin is a **huge** amount. It indicates premediated action. In Carter's case, he only had 1.5 grams, and it was simply to pay rent, not as a result of major drug trafficking.
 	* "Between 32,500 and 65,000 doses" compared to the measly 12-120 possessed by Carter.
 
 ### Embedded
 
-[[Coker v. Georgia]]
+[[Coker v. Georgia (1977)]]

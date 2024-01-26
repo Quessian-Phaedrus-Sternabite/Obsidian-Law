@@ -18,4 +18,4 @@ Ruled invalid due to not being able to easily determine real price ([[Important 
 * State:
 	* It mentions "know in advance and comply with." When Carter sold crack to those kids, there is no reason he shouldn't have known the law.
 ### Embedded Case Law
-[[Nash v. United States]] (1)
+[[Nash v. United States (!)]] (1)
