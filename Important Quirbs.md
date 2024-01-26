@@ -1,3 +1,5 @@
 * Fourteenth Amendment Due Process
 * Vagueness Doctrine ^802bce
-* 
+* 8th Amendment forbidding "cruel and unusual punishment" ^ce25e2
+	* Very confusing to describe--look into tests
+	* One possible example is [[Harmelin v. Michigan (1991)]]
