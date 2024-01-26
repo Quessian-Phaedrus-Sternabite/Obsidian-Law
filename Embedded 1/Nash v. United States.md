@@ -8,7 +8,9 @@ https://supreme.justia.com/cases/federal/us/229/373/
 
 ### Summary
 
-Summary of case
+* Involves [[Important Quirbs#^802bce|Vagueness Doctrine]]
+* Nash's companies, "American Naval Stores Company" and "National Transportation & Terminal Company", of which Myer's held key positions, collaborated to make loads of money.
+*  
 
 ### Use
 
@@ -16,4 +18,5 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[Standard Oil Co. v. United States]]
+[[United States v. American Tobacco Co.]]
