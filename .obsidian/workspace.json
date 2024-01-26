@@ -14,23 +14,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+                "file": "Important Quirbs.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "78743a2f21dad758",
+            "id": "a12726d9e7bff2c4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-<<<<<<< HEAD
-                "file": "Miller v. Strahl.md",
-=======
                 "file": "Case Law/Harmelin v. Michigan (1991).md",
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
                 "mode": "source",
                 "source": false
               }
@@ -50,19 +46,6 @@
             "dimension": 59.43627450980392,
             "children": [
               {
-<<<<<<< HEAD
-                "id": "96a0e224cfc25e5c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Cheat Sheet.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-=======
                 "id": "744943cc774aeba2",
                 "type": "leaf",
                 "state": {
@@ -72,7 +55,6 @@
                     "mode": "source",
                     "source": false
                   }
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
                 }
               }
             ]
@@ -91,17 +73,6 @@
                 }
               },
               {
-<<<<<<< HEAD
-                "id": "8dad60c80133c474",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Important Quirbs.md",
-                    "mode": "source",
-                    "source": false
-                  }
-=======
                 "id": "96a0e224cfc25e5c",
                 "type": "leaf",
                 "pinned": true,
@@ -113,7 +84,6 @@
                     "source": false
                   },
                   "pinned": true
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
                 }
               }
             ],
@@ -178,12 +148,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 338,
-    "collapsed": true
-=======
     "width": 406
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -199,7 +164,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Miller v. Strahl.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -216,7 +181,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Miller v. Strahl.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -239,7 +204,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Miller v. Strahl.md"
+                "file": "Case Law/Harmelin v. Michigan (1991).md"
               }
             }
           },
@@ -275,11 +240,7 @@
       }
     ],
     "direction": "horizontal",
-<<<<<<< HEAD
-    "width": 200,
-=======
     "width": 300,
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
     "collapsed": true
   },
   "left-ribbon": {
@@ -298,35 +259,17 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-<<<<<<< HEAD
-  "active": "78743a2f21dad758",
-  "lastOpenFiles": [
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Miller v. Strahl.md",
-    "People v. Atlas.md",
-    "Cheat Sheet.md",
-    "Kennington v. Palmer.md",
-    "Terrace v. Thompson.md",
-    "Important Quirbs.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
-    "Embedded 2/In re Sawyer.md",
-    "Embedded 2/Packard v. Banton.md",
-    "Case Law/Connaly v. General Construction (1926).md",
-    "Name of embedded.md",
-    "Embedded 1/Nash v. United States (!).md",
-    "Untitled.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Embedded 2/United States v. American Tobacco Co..md",
-    "Embedded 2/Standard Oil Co. v. United States.md",
-    "Embedded 2",
-    "Embedded 1/Thomas v. Marshfield.md",
-=======
   "active": "a12726d9e7bff2c4",
   "lastOpenFiles": [
+    "Terrace v. Thompson.md",
+    "People v. Atlas.md",
+    "Miller v. Strahl.md",
+    "Kennington v. Palmer.md",
+    "Embedded 2/Packard v. Banton.md",
+    "Embedded 2/In re Sawyer.md",
+    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
     "Embedded 2/United States v. American Tobacco Co..md",
     "Embedded 2/Standard Oil Co. v. United States.md",
     "Important Quirbs.md",
@@ -334,31 +277,16 @@
     "Embedded 1/Coker v. Georgia.md",
     "Cheat Sheet.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
     "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
     "Embedded 1/Collins v. Kentucky.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
-<<<<<<< HEAD
-    "Embedded 1/State ex rel. Christie v. Meek.md",
-    "Embedded 1/Woods v. Cochrane and Smith.md",
-=======
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Nash v. United States.md",
     "Untitled.md",
     "Embedded 1/Thomas v. Marshfield.md",
     "Embedded 1/State ex rel. Christie v. Meek.md",
-    "Embedded 1/Woods v. Cochrane and Smith.md",
-    "Embedded 1/State v. Tibbetts.md",
-    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 1/United States v. Capital Traction Co..md",
-    "Embedded 1/State v. Partlow.md",
-    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
-    "Embedded 1/United States v. Cohen Grocery Co..md",
-    "Name of embedded.md",
->>>>>>> b6db31de683c6da5e49a5ba2494a796b7d402b4e
     "Embedded 2",
     "Embedded 1",
     "Case Law",
