@@ -10,11 +10,14 @@ https://supreme.justia.com/cases/federal/us/501/957/
 (This one's a doozy)
 
 After claiming life in prison for possessing 650 grams of crack was "cruel and unusual," Harmelin was declined a change in sentencing.
-Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punish,me]]
+Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishment]] was denied on the basis of being too vague.
+	They shot down a test described in Solem v. Helm and Rummel v. Estelle!!!
+
 
 ### Use
 
-How it may be used and quotes
+* For State:
+	* "There are no adequate textual or historical standards to enable judges to determine whether a particular penalty is disproportional"
 
 ### Embedded
 
