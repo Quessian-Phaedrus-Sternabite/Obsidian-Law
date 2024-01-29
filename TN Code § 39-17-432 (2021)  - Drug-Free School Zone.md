@@ -15,4 +15,6 @@ c.
 2. **Can be rebutted if it's found that the drug use was not exposing vulnerable persons (e.g. kids) to drug activity** [Important for Carter!!!]
 3. may not be released earlier if required to serve
 d. This supersedes other early release conditions.
-e. The governor nor board of parole may free 
+e. The governor nor board of parole may free the prisoner before minimum time.
+f. **Judges can sentence them to more time** [Important for State!!!]
+g. Sentencing may be enhanced if this is violated as well as [[TN Code § 39-17-432 (2021)]] 
