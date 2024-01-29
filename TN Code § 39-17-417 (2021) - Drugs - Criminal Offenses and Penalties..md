@@ -28,4 +28,7 @@ e. Violating (a) with
 f.  Violating (a) with Schedule V Controlled Substance is a Class E felony, 5K fine.
 g. 
 1. Violating (a) with with a Schedule VI Controlled substance that is marijuana or TCH is Class E and 5K fine.
-2.  Violating (a) with with a Schedule VI Controlled substance that is from 10-70 pounds of marijuana or TCH is Class D and 50K fin
+2.  Violating (a) with with a Schedule VI Controlled substance that is from 10-70 pounds of marijuana or TCH is Class D and 50K fine
+3. Violating (a) with 4-8 pounds Marijuana resin or 20-99 marijuana plants is Class C and 100K fine.
+h. Schedule VII - Class E felony, 1K fine
+i. 
