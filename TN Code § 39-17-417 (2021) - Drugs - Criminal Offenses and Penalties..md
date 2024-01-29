@@ -20,4 +20,4 @@ c. Violating (a) with:
 d. 
 1. Violating (a) with a Schedule III controlled substance is a Class D felony, with a max fine of 50K
 2.  
-	a. 
+	a. If it's your first time, you may be eligible for [[
