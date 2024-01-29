@@ -2,9 +2,9 @@
 supports: 
 level: "2"
 ---
-## 239 U.S. 426
+##237 U.S. 52
 
-https://supreme.justia.com/cases/federal/us/239/426/
+https://supreme.justia.com/cases/federal/us/237/52/
 
 ### Summary
 

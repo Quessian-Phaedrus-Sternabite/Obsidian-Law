@@ -1,10 +1,10 @@
 ---
 supports: 
-level: "2"
+level: 
 ---
-## 239 U.S. 426
+## Case Number
 
-https://supreme.justia.com/cases/federal/us/239/426/
+Link
 
 ### Summary
 
