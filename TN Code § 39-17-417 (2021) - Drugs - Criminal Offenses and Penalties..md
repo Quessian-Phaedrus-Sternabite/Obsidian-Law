@@ -23,4 +23,5 @@ d.
 	a. If it's your first time, you may be eligible for [[Important Quirbs#^d00525]]
 	b. Steroids are fine! Count as possession unless proof of sale.
 e. Violating (a) with
-1. 
+1. Flunitrazepam is a class C felony, 100K fine
+2. Schedule IV Controlled 
