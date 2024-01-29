@@ -25,4 +25,5 @@ d.
 e. Violating (a) with
 1. Flunitrazepam is a class C felony, 100K fine
 2. Schedule IV Controlled - Class D felony, 50K
-3. 
+f.  Violating (a) with Schedule V Controlled Substance is a Class E felony, 5K fine.
+g. 
