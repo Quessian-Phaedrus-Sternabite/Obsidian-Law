@@ -9,3 +9,8 @@
 * Schedule II Controlled Substance - High potential for abuse, possible addiction
 	* Cocaine! 
 	* Vicodin, meth, methadone, dilaudid, demerol, oxycodone, fentanyl, dexedrine, adderall, ritalin.
+* Classes of Felonies
+	* Class A - 15-60 years, fines up to 50K
+	* Class B - 8-30 years, fines up to 25K
+	* Class C - 3-15 years, fines up to 10K
+	* 
