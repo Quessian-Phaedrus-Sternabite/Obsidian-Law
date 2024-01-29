@@ -1,6 +1,8 @@
 ### *- The act in question.*
 
 ## TN Code § 39-17-432 (2021) 
+
+https://law.justia.com/codes/tennessee/2021/title-39/chapter-17/part-4/section-39-17-432/
 ## Summary
 
 a. There will be drug-free zones established.
