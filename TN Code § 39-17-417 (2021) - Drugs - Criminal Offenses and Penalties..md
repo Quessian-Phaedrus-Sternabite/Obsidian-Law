@@ -27,3 +27,4 @@ e. Violating (a) with
 2. Schedule IV Controlled - Class D felony, 50K
 f.  Violating (a) with Schedule V Controlled Substance is a Class E felony, 5K fine.
 g. 
+1. Violating (a) with with a Schedule VI Controlled substance that 
