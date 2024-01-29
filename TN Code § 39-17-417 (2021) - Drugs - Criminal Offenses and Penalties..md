@@ -16,4 +16,6 @@ c. Violating (a) with:
 2. 
 	1. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 grams and the owner had a weapon or harmed someone, it's a class B felony
 	2. The Funniest Law in Existence. If someone has a bowel movement in public whilst under the influence, they are charged the cleaning fee to "render the area safe for human use." (technically, they are just charged if they make a mess).
-	3. You must pau for any property you damage.
+	3. You must pay for any property you damage.
+d. 
+1. 
