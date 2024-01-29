@@ -68,4 +68,5 @@ l.
 1. Habitual drug offenders must be specified with each act
 2. Trial court may issue additional penalties for further punishment and collection of fines
 3. If you've committed 3 Class A or B felonies and commit another, you are sentenced to 1 [[Important Quirbs#^214b0c|range]] of punishment higher and given ANOTHER 200K fine.
-m. 
+m.  The offense described in subdivision (a)(1) with respect to any substance defined in § 39-17-408(d)(2) shall include the preparation or compounding of a controlled substance by an individual for the individual's own use.
+m. (plaintext) This applies to personal possession, not just selling.
