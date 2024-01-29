@@ -12,4 +12,7 @@ b.
 3. Are not given additional punishment in rare cases (this is not one of them)
 c. 
 1. One is required to serve *at least* the minimum sentence for the raised sentencing.
-2. **Can be rebutted if i 
+2. **Can be rebutted if it's found that the drug use was not exposing vulnerable persons (e.g. kids) to drug activity** [Important for Carter!!!]
+3. may not be released earlier if required to serve
+d. This supersedes other early release conditions.
+e. The governor nor board of parole may free 
