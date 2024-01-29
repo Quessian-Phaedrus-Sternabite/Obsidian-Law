@@ -11,4 +11,5 @@ a. It is illegal to
 b. Violating (a) with a [[Important Quirbs#^7d3914|Schedule I Controlled Substance]] is a [[Important Quirbs#^4cf045|class B felony]], and imposes an additional fine up to 100K
 c. Violating (a) with:
 1. Cocaine or Meth is a class B felony if its 0.5 grams or more, with a similar 100K fine
-2. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 
+2. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 grams and the owner had a weapon or harmed someone, it's a class B felony
+3. The Funniest Law in Existence. If someone shits themselves whilst under the influence, they are charged the cleaning fee to "render the area safe for human use."
