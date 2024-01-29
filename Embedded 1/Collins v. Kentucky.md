@@ -11,3 +11,4 @@ https://supreme.justia.com/cases/federal/us/234/634/
 ### Use
 
 ### Embedded Case Law
+[[International Harvester Co. v. Kentucky]]
