@@ -14,8 +14,10 @@ b. Violating (a) with a [[Important Quirbs#^7d3914|Schedule I Controlled Substan
 c. Violating (a) with:
 1. Cocaine or Meth is a class B felony if its 0.5 grams or more, with a similar 100K fine
 2. 
-	1. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 grams and the owner had a weapon or harmed someone, it's a class B felony
-	2. The Funniest Law in Existence. If someone has a bowel movement in public whilst under the influence, they are charged the cleaning fee to "render the area safe for human use." (technically, they are just charged if they make a mess).
-	3. You must pay for any property you damage.
+	a. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 grams and the owner had a weapon or harmed someone, it's a class B felony
+	b. The Funniest Law in Existence. If someone has a bowel movement in public whilst under the influence, they are charged the cleaning fee to "render the area safe for human use." (technically, they are just charged if they make a mess).
+	c. You must pay for any property you damage.
 d. 
-1. 
+1. Violating (a) with a Schedule III controlled substance is a Class D felony, with a max fine of 50K
+2.  
+	a. 
