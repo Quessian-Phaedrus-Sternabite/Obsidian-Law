@@ -15,5 +15,5 @@
 	* Class C - 3-15 years, fines up to 10K
 	* Class D - 2-12 years, fines up to 5K
 	* Class E - 1-6, fines up to 3K
-	* Of note, each one is divided into 4 ranges. Standard (first time), and I-III, with each carrying longer sentencing. Once could argue that Carter had a first time offense, and thus maximum sentencing is unusual.
+	* Of note, each one is divided into 4 ranges. Standard (first time), and I-III, with each carrying longer sentencing. Once could argue that Carter had a first time offense, and thus maximum sentencing is unusual. ^214b0c
 * Pretrial Diversion - Instead of conviction, you get rehabilitation. ^d00525

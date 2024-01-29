@@ -66,4 +66,6 @@ i. (useless)
 k. If younger than 18, classification increases by one
 l. 
 1. Habitual drug offenders must be specified with each act
-2. Trial court may issue additional penalties for further pun ishment and c
+2. Trial court may issue additional penalties for further punishment and collection of fines
+3. If you've committed 3 Class A or B felonies and commit another, you are sentenced to 1 [[Important Quirbs#^214b0c|range]] of punishment higher and given ANOTHER 200K fine.
+m. 
