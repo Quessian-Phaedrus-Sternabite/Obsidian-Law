@@ -8,4 +8,7 @@ a. It is illegal to
 2. Deliver drugs
 3. Sell drugs
 4. Own drugs (to make, deliver, or sell)
-b. Violating (a) with a [[Important Quirbs#^7d3914|Schedule I Controlled Substance]] is a [[Important Quirbs#^4cf045|class B felony]]
+b. Violating (a) with a [[Important Quirbs#^7d3914|Schedule I Controlled Substance]] is a [[Important Quirbs#^4cf045|class B felony]], and imposes an additional fine up to 100K
+c. Violating (a) with:
+1. Cocaine or Meth is a class B felony if its 0.5 grams or more, with a similar 100K fine
+2. Any other Schedule II Controlled Substance is only a class C felony (if it's less than 0.5 grams.) with the fine. Or, if it's less than 0.5 
