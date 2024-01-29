@@ -1,0 +1,10 @@
+### *- The act in question, before the school part.*
+
+## TN Code § 39-17-417 (2021) 
+## Summary
+
+a. It is illegal to
+1. Make drugs
+2. Deliver drugs
+3. Sell drugs
+4. Own drugs ()

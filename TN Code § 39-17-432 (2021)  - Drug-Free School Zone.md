@@ -17,4 +17,4 @@ c.
 d. This supersedes other early release conditions.
 e. The governor nor board of parole may free the prisoner before minimum time.
 f. **Judges can sentence them to more time** [Important for State!!!]
-g. Sentencing may be enhanced if this is violated as well as [[TN Code § 39-17-432 (2021)]] 
+g. Sentencing may be enhanced if this is violated as well as [[TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties.]] (k) 
