@@ -24,4 +24,5 @@ d.
 	b. Steroids are fine! Count as possession unless proof of sale.
 e. Violating (a) with
 1. Flunitrazepam is a class C felony, 100K fine
-2. Schedule IV Controlled 
+2. Schedule IV Controlled - Class D felony, 50K
+3. 
