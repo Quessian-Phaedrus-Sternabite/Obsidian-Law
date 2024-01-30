@@ -21,21 +21,10 @@
             }
           },
           {
-            "id": "21bab62142923eb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Embedded 2/Savage v. Jones.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b48730af7d72ee4d",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Embedded 2/Coomer v. United States.md",
@@ -48,12 +37,14 @@
             "id": "1613e8ed535b133d",
             "type": "leaf",
             "state": {
+=======
+>>>>>>> 1f9f365f2621d930cc077c36174c8185602f0d51
               "type": "graph",
               "state": {}
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -264,6 +255,7 @@
       "obsidian-wordy:Wordy view": false
     }
   },
+<<<<<<< HEAD
   "active": "1613e8ed535b133d",
   "lastOpenFiles": [
     "Case Law/Harmelin v. Michigan (1991).md",
@@ -292,6 +284,36 @@
     "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
     "Embedded 2/Sligh v. Kirkwood.md",
     "Embedded 2/Miller v. Strahl.md",
+=======
+  "active": "b48730af7d72ee4d",
+  "lastOpenFiles": [
+    "Embedded 2/Sligh v. Kirkwood.md",
+    "Embedded 2/Savage v. Jones.md",
+    "Embedded 2/Coomer v. United States.md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/People ex rel. Rodgers v. Coler.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Case Law/Connaly v. General Construction (1926).md",
+    "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "Coomer v. United States.md",
+    "Sligh v. Kirkwood.md",
+    "Savage v. Jones.md",
+    "Cheat Sheet.md",
+    "Miller v. Strahl.md",
+    "People v. Atlas.md",
+    "Kennington v. Palmer.md",
+    "Terrace v. Thompson.md",
+    "Important Quirbs.md",
+    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
+    "Embedded 2/In re Sawyer.md",
+>>>>>>> 1f9f365f2621d930cc077c36174c8185602f0d51
     "Embedded 2",
     "Embedded 2",
     "Embedded 1",
