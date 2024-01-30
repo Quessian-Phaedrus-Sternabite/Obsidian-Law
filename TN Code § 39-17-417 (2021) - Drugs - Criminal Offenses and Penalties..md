@@ -20,7 +20,7 @@ c. Violating (a) with:
 d. 
 1. Violating (a) with a Schedule III controlled substance is a Class D felony, with a max fine of 50K
 2.  
-	a. If it's your first time, you may be eligible for [[Important Quirbs#^d00525]]
+	a. If it's your first time, you may be eligible for [[Important Quirbs#^d00525|pretrial diversion]].
 	b. Steroids are fine! Count as possession unless proof of sale.
 e. Violating (a) with
 1. Flunitrazepam is a class C felony, 100K fine
