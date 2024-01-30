@@ -36,6 +36,7 @@
             "id": "b48730af7d72ee4d",
             "type": "leaf",
             "state": {
+<<<<<<< HEAD
               "type": "markdown",
               "state": {
                 "file": "Embedded 2/Coomer v. United States.md",
@@ -54,6 +55,10 @@
                 "mode": "source",
                 "source": false
               }
+=======
+              "type": "graph",
+              "state": {}
+>>>>>>> 8f386723790746667844840db6d179ee1dc71ec3
             }
           }
         ],
@@ -188,7 +193,10 @@
             "state": {
               "type": "backlink",
               "state": {
+<<<<<<< HEAD
                 "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+=======
+>>>>>>> 8f386723790746667844840db6d179ee1dc71ec3
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +213,10 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+<<<<<<< HEAD
                 "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+=======
+>>>>>>> 8f386723790746667844840db6d179ee1dc71ec3
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -227,9 +238,13 @@
             "type": "leaf",
             "state": {
               "type": "outline",
+<<<<<<< HEAD
               "state": {
                 "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md"
               }
+=======
+              "state": {}
+>>>>>>> 8f386723790746667844840db6d179ee1dc71ec3
             }
           },
           {
@@ -254,7 +269,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -282,6 +299,7 @@
   },
   "active": "816a94a3271f9da7",
   "lastOpenFiles": [
+<<<<<<< HEAD
     "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
     "Embedded 2/Coomer v. United States.md",
     "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
@@ -308,6 +326,34 @@
     "Cheat Sheet.md",
     "People v. Atlas.md",
     "Kennington v. Palmer.md",
+=======
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/People ex rel. Rodgers v. Coler.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Case Law/Connaly v. General Construction (1926).md",
+    "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "Coomer v. United States.md",
+    "Sligh v. Kirkwood.md",
+    "Savage v. Jones.md",
+    "Cheat Sheet.md",
+    "Miller v. Strahl.md",
+    "People v. Atlas.md",
+    "Kennington v. Palmer.md",
+    "Terrace v. Thompson.md",
+    "Important Quirbs.md",
+    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
+    "Embedded 2/In re Sawyer.md",
+    "Embedded 2/Packard v. Banton.md",
+    "Name of embedded.md",
+    "Untitled.md",
+>>>>>>> 8f386723790746667844840db6d179ee1dc71ec3
     "Embedded 2",
     "Embedded 2",
     "Embedded 1",
