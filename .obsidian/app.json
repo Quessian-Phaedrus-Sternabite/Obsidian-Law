@@ -1,5 +1,9 @@
 {
   "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "The Fall and Rise of Gather",
-  "promptDelete": false
+  "attachmentFolderPath": "",
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "/\\#hidden/",
+    "/HIDED"
+  ]
 }
