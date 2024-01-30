@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coomer v. United States.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "mode": "source",
                 "source": false
               }
@@ -160,8 +160,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338,
-    "collapsed": true
+    "width": 338
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coomer v. United States.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coomer v. United States.md",
+                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coomer v. United States.md"
+                "file": "Case Law/Harmelin v. Michigan (1991).md"
               }
             }
           },
@@ -243,7 +242,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -272,10 +273,16 @@
   },
   "active": "b48730af7d72ee4d",
   "lastOpenFiles": [
+    "Case Law/Connaly v. General Construction (1926).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "Coomer v. United States.md",
     "Sligh v. Kirkwood.md",
     "Savage v. Jones.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Coomer v. United States.md",
     "Cheat Sheet.md",
     "Miller v. Strahl.md",
     "People v. Atlas.md",
@@ -286,19 +293,13 @@
     "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
     "Embedded 2/In re Sawyer.md",
     "Embedded 2/Packard v. Banton.md",
-    "Case Law/Connaly v. General Construction (1926).md",
     "Name of embedded.md",
     "Embedded 1/Nash v. United States (!).md",
     "Untitled.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 2/United States v. American Tobacco Co..md",
     "Embedded 2/Standard Oil Co. v. United States.md",
     "Embedded 2",
-    "Embedded 1/Thomas v. Marshfield.md",
-    "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 2",
     "Embedded 1",
     "Case Law",
