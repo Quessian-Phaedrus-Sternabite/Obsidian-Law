@@ -38,7 +38,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
                 "mode": "source",
                 "source": false
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "heroin",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -156,8 +156,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -177,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +193,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -217,7 +216,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
+                "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md"
               }
             }
           },
@@ -272,13 +271,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d431aec6b78eee93",
+  "active": "b48730af7d72ee4d",
   "lastOpenFiles": [
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
     "Embedded 1/Nash v. United States (!).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Embedded 1/Coker v. Georgia (1977).md",
     "Embedded 1/Collins v. Kentucky.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
