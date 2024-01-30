@@ -147,8 +147,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
+                "file": "Case Law/Kolender v. Lawson (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
+                "file": "Case Law/Kolender v. Lawson (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "Case Law/Kolender v. Lawson (1983).md"
               }
             }
           },
@@ -260,10 +259,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "96a0e224cfc25e5c",
+  "active": "b48730af7d72ee4d",
   "lastOpenFiles": [
-    "Case Law/Kolender v. Lawson (1983).md",
     "Readme.md",
+    "Case Law/Kolender v. Lawson (1983).md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Important Quirbs.md",
     "Name of embedded.md",
