@@ -38,14 +38,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md",
+                "file": "Case Law/State v. Harris (1992).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5853df2c37d17c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Law/State v. Burkhart.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -167,7 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md",
+                "file": "Case Law/State v. Burkhart.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md",
+                "file": "Case Law/State v. Burkhart.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,7 +219,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md"
+                "file": "Case Law/State v. Burkhart.md"
               }
             }
           },
@@ -259,9 +271,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "b48730af7d72ee4d",
+  "active": "e5853df2c37d17c7",
   "lastOpenFiles": [
     "Readme.md",
+    "Case Law/State v. Burkhart.md",
+    "Case Law/State v. Harris (1992).md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Case Law/Kolender v. Lawson (1983).md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Important Quirbs.md",
@@ -271,7 +287,6 @@
     "Embedded 1/Woodson v. North Carolina.md",
     "Embedded 2/Coomer v. United States.md",
     "Embedded 1/Rummel v. Estelle.md",
-    "Embedded 1/Solem v. Helm.md",
     "Embedded 1/Omaechevarria v. Idaho.md",
     "Embedded 1/Nash v. United States (!).md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
@@ -284,9 +299,6 @@
     "Embedded 2/Terrace v. Thompson.md",
     "Embedded 2/Standard Oil Co. v. United States.md",
     "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 2/Miller v. Strahl.md",
     "Embedded 2",
     "Embedded 2",
     "Embedded 1",

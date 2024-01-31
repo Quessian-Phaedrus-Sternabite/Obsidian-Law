@@ -11,7 +11,7 @@ https://supreme.justia.com/cases/federal/us/501/957/
 
 After claiming life in prison for possessing 650 grams of crack was "cruel and unusual," Harmelin was declined a change in sentencing.
 Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishment]] was denied on the basis of being too vague.
-	They shot down a test described in [[Solem v. Helm]] and [[Rummel v. Estelle]]!!!
+	They shot down a test described in [[Solem v. Helm (1983)]] and [[Rummel v. Estelle]]!!!
 5 points of cruel and unusual punishment:
 	1. It is up to the courts to assign prison terms for *specific* crimes.
 	2. There are many different aspects of imprisonment, and all are included in the 8th amendment.
@@ -32,7 +32,7 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 ### Embedded
 
 [[Rummel v. Estelle]]
-[[Solem v. Helm]]
+[[Solem v. Helm (1983)]]
 [[Coker v. Georgia (1977)]]
 [[Woodson v. North Carolina]]
 [[Hutto v. Davis]]

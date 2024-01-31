@@ -1,10 +1,10 @@
 ---
 supports: 
-level: "1"
+level: Base
 ---
-## 463 U.S. 277 (1983)
+## 58 S.W.3d 694 (Tenn. 2001)
 
-https://supreme.justia.com/cases/federal/us/463/277/
+https://casetext.com/case/state-v-burkhart-20
 
 ### Summary
 
