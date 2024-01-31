@@ -21,15 +21,43 @@
             }
           },
           {
+            "id": "21bab62142923eb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded 2/Savage v. Jones.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "b48730af7d72ee4d",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Case Law/State v. Harris (1992).md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e5853df2c37d17c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "3dacbf1e21118ac3",
@@ -46,8 +74,12 @@
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "empty",
-                  "state": {},
+                  "type": "markdown",
+                  "state": {
+                    "file": "Readme.md",
+                    "mode": "source",
+                    "source": false
+                  },
                   "pinned": true
                 }
               }
@@ -58,14 +90,6 @@
             "type": "tabs",
             "dimension": 40.56372549019608,
             "children": [
-              {
-                "id": "bd70382d277b0b86",
-                "type": "leaf",
-                "state": {
-                  "type": "graph",
-                  "state": {}
-                }
-              },
               {
                 "id": "8dad60c80133c474",
                 "type": "leaf",
@@ -78,8 +102,7 @@
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           }
         ],
         "direction": "horizontal"
@@ -156,6 +179,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +196,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +218,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md"
+              }
             }
           },
           {
@@ -218,9 +245,7 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
+                "sortOrder": "frequency"
               }
             }
           }
@@ -241,40 +266,40 @@
       "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "3d-graph:3D Graph": false,
-      "dangerzone-writing-plugin:Dangerzone Writing": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "b48730af7d72ee4d",
+  "active": "e5853df2c37d17c7",
   "lastOpenFiles": [
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+    "Case Law/State v. Burkhart (2001).md",
+    "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "Case Law/Connaly v. General Construction (1926).md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Readme.md",
+    "TN Codes or Laws",
     "Case Law/State v. Harris (1992).md",
-    "Case Law/State v. Burkhart.md",
     "Case Law/Solem v. Helm (1983).md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Readme.md",
-    "Embedded 1/Woodson v. North Carolina.md",
-    "Embedded 1/Solem v. Helm.md",
-    "Embedded 1/Rummel v. Estelle.md",
-    "Embedded 1/Hutto v. Davis.md",
     "Case Law/Kolender v. Lawson (1983).md",
-    "Embedded 2/Sligh v. Kirkwood.md",
-    "Embedded 2/Savage v. Jones.md",
-    "Embedded 2/Coomer v. United States.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/People ex rel. Rodgers v. Coler.md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 1/Nash v. United States (!).md",
-    "Embedded 1/Coker v. Georgia (1977).md",
     "Case Law/Harmelin v. Michigan (1991).md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Case Law/Connaly v. General Construction (1926).md",
-    "TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-    "TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
-    "Coomer v. United States.md",
+    "Important Quirbs.md",
+    "Name of embedded.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Woodson v. North Carolina.md",
+    "Embedded 2/Coomer v. United States.md",
+    "Embedded 1/Rummel v. Estelle.md",
+    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
+    "Embedded 2/In re Sawyer.md",
+    "Embedded 2/Packard v. Banton.md",
     "Embedded 2",
     "Embedded 2",
     "Embedded 1",

@@ -1,3 +1,8 @@
+---
+supports: 
+level: "1"
+---
+
 ## 212 U.S. 86
 
 https://supreme.justia.com/cases/federal/us/212/86/
