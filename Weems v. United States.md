@@ -1,6 +1,6 @@
 ---
 supports: 
-level: "1"
+level: 
 ---
 ## Case Number
 

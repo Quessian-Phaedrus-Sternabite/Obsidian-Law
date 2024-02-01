@@ -1,6 +1,6 @@
 ---
 supports: State
-level: Base
+level: "1"
 ---
 ## 501 U.S. 957 (1991)
 
@@ -36,3 +36,14 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 [[Coker v. Georgia (1977)]]
 [[Woodson v. North Carolina]]
 [[Hutto v. Davis]]
+[[Weems v. United States]]
+[[Robinson v. California]]
+[[Payne v. Tennessee]]
+[[Smith v. Allwright]]
+[[Mitchell v. W. T. Grant Co.]]
+[[Burnet v. Coronado Oil & Gas Co.]]
+[[Hodges v. Humkin]]
+[[Ingraham v. Wright]]
+[[Furman v. Georgia]]
+[[Second Trial of Titus Oates]]
+
