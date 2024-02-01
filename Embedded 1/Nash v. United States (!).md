@@ -20,3 +20,5 @@ How it may be used and quotes
 
 [[Standard Oil Co. v. United States]]
 [[United States v. American Tobacco Co.]]
+[[Brown v. Elliot]]
+[[Loewe v. Lawlor]]

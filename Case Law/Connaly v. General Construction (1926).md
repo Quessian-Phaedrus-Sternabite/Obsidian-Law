@@ -6,6 +6,7 @@ level: Base
 
 https://supreme.justia.com/cases/federal/us/269/385/
 ### Summary
+* Have to decide wages based off of "the average"
 * Vague laws are invalid due to being confusing (see [[Important Quirbs#^802bce |Vagueness Doctrine]])
 * Appealed Oklahoma bill.
 

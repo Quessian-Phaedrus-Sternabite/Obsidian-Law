@@ -9,7 +9,25 @@ Welcome to the YIG 2024 obsidian database! To submit changes, please use Github,
 ### Etiquette 
 * Please follow the format below, and try and keep a consistent style. Additionally, make sure to use the correct level propery (1, 2, Base), and place everything in proper folders.
 
-### Shortcuts
+### Shortcuts---
+supports: 
+level: 
+---
+## Case Number
+
+Link
+
+### Summary
+
+Summary of case
+
+### Use
+
+How it may be used and quotes
+
+### Embedded
+
+[[Name of embedded]]
 * ctrl+shift+f - Search entire document
 * ctrl+o - quick switcher
 * ctrl+t - open tab
