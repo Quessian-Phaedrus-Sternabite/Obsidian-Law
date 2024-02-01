@@ -50,7 +50,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+                "file": "Case Law/State v. Burkhart (2001).md",
                 "mode": "source",
                 "source": false
               }
@@ -163,7 +163,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 338
+    "width": 338,
+    "collapsed": true
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -179,7 +180,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+                "file": "Case Law/State v. Burkhart (2001).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -196,7 +197,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+                "file": "Case Law/State v. Burkhart (2001).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +220,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Waters-Pierce Oil Co. v. Texas.md"
+                "file": "Case Law/State v. Burkhart (2001).md"
               }
             }
           },
@@ -273,33 +274,33 @@
   },
   "active": "e5853df2c37d17c7",
   "lastOpenFiles": [
+    "Broadrick v. Oklahoma.md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Hill v. Colorado.md",
+    "Coates v. City of Cincinnati.md",
+    "State v. King.md",
+    "Parker v. Levy.md",
+    "Davis-Kidd Booksellers, Inc. v. McWherter.md",
+    "Smith v. Goguen.md",
+    "City of Chicago v. Morales.md",
+    "State v. Horton.md",
+    "Boyce Motor Lines v. United States.md",
+    "Embedded 2/Savage v. Jones.md",
+    "Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
+    "Donathan v. McMinn County.md",
+    "State v. Lyons.md",
+    "Grayned v. City of Rockford.md",
+    "Readme.md",
+    "State v. Wilkins.md",
+    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
     "Embedded 1/Nash v. United States (!).md",
     "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
     "Embedded 1/Omaechevarria v. Idaho.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Collins v. Kentucky.md",
-    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
-    "Case Law/State v. Burkhart (2001).md",
     "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
     "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
-    "Case Law/Connaly v. General Construction (1926).md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Readme.md",
     "TN Codes or Laws",
-    "Case Law/State v. Harris (1992).md",
-    "Case Law/Solem v. Helm (1983).md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Important Quirbs.md",
-    "Name of embedded.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Woodson v. North Carolina.md",
-    "Embedded 2/Coomer v. United States.md",
-    "Embedded 1/Rummel v. Estelle.md",
-    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
-    "Embedded 2/In re Sawyer.md",
-    "Embedded 2/Packard v. Banton.md",
     "Embedded 2",
     "Embedded 2",
     "Embedded 1",
