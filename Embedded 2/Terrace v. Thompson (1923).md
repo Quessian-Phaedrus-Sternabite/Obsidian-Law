@@ -2,7 +2,7 @@
 supports: 
 level: "2"
 ---
-## 263 U.S. 197
+## 263 U.S. 197 (1923)
 
 https://supreme.justia.com/cases/federal/us/263/197/
 ### Summary

@@ -25,7 +25,7 @@ The laws were upheld, as it was not vague enough
 [[Packard v. Banton]]
 [[In re Sawyer]]
 [[Davis & Farnum Manufacturing Co. v. Los Angeles]]
-[[Terrace v. Thompson]]
+[[Terrace v. Thompson (1923)]]
 [[Kennington v. Palmer]]
 [[People v. Atlas]]
 [[Waters-Pierce Oil Co. v. Texas]]
