@@ -1,10 +1,10 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 527 U.S. 41
 
-https://casetext.com/case/chicago-v-morales#p56
+https://supreme.justia.com/cases/federal/us/527/41/
 
 ### Summary
 
