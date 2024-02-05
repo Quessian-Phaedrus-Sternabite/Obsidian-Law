@@ -18,14 +18,28 @@
       "query": "[\"supports\":carter], [\"level\":1]",
       "color": {
         "a": 1,
-        "rgb": 6084225
+        "rgb": 7338905
       }
     },
     {
-      "query": "",
+      "query": "[\"supports\":state], [\"level\":base]",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "[\"supports\":state], [\"level\":1]",
+      "color": {
+        "a": 1,
+        "rgb": 16680582
+      }
+    },
+    {
+      "query": "[\"supports\":state], [\"level\":",
+      "color": {
+        "a": 1,
+        "rgb": 16694974
       }
     }
   ],
@@ -39,6 +53,6 @@
   "repelStrength": 11.4540020790021,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.16348370567220608,
+  "scale": 0.3213363860503615,
   "close": false
 }
