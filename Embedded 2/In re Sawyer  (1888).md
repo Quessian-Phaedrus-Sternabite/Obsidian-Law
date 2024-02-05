@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "2"
 ---
 ## 124 U.S. 200
@@ -8,7 +8,7 @@ https://supreme.justia.com/cases/federal/us/124/200/
 
 ### Summary
 
-Summary of case
+Way too old to matter.
 
 ### Use
 

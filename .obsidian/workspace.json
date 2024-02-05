@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 2/Sligh v. Kirkwood.md",
+                    "file": "Embedded 2/In re Sawyer  (1888).md",
                     "mode": "source",
                     "source": false
                   }
@@ -143,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 2/In re Sawyer  (1888).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 2/In re Sawyer  (1888).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 2/In re Sawyer  (1888).md"
+              }
             }
           },
           {
@@ -233,11 +237,15 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "7b27620f6896e1ca",
   "lastOpenFiles": [
+    "Embedded 2/Kennington v. Palmer.md",
+    "Embedded 2/Miller v. Strahl.md",
+    "Embedded 2/Packard v. Banton (1924).md",
+    "Embedded 2/People v. Atlas.md",
+    "Embedded 2/Savage v. Jones.md",
     "Embedded 2/Sligh v. Kirkwood.md",
     "Embedded 2/Terrace v. Thompson (1923).md",
-    "Embedded 2/Savage v. Jones.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Hutto v. Davis.md",
     "Embedded 1/Hill v. Colorado.md",
@@ -257,10 +265,6 @@
     "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Parker v. Levy.md",
     "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 1/People ex rel. Rodgers v. Coler.md",
-    "Embedded 1/Smith v. Goguen.md",
-    "Embedded 1/State v. Tibbetts.md",
-    "Embedded 1/State v. Partlow.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

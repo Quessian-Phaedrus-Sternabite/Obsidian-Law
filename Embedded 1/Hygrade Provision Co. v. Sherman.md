@@ -22,8 +22,8 @@ The laws were upheld, as it was not vague enough
 
 ### Embedded Case Law
 [[Nash v. United States (!)]]
-[[Packard v. Banton]]
-[[In re Sawyer]]
+[[Packard v. Banton (1924)]]
+[[In re Sawyer  (1888)]]
 [[Davis & Farnum Manufacturing Co. v. Los Angeles]]
 [[Terrace v. Thompson (1923)]]
 [[Kennington v. Palmer]]

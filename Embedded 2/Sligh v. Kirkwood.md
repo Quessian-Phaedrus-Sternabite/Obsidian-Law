@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "2"
 ---
 ##237 U.S. 52
@@ -12,7 +12,7 @@ Summary of case
 
 ### Use
 
-How it may be used and quotes
+No idea tbh
 
 ### Embedded
 
