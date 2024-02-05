@@ -2,7 +2,7 @@
 supports: Carter
 level: "1"
 ---
-## 527 U.S. 41
+## 527 U.S. 41 (1999)
 
 https://supreme.justia.com/cases/federal/us/527/41/
 
