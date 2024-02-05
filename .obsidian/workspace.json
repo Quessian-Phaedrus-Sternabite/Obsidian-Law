@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Harmelin v. Michigan (1991).md",
+                    "file": "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter.md",
                     "mode": "source",
                     "source": false
                   }
@@ -143,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter.md"
+              }
             }
           },
           {
@@ -233,8 +237,9 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "7b27620f6896e1ca",
   "lastOpenFiles": [
+    "Embedded 1/State v. Horton.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Readme.md",
@@ -260,7 +265,6 @@
     "Embedded 1/City of Chicago v. Morales.md",
     "Embedded 1/Coates v. City of Cincinnati.md",
     "Embedded 1/Broadrick v. Oklahoma.md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
