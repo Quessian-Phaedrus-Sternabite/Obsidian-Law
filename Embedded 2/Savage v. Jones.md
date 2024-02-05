@@ -1,15 +1,14 @@
 ---
-supports: 
+supports: State
 level: "1"
 ---
-## Case Number
+## 225 U.S. 501 (1912)
 
-Link
+https://supreme.justia.com/cases/federal/us/225/501/
 
 ### Summary
 
-Summary of case
-
+A man claimed that a law was too [[Important Quirbs#^802bce|vague]] due to 
 ### Use
 
 How it may be used and quotes
