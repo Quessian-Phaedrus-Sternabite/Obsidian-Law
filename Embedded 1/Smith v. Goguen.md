@@ -13,8 +13,10 @@ The law saying the flag can't be treated "contemptuously" was ruled too [[Import
 
 ### Use
 
-How it may be used and quotes
+Very goofy vagueness doctrine for Carter.
+Also; This relates in no way to the case.
 
 ### Embedded
 
 [[Picard v. Connor]]
+[[Grayned v. City of Rockford]]
