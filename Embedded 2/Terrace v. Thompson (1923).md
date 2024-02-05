@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "2"
 ---
 ## 263 U.S. 197 (1923)

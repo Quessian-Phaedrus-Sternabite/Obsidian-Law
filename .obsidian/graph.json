@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "-tag:#hidden",
   "showTags": false,
   "showAttachments": false,
@@ -22,10 +22,10 @@
       }
     },
     {
-      "query": "",
+      "query": "[\"supports\":N/A]",
       "color": {
         "a": 1,
-        "rgb": 11392604
+        "rgb": 14048348
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 11.4540020790021,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.22920135941749403,
+  "scale": 0.32133638605036,
   "close": false
 }
