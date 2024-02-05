@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Smith v. Goguen.md",
+                    "file": "Embedded 1/Parker v. Levy.md",
                     "mode": "source",
                     "source": false
                   }
@@ -143,6 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Parker v. Levy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,6 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Parker v. Levy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -180,7 +182,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Parker v. Levy.md"
+              }
             }
           },
           {
@@ -233,34 +237,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "7b27620f6896e1ca",
   "lastOpenFiles": [
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Grayned v. City of Rockford.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 1/People ex rel. Rodgers v. Coler.md",
     "Embedded 1/Smith v. Goguen.md",
+    "Embedded 1/State v. Tibbetts.md",
+    "Embedded 1/State v. Partlow.md",
+    "Embedded 1/State v. Lyons.md",
+    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
+    "Embedded 1/State v. Horton.md",
+    "Embedded 1/State v. King.md",
+    "Embedded 1/State ex rel. Christie v. Meek.md",
     "Picard v. Connor.md",
     "Readme.md",
     "Embedded 1/Nash v. United States (!).md",
     "Embedded 1/Coates v. City of Cincinnati.md",
     "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
     "Embedded 1/Donathan v. McMinn County.md",
-    "Embedded 1/Grayned v. City of Rockford.md",
-    "Embedded 1/Hill v. Colorado.md",
     "Embedded 1/Broadrick v. Oklahoma.md",
     "Case Law/Connaly v. General Construction (1926).md",
     "Case Law/Solem v. Helm (1983).md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/Hutto v. Davis.md",
     "Loewe v. Lawlor.md",
     "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
     "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
-    "Important Quirbs.md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Brown v. Elliot.md",
-    "Embedded 2/United States v. American Tobacco Co..md",
-    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
