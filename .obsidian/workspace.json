@@ -143,7 +143,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +159,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +180,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
-              }
+              "state": {}
             }
           },
           {
@@ -237,8 +233,9 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "7b27620f6896e1ca",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Readme.md",
     "Embedded 2/United States v. American Tobacco Co..md",
@@ -264,7 +261,6 @@
     "Embedded 1/Coates v. City of Cincinnati.md",
     "Embedded 1/Broadrick v. Oklahoma.md",
     "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Case Law/Solem v. Helm (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

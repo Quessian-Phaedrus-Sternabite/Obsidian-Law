@@ -1,6 +1,6 @@
 ---
 supports: State
-level: "1"
+level: Base
 ---
 ## 501 U.S. 957 (1991)
 
