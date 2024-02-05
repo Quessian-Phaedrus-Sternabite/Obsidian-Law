@@ -8,24 +8,24 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"supports\":carter]",
+      "query": "[\"supports\":carter], [\"level\":base]",
       "color": {
         "a": 1,
-        "rgb": 6084188
+        "rgb": 65280
       }
     },
     {
-      "query": "[\"supports\":state]",
+      "query": "[\"supports\":carter], [\"level\":1]",
       "color": {
         "a": 1,
-        "rgb": 6084269
+        "rgb": 6084225
       }
     },
     {
-      "query": "[\"supports\":N/A]",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 14048348
+        "rgb": 11392604
       }
     }
   ],
@@ -39,6 +39,6 @@
   "repelStrength": 11.4540020790021,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.3213363860503602,
+  "scale": 0.16348370567220608,
   "close": false
 }
