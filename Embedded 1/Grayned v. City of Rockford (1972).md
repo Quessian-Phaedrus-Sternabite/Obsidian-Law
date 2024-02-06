@@ -13,7 +13,7 @@ It is constitutional to prohibit excessive noise during sessions of schools. The
 Additionally, the law does not infringe 1st Amendment Rights, as it is merely concerned with schools (perhaps?)
 A man protested against segregation with others. Following this, the students were late, and 40 people were arrested.
 The law, which states 
-	"No person, while on public or private grounds adjacent to any building in which a school or anyclass thereof is in session, shall willfully make or assist in the making of any noise or diversion which disturbs or tends to disturb the peace or good order of such school session or class thereof. . . ."
+	"No person, while on public or private grounds adjacent to any building in which a school or any class thereof is in session, shall willfully make or assist in the making of any noise or diversion which disturbs or tends to disturb the peace or good order of such school session or class thereof. . . ."
 
 ### Use
 
