@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/State v. Harris (1992).md",
+                    "file": "Embedded 1/Parker v. Levy.md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/State v. Harris (1992).md",
+                "file": "Embedded 1/Parker v. Levy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/State v. Harris (1992).md",
+                "file": "Embedded 1/Parker v. Levy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/State v. Harris (1992).md"
+                "file": "Embedded 1/Parker v. Levy.md"
               }
             }
           },
@@ -265,13 +265,16 @@
   },
   "active": "fc1763bbaae746b5",
   "lastOpenFiles": [
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Case Law/Solem v. Helm (1983).md",
+    "Embedded 1/Donathan v. McMinn County.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
     "Case Law/Connaly v. General Construction (1926).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Case Law/State v. Harris (1992).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/Kolender v. Lawson (1983).md",
     "Important Quirbs.md",
     "Embedded 1/Parker v. Levy.md",
     "Embedded 1/Nash v. United States (!).md",
@@ -288,9 +291,6 @@
     "Embedded 1/State v. Wilkins.md",
     "Embedded 1/State v. Tibbetts.md",
     "Embedded 1/State v. Partlow.md",
-    "Embedded 1/State v. King.md",
-    "Embedded 1/State v. Lyons.md",
-    "Embedded 1/State v. Horton.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
