@@ -24,12 +24,24 @@
                 }
               },
               {
-                "id": "a07a3f4051d3b1d2",
+                "id": "b6234a66ce58dee2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Harmelin v. Michigan (1991).md",
+                    "file": "Embedded 1/Grayned v. City of Rockford.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "a3a99687d3ea8601",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cox v. Louisiana.md",
                     "mode": "source",
                     "source": false
                   }
@@ -156,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md",
+                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Harmelin v. Michigan (1991).md"
+                "file": "Embedded 1/Grayned v. City of Rockford.md"
               }
             }
           },
@@ -249,15 +261,18 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "a07a3f4051d3b1d2",
+  "active": "b6234a66ce58dee2",
   "lastOpenFiles": [
+    "Embedded 1/Donathan v. McMinn County.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Tinker v. Des Moines School District.md",
     "Embedded 1/Grayned v. City of Rockford.md",
+    "Cox v. Louisiana.md",
+    "Readme.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Police Department of the City of Chicago v. Mosley.md",
-    "Embedded 1/Donathan v. McMinn County.md",
     "Embedded 1/Coker v. Georgia (1977).md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Readme.md",
     "Name of embedded.md",
     "Important Quirbs.md",
     "Ambiguous Cases.md",
@@ -274,9 +289,6 @@
     "Case Law/State v. Burkhart (2001).md",
     "Embedded 1/State v. Horton.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 2/United States v. American Tobacco Co..md",
-    "Embedded 2/Terrace v. Thompson (1923).md",
-    "Embedded 2/Standard Oil Co. v. United States.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

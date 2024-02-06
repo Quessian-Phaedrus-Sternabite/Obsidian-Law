@@ -16,4 +16,7 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Police Department of the City of Chicago v. Mosley]]
+[[Police Department of the City of Chicago v. Mosley]] (Invalid)
+[[Cox v. Louisiana]]
+[[Coates v. City of Cincinnati]]
+[[Tinker v. Des Moines School District]]
