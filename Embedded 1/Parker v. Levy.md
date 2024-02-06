@@ -8,7 +8,8 @@ https://supreme.justia.com/cases/federal/us/417/733/
 
 ### Summary
 
-Summary of case
+"He told them that African-Americans faced discrimination in combat situations as well as in the U.S. He was court-martialed and dismissed from the service, required to forfeit his pay and allowances, and sentenced to three years of hard labor."
+
 
 ### Use
 
