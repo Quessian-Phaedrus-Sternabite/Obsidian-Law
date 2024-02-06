@@ -8,7 +8,7 @@ https://casetext.com/case/grayned-v-city-of-rockford-8212-5106#p108
 
 ### Summary
 
-Summary of case
+A law can be clear even if it's words are [[Important Quirbs]]
 
 ### Use
 
