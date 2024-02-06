@@ -1,13 +1,10 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
+## 866 S.W.2d 520
 
-### 91 N.C. 550
-
-https://casetext.com/case/state-v-partlow-6
-NOTE: North Carolina, not US
-
+https://casetext.com/case/davis-kidd-booksellers-inc-v-mcwherter#p531
 ### Summary
 
 Summary of case

@@ -1,10 +1,11 @@
 ---
 supports: 
-level: "1"
+level: "2"
 ---
-## 866 S.W.2d 520
+## Case Number
 
-https://casetext.com/case/davis-kidd-booksellers-inc-v-mcwherter#p531
+Link
+
 ### Summary
 
 Summary of case

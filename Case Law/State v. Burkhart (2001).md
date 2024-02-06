@@ -29,7 +29,7 @@ His defense was that the law prohibited "gambling machines," a definition that p
 [[State v. Horton]]
 [[City of Chicago v. Morales]]
 [[Smith v. Goguen]]
-[[Davis-Kidd Booksellers, Inc. v. McWherter]]
+[[Davis-Kidd Booksellers, Inc. v. McWherter (1993)]]
 [[Parker v. Levy]]
 [[State v. King]]
 [[Coates v. City of Cincinnati]]

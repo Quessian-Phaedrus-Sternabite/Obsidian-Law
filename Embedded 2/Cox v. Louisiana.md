@@ -1,10 +1,10 @@
 ---
-supports:
+supports: 
+level: "2"
 ---
+## 379 U.S. 536
 
-## N/A - Could not find
-
-Link
+https://supreme.justia.com/cases/federal/us/379/536/
 
 ### Summary
 

@@ -1,10 +1,10 @@
 ---
-supports:
+supports: 
+level: "2"
 ---
+## 408 U.S. 92
 
-## N/A - Could not find
-
-Link
+https://supreme.justia.com/cases/federal/us/408/92/
 
 ### Summary
 

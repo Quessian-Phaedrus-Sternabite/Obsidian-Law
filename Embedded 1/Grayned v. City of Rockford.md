@@ -1,14 +1,14 @@
 ---
-supports: 
+supports: state
 level: "1"
 ---
 ## 408 U.S. 104
 
-https://casetext.com/case/grayned-v-city-of-rockford-8212-5106#p108
+https://supreme.justia.com/cases/federal/us/408/104/
 
 ### Summary
 
-Summary of case
+A law can be clear even if it's words are [[Important Quirbs#^802bce|vague]] if the law as a whole is clear.
 
 ### Use
 
@@ -16,4 +16,7 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[Police Department of the City of Chicago v. Mosley]] (Invalid)
+[[Cox v. Louisiana]]
+[[Coates v. City of Cincinnati]]
+[[Tinker v. Des Moines School District]]
