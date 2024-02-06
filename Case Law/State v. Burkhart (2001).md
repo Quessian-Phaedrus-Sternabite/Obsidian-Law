@@ -21,7 +21,7 @@ His defense was that the law prohibited "gambling machines," a definition that p
 ### Embedded
 
 [[State v. Wilkins]]
-[[Grayned v. City of Rockford]]
+[[Grayned v. City of Rockford (1972)]]
 [[State v. Lyons]]
 [[Donathan v. McMinn County]]
 [[Village of Hoffman Estates v Flipside, Hoffman Estate, Inc.]]

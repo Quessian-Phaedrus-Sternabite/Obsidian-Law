@@ -8,7 +8,8 @@ https://casetext.com/case/coates-v-city-of-cincinnati#p614
 
 ### Summary
 
-Summary of case
+It is illegal for three people to stand together and be annoying on a sidewalk (verbatim).
+Struck down due to [[Important Quirbs#^802bce|vagueness]]
 
 ### Use
 
