@@ -1,4 +1,9 @@
-## 91 N.C. 550
+---
+supports: 
+level: "1"
+---
+
+### 91 N.C. 550
 
 https://casetext.com/case/state-v-partlow-6
 NOTE: North Carolina, not US
