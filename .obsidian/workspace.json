@@ -58,8 +58,21 @@
                       },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "f50e329cf8a671a7",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Important Quirbs.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "17f9b420e93e47f0",
@@ -155,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
+                "file": "Important Quirbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
+                "file": "Important Quirbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -195,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md"
+                "file": "Important Quirbs.md"
               }
             }
           },
@@ -248,8 +261,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "fc1763bbaae746b5",
+  "active": "f50e329cf8a671a7",
   "lastOpenFiles": [
+    "Readme.md",
+    "Embedded 1/Grayned v. City of Rockford.md",
     "Embedded 2/Cox v. Louisiana.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Embedded 1/United States v. Capital Traction Co..md",
@@ -274,8 +289,6 @@
     "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Hutto v. Davis.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Grayned v. City of Rockford.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
