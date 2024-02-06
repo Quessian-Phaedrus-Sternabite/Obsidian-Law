@@ -2,9 +2,9 @@
 supports: 
 level: "2"
 ---
-## Case Number
+## 408 U.S. 92
 
-Link
+https://supreme.justia.com/cases/federal/us/408/92/
 
 ### Summary
 
