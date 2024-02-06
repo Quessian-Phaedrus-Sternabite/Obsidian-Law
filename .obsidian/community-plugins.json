@@ -4,7 +4,6 @@
   "obsidian-html-plugin",
   "longform",
   "obsidian-outliner",
-  "obsidian-git",
   "obsidian-mind-map",
   "obsidian-wordnet-plugin",
   "obsidian-style-settings",
@@ -15,5 +14,6 @@
   "juggl",
   "table-editor-obsidian",
   "folder-note-plugin",
-  "obsidian-wordy"
+  "obsidian-wordy",
+  "obsidian-git"
 ]
