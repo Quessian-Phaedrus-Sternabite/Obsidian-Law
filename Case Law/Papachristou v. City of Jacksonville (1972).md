@@ -21,4 +21,4 @@ There are 4 defendants and 8 petitioners in this case. There are Papachristou an
 * N/A-the law is exceptionally vague, and the arrests are questionable at best. The vagrancy law was declared void by the court, due to the exceedingly questionable circumstances and likely false arrests.
 ### Embedded
 
-[[Name of embedded]]
+[[Smith v. Goguen]]

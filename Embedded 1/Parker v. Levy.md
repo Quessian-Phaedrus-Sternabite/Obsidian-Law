@@ -17,4 +17,6 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[Papachristou v. City of Jacksonville (1972)]]
+[[Grayned v. City of Rockford (1972)]]
+[[Coates v. City of Cincinnati]]
