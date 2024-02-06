@@ -168,7 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Important Quirbs.md",
+                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Important Quirbs.md",
+                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +208,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Important Quirbs.md"
+                "file": "Embedded 1/Grayned v. City of Rockford.md"
               }
             }
           },
@@ -261,10 +261,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "f50e329cf8a671a7",
+  "active": "fc1763bbaae746b5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "Important Quirbs.md",
+    "conflict-files-obsidian-git.md",
     "Readme.md",
     "Embedded 1/Grayned v. City of Rockford.md",
     "Embedded 2/Cox v. Louisiana.md",
