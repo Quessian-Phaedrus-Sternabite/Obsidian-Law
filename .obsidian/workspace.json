@@ -62,13 +62,15 @@
                   {
                     "id": "f50e329cf8a671a7",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
                         "file": "Important Quirbs.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "pinned": true
                     }
                   }
                 ],
@@ -168,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford (1972).md",
+                "file": "Important Quirbs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford (1972).md",
+                "file": "Important Quirbs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -208,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford (1972).md"
+                "file": "Important Quirbs.md"
               }
             }
           },
@@ -261,12 +263,15 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "fc1763bbaae746b5",
+  "active": "f50e329cf8a671a7",
   "lastOpenFiles": [
+    "Embedded 1/Hill v. Colorado.md",
+    "Case Law/State v. Harris (1992).md",
+    "Embedded 1/Hutto v. Davis.md",
     "Important Quirbs.md",
+    "Embedded 1/Grayned v. City of Rockford (1972).md",
     "conflict-files-obsidian-git.md",
     "Readme.md",
-    "Embedded 1/Grayned v. City of Rockford (1972).md",
     "Embedded 2/Cox v. Louisiana.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Embedded 1/United States v. Capital Traction Co..md",
@@ -286,9 +291,6 @@
     "Embedded 1/Rummel v. Estelle.md",
     "Embedded 2/Police Department of the City of Chicago v. Mosley.md",
     "Embedded 1/Parker v. Levy.md",
-    "Embedded 1/Nash v. United States (!).md",
-    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
