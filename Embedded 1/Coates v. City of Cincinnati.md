@@ -17,4 +17,4 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[Connaly v. General Construction (1926)]]

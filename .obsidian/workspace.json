@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Coates v. City of Cincinnati.md",
+                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Coates v. City of Cincinnati.md",
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Coates v. City of Cincinnati.md",
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Coates v. City of Cincinnati.md"
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md"
               }
             }
           },
@@ -265,9 +265,10 @@
   },
   "active": "fc1763bbaae746b5",
   "lastOpenFiles": [
-    "Embedded 1/Grayned v. City of Rockford (1972).md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
     "Case Law/State v. Burkhart (2001).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Coates v. City of Cincinnati.md",
+    "Embedded 1/Grayned v. City of Rockford (1972).md",
     "Important Quirbs.md",
     "Embedded 1/Hill v. Colorado.md",
     "Case Law/State v. Harris (1992).md",
@@ -275,7 +276,6 @@
     "conflict-files-obsidian-git.md",
     "Readme.md",
     "Embedded 2/Cox v. Louisiana.md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Embedded 1/United States v. Capital Traction Co..md",
     "Connaly v. General Construction (1926).md",
     "Embedded 2/Tinker v. Des Moines School District.md",
