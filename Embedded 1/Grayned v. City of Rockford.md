@@ -15,7 +15,7 @@ Additionally, the law does not infringe 1st Amendment Rights, as it is merely co
 
 ### Use
 
-How it may be used and quotes
+* 
 
 ### Embedded
 
