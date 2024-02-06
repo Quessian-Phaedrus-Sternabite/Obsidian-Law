@@ -4,6 +4,7 @@
 * 8th Amendment forbidding "cruel and unusual punishment" ^ce25e2
 	* Very confusing to describe--look into tests
 	* One possible example is [[Harmelin v. Michigan (1991)]]
+	* [[Solem v. Helm (1983)]] Offers some description (463 U.S. 277 1.a )
 * Schedule I Controlled Substance - Strong potential for abuse, no medical use. ^7d3914
 	* ~~Cocaine.~~ actually a Schedule II one surprisinly
 	* Heroin, LSD, Weed, Ecstasy, Methaqualone, and Peyote.
