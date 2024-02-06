@@ -12,24 +12,24 @@
             "type": "tabs",
             "children": [
               {
-                "id": "7b27620f6896e1ca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Readme.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "fc1763bbaae746b5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Embedded 1/Grayned v. City of Rockford.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ba7e43c8f62c6823",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Police Department of the City of Chicago v. Mosley.md",
                     "mode": "source",
                     "source": false
                   }
@@ -156,6 +156,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Police Department of the City of Chicago v. Mosley.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +173,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Police Department of the City of Chicago v. Mosley.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +195,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Police Department of the City of Chicago v. Mosley.md"
+              }
             }
           },
           {
@@ -245,20 +249,23 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "ba7e43c8f62c6823",
   "lastOpenFiles": [
     "Embedded 1/Grayned v. City of Rockford.md",
     "Embedded 1/Donathan v. McMinn County.md",
-    "Important Cases.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Readme.md",
+    "Police Department of the City of Chicago v. Mosley.md",
+    "Name of embedded.md",
+    "Important Quirbs.md",
+    "Ambiguous Cases.md",
+    "Important Cases.md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
     "Embedded 1/Hutto v. Davis.md",
     "Embedded 2/Picard v. Connor.md",
     "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
     "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Ambiguous Cases.md",
-    "Important Quirbs.md",
-    "Name of embedded.md",
     "Embedded 2/Savage v. Jones.md",
     "Embedded 2/Packard v. Banton (1924).md",
     "Embedded 2/Loewe v. Lawlor.md",
@@ -270,9 +277,6 @@
     "Embedded 2/United States v. American Tobacco Co..md",
     "Embedded 2/Terrace v. Thompson (1923).md",
     "Embedded 2/Standard Oil Co. v. United States.md",
-    "Embedded 2/In re Sawyer  (1888).md",
-    "Embedded 2/Kennington v. Palmer.md",
-    "Embedded 2/Miller v. Strahl.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
