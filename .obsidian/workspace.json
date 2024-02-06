@@ -17,13 +17,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
+                    "file": "Embedded 2/Picard v. Connor.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "b52dd7b0f48c59ab",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
                     "file": "Embedded 1/Grayned v. City of Rockford.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "ce23997badc5cb21",
@@ -143,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md"
-              }
+              "state": {}
             }
           },
           {
@@ -236,34 +245,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "7b27620f6896e1ca",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Embedded 1/Grayned v. City of Rockford.md",
+    "Embedded 1/Donathan v. McMinn County.md",
     "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Ambiguous Cases.md",
+    "Important Quirbs.md",
+    "Name of embedded.md",
+    "Embedded 2/Savage v. Jones.md",
+    "Embedded 2/Packard v. Banton (1924).md",
+    "Embedded 2/Picard v. Connor.md",
+    "Embedded 2/Loewe v. Lawlor.md",
+    "Embedded 2/Brown v. Elliot.md",
     "Case Law/State v. Burkhart (2001).md",
     "Embedded 1/State v. Horton.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Readme.md",
     "Embedded 2/United States v. American Tobacco Co..md",
-    "Name of embedded.md",
     "Embedded 2/Terrace v. Thompson (1923).md",
     "Embedded 2/Standard Oil Co. v. United States.md",
     "Embedded 2/In re Sawyer  (1888).md",
     "Embedded 2/Kennington v. Palmer.md",
     "Embedded 2/Miller v. Strahl.md",
-    "Embedded 2/Packard v. Banton (1924).md",
     "Embedded 2/People v. Atlas.md",
-    "Embedded 2/Savage v. Jones.md",
     "Embedded 2/Sligh v. Kirkwood.md",
     "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Grayned v. City of Rockford.md",
-    "Embedded 1/Donathan v. McMinn County.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
