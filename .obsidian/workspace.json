@@ -168,7 +168,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -185,7 +184,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -207,9 +205,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Grayned v. City of Rockford.md"
-              }
+              "state": {}
             }
           },
           {
@@ -261,13 +257,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "b6234a66ce58dee2",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Embedded 1/Grayned v. City of Rockford.md",
+    "Cox v. Louisiana.md",
     "Embedded 1/Donathan v. McMinn County.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Tinker v. Des Moines School District.md",
-    "Embedded 1/Grayned v. City of Rockford.md",
-    "Cox v. Louisiana.md",
     "Readme.md",
     "Embedded 1/Omaechevarria v. Idaho.md",
     "Case Law/Harmelin v. Michigan (1991).md",
