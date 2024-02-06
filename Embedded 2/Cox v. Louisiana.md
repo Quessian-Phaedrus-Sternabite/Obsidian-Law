@@ -1,10 +1,10 @@
 ---
 supports: 
-level: 
+level: "2"
 ---
-## Case Number
+## 379 U.S. 536
 
-Link
+https://supreme.justia.com/cases/federal/us/379/536/
 
 ### Summary
 

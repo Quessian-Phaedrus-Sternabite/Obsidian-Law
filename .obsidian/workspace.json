@@ -29,26 +29,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Grayned v. City of Rockford.md",
+                    "file": "Embedded 2/Cox v. Louisiana.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "a3a99687d3ea8601",
+                "id": "d6d3137cfdd556af",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Cox v. Louisiana.md",
+                    "file": "Embedded 1/Rummel v. Estelle.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "ce23997badc5cb21",
@@ -79,7 +79,7 @@
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "8dad60c80133c474",
+                    "id": "601b1b3e9c352e90",
                     "type": "leaf",
                     "pinned": true,
                     "state": {
@@ -168,6 +168,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Rummel v. Estelle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,6 +185,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Rummel v. Estelle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -205,7 +207,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Rummel v. Estelle.md"
+              }
             }
           },
           {
@@ -257,34 +261,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
+    "Embedded 2/Police Department of the City of Chicago v. Mosley.md",
+    "People ex rel. Rodgers v. Coler.md",
+    "Embedded 1/Parker v. Levy.md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/Hill v. Colorado.md",
     "Embedded 1/Grayned v. City of Rockford.md",
-    "Cox v. Louisiana.md",
     "Embedded 1/Donathan v. McMinn County.md",
+    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Embedded 1/Broadrick v. Oklahoma.md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
+    "Embedded 1/City of Chicago v. Morales.md",
+    "Embedded 1/Coates v. City of Cincinnati.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 2/Cox v. Louisiana.md",
+    "Embedded 1/Tinker v. Des Moines School District.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Tinker v. Des Moines School District.md",
     "Readme.md",
     "Embedded 1/Omaechevarria v. Idaho.md",
     "Case Law/Harmelin v. Michigan (1991).md",
-    "Police Department of the City of Chicago v. Mosley.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
     "Name of embedded.md",
     "Important Quirbs.md",
-    "Ambiguous Cases.md",
-    "Important Cases.md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 2/Picard v. Connor.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Embedded 2/Savage v. Jones.md",
-    "Embedded 2/Packard v. Banton (1924).md",
-    "Embedded 2/Loewe v. Lawlor.md",
-    "Embedded 2/Brown v. Elliot.md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Embedded 1/State v. Horton.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
