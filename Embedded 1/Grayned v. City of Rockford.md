@@ -15,7 +15,12 @@ Additionally, the law does not infringe 1st Amendment Rights, as it is merely co
 
 ### Use
 
-* 
+* State
+	* **If a law is clear, the wording can be vague and still valid**
+	* Also: this deals with schools, which supports State
+* Carter 
+	* Carter wasn't disturbing school students
+	* 
 
 ### Embedded
 
