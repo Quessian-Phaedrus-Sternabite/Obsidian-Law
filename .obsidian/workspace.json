@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "file": "Embedded 1/Parker v. Levy.md",
                     "mode": "source",
                     "source": false
                   }
@@ -170,7 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                "file": "Embedded 1/Parker v. Levy.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                "file": "Embedded 1/Parker v. Levy.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +210,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md"
+                "file": "Embedded 1/Parker v. Levy.md"
               }
             }
           },
@@ -265,8 +265,11 @@
   },
   "active": "fc1763bbaae746b5",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Parker v. Levy.md",
+    "Embedded 1/Nash v. United States (!).md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "conflict-files-obsidian-git.md",
     "Case Law/State v. Burkhart (2001).md",
     "Embedded 1/Coates v. City of Cincinnati.md",
     "Embedded 1/Grayned v. City of Rockford (1972).md",
@@ -288,9 +291,6 @@
     "Embedded 1/State v. Horton.md",
     "Embedded 1/State ex rel. Christie v. Meek.md",
     "Embedded 1/Smith v. Goguen.md",
-    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
-    "Embedded 1/People ex rel. Rodgers v. Coler.md",
-    "Embedded 1/Rummel v. Estelle.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

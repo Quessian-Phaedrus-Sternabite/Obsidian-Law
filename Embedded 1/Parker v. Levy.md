@@ -4,7 +4,7 @@ level: "1"
 ---
 ## 417 U.S. 733
 
-https://casetext.com/case/parker-v-levy#p756
+https://supreme.justia.com/cases/federal/us/417/733/
 
 ### Summary
 
