@@ -18,4 +18,4 @@ https://supreme.justia.com/cases/federal/us/461/352/
 * N/A.
 ### Embedded
 
-[[Name of embedded]]
+[[Terry v. Ohio]]
