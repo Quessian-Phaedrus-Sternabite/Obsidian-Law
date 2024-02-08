@@ -34,9 +34,45 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "a338b031bec2d7ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "195bd9be9c35d58a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "United States v. Reese.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "fa615a6dbb0172b7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Smith v. State.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "ce23997badc5cb21",
@@ -126,7 +162,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -156,7 +192,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md",
+                "file": "Case Law/Connally v. General Construction (1926).md",
                 "mode": "source",
                 "source": false
               }
@@ -182,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "United States v. Reese.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "United States v. Reese.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -219,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "United States v. Reese.md"
+              }
             }
           },
           {
@@ -271,34 +311,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "195bd9be9c35d58a",
   "lastOpenFiles": [
-    "Case Law/Solem v. Helm (1983).md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Case Law/Connaly v. General Construction (1926).md",
-    "Baldwin v. New York.md",
     "Readme.md",
-    "Cf. Barker v. Wingo.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Important Quirbs.md",
-    "Embedded 1/Grayned v. City of Rockford (1972).md",
-    "Embedded 1/Parker v. Levy.md",
-    "Embedded 1/Smith v. Goguen.md",
-    "conflict-files-obsidian-git.md",
-    "Important Cases.md",
-    "Embedded 2/Tinker v. Des Moines School District.md",
-    "Embedded 2/Police Department of the City of Chicago v. Mosley.md",
-    "Embedded 2/Cox v. Louisiana.md",
-    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Ambiguous Cases.md",
-    "Embedded 1/State v. Horton.md",
-    "Embedded 1/State v. Tibbetts.md",
-    "Embedded 2/Loewe v. Lawlor.md",
-    "Embedded 2/Brown v. Elliot.md",
+    "United States v. Reese.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Smith v. State.md",
+    "Screws v. United States.md",
+    "United States v. Petrillo.md",
+    "United States v. National Dairy Products Corp..md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Embedded 1/Thornhill v. Alabama.md",
+    "Cline v. Frink Dairy Co..md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
+    "Whitley v. Warden.md",
+    "Johnson v. United States.md",
+    "Hanks v. State.md",
+    "Hicks v. District of Columbia.md",
+    "Ledwith v. Roberts.md",
+    "Headley v. Selkowitz.md",
+    "Smith v. Florida.md",
+    "Hawaii v. Anduha.md",
+    "Lazarus v. Faircloth.md",
+    "Harvey v. Mississippi.md",
+    "People v. Moss.md",
+    "Case Law/Solem v. Helm (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
