@@ -8,7 +8,7 @@ https://law.justia.com/cases/tennessee/supreme-court/1992/844-s-w-2d-601-2.html
 
 ### Summary
 
-Billy Joe Harris sexually assaulted an 8-year old, and was sentenced to 20 years in prison. He then appealed, which failed.
+Billy Joe Harris sexually assaulted an 8-year old, and was sentenced to 20 years in prison. He then appealed, which failed. 
 
 ### Use
 
