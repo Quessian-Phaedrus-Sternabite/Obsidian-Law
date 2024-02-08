@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: State
 level: "1"
 ---
 ## 246 U.S. 343
