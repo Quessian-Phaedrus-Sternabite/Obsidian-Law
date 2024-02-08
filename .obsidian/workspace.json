@@ -34,21 +34,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "06d280ec91ed26bd",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Baldwin v. New York.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "ce23997badc5cb21",
@@ -137,7 +125,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "229",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,8 +162,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -195,7 +182,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Baldwin v. New York.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -212,7 +198,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Baldwin v. New York.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,9 +219,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Baldwin v. New York.md"
-              }
+              "state": {}
             }
           },
           {
@@ -288,23 +271,23 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d431aec6b78eee93",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
-    "Readme.md",
-    "Baldwin v. New York.md",
     "Case Law/Solem v. Helm (1983).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/State v. Harris (1992).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Connaly v. General Construction (1926).md",
+    "Baldwin v. New York.md",
+    "Readme.md",
     "Cf. Barker v. Wingo.md",
     "Embedded 1/Coker v. Georgia (1977).md",
     "Important Quirbs.md",
-    "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Grayned v. City of Rockford (1972).md",
     "Embedded 1/Parker v. Levy.md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Embedded 1/Smith v. Goguen.md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Case Law/Connaly v. General Construction (1926).md",
-    "Case Law/Kolender v. Lawson (1983).md",
     "conflict-files-obsidian-git.md",
     "Important Cases.md",
     "Embedded 2/Tinker v. Des Moines School District.md",
