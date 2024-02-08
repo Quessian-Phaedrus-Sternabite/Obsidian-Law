@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Baldwin v. New York.md",
+                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                     "mode": "source",
                     "source": false
                   }
@@ -160,18 +160,6 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
-          },
-          {
-            "id": "c4644f418c291fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case Law/Connaly v. General Construction (1926).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
@@ -193,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md"
+              }
             }
           },
           {
@@ -282,34 +274,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "07ad34ca407ef989",
+  "active": "1e7b7c89183c9559",
   "lastOpenFiles": [
-    "Embedded 1/Baldwin v. New York.md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 2/Coomer v. United States.md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 2/Picard v. Connor.md",
-    "Embedded 2/Standard Oil Co. v. United States.md",
-    "Embedded 2/Brown v. Elliot.md",
-    "Embedded 1/Nash v. United States (!).md",
-    "Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
-    "Embedded 1/Thomas v. Marshfield.md",
-    "Embedded 1/United States v. Capital Traction Co..md",
-    "Embedded 1/Woods v. Cochrane and Smith.md",
-    "Embedded 1/State v. Tibbetts.md",
-    "Embedded 1/People ex rel. Rodgers v. Coler.md",
-    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Donathan v. McMinn County.md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Grayned v. City of Rockford (1972).md",
-    "Union Pac. R. Co. v. Botsford.md",
-    "Terry v. Ohio.md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Case Law/Connaly v. General Construction (1926).md",
     "Case Law/Solem v. Helm (1983).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/State v. Harris (1992).md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
+    "Embedded 1/Baldwin v. New York.md",
+    "Whitley v. Warden.md",
+    "United States v. Reese.md",
+    "United States v. Petrillo.md",
+    "United States v. National Dairy Products Corp..md",
+    "Smith v. State.md",
+    "Smith v. Florida.md",
+    "Shuttlesworth v. Birmingham.md",
+    "Screws v. United States.md",
+    "People v. Moss.md",
+    "Ledwith v. Roberts.md",
+    "Lazarus v. Faircloth.md",
+    "Johnson v. United States.md",
+    "Hicks v. District of Columbia.md",
+    "Headley v. Selkowitz.md",
+    "Hawaii v. Anduha.md",
+    "Harvey v. Mississippi.md",
+    "Hanks v. State.md",
+    "Embedded 2/Union Pac. R. Co. v. Botsford.md",
+    "Embedded 2/Mapp v. Ohio.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
