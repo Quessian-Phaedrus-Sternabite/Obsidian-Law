@@ -14,7 +14,7 @@ Ruled invalid due to not being able to easily determine real price ([[Important 
 
 ### Use
 * Carter:
-	* Again corresponds to vagueness. This supports [[Connaly v. General Construction (1926)]], which it is embedded in.
+	* Again corresponds to vagueness. This supports [[Connally v. General Construction (1926)]], which it is embedded in.
 * State:
 	* It mentions "know in advance and comply with." When Carter sold crack to those kids, there is no reason he shouldn't have known the law.
 ### Embedded Case Law

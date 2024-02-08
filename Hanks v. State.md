@@ -1,10 +1,10 @@
 ---
 supports: 
-level: 
+level: "1"
 ---
-## 407 U.S. 514
+## Case Number
 
-https://supreme.justia.com/cases/federal/us/407/514/
+Link
 
 ### Summary
 
