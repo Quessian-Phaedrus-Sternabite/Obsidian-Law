@@ -14,13 +14,15 @@
               {
                 "id": "1e7b7c89183c9559",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "file": "Case Law/Solem v. Helm (1983).md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
                 }
               }
             ]
@@ -61,8 +63,7 @@
                       "pinned": true
                     }
                   }
-                ],
-                "currentTab": 1
+                ]
               },
               {
                 "id": "5dbd4dd3e314053e",
@@ -181,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +199,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +222,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Papachristou v. City of Jacksonville (1972).md"
+                "file": "Case Law/Solem v. Helm (1983).md"
               }
             }
           },
@@ -276,7 +277,12 @@
   },
   "active": "1e7b7c89183c9559",
   "lastOpenFiles": [
+    "Greenholtz v. Nebraska Penal Inmates.md",
+    "Readme.md",
     "Case Law/Solem v. Helm (1983).md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Trop v. Dulles.md",
+    "Perez v. Brownell.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Case Law/State v. Burkhart (2001).md",
@@ -297,11 +303,6 @@
     "Johnson v. United States.md",
     "Hicks v. District of Columbia.md",
     "Headley v. Selkowitz.md",
-    "Hawaii v. Anduha.md",
-    "Harvey v. Mississippi.md",
-    "Hanks v. State.md",
-    "Embedded 2/Union Pac. R. Co. v. Botsford.md",
-    "Embedded 2/Mapp v. Ohio.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
