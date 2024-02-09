@@ -37,5 +37,6 @@ How it may be used and quotes
 [[Greenholtz v. Nebraska Penal Inmates]]
 [[Morrissey v. Brewer]]
 [[Connecticut Board of Pardons v. Dumschat]]
+[[Hutto v. Davis]]
 
 
