@@ -8,7 +8,10 @@ https://casetext.com/case/boyce-motor-lines-v-united-states#p340
 
 ### Summary
 
-Summary of case
+A man transported explosives through a tunnel, and claimed the statute prohibiting transporting explosives through a tunnel was "too [[Important Quirbs#^802bce |vague]]."
+The court disagreed (it wasn't).
+Additionally:
+* If you come **
 
 ### Use
 
