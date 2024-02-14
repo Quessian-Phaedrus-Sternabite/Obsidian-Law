@@ -53,7 +53,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "United States v. Reese.md",
+                    "file": "Case Law/Solem v. Helm (1983).md",
                     "mode": "source",
                     "source": false
                   }
@@ -218,7 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United States v. Reese.md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United States v. Reese.md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +258,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "United States v. Reese.md"
+                "file": "Case Law/Solem v. Helm (1983).md"
               }
             }
           },
@@ -313,19 +313,24 @@
   },
   "active": "195bd9be9c35d58a",
   "lastOpenFiles": [
-    "Readme.md",
-    "United States v. Reese.md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/Solem v. Helm (1983).md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Case Law/State v. Harris (1992).md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
+    "United States v. Reese.md",
+    "Readme.md",
     "Smith v. State.md",
     "Screws v. United States.md",
     "United States v. Petrillo.md",
     "United States v. National Dairy Products Corp..md",
     "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/United States v. Cohen Grocery Co..md",
     "Embedded 1/Herndon v. Lowry.md",
     "Embedded 1/Thornhill v. Alabama.md",
     "Cline v. Frink Dairy Co..md",
-    "Case Law/Connally v. General Construction (1926).md",
     "Embedded 1/Lanzetta v. New Jersey.md",
     "Whitley v. Warden.md",
     "Johnson v. United States.md",
@@ -334,11 +339,6 @@
     "Ledwith v. Roberts.md",
     "Headley v. Selkowitz.md",
     "Smith v. Florida.md",
-    "Hawaii v. Anduha.md",
-    "Lazarus v. Faircloth.md",
-    "Harvey v. Mississippi.md",
-    "People v. Moss.md",
-    "Case Law/Solem v. Helm (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
