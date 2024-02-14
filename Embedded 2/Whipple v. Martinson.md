@@ -1,10 +1,10 @@
 ---
 supports: 
-level: "1"
+level: "2"
 ---
-## 325 U. S. 91
+## 256 U.S. 41
 
-https://supreme.justia.com/cases/federal/us/325/91/
+https://supreme.justia.com/cases/federal/us/256/41/
 
 ### Summary
 

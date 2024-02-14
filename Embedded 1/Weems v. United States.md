@@ -1,18 +1,19 @@
 ---
-supports: 
-level: 
+supports: Carter
+level: "1"
 ---
-## Case Number
+## 217 U.S. 349 (1910)
 
-Link
+https://supreme.justia.com/cases/federal/us/217/349/
 
 ### Summary
 
-Summary of case
+A U.S. official in the Philippines falsified a document. They fined him an obscene account, and sentenced him to 15 years in prison, with heavy chains and hard labor. He appealed on grounds of [[Important Quirbs#^ce25e2|cruel and unusual punishment]], and succeeded. 
 
 ### Use
 
-How it may be used and quotes
+* Heavily pro-carter - Such an extreme punishment for a minor crime is "impermissible."
+* State - Differs, as in this case, the man was falsely tried as an official when the claimed department did not exist. As such, punishment was higher. In this case, Carter has been tried accordingly.
 
 ### Embedded
 

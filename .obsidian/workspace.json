@@ -12,67 +12,30 @@
             "type": "tabs",
             "children": [
               {
-                "id": "7b27620f6896e1ca",
+                "id": "12307e9e8c7680ff",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "file": "Embedded 1/Ingraham v. Wright.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "10ab243d55eef981",
+                "id": "820018edd64a7f6a",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Solem v. Helm (1983).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "a338b031bec2d7ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "195bd9be9c35d58a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Case Law/Solem v. Helm (1983).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "fa615a6dbb0172b7",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Smith v. State.md",
+                    "file": "Case Law/State v. Harris (1992).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 3
+            ]
           },
           {
             "id": "ce23997badc5cb21",
@@ -108,6 +71,18 @@
                         "source": false
                       },
                       "pinned": true
+                    }
+                  },
+                  {
+                    "id": "c0c7b15ef5e39228",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Important Cases.md",
+                        "mode": "source",
+                        "source": false
+                      }
                     }
                   }
                 ]
@@ -218,7 +193,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Solem v. Helm (1983).md",
+                "file": "Embedded 1/Ingraham v. Wright.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +210,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Solem v. Helm (1983).md",
+                "file": "Embedded 1/Ingraham v. Wright.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +233,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/Solem v. Helm (1983).md"
+                "file": "Embedded 1/Ingraham v. Wright.md"
               }
             }
           },
@@ -311,34 +286,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "195bd9be9c35d58a",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
-    "Trop v. Dulles.md",
-    "Robinson v. California.md",
-    "Perez v. Brownell.md",
-    "Greenholtz v. Nebraska Penal Inmates.md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/Solem v. Helm (1983).md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Case Law/Connally v. General Construction (1926).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Case Law/State v. Harris (1992).md",
-    "Embedded 1/United States v. Cohen Grocery Co..md",
-    "United States v. Reese.md",
     "Readme.md",
-    "Smith v. State.md",
-    "Screws v. United States.md",
-    "United States v. Petrillo.md",
-    "United States v. National Dairy Products Corp..md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Thornhill v. Alabama.md",
-    "Cline v. Frink Dairy Co..md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
-    "Whitley v. Warden.md",
-    "Johnson v. United States.md",
-    "Hanks v. State.md",
+    "Embedded 1/Ingraham v. Wright.md",
+    "Embedded 1/Weems v. United States.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/State v. Harris (1992).md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Robinson v. California.md",
+    "Embedded 2/Whipple v. Martinson.md",
+    "Important Cases.md",
+    "Embedded 1/Smith v. State.md",
+    "Important Quirbs.md",
+    "Embedded 1/Screws v. United States.md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
+    "Embedded 1/United States v. Harriss.md",
+    "Embedded 1/Whitley v. Warden.md",
+    "Embedded 1/United States v. Reese.md",
+    "Embedded 1/United States v. Petrillo.md",
+    "Embedded 1/United States v. National Dairy Products Corp..md",
+    "Embedded 1/Trop v. Dulles.md",
+    "Embedded 1/Smith v. Florida.md",
+    "Embedded 1/Shuttlesworth v. Birmingham.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

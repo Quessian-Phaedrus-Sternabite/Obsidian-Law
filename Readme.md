@@ -56,6 +56,11 @@ How it may be used and quotes
 [[Name of embedded]]
 ```
 
+
+#### Example Link:
+```
+ [[Important Quirbs#^802bce|vague]]
+```
 ### Links:
 ```
 [[name of document]]
@@ -68,4 +73,3 @@ to change the text appearance
 
 [[name of document^section of document |displayed text]]
 ```
-
