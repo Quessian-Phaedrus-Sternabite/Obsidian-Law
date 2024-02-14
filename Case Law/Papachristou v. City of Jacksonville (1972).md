@@ -2,6 +2,8 @@
 supports: Carter
 level: Base
 ---
+
+
 ## 405 U.S. 156
 
 https://supreme.justia.com/cases/federal/us/405/156/

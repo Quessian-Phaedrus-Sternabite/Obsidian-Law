@@ -25,3 +25,18 @@ How it may be used and quotes
 [[Weems v. United States]]
 [[Cf. Barker v. Wingo]]
 [[Baldwin v. New York]]
+[[Rummel v. Estelle]]
+[[Robinson v. California]]
+[[Coker v. Georgia (1977)]]
+[[Hutto v. Finney]]
+[[Ingraham v. Wright]]
+[[Gregg v. Georgia]]
+[[Trop v. Dulles]]
+[[Dembowski v. State]]
+[[Cannon v. Gladden]]
+[[Greenholtz v. Nebraska Penal Inmates]]
+[[Morrissey v. Brewer]]
+[[Connecticut Board of Pardons v. Dumschat]]
+[[Hutto v. Davis]]
+
+
