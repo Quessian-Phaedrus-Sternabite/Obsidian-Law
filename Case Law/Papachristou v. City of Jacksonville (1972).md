@@ -29,7 +29,7 @@ There are 4 defendants and 8 petitioners in this case. There are Papachristou an
 [[Herndon v. Lowry]]
 [[Lanzetta v. New Jersey]]
 [[Connally v. General Construction (1926)]]
-[[Cline v. Frink Dairy Co.]]
+[[Cline v. Frink Dairy Co. (1927)]]
 [[United States v. Cohen Grocery Co.]]
 [[Boyce Motor Lines v. United States]]
 [[United States v. National Dairy Products Corp.]]

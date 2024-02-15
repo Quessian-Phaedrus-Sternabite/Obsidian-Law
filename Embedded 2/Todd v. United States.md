@@ -1,10 +1,10 @@
 ---
 supports: 
-level: "1"
+level: "2"
 ---
-## 274 U. S. 445
+## 158 U.S. 278
 
-https://supreme.justia.com/cases/federal/us/274/445/
+https://supreme.justia.com/cases/federal/us/158/278/
 
 ### Summary
 
