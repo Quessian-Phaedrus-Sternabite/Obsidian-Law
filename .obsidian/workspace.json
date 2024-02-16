@@ -36,12 +36,24 @@
                 }
               },
               {
-                "id": "80cc20ade3bdb159",
+                "id": "87217f88e8679aa4",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "Case Law/State v. Harris (1992).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "56e9a7e1e1342297",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/People v. Dillon.md",
                     "mode": "source",
                     "source": false
                   }
@@ -206,7 +218,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/State v. Harris (1992).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +234,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/State v. Harris (1992).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -245,9 +255,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Case Law/State v. Harris (1992).md"
-              }
+              "state": {}
             }
           },
           {
@@ -299,16 +307,26 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "80cc20ade3bdb159",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
-    "State v. Ramseur.md",
-    "Readme.md",
     "Case Law/State v. Harris (1992).md",
-    "Cozzolino v. State.md",
-    "Pearson v. State.md",
-    "Embedded 1/State v. Black.md",
-    "Brinkley v. State.md",
+    "State v. Evans.md",
+    "Readme.md",
+    "Embedded 1/People v. Dillon.md",
+    "Embedded 1/In re Foss.md",
     "Embedded 1/Furman v. Georgia (1972).md",
+    "Embedded 1/State v. Davis.md",
+    "Embedded 1/State v. Guajardo.md",
+    "Embedded 1/State v. Des Marets.md",
+    "Embedded 1/Workman v. Commonwealth.md",
+    "Embedded 1/Cepulonis v. Commonwealth.md",
+    "Embedded 1/People v. Lorentzen.md",
+    "Embedded 1/People v. Bullock.md",
+    "Embedded 1/State v. Ramseur.md",
+    "Embedded 1/Cozzolino v. State.md",
+    "Embedded 1/State v. Black.md",
+    "Embedded 1/Pearson v. State.md",
+    "Brinkley v. State.md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Technical/Name of embedded.md",
     "Embedded 2/Cox v. Louisiana.md",
@@ -318,16 +336,6 @@
     "Embedded 2/Sproles v. Binford.md",
     "Embedded 2/Gorin v. United States.md",
     "Embedded 2/United States v. Ragen.md",
-    "Embedded 2/Duncan v. Louisiana.md",
-    "Embedded 2/Baltimore Ohio R. Co_. v. _Interstate Commerce Comm'n.md",
-    "Embedded 1/Baldwin v. New York.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Embedded 2/United States v. Trans-Missouri Freight Association.md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 2/Weeds, Inc. v. United States.md",
-    "Embedded 2/United States v. Pennsylvania R. Co..md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
