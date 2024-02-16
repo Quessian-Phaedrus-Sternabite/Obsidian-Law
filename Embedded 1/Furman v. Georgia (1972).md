@@ -18,4 +18,5 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[Weems v. United States]]
+[[Robinson v. California]]

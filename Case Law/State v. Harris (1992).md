@@ -12,8 +12,17 @@ Billy Joe Harris sexually assaulted an 8-year old, and was sentenced to 20 years
 
 ### Use
 
-How it may be used and quotes
+State
+* A sentence must be compared with the committed crime. 
 
 ### Embedded
 
-[[Name of embedded]]
+[[Weems v. United States]]
+[[Harmelin v. Michigan (1991)]]
+[[State v. Black]]
+[[Rummel v. Estelle]]
+[[Solem v. Helm (1983)]]
+Brinkley v. State (N/A)
+[[Pearson v. State]]
+[[Cozzolino v. State]]
+[[State v. Ramseur]]

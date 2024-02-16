@@ -24,7 +24,7 @@
                 }
               },
               {
-                "id": "8a500e8e18c92035",
+                "id": "42bfa89edfaa86e5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
@@ -34,9 +34,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "80cc20ade3bdb159",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Case Law/State v. Harris (1992).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "ce23997badc5cb21",
@@ -194,7 +206,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Furman v. Georgia (1972).md",
+                "file": "Case Law/State v. Harris (1992).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +223,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Furman v. Georgia (1972).md",
+                "file": "Case Law/State v. Harris (1992).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +246,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Furman v. Georgia (1972).md"
+                "file": "Case Law/State v. Harris (1992).md"
               }
             }
           },
@@ -287,11 +299,17 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8a500e8e18c92035",
+  "active": "80cc20ade3bdb159",
   "lastOpenFiles": [
+    "State v. Ramseur.md",
+    "Readme.md",
+    "Case Law/State v. Harris (1992).md",
+    "Cozzolino v. State.md",
+    "Pearson v. State.md",
+    "Embedded 1/State v. Black.md",
+    "Brinkley v. State.md",
     "Embedded 1/Furman v. Georgia (1972).md",
     "Case Law/Harmelin v. Michigan (1991).md",
-    "Readme.md",
     "Technical/Name of embedded.md",
     "Embedded 2/Cox v. Louisiana.md",
     "Technical",
@@ -302,7 +320,6 @@
     "Embedded 2/United States v. Ragen.md",
     "Embedded 2/Duncan v. Louisiana.md",
     "Embedded 2/Baltimore Ohio R. Co_. v. _Interstate Commerce Comm'n.md",
-    "Case Law/State v. Harris (1992).md",
     "Embedded 1/Baldwin v. New York.md",
     "Embedded 1/Coker v. Georgia (1977).md",
     "Embedded 1/Coates v. City of Cincinnati.md",
@@ -311,11 +328,6 @@
     "Embedded 1/Ingraham v. Wright.md",
     "Embedded 2/Weeds, Inc. v. United States.md",
     "Embedded 2/United States v. Pennsylvania R. Co..md",
-    "Embedded 2/United States v. Brewer.md",
-    "Embedded 2/Todd v. United States.md",
-    "Embedded 2/Tedrow v. Lewis & Son Co..md",
-    "Embedded 2/Kinnane v. Detroit Creamery Co..md",
-    "Embedded 2/Fox v. Washington.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
