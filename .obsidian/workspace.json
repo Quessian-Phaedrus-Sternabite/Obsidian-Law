@@ -37,31 +37,19 @@
                 }
               },
               {
-                "id": "9d1b97eae70ff8b4",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "8ce1a7fba9341ac5",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "United States v. Trans-Missouri Freight Association.md",
+                    "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 2
           },
           {
             "id": "ce23997badc5cb21",
@@ -196,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "United States v. Trans-Missouri Freight Association.md",
+                "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "United States v. Trans-Missouri Freight Association.md",
+                "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -236,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "United States v. Trans-Missouri Freight Association.md"
+                "file": "Embedded 2/United States v. Pennsylvania R. Co..md"
               }
             }
           },
@@ -289,11 +277,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "8ce1a7fba9341ac5",
   "lastOpenFiles": [
-    "Readme.md",
-    "United States v. Trans-Missouri Freight Association.md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Embedded 2/United States v. Trans-Missouri Freight Association.md",
     "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Readme.md",
     "Embedded 2/Kinnane v. Detroit Creamery Co..md",
     "Embedded 2/Weeds, Inc. v. United States.md",
     "Embedded 2/Tedrow v. Lewis & Son Co..md",
@@ -315,8 +305,6 @@
     "Embedded 1/United States v. Reese.md",
     "Embedded 1/United States v. Petrillo.md",
     "Embedded 1/United States v. National Dairy Products Corp..md",
-    "Embedded 1/Trop v. Dulles.md",
-    "Embedded 1/Smith v. State.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
