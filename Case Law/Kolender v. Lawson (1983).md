@@ -55,7 +55,7 @@ https://supreme.justia.com/cases/federal/us/461/352/
 [[Sibron v. New York]]
 [[California v. Byers]]
 [[Los Angeles v. Lyons]]
-[[Gomez v. Layton]]
+Gomez v. Layton (N/A)
 [[Michigan v. Summers]]
 [[Miranda v. Arizona]]
 [[United States v. Mazurie]]

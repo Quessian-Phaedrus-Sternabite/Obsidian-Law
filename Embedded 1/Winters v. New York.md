@@ -2,9 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 333 U. S. 507
 
-Link
+https://supreme.justia.com/cases/federal/us/333/507/
 
 ### Summary
 

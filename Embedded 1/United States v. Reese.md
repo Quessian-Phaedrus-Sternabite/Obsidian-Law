@@ -2,9 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 92 U. S. 214
 
-Link
+https://supreme.justia.com/cases/federal/us/92/214/
 
 ### Summary
 

@@ -1,11 +1,10 @@
 ---
 supports: 
-level: 
+level: "1"
 ---
-## 415 U. S. 452
+## 423 U. S. 87
 
-https://supreme.justia.com/cases/federal/us/415/452/
-
+https://supreme.justia.com/cases/federal/us/423/87/
 ### Summary
 
 Summary of case
