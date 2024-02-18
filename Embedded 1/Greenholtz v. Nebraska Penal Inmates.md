@@ -2,7 +2,7 @@
 supports: State
 level: "1"
 ---
-## 442 U.S. 1
+ ## 442 U.S. 1
 
 https://supreme.justia.com/cases/federal/us/442/1/
 
