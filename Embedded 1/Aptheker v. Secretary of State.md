@@ -14,7 +14,8 @@ The supreme court held that section 6 was unconstitutional on its face, due to h
 ### Use
 #### Carter
 A law can be defined as unconstitutional due to vagueness either treading on due process or harming another amendment, and how it can be so vague as to punish people even if they're unaware.
-
+Laws cannot be so broad as to infringe upon rights without limitations.
+The drug-free school--zone act consists of a very similar instance, in which one can have a crime elevated without forewarning.
 ### Embedded
 
 [[Name of embedded]]

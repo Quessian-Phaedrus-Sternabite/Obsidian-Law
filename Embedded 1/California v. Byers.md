@@ -14,7 +14,7 @@ Case was vacated and remanded, as the supreme court said that the possibility of
 ### Use
 
 ### State
-Gives an argument against anything relating to self incrimination and the possibility of criminal involvement. Primary takeaway, however, is that it's still more than fair to punish the respondent (Carter, in this case) even if he's unaware of the use restriction.
+Gives an argument against anything relating to self incrimination and the possibility of criminal involvement. Primary takeaway, however, is that it's still more than fair to punish the respondent (Carter, in this case) even if he's unaware of the use restriction. You can be punished even if not aware.
 
 ### Embedded
 
