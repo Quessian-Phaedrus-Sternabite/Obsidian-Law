@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 421 U. S. 426
@@ -20,4 +20,4 @@ Vagueness doctrine; loitering. Good argument for bad faith as well, maybe.
 
 ### Embedded
 
-[[Name of embedded]]
+[[Steffel v. Thompson]]
