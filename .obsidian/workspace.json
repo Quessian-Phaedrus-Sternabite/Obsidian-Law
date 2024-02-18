@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/State v. Black.md",
+                    "file": "Embedded 1/Gregory v. Chicago.md",
                     "mode": "source",
                     "source": false
                   }
@@ -181,6 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Gregory v. Chicago.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,6 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Gregory v. Chicago.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +220,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Gregory v. Chicago.md"
+              }
             }
           },
           {
@@ -270,9 +274,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "ad12ed656b89eb2b",
   "lastOpenFiles": [
+    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
     "Embedded 1/State v. Black.md",
+    "Embedded 2/Donathan v. McMinn County.md",
     "Embedded 1/State v. King (1982).md",
     "Embedded 1/Baldwin v. New York.md",
     "Embedded 1/Johnson v. State.md",
@@ -296,8 +302,6 @@
     "Embedded 1/Brown v. Texas (1979).md",
     "Embedded 1/Broadrick v. Oklahoma.md",
     "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
-    "Embedded 1/Adams v. William.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
