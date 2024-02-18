@@ -13,7 +13,7 @@ Test for [[Important Quirbs#^ce25e2|Cruel and Unusual Punishment]]:
 * Does the punishment conform with standards of decency?
 * Is the punishment grossly disproportionate?
 * Does it go beyond what is neccessary?
-(See [[State v. Black]]/[[State v. Ramseur]])
+(See [[State v. Black]]/[[State v. Ramseur (1987)]])
 Of note is the fact that this crime "should" have been a Class B felony, first offense (8-12 years), making 20 years grossly disproportionate. Additionally, TN is notably strict on child molestation. However, with new acts, the punishment returns to 5-20 years.
 ### Use
 
@@ -31,7 +31,7 @@ State
 Brinkley v. State (N/A)
 [[Pearson v. State (1975)]]
 [[Cozzolino v. State]]
-[[State v. Ramseur]]
+[[State v. Ramseur (1987)]]
 [[People v. Bullock]]
 [[People v. Lorentzen]]
 [[Cepulonis v. Commonwealth]]
