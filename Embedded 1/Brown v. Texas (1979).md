@@ -15,6 +15,8 @@ The application of the Texas statute to detain appellant and require him to iden
 
 ##### Carter
 This supports Carter by speaking on unreasonable seizure and suspicion, giving us possible basis in the fourth amendment.
+### State
+Does not apply, as it concerns search and seizure, not vagueness.
 
 ### Embedded
 

@@ -10,15 +10,14 @@
           {
             "id": "40a27d551ba5b70e",
             "type": "tabs",
-            "dimension": 61.673151750972764,
             "children": [
               {
-                "id": "096ae906e00263f1",
+                "id": "eeb34986de923c4e",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Cf. Barker v. Wingo.md",
+                    "file": "Embedded 1/State v. Lyons.md",
                     "mode": "source",
                     "source": false
                   }
@@ -29,7 +28,6 @@
           {
             "id": "ce23997badc5cb21",
             "type": "split",
-            "dimension": 38.32684824902724,
             "children": [
               {
                 "id": "d1cbebeedd6c8568",
@@ -54,9 +52,25 @@
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "empty",
-                      "state": {},
+                      "type": "markdown",
+                      "state": {
+                        "file": "Technical/Important Quirbs.md",
+                        "mode": "source",
+                        "source": false
+                      },
                       "pinned": true
+                    }
+                  },
+                  {
+                    "id": "c0c7b15ef5e39228",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Technical/Important Cases.md",
+                        "mode": "source",
+                        "source": false
+                      }
                     }
                   }
                 ]
@@ -111,7 +125,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -134,12 +148,24 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
+          },
+          {
+            "id": "c4644f418c291fc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Case Law/Connally v. General Construction (1926).md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 380
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -155,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Cf. Barker v. Wingo.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Cf. Barker v. Wingo.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Cf. Barker v. Wingo.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,34 +270,35 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 1/Cf. Barker v. Wingo.md",
-    "Cepulonis v. Commonwealth.md",
-    "Embedded 1/California v. Byers.md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
+    "Embedded 1/State v. Lyons.md",
     "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Embedded 1/State v. Ramseur (1987).md",
-    "Grayned v. City of Rockford (1972).md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Davis v. Mississippi.md",
-    "Embedded 1/Cozzolino v. State.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Colautti v. Franklin.md",
+    "Embedded 1/California v. Byers.md",
+    "Embedded 1/Woodson v. North Carolina.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 1/Coates v. City of Cincinnati.md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Embedded 1/City of Chicago v. Morales.md",
+    "Embedded 1/Cepulonis v. Commonwealth.md",
+    "Embedded 1/Cf. Barker v. Wingo.md",
+    "Embedded 2/Hobby v. State.md",
+    "Embedded 1/Brown v. Texas (1979).md",
     "Embedded 1/Broadrick v. Oklahoma.md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
     "Embedded 1/Baldwin v. New York.md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
     "Embedded 1/Adams v. William.md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 1/In re Foss.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
+    "Embedded 1/Kent v. Dulles 1.md",
+    "Embedded 1/State v. Ramseur (1987).md",
+    "Embedded 2/Grayned v. City of Rockford (1972).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Technical",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
