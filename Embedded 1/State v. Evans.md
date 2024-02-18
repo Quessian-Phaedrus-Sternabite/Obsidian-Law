@@ -1,6 +1,6 @@
 ---
 supports: 
-level: 
+level: "1"
 ---
 ## State v. Evans, 73 Idaho at 62, 245 P.2d at 795
 
