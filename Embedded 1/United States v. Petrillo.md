@@ -7,13 +7,12 @@ level: "1"
 https://supreme.justia.com/cases/federal/us/332/1/
 
 ### Summary
+N/A
 
-Summary of case
 
 ### Use
 
-How it may be used and quotes
-
+N/A
 ### Embedded
 
 [[Name of embedded]]
