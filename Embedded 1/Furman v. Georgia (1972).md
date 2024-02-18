@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 408 U.S. 238 (1972)
@@ -14,7 +14,7 @@ https://supreme.justia.com/cases/federal/us/408/238/
 
 ### Use
 
-How it may be used and quotes
+N/A
 
 ### Embedded
 
