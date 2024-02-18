@@ -42,7 +42,7 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 [[Smith v. Allwright]]
 [[Mitchell v. W. T. Grant Co.]]
 [[Burnet v. Coronado Oil & Gas Co.]]
-[[Hodges v. Humkin]]
+Hodges v. Humkin (N/A)
 [[Ingraham v. Wright]]
 [[Furman v. Georgia (1972)]]
 [[Second Trial of Titus Oates]]
