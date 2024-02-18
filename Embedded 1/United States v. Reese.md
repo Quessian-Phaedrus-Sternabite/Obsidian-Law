@@ -4,8 +4,6 @@ level: "1"
 ---
 ## Case Number
 
-## 92 U.S. 
-
 ### Summary
 
 Summary of case
