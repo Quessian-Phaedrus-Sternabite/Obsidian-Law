@@ -13,7 +13,8 @@ Struck down due to [[Important Quirbs#^802bce|vagueness]]
 
 ### Use
 
-How it may be used and quotes
+##### Carter
+Vagueness doctrine. Simple enough.
 
 ### Embedded
 
