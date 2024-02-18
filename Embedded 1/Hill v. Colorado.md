@@ -2,7 +2,7 @@
 supports: 
 level: "1"
 ---
-## 530 U.S. 703
+## 530 U.S. 703 (2000)
 
 https://casetext.com/case/hill-v-colorado#p732
 

@@ -18,38 +18,38 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "file": "Case Law/State v. Burkhart (2001).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "10ab243d55eef981",
+                "id": "04ea90359c8d80ec",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Solem v. Helm (1983).md",
+                    "file": "Embedded 1/State v. Wilkins.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "8ce1a7fba9341ac5",
+                "id": "096ae906e00263f1",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
+                    "file": "Embedded 1/Hill v. Colorado.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "ce23997badc5cb21",
@@ -79,12 +79,8 @@
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Important Quirbs.md",
-                        "mode": "source",
-                        "source": false
-                      },
+                      "type": "empty",
+                      "state": {},
                       "pinned": true
                     }
                   }
@@ -139,7 +135,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "229",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -168,7 +164,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277
+    "width": 378,
+    "collapsed": true
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -184,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
+                "file": "Embedded 1/State v. Wilkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 2/United States v. Pennsylvania R. Co..md",
+                "file": "Embedded 1/State v. Wilkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 2/United States v. Pennsylvania R. Co..md"
+                "file": "Embedded 1/State v. Wilkins.md"
               }
             }
           },
@@ -277,34 +274,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8ce1a7fba9341ac5",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Embedded 2/United States v. Trans-Missouri Freight Association.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Readme.md",
-    "Embedded 2/Kinnane v. Detroit Creamery Co..md",
-    "Embedded 2/Weeds, Inc. v. United States.md",
-    "Embedded 2/Tedrow v. Lewis & Son Co..md",
-    "Embedded 2/Fox v. Washington.md",
-    "Embedded 2/Todd v. United States.md",
-    "Embedded 2/United States v. Brewer.md",
-    "Important Cases.md",
-    "Embedded 2/Fenner v. Boykin.md",
-    "Embedded 2/Dobbin v. Los Angeles.md",
-    "Embedded 2/Ex parte Young.md",
-    "Embedded 2/American Seeding Machine Co. v. Kentucky.md",
-    "Embedded 2/United States v. Pennsylvania R. Co..md",
-    "Case Law/State v. Harris (1992).md",
     "Case Law/State v. Burkhart (2001).md",
+    "Embedded 1/Grayned v. City of Rockford (1972).md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
+    "Readme.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Commonwealth v. Chance.md",
+    "United States v. Winslow.md",
+    "Tozer v. United States.md",
+    "Swift & Co. v. United States.md",
+    "Embedded 2/Loewe v. Lawlor.md",
+    "Hyde v. United States.md",
+    "The Germanic.md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Broadrick v. Oklahoma.md",
+    "Embedded 1/Shuttlesworth v. Birmingham.md",
     "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 2/Whipple v. Martinson.md",
-    "Embedded 2/Perez v. Brownell.md",
-    "Embedded 1/Whitley v. Warden.md",
-    "Embedded 1/United States v. Reese.md",
-    "Embedded 1/United States v. Petrillo.md",
-    "Embedded 1/United States v. National Dairy Products Corp..md",
+    "Embedded 1/Cepulonis v. Commonwealth.md",
+    "Embedded 1/City of Chicago v. Morales.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 1/Collins v. Kentucky.md",
+    "Embedded 1/Cf. Barker v. Wingo.md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

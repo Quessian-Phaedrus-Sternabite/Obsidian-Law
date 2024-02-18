@@ -1,10 +1,10 @@
 ---
-supports: Carter
-level: "1"
+supports: 
+level: "2"
 ---
-## 655 S.W.2D 914
+## 227 U.S. 202
 
-https://casetext.com/case/state-v-wilkins-56#p915
+https://supreme.justia.com/cases/federal/us/227/202/
 
 ### Summary
 

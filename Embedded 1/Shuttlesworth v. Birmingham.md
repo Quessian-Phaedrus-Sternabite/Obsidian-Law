@@ -8,7 +8,7 @@ https://supreme.justia.com/cases/federal/us/382/87/
 
 ### Summary
 
-A group of men stood on a sidewalk when a policeman came walking by and demanded they clear the way. All but one obliged, and the petitioner elected to ask the officer why he needed to move. The officer arrested the petitioner, who was tried and sentenced **without a jury.** (violation of [[Important Quirbs#^f29fc4 |due process]]. 
+A group of men stood on a sidewalk when a policeman came walking by and demanded they clear the way. All but one obliged, and the petitioner elected to ask the officer why he needed to move. The officer arrested the petitioner, who was tried and sentenced **without a jury.** (violation of [[Important Quirbs#^f29fc4 |due process]]. )
 Held:
 	A conviction can be overturned if the base ordinance is unconstitutional
 
