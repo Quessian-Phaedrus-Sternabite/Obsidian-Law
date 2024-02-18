@@ -15,8 +15,7 @@ Not cruel and unusual punishment, [redacted]. You did the crime, you pay the pro
 ### Use
 
 ### State
-Provides a very solid argument against double jeopardy in Carter's case, and also cruel and unusual punishment, if perhaps to a lesser extent.
-
+Provides a very solid argument against cruel and unusual punishment, 
 ### Embedded
 
 [[Name of embedded]]
