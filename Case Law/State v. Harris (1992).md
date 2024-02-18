@@ -29,7 +29,7 @@ State
 [[Rummel v. Estelle]]
 [[Solem v. Helm (1983)]]
 Brinkley v. State (N/A)
-[[Pearson v. State]]
+[[Pearson v. State (1975)]]
 [[Cozzolino v. State]]
 [[State v. Ramseur]]
 [[People v. Bullock]]
