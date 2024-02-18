@@ -3,17 +3,12 @@
     "doShowOrphans": true
   },
   "groups": {
-    "groups": [
-      {
-        "query": "tag:#hub",
-        "color": "#96ff94"
-      }
-    ]
+    "groups": []
   },
   "display": {
     "nodeSize": 4,
     "linkThickness": 5,
-    "particleSize": 11,
+    "particleSize": 6,
     "particleCount": 4
   }
 }

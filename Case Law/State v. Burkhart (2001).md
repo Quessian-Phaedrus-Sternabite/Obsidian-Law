@@ -31,7 +31,7 @@ His defense was that the law prohibited "gambling machines," a definition that p
 [[Smith v. Goguen]]
 [[Davis-Kidd Booksellers, Inc. v. McWherter (1993)]]
 [[Parker v. Levy]]
-[[State v. King]]
+[[State v. King (1982)]]
 [[Coates v. City of Cincinnati]]
 [[Hill v. Colorado]]
 [[Broadrick v. Oklahoma]]
