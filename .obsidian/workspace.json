@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Kolender v. Lawson (1983).md",
+                    "file": "Embedded 1/State v. Ramseur (1987).md",
                     "mode": "source",
                     "source": false
                   }
@@ -181,7 +181,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +197,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -220,9 +218,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Case Law/Kolender v. Lawson (1983).md"
-              }
+              "state": {}
             }
           },
           {
@@ -274,13 +270,24 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "85018905d1c1e912",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
+    "Embedded 1/State v. Ramseur (1987).md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 2/Gorin v. United States.md",
+    "Embedded 2/Hobby v. State.md",
+    "Embedded 1/Brown v. Texas.md",
+    "Embedded 1/Broadrick v. Oklahoma.md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
+    "Embedded 1/Baldwin v. New York.md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
     "Case Law/Solem v. Helm (1983).md",
+    "Case Law/State v. Harris (1992).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Embedded 1/NAACP v. Button.md",
     "Case Law/Kolender v. Lawson (1983).md",
+    "Kent v. Dulles.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Case Law/Connally v. General Construction (1926).md",
     "Case Law/Harmelin v. Michigan (1991).md",
     "Embedded 1/Schneider v. State.md",
@@ -291,17 +298,6 @@
     "Embedded 1/Miranda v. Arizona.md",
     "Embedded 1/Michigan v. Summers.md",
     "Gomez v. Layton.md",
-    "Embedded 1/Los Angeles v. Lyons.md",
-    "Embedded 1/California v. Byers.md",
-    "Embedded 1/Sibron v. New York.md",
-    "Embedded 1/United States v. Mendenhall.md",
-    "Technical/Important Cases.md",
-    "Embedded 1/Florida v. Royer.md",
-    "Embedded 1/Steffel v. Thompson.md",
-    "Readme.md",
-    "Embedded 1/Dunaway v. New York.md",
-    "Embedded 1/United States v. Brignoni-Ponce.md",
-    "Embedded 1/Michigan v. DeFillippo.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
