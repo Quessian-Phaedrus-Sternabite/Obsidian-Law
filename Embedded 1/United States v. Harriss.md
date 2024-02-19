@@ -2,14 +2,14 @@
 supports: State
 level: "1"
 ---
-## 347 U.S. 612
+## 347 U.S. 612 (1954)
 
 https://supreme.justia.com/cases/federal/us/347/612/
 
 %%revisit%%
 ### Summary
 
-The appellees were charged by violating a federal lobbying act, which they claimed was too [[Important Quirbs#^802bce|vague]]. The court refutewd this by saying that the law was clear 
+The appellees were charged by violating a federal lobbying act, which they claimed was too [[Important Quirbs#^802bce|vague]]. The court refuted this by saying that the law was clear 
 
 ### Use
 

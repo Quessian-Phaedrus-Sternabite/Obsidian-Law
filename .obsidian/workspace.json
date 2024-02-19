@@ -29,14 +29,64 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+                    "file": "Embedded 1/NAACP v. Button (1963).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "38bf51c53c06638c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supports State.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "b2b34fe1ad7a34c7",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/State v. Lyons.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "92dadf33ca387d51",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "56fddbafd184fa0b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Case Law/State v. Burkhart (2001).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 3
           },
           {
             "id": "974cacaa9f0b758a",
@@ -85,8 +135,23 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "8d7a051776fe4b90",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Argument for State.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
                   }
-                ]
+                ],
+                "currentTab": 3
               },
               {
                 "id": "f5cba956c09643ef",
@@ -137,7 +202,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"supports\":Carter]",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -174,7 +239,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -194,7 +260,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+                "file": "Embedded 1/State v. Lyons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +277,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+                "file": "Embedded 1/State v. Lyons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +300,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md"
+                "file": "Embedded 1/State v. Lyons.md"
               }
             }
           },
@@ -287,34 +353,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "1326cbc54c48f4ed",
+  "active": "d431aec6b78eee93",
   "lastOpenFiles": [
-    "Case Law/Connally v. General Construction (1926).md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
-    "Embedded 1/Michigan v. Summers.md",
-    "Embedded 1/Michigan v. DeFillippo.md",
-    "Embedded 1/Lovell v. City of Griffin.md",
-    "Embedded 1/Los Angeles v. Lyons.md",
-    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Lazarus v. Faircloth.md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
-    "Embedded 1/Keyishian v. Board of Regents.md",
-    "Embedded 1/Kent v. Dulles.md",
-    "Embedded 1/Johnson v. United States.md",
+    "Embedded 1/State v. King (1982).md",
+    "Embedded 1/State v. Horton.md",
+    "Embedded 1/State v. Guajardo.md",
+    "Embedded 1/State v. Evans.md",
+    "Embedded 1/State v. Des Marets.md",
+    "Embedded 1/State v. Davis.md",
+    "Embedded 1/State v. Black.md",
+    "Embedded 1/State ex rel. Christie v. Meek.md",
+    "Embedded 1/Smith v. State.md",
+    "Embedded 1/Smith v. Florida.md",
+    "Embedded 1/Smith v. Goguen.md",
+    "Embedded 1/United States v. Petrillo.md",
+    "Embedded 1/United States v. Powell.md",
+    "Embedded 1/United States v. Reese.md",
     "Embedded 1/Johnson v. State.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 1/In re Foss.md",
+    "Supports State.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Hutto v. Finney.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Hicks v. District of Columbia.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Readme.md",
-    "Embedded 1/Headley v. Selkowitz.md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Embedded 2/Fox v. Washington.md",
+    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
+    "Embedded 2/Dobbin v. Los Angeles.md",
+    "Embedded 2/Cox v. Louisiana.md",
+    "Embedded 2/Coomer v. United States.md",
+    "Embedded 2/Kinnane v. Detroit Creamery Co..md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 2/Hobby v. State.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
