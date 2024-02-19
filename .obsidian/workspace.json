@@ -84,9 +84,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "c8f6d849c92406af",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supports Carter.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 3
+            "currentTab": 6
           },
           {
             "id": "974cacaa9f0b758a",
@@ -260,7 +272,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/State v. Lyons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -277,7 +288,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/State v. Lyons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -299,9 +309,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/State v. Lyons.md"
-              }
+              "state": {}
             }
           },
           {
@@ -353,8 +361,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d431aec6b78eee93",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Supports Carter.md",
+    "Embedded 1/State v. Lyons.md",
     "Embedded 1/State v. King (1982).md",
     "Embedded 1/State v. Horton.md",
     "Embedded 1/State v. Guajardo.md",
@@ -379,8 +389,6 @@
     "Embedded 2/Cox v. Louisiana.md",
     "Embedded 2/Coomer v. United States.md",
     "Embedded 2/Kinnane v. Detroit Creamery Co..md",
-    "Embedded 2/Frazier v. State.md",
-    "Embedded 2/Hobby v. State.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
