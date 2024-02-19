@@ -2,9 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 428 U. S. 153
 
-Link
+https://supreme.justia.com/cases/federal/us/428/153/
 
 ### Summary
 

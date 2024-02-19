@@ -2,10 +2,9 @@
 supports: 
 level: "1"
 ---
-## 3 Watts & Serg. 184
+## 408 U. S. 471
+https://supreme.justia.com/cases/federal/us/408/471/
 
-https://www.courtlistener.com/opinion/6440486/commonwealth-v-bank-of-pennsylvania/
-Note: Pennsylvania
 ### Summary
 
 Summary of case

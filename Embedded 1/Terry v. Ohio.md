@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 392 U.S. 1 (1968)
@@ -16,7 +16,7 @@ The [[Important Quirbs#^f29fc4|Fourteenth Amendment]] applies to people, not pla
 
 ### Use
 
-How it may be used and quotes
+Very loosely supports Carter- simply reaffirms the 14th.
 
 ### Embedded
 

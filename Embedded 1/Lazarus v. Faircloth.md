@@ -2,10 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 301 F. Supp. 266
 
-Link
-
+https://supreme.justia.com/cases/federal/district-courts/FSupp/301/266/1655938/
 ### Summary
 
 Summary of case
