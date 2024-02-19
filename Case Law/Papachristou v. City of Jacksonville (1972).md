@@ -39,13 +39,13 @@ There are 4 defendants and 8 petitioners in this case. There are Papachristou an
 [[Smith v. State]]
 [[People v. Moss]]
 [[Shuttlesworth v. Birmingham]]
-[[Harvey v. Mississippi]]
+Harvey v. Mississippi
 [[Lazarus v. Faircloth]]
-[[Hawaii v. Anduha]]
+Hawaii v. Anduha
 [[Smith v. Florida]]
 [[Headley v. Selkowitz]]
-[[Ledwith v. Roberts]]
+Ledwith v. Roberts
 [[Hicks v. District of Columbia]]
-[[Hanks v. State]]
+Hanks v. State (N/A)
 [[Johnson v. United States]]
 [[Whitley v. Warden]]

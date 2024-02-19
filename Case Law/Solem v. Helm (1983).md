@@ -33,7 +33,7 @@ How it may be used and quotes
 [[Gregg v. Georgia]]
 [[Trop v. Dulles]]
 [[Dembowski v. State]]
-[[Cannon v. Gladden]]
+[[Cannon v. Gladden (1955)]]
 [[Greenholtz v. Nebraska Penal Inmates]]
 [[Morrissey v. Brewer]]
 [[Connecticut Board of Pardons v. Dumschat]]

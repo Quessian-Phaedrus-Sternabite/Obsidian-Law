@@ -2,9 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 452 U. S. 458
 
-Link
+https://supreme.justia.com/cases/federal/us/452/458/
 
 ### Summary
 

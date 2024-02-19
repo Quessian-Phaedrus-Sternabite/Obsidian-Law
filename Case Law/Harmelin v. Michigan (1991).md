@@ -45,5 +45,5 @@ Essentially, the claim of [[Important Quirbs#^ce25e2|cruel and unusual punishmen
 Hodges v. Humkin (N/A)
 [[Ingraham v. Wright]]
 [[Furman v. Georgia (1972)]]
-[[Second Trial of Titus Oates]]
+Second Trial of Titus Oates (Deep Cut)
 

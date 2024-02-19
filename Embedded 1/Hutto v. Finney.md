@@ -2,9 +2,9 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 437 U.S. 678
 
-Link
+https://supreme.justia.com/cases/federal/us/437/678/#685
 
 ### Summary
 
