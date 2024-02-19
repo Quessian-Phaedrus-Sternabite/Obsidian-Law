@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
+                    "file": "Embedded 1/Herndon v. Lowry.md",
                     "mode": "source",
                     "source": false
                   }
@@ -155,6 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Herndon v. Lowry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,6 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Herndon v. Lowry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -192,7 +194,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Herndon v. Lowry.md"
+              }
             }
           },
           {
@@ -244,8 +248,21 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "d81decc5fc303cb6",
   "lastOpenFiles": [
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Hawaii v. Anduha.md",
+    "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Hanks v. State.md",
+    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
+    "Embedded 1/Florida v. Royer.md",
+    "Embedded 1/Ellis v. Dyson.md",
+    "Embedded 1/Edwards v. California.md",
+    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
+    "Embedded 1/Cozzolino v. State.md",
+    "Embedded 1/Colautti v. Franklin.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Case Law/Solem v. Helm (1983).md",
     "Case Law/State v. Burkhart (2001).md",
@@ -259,19 +276,6 @@
     "Embedded 1/International Harvester Co. v. Kentucky.md",
     "Embedded 1/Johnson v. State.md",
     "Embedded 1/Johnson v. United States.md",
-    "Embedded 1/Kent v. Dulles.md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 1/Hicks v. District of Columbia.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Hawaii v. Anduha.md",
-    "Embedded 1/Harvey v. Mississippi.md",
-    "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Hanks v. State.md",
-    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
-    "Embedded 1/Florida v. Royer.md",
-    "Embedded 1/Ellis v. Dyson.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
