@@ -1,19 +1,11 @@
 ---
-supports: 
+supports: N/A
 level: "1"
 ---
-## Case Number
+## 113 U. S. 33
 
-Link
+https://supreme.justia.com/cases/federal/us/113/33/
 
 ### Summary
 
-Summary of case
-
-### Use
-
-How it may be used and quotes
-
-### Embedded
-
-[[Name of embedded]]
+This is so unbelievably irrelevant.

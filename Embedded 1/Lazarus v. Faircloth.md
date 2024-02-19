@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: State
 level: "1"
 ---
 ## 301 F. Supp. 266
@@ -7,11 +7,11 @@ level: "1"
 https://supreme.justia.com/cases/federal/district-courts/FSupp/301/266/1655938/
 ### Summary
 
-Summary of case
+VAGRANCY. A man vacations and has been arrested no more than 5 times whilst doing so due to vagrancy laws. He contests them on account of vagueness. 
 
 ### Use
 
-How it may be used and quotes
+Very standard laws providing adequate description of prohibited behavior.
 
 ### Embedded
 

@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: State
 level: "1"
 ---
 ## 428 U. S. 153
@@ -8,11 +8,11 @@ https://supreme.justia.com/cases/federal/us/428/153/
 
 ### Summary
 
-Summary of case
+The death penalty may be revived in various states due to a new law being clear on what deserves it.
 
 ### Use
 
-How it may be used and quotes
+The death penalty is [[Important Quirbs#^ce25e2|cruel and unusual]]. It is disproportionate to the crime.
 
 ### Embedded
 

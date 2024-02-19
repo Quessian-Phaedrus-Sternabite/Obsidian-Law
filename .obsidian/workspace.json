@@ -4,29 +4,42 @@
     "type": "split",
     "children": [
       {
-        "id": "44c9d555a607e33d",
+        "id": "d99703226178d3f6",
         "type": "split",
         "children": [
           {
-            "id": "79e5184ea7d31aee",
+            "id": "3c96e0b70172253c",
             "type": "tabs",
             "children": [
               {
-                "id": "d12a65e4cf0626dc",
+                "id": "cc43fabc9cef1e2b",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
+                    "file": "Embedded 1/Hill v. Colorado.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "340387c23985f608",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Los Angeles v. Lyons.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
-            "id": "a5c88fae26563e75",
+            "id": "974cacaa9f0b758a",
             "type": "split",
             "children": [
               {
@@ -76,7 +89,7 @@
                 ]
               },
               {
-                "id": "ef503c497f035150",
+                "id": "f5cba956c09643ef",
                 "type": "tabs",
                 "children": [
                   {
@@ -181,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
+                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
+                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Connecticut Board of Pardons v. Dumschat.md"
+                "file": "Embedded 1/Los Angeles v. Lyons.md"
               }
             }
           },
@@ -274,34 +287,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d12a65e4cf0626dc",
+  "active": "340387c23985f608",
   "lastOpenFiles": [
-    "Embedded 1/Cozzolino v. State.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania (1842).md",
-    "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Embedded 1/Colautti v. Franklin.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 1/Cf. Barker v. Wingo.md",
-    "Embedded 1/Cepulonis v. Commonwealth.md",
-    "Embedded 1/Cannon v. Gladden (1955).md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Adams v. William.md",
-    "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/California v. Byers.md",
-    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
-    "Embedded 1/Brown v. Texas (1979).md",
-    "Embedded 1/Broadrick v. Oklahoma.md",
-    "Embedded 1/Baldwin v. New York.md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
+    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Embedded 1/Los Angeles v. Lyons.md",
     "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Terry v. Ohio.md",
-    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Embedded 1/Davis v. Mississippi.md",
+    "Embedded 1/Lazarus v. Faircloth.md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
+    "Embedded 1/Keyishian v. Board of Regents.md",
+    "Embedded 1/Kent v. Dulles.md",
+    "Embedded 1/Johnson v. United States.md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Ingraham v. Wright.md",
+    "Embedded 1/In re Foss.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/Hutto v. Finney.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Readme.md",
+    "Embedded 1/Lovell v. City of Griffin.md",
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Gregg v. Georgia.md",
+    "Embedded 1/Furman v. Georgia (1972).md",
+    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
