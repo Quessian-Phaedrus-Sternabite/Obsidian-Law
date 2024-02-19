@@ -50,6 +50,42 @@
                 }
               },
               {
+                "id": "7c64b1fe6169fa9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Cozzolino v. State.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "17b7a58094a1c8a2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Pearson v. State (1975).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "672db96031021282",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/State v. Des Marets.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "b2b34fe1ad7a34c7",
                 "type": "leaf",
                 "state": {
@@ -72,33 +108,9 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "56fddbafd184fa0b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Case Law/State v. Burkhart (2001).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c8f6d849c92406af",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Supports Carter.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 4
           },
           {
             "id": "974cacaa9f0b758a",
@@ -251,8 +263,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -272,6 +283,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Pearson v. State (1975).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -288,6 +300,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Pearson v. State (1975).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -309,7 +322,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Pearson v. State (1975).md"
+              }
             }
           },
           {
@@ -361,34 +376,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "17b7a58094a1c8a2",
   "lastOpenFiles": [
-    "Supports Carter.md",
-    "Embedded 1/State v. Lyons.md",
-    "Embedded 1/State v. King (1982).md",
-    "Embedded 1/State v. Horton.md",
-    "Embedded 1/State v. Guajardo.md",
-    "Embedded 1/State v. Evans.md",
     "Embedded 1/State v. Des Marets.md",
-    "Embedded 1/State v. Davis.md",
-    "Embedded 1/State v. Black.md",
-    "Embedded 1/State ex rel. Christie v. Meek.md",
-    "Embedded 1/Smith v. State.md",
-    "Embedded 1/Smith v. Florida.md",
-    "Embedded 1/Smith v. Goguen.md",
-    "Embedded 1/United States v. Petrillo.md",
-    "Embedded 1/United States v. Powell.md",
-    "Embedded 1/United States v. Reese.md",
-    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/State v. Lyons.md",
+    "Embedded 1/Pearson v. State (1975).md",
+    "Embedded 1/Cozzolino v. State.md",
     "Supports State.md",
+    "Embedded 1/Broadrick v. Oklahoma.md",
+    "Embedded 1/Boyce Motor Lines v. United States.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Case Law/State v. Burkhart (2001).md",
+    "Embedded 1/Cannon v. Gladden (1955).md",
+    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
+    "Embedded 1/California v. Byers.md",
+    "Embedded 1/NAACP v. Button (1963).md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+    "Embedded 1/Omaechevarria v. Idaho.md",
+    "Embedded 2/Baltimore Ohio R. Co_. v. _Interstate Commerce Comm'n.md",
+    "Embedded 2/American Seeding Machine Co. v. Kentucky.md",
     "Embedded 2/Fox v. Washington.md",
-    "Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md",
-    "Embedded 2/Dobbin v. Los Angeles.md",
-    "Embedded 2/Cox v. Louisiana.md",
-    "Embedded 2/Coomer v. United States.md",
-    "Embedded 2/Kinnane v. Detroit Creamery Co..md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 2/Hobby v. State.md",
+    "Embedded 1/Johnson v. United States.md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
+    "Embedded 1/Lazarus v. Faircloth.md",
+    "Embedded 1/In re Foss.md",
+    "Case Law/Connally v. General Construction (1926).md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
