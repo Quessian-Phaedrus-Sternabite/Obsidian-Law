@@ -2,13 +2,13 @@
 supports: 
 level: "1"
 ---
-## Case Number
+## 430 U. S. 651
 
-Link
+https://supreme.justia.com/cases/federal/us/430/651/
 
 ### Summary
 
-Summary of case
+Students filed an action saying that paddling in schools was cruel and unusual. The court declined this, as it i
 
 ### Use
 

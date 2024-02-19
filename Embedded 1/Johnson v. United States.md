@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "1"
 ---
 ## 333 U. S. 10
@@ -7,11 +7,11 @@ level: "1"
 https://supreme.justia.com/cases/federal/us/333/10/
 ### Summary
 
-Summary of case
+Officers smelled opium; they proceeded to enter the room, arrest an occupant, and search for drugs paraphernalia. It was *held* that this violated protection from search and seizure. 
 
 ### Use
 
-How it may be used and quotes
+N/A
 
 ### Embedded
 

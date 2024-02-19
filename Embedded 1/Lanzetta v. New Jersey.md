@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 306 U.S. 451
@@ -8,12 +8,14 @@ https://supreme.justia.com/cases/federal/us/306/451/
 
 ### Summary
 
-Summary of case
+Appellants were convicted due to violating gang acts. However, the law is too vague, as it states "two or more people constituting a gang," failing to provide a definition for a gang.   
 
 ### Use
 
-How it may be used and quotes
+"No one may be required, at peril of life, liberty, or property, to speculate as to the meaning of penal statutes." 
 
 ### Embedded
 
-[[Name of embedded]]
+[[Connally v. General Construction (1926)]]
+[[Lovell v. City of Griffin]]
+[[]]
