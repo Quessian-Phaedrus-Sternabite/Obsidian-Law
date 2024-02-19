@@ -14,7 +14,8 @@ In light of [[Rummel v. Estelle]], this was deemed [[Important Quirbs#^ce25e2C|C
 
 ### Use
 
-How it may be used and quotes
+### Carter
+Cruel and unusual punishment for an inordinately small amount of drug; supports Carter pretty heavily.
 
 ### Embedded
 

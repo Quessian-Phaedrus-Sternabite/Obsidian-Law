@@ -18,7 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Hanks v. State.md",
+                    "file": "Case Law/Papachristou v. City of Jacksonville (1972).md",
                     "mode": "source",
                     "source": false
                   }
@@ -155,7 +155,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Hanks v. State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +171,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Hanks v. State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +192,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Hanks v. State.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,34 +244,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d81decc5fc303cb6",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 1/Keyishian v. Board of Regents.md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/In re Foss.md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/Johnson v. United States.md",
+    "Embedded 1/Kent v. Dulles.md",
+    "Embedded 1/Ingraham v. Wright.md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Embedded 1/Headley v. Selkowitz.md",
     "Embedded 1/Hawaii v. Anduha.md",
     "Embedded 1/Harvey v. Mississippi.md",
-    "Embedded 1/Hanks v. State.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Herndon v. Lowry.md",
     "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Hanks v. State.md",
     "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
     "Embedded 1/Furman v. Georgia (1972).md",
     "Embedded 1/Florida v. Royer.md",
     "Embedded 1/Ellis v. Dyson.md",
-    "Embedded 1/Edwards v. California.md",
-    "Technical/Name of embedded.md",
-    "Embedded 1/State v. King (1982).md",
-    "Embedded 1/Dunaway v. New York.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania.md",
-    "Embedded 1/Collins v. Kentucky.md",
-    "Embedded 1/Colautti v. Franklin.md",
-    "Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md",
-    "Embedded 1/Brown v. Texas (1979).md",
-    "Embedded 2/Packard v. Banton (1924).md",
-    "Embedded 2/People v. Atlas.md",
-    "Embedded 2/Perez v. Brownell.md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 1/Cf. Barker v. Wingo.md",
-    "Embedded 1/Cepulonis v. Commonwealth.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
