@@ -24,12 +24,12 @@
                 }
               },
               {
-                "id": "340387c23985f608",
+                "id": "1326cbc54c48f4ed",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Michigan v. DeFillippo.md",
+                    "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
                     "mode": "source",
                     "source": false
                   }
@@ -194,7 +194,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md",
+                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +211,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md",
+                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +234,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md"
+                "file": "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md"
               }
             }
           },
@@ -287,8 +287,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "340387c23985f608",
+  "active": "1326cbc54c48f4ed",
   "lastOpenFiles": [
+    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Millville Imp. Co. v. Pitman, etc., Gas Co..md",
+    "Embedded 1/Michigan v. Summers.md",
+    "Embedded 1/Michigan v. DeFillippo.md",
     "Embedded 1/Lovell v. City of Griffin.md",
     "Embedded 1/Los Angeles v. Lyons.md",
     "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
@@ -306,15 +311,10 @@
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
     "Embedded 1/Hutto v. Finney.md",
     "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Hill v. Colorado.md",
     "Embedded 1/Hicks v. District of Columbia.md",
     "Embedded 1/Herndon v. Lowry.md",
     "Readme.md",
     "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Gregg v. Georgia.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
-    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",

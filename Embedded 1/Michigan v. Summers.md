@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "1"
 ---
 ## 452 U. S. 692
@@ -8,7 +8,7 @@ https://supreme.justia.com/cases/federal/us/452/692/
 
 ### Summary
 
-Summary of case
+N/A. Search and seizure.
 
 ### Use
 
