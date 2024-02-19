@@ -32,5 +32,5 @@ https://supreme.justia.com/cases/federal/us/269/385/
 [[Schmidt v. Kansas City Distilling Co.]]
 [[Woods v. Cochrane and Smith]]
 [[State ex rel. Christie v. Meek]]
-[[Millville Imp. Co. v. Pitman, etc., Gas Co.]]
+Millville Imp. Co. v. Pitman, etc., Gas Co.
 [[Thomas v. Marshfield]]
