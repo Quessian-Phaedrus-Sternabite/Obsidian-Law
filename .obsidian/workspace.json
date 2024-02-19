@@ -4,43 +4,32 @@
     "type": "split",
     "children": [
       {
-        "id": "d99703226178d3f6",
+        "id": "6958bef71b6c53eb",
         "type": "split",
         "children": [
           {
-            "id": "3c96e0b70172253c",
+            "id": "40a27d551ba5b70e",
             "type": "tabs",
+            "dimension": 61.673151750972764,
             "children": [
               {
-                "id": "cc43fabc9cef1e2b",
+                "id": "d81decc5fc303cb6",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Hill v. Colorado.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "340387c23985f608",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Michigan v. DeFillippo.md",
+                    "file": "Embedded 1/Los Angeles v. Lyons.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "974cacaa9f0b758a",
+            "id": "ce23997badc5cb21",
             "type": "split",
+            "dimension": 38.32684824902724,
             "children": [
               {
                 "id": "d1cbebeedd6c8568",
@@ -65,31 +54,15 @@
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Technical/Important Quirbs.md",
-                        "mode": "source",
-                        "source": false
-                      },
+                      "type": "empty",
+                      "state": {},
                       "pinned": true
-                    }
-                  },
-                  {
-                    "id": "c0c7b15ef5e39228",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Technical/Important Cases.md",
-                        "mode": "source",
-                        "source": false
-                      }
                     }
                   }
                 ]
               },
               {
-                "id": "f5cba956c09643ef",
+                "id": "17f9b420e93e47f0",
                 "type": "tabs",
                 "children": [
                   {
@@ -138,7 +111,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": true,
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -161,24 +134,12 @@
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
               "state": {}
             }
-          },
-          {
-            "id": "c4644f418c291fc3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Case Law/Connally v. General Construction (1926).md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 380
+    "width": 378
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -194,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md",
+                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -211,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md",
+                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -234,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Michigan v. DeFillippo.md"
+                "file": "Embedded 1/Los Angeles v. Lyons.md"
               }
             }
           },
@@ -270,7 +231,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 465
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -287,35 +248,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "340387c23985f608",
+  "active": "d81decc5fc303cb6",
   "lastOpenFiles": [
-    "Embedded 1/Lovell v. City of Griffin.md",
-    "Embedded 1/Los Angeles v. Lyons.md",
-    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
-    "Case Law/Kolender v. Lawson (1983).md",
     "Embedded 1/Lewis v. City of New Orleans.md",
+    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
+    "Embedded 1/Los Angeles v. Lyons.md",
+    "Embedded 1/Lovell v. City of Griffin.md",
     "Embedded 1/Lazarus v. Faircloth.md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
     "Embedded 1/Keyishian v. Board of Regents.md",
-    "Embedded 1/Kent v. Dulles.md",
-    "Embedded 1/Johnson v. United States.md",
     "Embedded 1/Johnson v. State.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 1/In re Foss.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Hutto v. Finney.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Hicks v. District of Columbia.md",
     "Embedded 1/Herndon v. Lowry.md",
-    "Readme.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Payne v. Tennessee.md",
+    "Embedded 1/Morrissey v. Brewer.md",
+    "Embedded 1/Hutto v. Finney.md",
     "Embedded 1/Gregg v. Georgia.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
+    "Embedded 1/Dembowski v. State.md",
+    "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
+    "Embedded 1/Commonwealth v. Bank of Pennsylvania (1842).md",
+    "Embedded 1/Cannon v. Gladden (1955).md",
+    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Embedded 1/Hicks v. District of Columbia.md",
+    "Embedded 1/Hawaii v. Anduha.md",
+    "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Hanks v. State.md",
     "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
-    "Technical",
+    "Embedded 1/Florida v. Royer.md",
+    "Embedded 1/Ellis v. Dyson.md",
+    "Embedded 1/Edwards v. California.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
