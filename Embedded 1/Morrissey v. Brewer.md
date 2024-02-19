@@ -1,17 +1,18 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
 ## 408 U. S. 471
+
 https://supreme.justia.com/cases/federal/us/408/471/
 
 ### Summary
 
-Summary of case
+Parole can be vague and overbearing.
 
 ### Use
 
-How it may be used and quotes
+Slight Carter, as it concerns itself with parole being vague. A legal action must provide notice of violations.
 
 ### Embedded
 
