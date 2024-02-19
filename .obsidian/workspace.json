@@ -17,7 +17,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Gregory v. Chicago.md",
+                    "file": "Embedded 1/Hanks v. State.md",
                     "mode": "source",
                     "source": false
                   }
@@ -181,7 +181,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Gregory v. Chicago.md",
+                "file": "Embedded 1/Hanks v. State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +198,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Gregory v. Chicago.md",
+                "file": "Embedded 1/Hanks v. State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +221,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Gregory v. Chicago.md"
+                "file": "Embedded 1/Hanks v. State.md"
               }
             }
           },
@@ -276,6 +276,7 @@
   },
   "active": "ad12ed656b89eb2b",
   "lastOpenFiles": [
+    "Embedded 1/Gregory v. Chicago.md",
     "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
     "Embedded 1/State v. Black.md",
     "Embedded 2/Donathan v. McMinn County.md",
@@ -301,7 +302,6 @@
     "Embedded 2/Hobby v. State.md",
     "Embedded 1/Brown v. Texas (1979).md",
     "Embedded 1/Broadrick v. Oklahoma.md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",
