@@ -18,19 +18,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/State v. Burkhart (2001).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "04ea90359c8d80ec",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/State v. Wilkins.md",
+                    "file": "Embedded 1/Lanzetta v. New Jersey.md",
                     "mode": "source",
                     "source": false
                   }
@@ -47,9 +35,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "d2b18cde6f723fd6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Aptheker v. Secretary of State.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           },
           {
             "id": "ce23997badc5cb21",
@@ -75,16 +75,21 @@
                     }
                   },
                   {
-                    "id": "cc660b720783ad19",
+                    "id": "04ea90359c8d80ec",
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "empty",
-                      "state": {},
+                      "type": "markdown",
+                      "state": {
+                        "file": "Supports Carter.md",
+                        "mode": "source",
+                        "source": false
+                      },
                       "pinned": true
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "17f9b420e93e47f0",
@@ -164,8 +169,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 378,
-    "collapsed": true
+    "width": 291
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -181,7 +185,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/State v. Wilkins.md",
+                "file": "Embedded 1/Aptheker v. Secretary of State.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -198,7 +202,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/State v. Wilkins.md",
+                "file": "Embedded 1/Aptheker v. Secretary of State.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -221,7 +225,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/State v. Wilkins.md"
+                "file": "Embedded 1/Aptheker v. Secretary of State.md"
               }
             }
           },
@@ -274,8 +278,20 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "04ea90359c8d80ec",
+  "active": "d2b18cde6f723fd6",
   "lastOpenFiles": [
+    "Supports Carter.md",
+    "Embedded 1/Terry v. Ohio.md",
+    "Embedded 1/Weems v. United States.md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Readme.md",
+    "Embedded 1/State v. Wilkins.md",
+    "Supports State.md",
+    "Embedded 1/NAACP v. Button (1963).md",
+    "Argument for State.md",
     "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
     "Embedded 1/Cannon v. Gladden (1955).md",
     "Embedded 1/California v. Byers.md",
@@ -290,18 +306,6 @@
     "Embedded 1/Gregg v. Georgia.md",
     "Embedded 1/Kent v. Dulles.md",
     "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Hutto v. Finney.md",
-    "Embedded 1/Keyishian v. Board of Regents.md",
-    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
-    "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Los Angeles v. Lyons.md",
-    "Embedded 1/Lovell v. City of Griffin.md",
-    "Embedded 1/Michigan v. Summers.md",
-    "Embedded 1/Michigan v. DeFillippo.md",
-    "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
-    "Embedded 1/Miranda v. Arizona.md",
-    "Embedded 1/Mitchell v. W. T. Grant Co..md",
-    "Embedded 1/Morrissey v. Brewer.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
