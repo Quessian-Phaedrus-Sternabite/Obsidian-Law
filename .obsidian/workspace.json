@@ -59,7 +59,8 @@
                       "pinned": true
                     }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "17f9b420e93e47f0",
@@ -155,7 +156,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +172,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Los Angeles v. Lyons.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,9 +193,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Los Angeles v. Lyons.md"
-              }
+              "state": {}
             }
           },
           {
@@ -248,11 +245,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d81decc5fc303cb6",
+  "active": "cc660b720783ad19",
   "lastOpenFiles": [
+    "Embedded 1/Los Angeles v. Lyons.md",
     "Embedded 1/Lewis v. City of New Orleans.md",
     "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
-    "Embedded 1/Los Angeles v. Lyons.md",
     "Embedded 1/Lovell v. City of Griffin.md",
     "Embedded 1/Lazarus v. Faircloth.md",
     "Embedded 1/Keyishian v. Board of Regents.md",
