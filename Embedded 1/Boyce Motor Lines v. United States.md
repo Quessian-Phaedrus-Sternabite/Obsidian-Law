@@ -2,7 +2,7 @@
 supports: State
 level: "1"
 ---
-## 342 U.S. 337
+## 342 U.S. 337 (1952)
 
 https://casetext.com/case/boyce-motor-lines-v-united-states#p340
 

@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "1"
 ---
 ##  332 U. S. 1
