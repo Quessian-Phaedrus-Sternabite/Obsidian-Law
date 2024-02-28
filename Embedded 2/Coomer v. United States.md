@@ -4,7 +4,7 @@ level: "2"
 ---
 ## 213 F. 1, 5
 
-Coming up blank
+https://casetext.com/case/coomer-v-united-states#p5
 
 ### Summary
 

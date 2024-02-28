@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "1"
 ---
 ## 430 U. S. 651

@@ -2,7 +2,7 @@
 supports: Carter
 level: "1"
 ---
-## 306 U.S. 451
+## 306 U.S. 451 (1939)
 
 https://supreme.justia.com/cases/federal/us/306/451/
 

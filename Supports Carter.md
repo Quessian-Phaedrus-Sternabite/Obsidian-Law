@@ -17,7 +17,7 @@
 [[Headley v. Selkowitz]]
 [[Herndon v. Lowry]]
 [[Hutto v. Davis]]
-[[International Harvester Co. v. Kentucky]]
+[[International Harvester Co. v. Kentucky (1914)]]
 [[Kent v. Dulles]]
 [[Keyishian v. Board of Regents]]
 [[Kolender v. Lawson (1983)]]

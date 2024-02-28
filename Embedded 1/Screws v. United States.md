@@ -13,7 +13,7 @@ Officers arrested and beat an African-American citizen to death. The officers ap
 
 ### Use
 
-* Carter - This case, simply put, is non-applicable. The law was clear and easy to understand, provided one has read the Fourteenth Amendment, which is freely available. **It does not require on-the-spot decisions** (see [[International Harvester Co. v. Kentucky]])
+* Carter - This case, simply put, is non-applicable. The law was clear and easy to understand, provided one has read the Fourteenth Amendment, which is freely available. **It does not require on-the-spot decisions** (see [[International Harvester Co. v. Kentucky (1914)]])
 * State -  These two cases are extremely similar. In both Screws and the case at bar, the law provides comprehensible definitions. Both laws/acts provide a clear, easy to understand definition. Both are *not vague*. 
 
 ### Embedded

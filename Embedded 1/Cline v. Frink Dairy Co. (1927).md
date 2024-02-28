@@ -29,7 +29,7 @@ How it may be used and quotes
 [[United States v. Reese]]
 [[United States v. Brewer]]
 [[Todd v. United States]]
-[[International Harvester Co. v. Kentucky]]
+[[International Harvester Co. v. Kentucky (1914)]]
 [[Collins v. Kentucky]]
 [[American Seeding Machine Co. v. Kentucky]]
 _United States v. Sharp,_ 27 Fed.Cas. 1041, 1043, No. 16,264; 
