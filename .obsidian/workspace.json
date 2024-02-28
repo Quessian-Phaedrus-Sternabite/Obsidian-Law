@@ -10,7 +10,7 @@
           {
             "id": "40a27d551ba5b70e",
             "type": "tabs",
-            "dimension": 61.673151750972764,
+            "dimension": 62.437562437562434,
             "children": [
               {
                 "id": "7b27620f6896e1ca",
@@ -35,26 +35,14 @@
                     "source": false
                   }
                 }
-              },
-              {
-                "id": "d2b18cde6f723fd6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Aptheker v. Secretary of State.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
               }
             ],
-            "currentTab": 2
+            "currentTab": 1
           },
           {
             "id": "ce23997badc5cb21",
             "type": "split",
-            "dimension": 38.32684824902724,
+            "dimension": 37.56243756243756,
             "children": [
               {
                 "id": "d1cbebeedd6c8568",
@@ -185,7 +173,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Aptheker v. Secretary of State.md",
+                "file": "Embedded 1/Hill v. Colorado.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -202,7 +190,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Aptheker v. Secretary of State.md",
+                "file": "Embedded 1/Hill v. Colorado.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -225,7 +213,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Aptheker v. Secretary of State.md"
+                "file": "Embedded 1/Hill v. Colorado.md"
               }
             }
           },
@@ -278,8 +266,10 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d2b18cde6f723fd6",
+  "active": "096ae906e00263f1",
   "lastOpenFiles": [
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
     "Supports Carter.md",
     "Embedded 1/Terry v. Ohio.md",
     "Embedded 1/Weems v. United States.md",
@@ -304,8 +294,6 @@
     "Embedded 1/Ellis v. Dyson.md",
     "Embedded 1/Florida v. Royer.md",
     "Embedded 1/Gregg v. Georgia.md",
-    "Embedded 1/Kent v. Dulles.md",
-    "Embedded 1/Gregory v. Chicago.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
