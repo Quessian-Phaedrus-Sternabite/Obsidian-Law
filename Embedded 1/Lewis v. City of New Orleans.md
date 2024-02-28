@@ -1,8 +1,8 @@
 ---
-supports: 
+supports: Carter
 level: "1"
 ---
-##  415 U. S. 130
+##  # 415 U.S. 130 (1974)
 
 https://supreme.justia.com/cases/federal/us/415/130/
 

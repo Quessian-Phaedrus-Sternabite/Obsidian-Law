@@ -79,38 +79,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/State v. Des Marets.md",
+                    "file": "Supports Carter.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               },
               {
-                "id": "b2b34fe1ad7a34c7",
+                "id": "503967b0951ebfc2",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/State v. Lyons.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "92dadf33ca387d51",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+                    "file": "Case Law/Solem v. Helm (1983).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "974cacaa9f0b758a",
@@ -226,7 +214,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"supports\":Carter]",
+                "query": "100",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -283,7 +271,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Pearson v. State (1975).md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -300,7 +288,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Pearson v. State (1975).md",
+                "file": "Case Law/Solem v. Helm (1983).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -323,7 +311,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Pearson v. State (1975).md"
+                "file": "Case Law/Solem v. Helm (1983).md"
               }
             }
           },
@@ -376,34 +364,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "17b7a58094a1c8a2",
+  "active": "503967b0951ebfc2",
   "lastOpenFiles": [
-    "Embedded 1/State v. Des Marets.md",
-    "Embedded 1/State v. Lyons.md",
-    "Embedded 1/Pearson v. State (1975).md",
-    "Embedded 1/Cozzolino v. State.md",
-    "Supports State.md",
-    "Embedded 1/Broadrick v. Oklahoma.md",
-    "Embedded 1/Boyce Motor Lines v. United States.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Cannon v. Gladden (1955).md",
-    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
-    "Embedded 1/California v. Byers.md",
-    "Embedded 1/NAACP v. Button (1963).md",
-    "Embedded 1/Hicks v. District of Columbia.md",
-    "Embedded 1/Johnson v. State.md",
-    "Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
-    "Embedded 1/Omaechevarria v. Idaho.md",
-    "Embedded 2/Baltimore Ohio R. Co_. v. _Interstate Commerce Comm'n.md",
-    "Embedded 2/American Seeding Machine Co. v. Kentucky.md",
-    "Embedded 2/Fox v. Washington.md",
-    "Embedded 2/Frazier v. State.md",
-    "Embedded 2/Hobby v. State.md",
-    "Embedded 1/Johnson v. United States.md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Embedded 2/Coomer v. United States.md",
+    "Embedded 1/Weems v. United States.md",
+    "Supports Carter.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Morrissey v. Brewer.md",
+    "Embedded 1/Furman v. Georgia (1972).md",
     "Embedded 1/Lanzetta v. New Jersey.md",
-    "Embedded 1/Lazarus v. Faircloth.md",
+    "Embedded 1/Kent v. Dulles.md",
+    "Embedded 1/Davis v. Mississippi.md",
+    "Embedded 1/Lewis v. City of New Orleans.md",
+    "Embedded 1/Los Angeles v. Lyons.md",
+    "Embedded 1/NAACP v. Button (1963).md",
+    "Embedded 1/Nash v. United States (!).md",
+    "Embedded 1/Colautti v. Franklin.md",
+    "Embedded 1/Brown v. Texas (1979).md",
+    "Embedded 1/Dunaway v. New York.md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
+    "Embedded 1/Ingraham v. Wright.md",
     "Embedded 1/In re Foss.md",
-    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/Hutto v. Finney.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
+    "Embedded 1/State v. Des Marets.md",
     "Technical",
     "TN Codes or Laws",
     "Embedded 2",

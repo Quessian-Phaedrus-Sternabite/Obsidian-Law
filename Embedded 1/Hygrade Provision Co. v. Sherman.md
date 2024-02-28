@@ -2,7 +2,7 @@
 supports: State
 level: "1"
 ---
-Verd## 266 U.S. 497
+## 266 U.S. 497
 
 https://supreme.justia.com/cases/federal/us/266/497/
 

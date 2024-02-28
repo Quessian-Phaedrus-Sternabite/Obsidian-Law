@@ -17,7 +17,7 @@ https://supreme.justia.com/cases/federal/us/269/385/
 	* Technically, this law is vague, whereas "1000 feet of a school" is specific. 
 
 ### Embedded
-[[International Harvester Co. v. Kentucky]]
+[[International Harvester Co. v. Kentucky (1914)]]
 [[Collins v. Kentucky]]
 [[Hygrade Provision Co. v. Sherman]]
 [[Omaechevarria v. Idaho]]

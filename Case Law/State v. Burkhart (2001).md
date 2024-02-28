@@ -14,7 +14,7 @@ His defense was that the law prohibited "gambling machines," a definition that p
 
 ### Use
 * Carter
-	* As other cases have shown ([[Connally v. General Construction (1926)]], [[International Harvester Co. v. Kentucky]]), vagueness refers to when it is hard or impossible for a person to determine what is meant by parameters. Gambling machines is a *clear*, rigid definition, that can easily be determined by anyone with the definition. Conversely, 1000 feet, while specific, is hard to be determined.
+	* As other cases have shown ([[Connally v. General Construction (1926)]], [[International Harvester Co. v. Kentucky (1914)]]), vagueness refers to when it is hard or impossible for a person to determine what is meant by parameters. Gambling machines is a *clear*, rigid definition, that can easily be determined by anyone with the definition. Conversely, 1000 feet, while specific, is hard to be determined.
 * State
 	* The court ruled that even the vague term "gambling machine" is perfectly clear. 1000 feet is stricter, and very clearly delineates an area.
 
