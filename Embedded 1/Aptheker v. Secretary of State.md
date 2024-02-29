@@ -18,4 +18,4 @@ Laws cannot be so broad as to infringe upon rights without limitations.
 The drug-free school--zone act consists of a very similar instance, in which one can have a crime elevated without forewarning.
 ### Embedded
 
-[[Name of embedded]]
+[[Name of embedded]]**

@@ -10,7 +10,7 @@
           {
             "id": "40a27d551ba5b70e",
             "type": "tabs",
-            "dimension": 62.437562437562434,
+            "dimension": 43.756243756243755,
             "children": [
               {
                 "id": "7b27620f6896e1ca",
@@ -30,73 +30,67 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Hill v. Colorado.md",
+                    "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "9dc9fef7bc68d20e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Terry v. Ohio.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "43c50ace5e85a4ef",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Headley v. Selkowitz.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "e2cad9e42a0d77b6",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Case Law/State v. Hinsley (1982).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 1
+            "currentTab": 4
           },
           {
-            "id": "ce23997badc5cb21",
-            "type": "split",
-            "dimension": 37.56243756243756,
+            "id": "17f9b420e93e47f0",
+            "type": "tabs",
+            "dimension": 56.24375624375625,
             "children": [
               {
-                "id": "d1cbebeedd6c8568",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "96a0e224cfc25e5c",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Readme.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "04ea90359c8d80ec",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Supports Carter.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  }
-                ],
-                "currentTab": 1
-              },
-              {
-                "id": "17f9b420e93e47f0",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "8dad60c80133c474",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true
-                    }
-                  }
-                ]
+                "id": "8dad60c80133c474",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           }
         ],
         "direction": "vertical"
@@ -128,7 +122,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "death",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -173,7 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Hill v. Colorado.md",
+                "file": "Case Law/State v. Hinsley (1982).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -190,7 +184,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Hill v. Colorado.md",
+                "file": "Case Law/State v. Hinsley (1982).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -213,7 +207,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/Hill v. Colorado.md"
+                "file": "Case Law/State v. Hinsley (1982).md"
               }
             }
           },
@@ -266,34 +260,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "096ae906e00263f1",
+  "active": "e2cad9e42a0d77b6",
   "lastOpenFiles": [
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
-    "Supports Carter.md",
-    "Embedded 1/Terry v. Ohio.md",
-    "Embedded 1/Weems v. United States.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Cepulonis v. Commonwealth.md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Embedded 1/Michigan v. DeFillippo.md",
+    "Embedded 1/Brown v. Texas (1979).md",
+    "Case Law/U.S. v. McDonald (1993).md",
+    "Case Law/State v. Hinsley (1982).md",
+    "Case Law/State v. Jenkins (1999).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/State v. Harris (1992).md",
+    "Untitled.md",
     "Readme.md",
-    "Embedded 1/State v. Wilkins.md",
-    "Supports State.md",
-    "Embedded 1/NAACP v. Button (1963).md",
-    "Argument for State.md",
-    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
-    "Embedded 1/Cannon v. Gladden (1955).md",
-    "Embedded 1/California v. Byers.md",
-    "Embedded 1/Colautti v. Franklin.md",
-    "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania (1842).md",
-    "Embedded 1/Davis v. Mississippi.md",
-    "Embedded 1/Dunaway v. New York.md",
-    "Embedded 1/Dembowski v. State.md",
-    "Embedded 1/Ellis v. Dyson.md",
-    "Embedded 1/Florida v. Royer.md",
+    "Case Law/Solem v. Helm (1983).md",
     "Embedded 1/Gregg v. Georgia.md",
+    "Embedded 1/Furman v. Georgia (1972).md",
+    "Embedded 1/Cozzolino v. State.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 2/Donathan v. McMinn County.md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Embedded 1/In re Foss.md",
+    "Embedded 1/Lewis v. City of New Orleans.md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Terry v. Ohio.md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Supports Carter.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
