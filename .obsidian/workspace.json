@@ -90,7 +90,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Johnson v. United States.md",
+                    "file": "Embedded 1/Weems v. United States.md",
                     "mode": "source",
                     "source": false
                   }
@@ -146,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communis",
+                "query": "Weems",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -171,7 +171,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -191,6 +192,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Embedded 1/Weems v. United States.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +209,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Embedded 1/Weems v. United States.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +231,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Embedded 1/Weems v. United States.md"
+              }
             }
           },
           {
@@ -280,11 +285,26 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "c50b9b10d10b706d",
   "lastOpenFiles": [
-    "Embedded 1/Johnson v. United States.md",
+    "Embedded 1/Terry v. Ohio.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Lewis v. City of New Orleans.md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
+    "Case Law/Kolender v. Lawson (1983).md",
+    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
+    "Embedded 1/In re Foss.md",
+    "Supports Carter.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Supports State.md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Colautti v. Franklin.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
     "Embedded 1/Aptheker v. Secretary of State.md",
+    "Embedded 1/Johnson v. United States.md",
     "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
     "Technical/Important Quirbs.md",
     "Embedded 1/Rummel v. Estelle.md",
@@ -292,22 +312,7 @@
     "Embedded 2/Hobby v. State.md",
     "Embedded 2/Frazier v. State.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
     "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
-    "Embedded 1/Broadrick v. Oklahoma.md",
-    "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-    "Case Law/State v. Hinsley (1982).md",
-    "Embedded 1/Cepulonis v. Commonwealth.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Michigan v. DeFillippo.md",
-    "Embedded 1/Brown v. Texas (1979).md",
-    "Case Law/U.S. v. McDonald (1993).md",
-    "Case Law/State v. Jenkins (1999).md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Untitled.md",
-    "Readme.md",
-    "Case Law/Solem v. Helm (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

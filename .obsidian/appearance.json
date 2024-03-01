@@ -6,5 +6,6 @@
   ],
   "textFontFamily": "",
   "baseFontSize": 14,
-  "interfaceFontFamily": ""
+  "interfaceFontFamily": "",
+  "theme": "obsidian"
 }
