@@ -102,14 +102,26 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 2/Grayned v. City of Rockford (1972).md",
+                    "file": "Embedded 1/Screws v. United States.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "ffef38f6d9b1c338",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/State v. Black.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 7
+            "currentTab": 8
           },
           {
             "id": "480bbc16bbb2740a",
@@ -230,7 +242,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 2/Grayned v. City of Rockford (1972).md",
+                "file": "Embedded 1/State v. Black.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +259,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 2/Grayned v. City of Rockford (1972).md",
+                "file": "Embedded 1/State v. Black.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -270,7 +282,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 2/Grayned v. City of Rockford (1972).md"
+                "file": "Embedded 1/State v. Black.md"
               }
             }
           },
@@ -323,8 +335,19 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d4044e01dadf27e6",
+  "active": "ffef38f6d9b1c338",
   "lastOpenFiles": [
+    "Embedded 1/Screws v. United States.md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 1/State v. King (1982).md",
+    "Embedded 1/State v. Black.md",
+    "Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
+    "Embedded 1/United States v. Harriss.md",
+    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 2/Hyde v. United States.md",
+    "Embedded 2/Grayned v. City of Rockford (1972).md",
     "Case Law/U.S. v. McDonald (1993).md",
     "Case Law/State v. Hinsley (1982).md",
     "Brown v. United States.md",
@@ -340,17 +363,6 @@
     "Technical/Important Quirbs.md",
     "Embedded 1/Rummel v. Estelle.md",
     "Embedded 1/Weems v. United States.md",
-    "Embedded 2/Hobby v. State.md",
-    "Embedded 2/Frazier v. State.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
-    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
-    "Embedded 1/Broadrick v. Oklahoma.md",
-    "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-    "Embedded 1/Cepulonis v. Commonwealth.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Michigan v. DeFillippo.md",
-    "Embedded 1/Brown v. Texas (1979).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",

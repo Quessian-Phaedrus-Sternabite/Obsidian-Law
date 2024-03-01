@@ -2,7 +2,7 @@
 supports: State
 level: "1"
 ---
-## 325 U. S. 91
+## 325 U. S. 91 (1945)
 
 https://supreme.justia.com/cases/federal/us/325/91/
 
