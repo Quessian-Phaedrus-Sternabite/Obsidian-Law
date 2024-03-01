@@ -10,7 +10,7 @@
           {
             "id": "40a27d551ba5b70e",
             "type": "tabs",
-            "dimension": 43.756243756243755,
+            "dimension": 56.4870259481038,
             "children": [
               {
                 "id": "7b27620f6896e1ca",
@@ -66,19 +66,43 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Case Law/State v. Hinsley (1982).md",
+                    "file": "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "615d21c02e74fb8d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Rummel v. Estelle.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "c50b9b10d10b706d",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Embedded 1/Johnson v. United States.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 4
+            "currentTab": 6
           },
           {
             "id": "17f9b420e93e47f0",
             "type": "tabs",
-            "dimension": 56.24375624375625,
+            "dimension": 43.51297405189621,
             "children": [
               {
                 "id": "8dad60c80133c474",
@@ -122,7 +146,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "death",
+                "query": "communis",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -167,7 +191,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/State v. Hinsley (1982).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -184,7 +207,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/State v. Hinsley (1982).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -206,9 +228,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Case Law/State v. Hinsley (1982).md"
-              }
+              "state": {}
             }
           },
           {
@@ -260,34 +280,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "e2cad9e42a0d77b6",
+  "active": "8dad60c80133c474",
   "lastOpenFiles": [
+    "Embedded 1/Johnson v. United States.md",
+    "Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
+    "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "Technical/Important Quirbs.md",
+    "Embedded 1/Rummel v. Estelle.md",
+    "Embedded 1/Weems v. United States.md",
+    "Embedded 2/Hobby v. State.md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
+    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
+    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
+    "Embedded 1/Broadrick v. Oklahoma.md",
+    "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "Case Law/State v. Hinsley (1982).md",
     "Embedded 1/Cepulonis v. Commonwealth.md",
     "Embedded 1/Herndon v. Lowry.md",
     "Embedded 1/Michigan v. DeFillippo.md",
     "Embedded 1/Brown v. Texas (1979).md",
     "Case Law/U.S. v. McDonald (1993).md",
-    "Case Law/State v. Hinsley (1982).md",
     "Case Law/State v. Jenkins (1999).md",
     "Case Law/State v. Burkhart (2001).md",
     "Case Law/State v. Harris (1992).md",
     "Untitled.md",
     "Readme.md",
     "Case Law/Solem v. Helm (1983).md",
-    "Embedded 1/Gregg v. Georgia.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
-    "Embedded 1/Cozzolino v. State.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 2/Donathan v. McMinn County.md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "Embedded 1/In re Foss.md",
-    "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/Terry v. Ohio.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Supports Carter.md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
