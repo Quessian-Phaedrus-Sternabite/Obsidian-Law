@@ -12,7 +12,7 @@ Summary of case
 
 ### Use
 
-How it may be used and quotes
+Superseded by [[Aptheker v. Secretary of State]]
 
 ### Embedded
 

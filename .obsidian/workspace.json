@@ -95,9 +95,21 @@
                     "source": false
                   }
                 }
+              },
+              {
+                "id": "66072331de3595ff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Cramp v. Board of Public Instruction.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
               }
             ],
-            "currentTab": 6
+            "currentTab": 7
           },
           {
             "id": "480bbc16bbb2740a",
@@ -218,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Case Law/State v. Hinsley (1982).md",
+                "file": "Cramp v. Board of Public Instruction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -235,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Case Law/State v. Hinsley (1982).md",
+                "file": "Cramp v. Board of Public Instruction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -258,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Case Law/State v. Hinsley (1982).md"
+                "file": "Cramp v. Board of Public Instruction.md"
               }
             }
           },
@@ -311,11 +323,11 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "c50b9b10d10b706d",
+  "active": "66072331de3595ff",
   "lastOpenFiles": [
+    "Case Law/State v. Hinsley (1982).md",
     "United States v. Spector.md",
     "Readme.md",
-    "Case Law/State v. Hinsley (1982).md",
     "Cramp v. Board of Public Instruction.md",
     "Ellenberg v. State.md",
     "Embedded 1/Johnson v. United States.md",
