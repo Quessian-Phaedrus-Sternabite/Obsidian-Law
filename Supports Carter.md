@@ -1,4 +1,4 @@
-s#hidden 
+#hidden 
 [[Aptheker v. Secretary of State]]
 [[Brown v. Texas (1979)]]
 [[City of Chicago v. Morales]]
