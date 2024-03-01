@@ -2,9 +2,9 @@
 supports: 
 level: Base
 ---
-## Case Number
+## 627 S.W.2d 351 (1982)
 
-Link
+https://law.justia.com/cases/tennessee/supreme-court/1982/627-s-w-2d-351-2.html
 
 ### Summary
 
@@ -16,4 +16,8 @@ How it may be used and quotes
 
 ### Embedded
 
-[[Name of embedded]]
+[[United States v. Harriss]]
+[[Ellenberg v. State]]
+[[Cramp v. Board of Public Instruction]]
+[[United States v. Spector]]
+[[Papachristou v. City of Jacksonville (1972)]]

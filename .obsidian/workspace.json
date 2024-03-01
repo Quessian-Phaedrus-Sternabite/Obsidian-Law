@@ -90,7 +90,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Johnson v. United States.md",
+                    "file": "Case Law/State v. Hinsley (1982).md",
                     "mode": "source",
                     "source": false
                   }
@@ -100,21 +100,48 @@
             "currentTab": 6
           },
           {
-            "id": "17f9b420e93e47f0",
-            "type": "tabs",
+            "id": "480bbc16bbb2740a",
+            "type": "split",
             "dimension": 43.51297405189621,
             "children": [
               {
-                "id": "8dad60c80133c474",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true
-                }
+                "id": "2dfb73b200020366",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0e2a685063a8be60",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Readme.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "17f9b420e93e47f0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8dad60c80133c474",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
               }
-            ]
+            ],
+            "direction": "horizontal"
           }
         ],
         "direction": "vertical"
@@ -191,6 +218,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Case Law/State v. Hinsley (1982).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,6 +235,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Case Law/State v. Hinsley (1982).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +257,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Case Law/State v. Hinsley (1982).md"
+              }
             }
           },
           {
@@ -280,8 +311,13 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "c50b9b10d10b706d",
   "lastOpenFiles": [
+    "United States v. Spector.md",
+    "Readme.md",
+    "Case Law/State v. Hinsley (1982).md",
+    "Cramp v. Board of Public Instruction.md",
+    "Ellenberg v. State.md",
     "Embedded 1/Johnson v. United States.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
     "Embedded 1/Aptheker v. Secretary of State.md",
@@ -296,7 +332,6 @@
     "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
     "Embedded 1/Broadrick v. Oklahoma.md",
     "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-    "Case Law/State v. Hinsley (1982).md",
     "Embedded 1/Cepulonis v. Commonwealth.md",
     "Embedded 1/Herndon v. Lowry.md",
     "Embedded 1/Michigan v. DeFillippo.md",
@@ -304,10 +339,6 @@
     "Case Law/U.S. v. McDonald (1993).md",
     "Case Law/State v. Jenkins (1999).md",
     "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Untitled.md",
-    "Readme.md",
-    "Case Law/Solem v. Helm (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
