@@ -2,7 +2,7 @@
 supports: Carter
 level: "1"
 ---
-## 383 U. S. 252
+383 U. S. 252
 
 https://supreme.justia.com/cases/federal/us/383/252/
 

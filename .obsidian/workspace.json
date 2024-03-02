@@ -102,26 +102,14 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Screws v. United States.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "ffef38f6d9b1c338",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/State v. Black.md",
+                    "file": "Embedded 1/Herndon v. Lowry.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
             ],
-            "currentTab": 8
+            "currentTab": 7
           },
           {
             "id": "480bbc16bbb2740a",
@@ -197,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "communis",
+                "query": "vagra",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -242,7 +230,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/State v. Black.md",
+                "file": "Embedded 1/Herndon v. Lowry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -259,7 +247,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/State v. Black.md",
+                "file": "Embedded 1/Herndon v. Lowry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -282,7 +270,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Embedded 1/State v. Black.md"
+                "file": "Embedded 1/Herndon v. Lowry.md"
               }
             }
           },
@@ -335,34 +323,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "ffef38f6d9b1c338",
+  "active": "d4044e01dadf27e6",
   "lastOpenFiles": [
-    "Embedded 1/Screws v. United States.md",
-    "Embedded 1/Johnson v. State.md",
-    "Embedded 2/Frazier v. State.md",
-    "Embedded 1/State v. King (1982).md",
-    "Embedded 1/State v. Black.md",
-    "Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
-    "Embedded 1/United States v. Harriss.md",
-    "Embedded 1/Schmidt v. Kansas City Distilling Co..md",
+    "Embedded 1/Hill v. Colorado.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
+    "Embedded 1/Ingraham v. Wright.md",
     "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 2/Hyde v. United States.md",
-    "Embedded 2/Grayned v. City of Rockford (1972).md",
-    "Case Law/U.S. v. McDonald (1993).md",
+    "Embedded 1/Johnson v. State.md",
+    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
+    "Embedded 1/Davis v. Mississippi.md",
+    "Embedded 1/Cepulonis v. Commonwealth.md",
+    "Case Law/State v. Jenkins (1999).md",
+    "Case Law/State v. Burkhart (2001).md",
+    "Case Law/State v. Harris (1992).md",
     "Case Law/State v. Hinsley (1982).md",
-    "Brown v. United States.md",
-    "Supports Carter.md",
-    "Cramp v. Board of Public Instruction.md",
-    "United States v. Spector.md",
-    "Readme.md",
-    "Ellenberg v. State.md",
-    "Embedded 1/Johnson v. United States.md",
+    "Case Law/Solem v. Helm (1983).md",
+    "Case Law/Harmelin v. Michigan (1991).md",
+    "Embedded 2/Hobby v. State.md",
+    "Embedded 2/Frazier v. State.md",
+    "Embedded 1/Parker v. Levy.md",
+    "Embedded 1/State v. Black.md",
+    "Embedded 1/Screws v. United States.md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
     "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
-    "TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
-    "Technical/Important Quirbs.md",
-    "Embedded 1/Rummel v. Estelle.md",
-    "Embedded 1/Weems v. United States.md",
+    "Embedded 1/People v. Moss.md",
+    "Embedded 1/United States v. Cohen Grocery Co..md",
+    "Embedded 1/United States v. Petrillo.md",
+    "Embedded 1/Furman v. Georgia (1972).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
