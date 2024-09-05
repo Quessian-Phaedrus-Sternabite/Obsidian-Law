@@ -2,7 +2,7 @@
 supports: Carter
 level: "1"
 ---
-## 301 U. S. 242
+		## 301 U. S. 242
 
 https://supreme.justia.com/cases/federal/us/301/242/
 

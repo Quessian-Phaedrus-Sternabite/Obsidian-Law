@@ -3,7 +3,7 @@ Welcome to the YIG 2024 obsidian database! To submit changes, please use Github,
 ### Installation
 1. Download Obsidian (https://www.obsidian.md)
 2. Download Github Desktop
-3. Clone the repository wit URL (https://github.com/Quessian-Phaedrus-Sternabite/YIG-2024)
+3. Clone the repository with URL (https://github.com/Quessian-Phaedrus-Sternabite/YIG-2024)
 4. Open "YIG-2024" as an obsidian vault!
 5. Use Github Desktop to push any changes to the main branch, where I'll approve it.
 ### Etiquette 

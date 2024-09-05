@@ -13,103 +13,14 @@
             "dimension": 56.4870259481038,
             "children": [
               {
-                "id": "7b27620f6896e1ca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Lanzetta v. New Jersey.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "096ae906e00263f1",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
                 "id": "9dc9fef7bc68d20e",
                 "type": "leaf",
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Terry v. Ohio.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "43c50ace5e85a4ef",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Headley v. Selkowitz.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "e2cad9e42a0d77b6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "615d21c02e74fb8d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Rummel v. Estelle.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "c50b9b10d10b706d",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Case Law/State v. Hinsley (1982).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "d4044e01dadf27e6",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Embedded 1/Herndon v. Lowry.md",
-                    "mode": "source",
-                    "source": false
-                  }
+                  "type": "empty",
+                  "state": {}
                 }
               }
-            ],
-            "currentTab": 7
+            ]
           },
           {
             "id": "480bbc16bbb2740a",
@@ -125,12 +36,8 @@
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Readme.md",
-                        "mode": "source",
-                        "source": false
-                      },
+                      "type": "empty",
+                      "state": {},
                       "pinned": true
                     }
                   }
@@ -230,7 +137,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Embedded 1/Herndon v. Lowry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -247,7 +153,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Embedded 1/Herndon v. Lowry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -269,9 +174,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Embedded 1/Herndon v. Lowry.md"
-              }
+              "state": {}
             }
           },
           {
@@ -323,42 +226,46 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "d4044e01dadf27e6",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
-    "Embedded 1/Hill v. Colorado.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/International Harvester Co. v. Kentucky (1914).md",
-    "Embedded 1/Ingraham v. Wright.md",
-    "Embedded 1/Hygrade Provision Co. v. Sherman.md",
-    "Embedded 1/Johnson v. State.md",
-    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
-    "Embedded 1/Davis v. Mississippi.md",
-    "Embedded 1/Cepulonis v. Commonwealth.md",
-    "Case Law/State v. Jenkins (1999).md",
-    "Case Law/State v. Burkhart (2001).md",
-    "Case Law/State v. Harris (1992).md",
-    "Case Law/State v. Hinsley (1982).md",
-    "Case Law/Solem v. Helm (1983).md",
-    "Case Law/Harmelin v. Michigan (1991).md",
-    "Embedded 2/Hobby v. State.md",
-    "Embedded 2/Frazier v. State.md",
-    "Embedded 1/Parker v. Levy.md",
-    "Embedded 1/State v. Black.md",
-    "Embedded 1/Screws v. United States.md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
-    "Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "Embedded 1/People v. Moss.md",
-    "Embedded 1/United States v. Cohen Grocery Co..md",
-    "Embedded 1/United States v. Petrillo.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
-    "TN Codes or Laws",
-    "Embedded 2",
-    "Embedded 2",
-    "Embedded 1",
-    "Case Law",
+    "MUN_2024",
+    "MUN_2025",
+    "New folder",
+    "YIG_2024/Embedded 2/Whipple v. Martinson.md",
+    "YIG_2024/Embedded 2/Weeds, Inc. v. United States.md",
+    "YIG_2024/Embedded 2/United States v. Winslow.md",
+    "YIG_2024/Embedded 2/United States v. Trans-Missouri Freight Association.md",
+    "YIG_2024/Embedded 2/United States v. Ragen.md",
+    "YIG_2024/Embedded 2/United States v. Pennsylvania R. Co..md",
+    "YIG_2024/Embedded 2/United States v. Brewer.md",
+    "YIG_2024/Embedded 2/United States v. American Tobacco Co..md",
+    "YIG_2024/Embedded 2/Union Pac. R. Co. v. Botsford.md",
+    "YIG_2024/Embedded 2/Todd v. United States.md",
+    "YIG_2024/Embedded 2/Tinker v. Des Moines School District.md",
+    "YIG_2024/Embedded 2/The Germanic.md",
+    "YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
+    "YIG_2024/Embedded 2/Tedrow v. Lewis & Son Co..md",
+    "YIG_2024/Embedded 2/Swift & Co. v. United States.md",
+    "YIG_2024/Embedded 2/Standard Oil Co. v. United States.md",
+    "YIG_2024/Embedded 2/Sproles v. Binford.md",
+    "YIG_2024/Embedded 2/Sligh v. Kirkwood.md",
+    "YIG_2024/Embedded 2/Police Department of the City of Chicago v. Mosley.md",
+    "YIG_2024/Embedded 2/Savage v. Jones.md",
+    "YIG_2024/Embedded 2/Picard v. Connor.md",
+    "YIG_2024/Embedded 2/Perez v. Brownell.md",
+    "YIG_2024/Embedded 2/People v. Atlas.md",
+    "YIG_2024/Embedded 2/Packard v. Banton (1924).md",
+    "YIG_2024/Embedded 2/Miller v. Strahl.md",
+    "YIG_2024/Embedded 2",
+    "YIG_2024/Embedded 1",
+    "YIG_2024/Case Law",
+    "AP_GOV",
+    "PRE_LAW",
+    "YIG_2024/TN Codes or Laws",
+    "YIG_2024/Technical",
+    "YIG_2024",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
-    "The Fall and Rise of Gather/Images",
     "The Fall and Rise of Gather/Gather.canvas",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
