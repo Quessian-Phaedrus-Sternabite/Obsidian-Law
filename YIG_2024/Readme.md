@@ -38,6 +38,8 @@ How it may be used and quotes
 ---
 supports: 
 level: 
+group:
+year
 ---
 ## Case Number
 

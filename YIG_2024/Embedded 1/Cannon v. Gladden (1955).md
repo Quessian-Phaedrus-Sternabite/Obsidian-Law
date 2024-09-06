@@ -1,6 +1,8 @@
 ---
 supports: State
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 203 Or. 629 (1955) 281 P.2d 233
 

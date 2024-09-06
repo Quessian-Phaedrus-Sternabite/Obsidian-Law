@@ -1,12 +1,14 @@
 ---
 supports: State
 level: Base
+group: YIG-2024
+year: xxxx
 ---
 ## 501 U.S. 957 (1991)
 
 https://supreme.justia.com/cases/federal/us/501/957/
 
-### Summar
+### Summary
 (This one's a doozy)
 
 After claiming life in prison for possessing 650 grams of crack was "cruel and unusual," Harmelin was declined a change in sentencing.

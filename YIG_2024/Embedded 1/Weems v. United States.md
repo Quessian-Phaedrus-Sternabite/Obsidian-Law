@@ -1,6 +1,8 @@
 ---
 supports: Carter
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 217 U.S. 349 (1910)
 

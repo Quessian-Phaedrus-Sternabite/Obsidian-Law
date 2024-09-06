@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 227 U.S. 202
 
 https://supreme.justia.com/cases/federal/us/227/202/

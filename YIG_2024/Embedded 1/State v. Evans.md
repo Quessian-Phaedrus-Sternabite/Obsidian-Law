@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## State v. Evans, 73 Idaho at 62, 245 P.2d at 795
 
 https://www.courtlistener.com/opinion/1361856/state-v-evans/

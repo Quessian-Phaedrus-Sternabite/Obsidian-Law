@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## Case Number
 
 Link

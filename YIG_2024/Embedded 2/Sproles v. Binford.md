@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 286 U.S. 374
 
 https://casetext.com/case/sproles-v-binford-3#p393

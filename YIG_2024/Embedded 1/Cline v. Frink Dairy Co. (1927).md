@@ -1,6 +1,8 @@
 ---
 supports: Carter
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 274 U. S. 445 (1927)
 

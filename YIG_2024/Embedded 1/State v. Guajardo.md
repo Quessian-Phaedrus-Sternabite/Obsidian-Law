@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 428 So. 2d 468
 
 https://law.justia.com/cases/louisiana/supreme-court/1983/82-ka-0463-1.html

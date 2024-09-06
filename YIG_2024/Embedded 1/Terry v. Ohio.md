@@ -1,6 +1,8 @@
 ---
 supports: Carter
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 392 U.S. 1 (1968)
 

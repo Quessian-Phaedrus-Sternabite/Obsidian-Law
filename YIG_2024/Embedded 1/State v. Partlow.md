@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 
 ### 91 N.C. 550
 

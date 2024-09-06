@@ -1,6 +1,8 @@
 ---
 supports: Carter
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 370 U.S. 660 (1962)
 

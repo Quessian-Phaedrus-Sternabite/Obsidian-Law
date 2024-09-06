@@ -1,6 +1,8 @@
 ---
 supports: Carter
 level: Base
+group: YIG-2024
+year: "1926"
 ---
 ## 269 U.S. 385, 46 S.Ct. 126 (1926)
 

@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 333 U. S. 507
 
 https://supreme.justia.com/cases/federal/us/333/507/

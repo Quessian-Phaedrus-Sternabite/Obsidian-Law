@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 264 U.S. 140
 
 https://supreme.justia.com/cases/federal/us/264/140/

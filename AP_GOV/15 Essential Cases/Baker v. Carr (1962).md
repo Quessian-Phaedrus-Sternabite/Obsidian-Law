@@ -1,13 +1,14 @@
-$1group: YIG-2024
-year: xxxx
-$2
-## N/A - Can't find
+---
+group: AP-GOV
+year: "1962"
+---
+## Case Number
 
 Link
 
 ### Summary
 
-Summary of case
+Summary of Case 
 
 ### Use
 

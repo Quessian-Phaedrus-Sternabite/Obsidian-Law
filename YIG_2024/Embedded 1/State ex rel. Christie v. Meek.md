@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 26 Wash. 405
 
 https://www.courtlistener.com/opinion/4918438/state-ex-rel-christie-miller-v-meek/

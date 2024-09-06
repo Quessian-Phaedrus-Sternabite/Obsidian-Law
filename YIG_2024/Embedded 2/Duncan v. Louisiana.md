@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 391 U. S. 145
 
 https://supreme.justia.com/cases/federal/us/391/145/

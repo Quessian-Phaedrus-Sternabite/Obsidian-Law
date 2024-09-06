@@ -1,7 +1,6 @@
----
-supports: 
-level: "2"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 404 U.S. 270
 
 https://casetext.com/case/picard-v-connor-8212-96

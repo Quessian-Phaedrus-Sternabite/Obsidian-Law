@@ -1,7 +1,6 @@
----
-supports: 
-level: "1"
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 166 N.Y. 1
 
 https://casetext.com/case/people-ex-rel-rodgers-v-coler

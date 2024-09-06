@@ -1,7 +1,6 @@
----
-supports: 
-level: 
----
+$1group: YIG-2024
+year: xxxx
+$2
 ## 183 App.Div. 595
 
 https://casetext.com/case/people-v-atlas-5

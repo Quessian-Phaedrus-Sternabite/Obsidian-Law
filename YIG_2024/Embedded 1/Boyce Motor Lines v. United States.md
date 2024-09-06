@@ -1,6 +1,8 @@
 ---
 supports: State
 level: "1"
+group: YIG-2024
+year: xxxx
 ---
 ## 342 U.S. 337 (1952)
 

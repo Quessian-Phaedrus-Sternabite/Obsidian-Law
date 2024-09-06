@@ -16,8 +16,24 @@
                 "id": "9dc9fef7bc68d20e",
                 "type": "leaf",
                 "state": {
-                  "type": "empty",
-                  "state": {}
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aa83eeaf3a1ab527",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2024/Technical/Important Quirbs.md",
+                    "mode": "source",
+                    "source": false
+                  }
                 }
               }
             ]
@@ -36,12 +52,29 @@
                     "type": "leaf",
                     "pinned": true,
                     "state": {
-                      "type": "empty",
-                      "state": {},
+                      "type": "markdown",
+                      "state": {
+                        "file": "YIG_2024/Readme.md",
+                        "mode": "source",
+                        "source": false
+                      },
                       "pinned": true
                     }
+                  },
+                  {
+                    "id": "065f3346c699fd70",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "AP_GOV/Readme.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 1
               },
               {
                 "id": "17f9b420e93e47f0",
@@ -137,6 +170,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,6 +187,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +209,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md"
+              }
             }
           },
           {
@@ -205,11 +242,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,44 +265,44 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "9dc9fef7bc68d20e",
   "lastOpenFiles": [
+    "YIG_2024/Readme.md",
+    "AP_GOV/Readme.md",
+    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+    "YIG_2024/Case Law/Connally v. General Construction (1926).md",
+    "Untitled 1.md",
+    "Untitled.md",
+    "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+    "YIG_2024/Embedded 1/People v Caylor.md",
+    "YIG_2024/Embedded 1/Smith v. Florida.md",
+    "YIG_2024/Embedded 1/Steffel v. Thompson.md",
+    "YIG_2024/Embedded 2/In re Sawyer  (1888).md",
+    "YIG_2024/Embedded 2/Kennington v. Palmer.md",
+    "YIG_2024/Embedded 2/Grayned v. City of Rockford (1972).md",
+    "YIG_2024/Embedded 2/Hobby v. State.md",
+    "YIG_2024/Embedded 2/Gorin v. United States.md",
+    "AP_GOV/15 Essential Cases",
+    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "YIG_2024/Technical/Important Quirbs.md",
+    "YIG_2024/Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
+    "YIG_2024/Embedded 1/Wainwright v. Stone.md",
+    "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+    "YIG_2024/Embedded 1/United States v. Spector.md",
+    "YIG_2024/Embedded 1/Omaechevarria v. Idaho.md",
+    "YIG_2024/Embedded 1/Michigan v. DeFillippo.md",
+    "YIG_2024/Embedded 1/Headley v. Selkowitz.md",
+    "YIG_2024/Case Law/Harmelin v. Michigan (1991).md",
+    "YIG_2024/Embedded 1/Ellenberg v. State.md",
     "MUN_2024",
     "MUN_2025",
     "New folder",
-    "YIG_2024/Embedded 2/Whipple v. Martinson.md",
-    "YIG_2024/Embedded 2/Weeds, Inc. v. United States.md",
-    "YIG_2024/Embedded 2/United States v. Winslow.md",
-    "YIG_2024/Embedded 2/United States v. Trans-Missouri Freight Association.md",
-    "YIG_2024/Embedded 2/United States v. Ragen.md",
-    "YIG_2024/Embedded 2/United States v. Pennsylvania R. Co..md",
-    "YIG_2024/Embedded 2/United States v. Brewer.md",
-    "YIG_2024/Embedded 2/United States v. American Tobacco Co..md",
-    "YIG_2024/Embedded 2/Union Pac. R. Co. v. Botsford.md",
-    "YIG_2024/Embedded 2/Todd v. United States.md",
-    "YIG_2024/Embedded 2/Tinker v. Des Moines School District.md",
-    "YIG_2024/Embedded 2/The Germanic.md",
-    "YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
-    "YIG_2024/Embedded 2/Tedrow v. Lewis & Son Co..md",
-    "YIG_2024/Embedded 2/Swift & Co. v. United States.md",
-    "YIG_2024/Embedded 2/Standard Oil Co. v. United States.md",
-    "YIG_2024/Embedded 2/Sproles v. Binford.md",
-    "YIG_2024/Embedded 2/Sligh v. Kirkwood.md",
-    "YIG_2024/Embedded 2/Police Department of the City of Chicago v. Mosley.md",
-    "YIG_2024/Embedded 2/Savage v. Jones.md",
-    "YIG_2024/Embedded 2/Picard v. Connor.md",
-    "YIG_2024/Embedded 2/Perez v. Brownell.md",
-    "YIG_2024/Embedded 2/People v. Atlas.md",
-    "YIG_2024/Embedded 2/Packard v. Banton (1924).md",
-    "YIG_2024/Embedded 2/Miller v. Strahl.md",
     "YIG_2024/Embedded 2",
     "YIG_2024/Embedded 1",
     "YIG_2024/Case Law",
     "AP_GOV",
     "PRE_LAW",
     "YIG_2024/TN Codes or Laws",
-    "YIG_2024/Technical",
-    "YIG_2024",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas",
