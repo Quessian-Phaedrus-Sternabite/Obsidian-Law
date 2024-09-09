@@ -25,18 +25,31 @@
                 }
               },
               {
+                "id": "377bea2270a4d3ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
                 "id": "aa83eeaf3a1ab527",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "YIG_2024/Technical/Important Quirbs.md",
+                    "file": "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "480bbc16bbb2740a",
@@ -154,7 +167,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291
+    "width": 291,
+    "collapsed": true
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -170,7 +184,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +201,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -210,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md"
+                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md"
               }
             }
           },
@@ -265,14 +279,20 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "9dc9fef7bc68d20e",
+  "active": "377bea2270a4d3ba",
   "lastOpenFiles": [
-    "YIG_2024/Readme.md",
-    "AP_GOV/Readme.md",
+    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+    "YIG_2024/Technical/Important Quirbs.md",
     "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
-    "YIG_2024/Case Law/Connally v. General Construction (1926).md",
-    "Untitled 1.md",
+    "AP_GOV/Readme.md",
     "Untitled.md",
+    "Untitled 1.md",
+    "YIG_2024/Embedded 1/Johnson v. State.md",
+    "YIG_2024/Embedded 1/Herndon v. Lowry.md",
+    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "YIG_2024/Readme.md",
+    "YIG_2024/Case Law/Connally v. General Construction (1926).md",
     "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
     "YIG_2024/Embedded 1/People v Caylor.md",
     "YIG_2024/Embedded 1/Smith v. Florida.md",
@@ -283,17 +303,11 @@
     "YIG_2024/Embedded 2/Hobby v. State.md",
     "YIG_2024/Embedded 2/Gorin v. United States.md",
     "AP_GOV/15 Essential Cases",
-    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "YIG_2024/Technical/Important Quirbs.md",
     "YIG_2024/Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
     "YIG_2024/Embedded 1/Wainwright v. Stone.md",
     "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
     "YIG_2024/Embedded 1/United States v. Spector.md",
     "YIG_2024/Embedded 1/Omaechevarria v. Idaho.md",
-    "YIG_2024/Embedded 1/Michigan v. DeFillippo.md",
-    "YIG_2024/Embedded 1/Headley v. Selkowitz.md",
-    "YIG_2024/Case Law/Harmelin v. Michigan (1991).md",
-    "YIG_2024/Embedded 1/Ellenberg v. State.md",
     "MUN_2024",
     "MUN_2025",
     "New folder",
