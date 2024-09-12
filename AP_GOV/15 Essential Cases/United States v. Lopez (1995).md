@@ -8,7 +8,7 @@ Kelley, Ian
 Period 7
 2024-09-09
 
-McCulloch v. Maryland (1819)
+United States v. Lopez (1995)
 
 Facts: 
 Congress has the ability to regulate interstate commerce as described by Article 1, Section 8 of the constitution. In *United States v. Lopez (1995)*, Lopez argued that Congress overstepped their bounds. The Gun Free School Zones Act (GFSZA) prohibited guns within a school zone, and was contested by Alfonso Lopez Jr. After the U.S. Court of Appeals for the Fifth Circuit reversed Lopez's conviction for violating the Act, which he claimed was invalid, the U.S. government elevated the case to the Supreme Court.
