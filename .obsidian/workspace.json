@@ -41,9 +41,11 @@
                 "id": "383cbb2581d029bc",
                 "type": "leaf",
                 "state": {
-                  "type": "release-notes",
+                  "type": "markdown",
                   "state": {
-                    "currentVersion": "1.6.7"
+                    "file": "MUN_2024/Information/Overview.md",
+                    "mode": "source",
+                    "source": false
                   }
                 }
               }
@@ -105,13 +107,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -127,6 +127,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "MUN_2024/Information/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,6 +144,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "MUN_2024/Information/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +167,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Readme.md"
+                "file": "MUN_2024/Information/Overview.md"
               }
             }
           },
