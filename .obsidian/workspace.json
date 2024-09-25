@@ -4,85 +4,72 @@
     "type": "split",
     "children": [
       {
-        "id": "6958bef71b6c53eb",
+        "id": "ce23997badc5cb21",
         "type": "split",
         "children": [
           {
-            "id": "40a27d551ba5b70e",
+            "id": "d1cbebeedd6c8568",
             "type": "tabs",
-            "dimension": 61.673151750972764,
             "children": [
               {
-                "id": "d81decc5fc303cb6",
+                "id": "96a0e224cfc25e5c",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Embedded 1/Los Angeles v. Lyons.md",
+                    "file": "Readme.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "pinned": true
+                }
+              },
+              {
+                "id": "d81decc5fc303cb6",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Supports Carter.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "pinned": true
                 }
               }
             ]
           },
           {
-            "id": "ce23997badc5cb21",
-            "type": "split",
-            "dimension": 38.32684824902724,
+            "id": "17f9b420e93e47f0",
+            "type": "tabs",
             "children": [
               {
-                "id": "d1cbebeedd6c8568",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "96a0e224cfc25e5c",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Readme.md",
-                        "mode": "source",
-                        "source": false
-                      },
-                      "pinned": true
-                    }
-                  },
-                  {
-                    "id": "cc660b720783ad19",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "empty",
-                      "state": {},
-                      "pinned": true
-                    }
-                  }
-                ],
-                "currentTab": 1
+                "id": "8dad60c80133c474",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true
+                }
               },
               {
-                "id": "17f9b420e93e47f0",
-                "type": "tabs",
-                "children": [
-                  {
-                    "id": "8dad60c80133c474",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "graph",
-                      "state": {},
-                      "pinned": true
-                    }
+                "id": "383cbb2581d029bc",
+                "type": "leaf",
+                "state": {
+                  "type": "release-notes",
+                  "state": {
+                    "currentVersion": "1.6.7"
                   }
-                ]
+                }
               }
             ],
-            "direction": "horizontal"
+            "currentTab": 1
           }
         ],
-        "direction": "vertical"
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -136,11 +123,13 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 378
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -156,6 +145,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,6 +162,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -193,7 +184,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Readme.md"
+              }
             }
           },
           {
@@ -245,34 +238,34 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "cc660b720783ad19",
+  "active": "383cbb2581d029bc",
   "lastOpenFiles": [
-    "Embedded 1/Los Angeles v. Lyons.md",
+    "Readme.md",
+    "Embedded 1/Lanzetta v. New Jersey.md",
     "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md",
-    "Embedded 1/Lovell v. City of Griffin.md",
     "Embedded 1/Lazarus v. Faircloth.md",
-    "Embedded 1/Keyishian v. Board of Regents.md",
-    "Embedded 1/Johnson v. State.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Payne v. Tennessee.md",
-    "Embedded 1/Morrissey v. Brewer.md",
-    "Embedded 1/Hutto v. Finney.md",
-    "Embedded 1/Gregg v. Georgia.md",
-    "Embedded 1/Dembowski v. State.md",
-    "Embedded 1/Connecticut Board of Pardons v. Dumschat.md",
-    "Embedded 1/Commonwealth v. Bank of Pennsylvania (1842).md",
-    "Embedded 1/Cannon v. Gladden (1955).md",
-    "Embedded 1/Burnet v. Coronado Oil & Gas Co..md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Hicks v. District of Columbia.md",
-    "Embedded 1/Hawaii v. Anduha.md",
-    "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Hanks v. State.md",
-    "Embedded 1/Greenholtz v. Nebraska Penal Inmates.md",
-    "Embedded 1/Florida v. Royer.md",
+    "Embedded 1/Aptheker v. Secretary of State.md",
+    "Supports Carter.md",
+    "Embedded 1/Brown v. Texas (1979).md",
+    "Embedded 1/City of Chicago v. Morales.md",
+    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
+    "Embedded 1/Coates v. City of Cincinnati.md",
+    "Embedded 1/Coker v. Georgia (1977).md",
+    "Embedded 1/Colautti v. Franklin.md",
+    "Case Law/Connally v. General Construction (1926).md",
+    "Embedded 1/Davis v. Mississippi.md",
+    "Embedded 1/Dunaway v. New York.md",
     "Embedded 1/Ellis v. Dyson.md",
-    "Embedded 1/Edwards v. California.md",
+    "Embedded 1/Florida v. Royer.md",
+    "Embedded 1/Furman v. Georgia (1972).md",
+    "Embedded 1/Gregory v. Chicago.md",
+    "Embedded 1/Headley v. Selkowitz.md",
+    "Embedded 1/Herndon v. Lowry.md",
+    "Embedded 1/Hutto v. Davis.md",
+    "Embedded 1/International Harvester Co. v. Kentucky.md",
+    "Embedded 1/Kent v. Dulles.md",
+    "Embedded 1/Keyishian v. Board of Regents.md",
+    "Case Law/Kolender v. Lawson (1983).md",
     "TN Codes or Laws",
     "Embedded 2",
     "Embedded 2",
