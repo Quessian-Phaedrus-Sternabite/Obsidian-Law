@@ -4,8 +4,8 @@
   "enabledCssSnippets": [
     "extended-colorschemes"
   ],
-  "textFontFamily": "",
-  "baseFontSize": 14,
+  "textFontFamily": "Solitas Serif Norm,Open Sans",
+  "baseFontSize": 16,
   "interfaceFontFamily": "",
   "theme": "obsidian"
 }
