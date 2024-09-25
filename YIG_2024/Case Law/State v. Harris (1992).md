@@ -2,7 +2,7 @@
 supports: State
 level: Base
 group: YIG-2024
-year: xxxx
+year:
 ---
 ## 844 S.W.2d 601 (1992)
 

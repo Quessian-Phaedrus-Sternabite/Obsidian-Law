@@ -1,0 +1,2 @@
+- Reserved Power - One allotted to the states. ^dace56
+- Compelling Governmental Interest - When the government has a stake in a topic concerning public rights or liberties. ^91b38e
