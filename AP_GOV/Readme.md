@@ -21,3 +21,29 @@ How it may be used and quotes
 
 [[Name of embedded]]
 ```
+
+### AP Gov Assignment
+```
+---
+group:
+year:
+---
+## Name of Case
+Kelley, Ian
+Period 7
+DATE
+
+NAME
+
+### Facts:
+Insert facts
+
+### Issue: 
+Insert issue
+
+### Constitutional Text:
+- Insert text
+
+### Held: 
+insert held
+```
