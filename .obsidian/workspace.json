@@ -30,7 +30,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+                    "file": "MUN_2024/Information/Overview.md",
                     "mode": "source",
                     "source": false
                   }
@@ -167,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 291,
-    "collapsed": true
+    "width": 291
   },
   "right": {
     "id": "95e6cd6d8d4f9916",
@@ -184,7 +183,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+                "file": "MUN_2024/Information/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -201,7 +200,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+                "file": "MUN_2024/Information/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -224,7 +223,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md"
+                "file": "MUN_2024/Information/Overview.md"
               }
             }
           },
@@ -281,8 +280,18 @@
   },
   "active": "377bea2270a4d3ba",
   "lastOpenFiles": [
-    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "YIG_2024/Case Law/State v. Harris (1992).md",
+    "MUN_2024/Information/Overview.md",
+    "MUN_2024/Information",
+    "MUN_2024/Argument",
+    "MUN_2024/Maps",
+    "MUN_2024/Treaties",
+    "MUN_2024/Useful Cases",
+    "YIG_2024/Case Law/U.S. v. McDonald (1993).md",
+    "YIG_2024/Embedded 1/Boyce Motor Lines v. United States.md",
+    "YIG_2024/Embedded 1/Brown v. United States.md",
     "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
     "YIG_2024/Technical/Important Quirbs.md",
     "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
     "AP_GOV/Readme.md",
@@ -303,20 +312,10 @@
     "YIG_2024/Embedded 2/Hobby v. State.md",
     "YIG_2024/Embedded 2/Gorin v. United States.md",
     "AP_GOV/15 Essential Cases",
-    "YIG_2024/Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
-    "YIG_2024/Embedded 1/Wainwright v. Stone.md",
-    "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
-    "YIG_2024/Embedded 1/United States v. Spector.md",
-    "YIG_2024/Embedded 1/Omaechevarria v. Idaho.md",
     "MUN_2024",
     "MUN_2025",
     "New folder",
     "YIG_2024/Embedded 2",
-    "YIG_2024/Embedded 1",
-    "YIG_2024/Case Law",
-    "AP_GOV",
-    "PRE_LAW",
-    "YIG_2024/TN Codes or Laws",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas",
