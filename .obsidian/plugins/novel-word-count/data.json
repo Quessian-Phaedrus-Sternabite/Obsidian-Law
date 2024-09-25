@@ -3000,13 +3000,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1707006792557,
-      "modifiedDate": 1727234117905,
-      "sizeInBytes": 1505,
+      "modifiedDate": 1727234517925,
+      "sizeInBytes": 1500,
       "frontmatter": {
         "supports": "State",
         "level": "Base",
         "group": "YIG-2024",
-        "year": "xxxx"
+        "year": null
       }
     },
     "YIG_2024/Case Law/State v. Burkhart (2001).md": {
@@ -4318,6 +4318,42 @@
       "createdDate": 1726196568000,
       "modifiedDate": 1727234434484,
       "sizeInBytes": 181
+    },
+    "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 36,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.12,
+      "characterCount": 288,
+      "nonWhitespaceCharacterCount": 217,
+      "readingTimeInMinutes": 0.13584905660377358,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727234517923,
+      "modifiedDate": 1727234517923,
+      "sizeInBytes": 288
+    },
+    "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 496,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.6533333333333333,
+      "characterCount": 3213,
+      "nonWhitespaceCharacterCount": 2652,
+      "readingTimeInMinutes": 1.8716981132075472,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1727234517924,
+      "modifiedDate": 1727234517924,
+      "sizeInBytes": 3213
     }
   }
 }

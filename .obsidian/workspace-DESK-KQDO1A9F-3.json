@@ -18,13 +18,38 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "MUN_2024/Information/Overview.md",
+                    "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "377bea2270a4d3ba",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              },
+              {
+                "id": "aa83eeaf3a1ab527",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "480bbc16bbb2740a",
@@ -50,7 +75,7 @@
                     }
                   },
                   {
-                    "id": "065f3346c699fd70",
+                    "id": "9573214b1d213e55",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -60,8 +85,21 @@
                         "source": false
                       }
                     }
+                  },
+                  {
+                    "id": "81a0a912ff3d3351",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "AP_GOV/Vocab/Vocab.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
                   }
-                ]
+                ],
+                "currentTab": 2
               },
               {
                 "id": "17f9b420e93e47f0",
@@ -157,7 +195,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUN_2024/Information/Overview.md",
+                "file": "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +212,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUN_2024/Information/Overview.md",
+                "file": "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -197,7 +235,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUN_2024/Information/Overview.md"
+                "file": "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md"
               }
             }
           },
@@ -252,27 +290,18 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "502f692d6c89d690",
+  "active": "377bea2270a4d3ba",
   "lastOpenFiles": [
-    "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
-    "MUN_2024/Treaties",
-    "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md",
-    "AP_GOV/Important Cases",
-    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
     "AP_GOV/Vocab/Vocab.md",
-    "AP_GOV/Vocab",
-    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
     "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
-    "YIG_2024/Readme.md",
-    "MUN_2024/Information/Overview.md",
+    "AP_GOV/Vocab",
     "AP_GOV/Readme.md",
-    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+    "YIG_2024/Readme.md",
+    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
     "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
     "YIG_2024/Case Law/State v. Harris (1992).md",
-    "MUN_2024/Information",
-    "MUN_2024/Argument",
-    "MUN_2024/Maps",
-    "MUN_2024/Useful Cases",
     "YIG_2024/Case Law/U.S. v. McDonald (1993).md",
     "YIG_2024/Embedded 1/Boyce Motor Lines v. United States.md",
     "YIG_2024/Embedded 1/Brown v. United States.md",
@@ -286,9 +315,19 @@
     "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
     "YIG_2024/Embedded 1/People v Caylor.md",
     "YIG_2024/Embedded 1/Smith v. Florida.md",
+    "YIG_2024/Embedded 1/Steffel v. Thompson.md",
+    "YIG_2024/Embedded 2/In re Sawyer  (1888).md",
+    "YIG_2024/Embedded 2/Kennington v. Palmer.md",
+    "YIG_2024/Embedded 2/Grayned v. City of Rockford (1972).md",
     "AP_GOV/15 Essential Cases",
     "MUN_2024",
     "MUN_2025",
+    "New folder",
+    "YIG_2024/Embedded 2",
+    "YIG_2024/Embedded 1",
+    "YIG_2024/Case Law",
+    "AP_GOV",
+    "PRE_LAW",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas",
