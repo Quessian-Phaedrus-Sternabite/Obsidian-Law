@@ -12,30 +12,12 @@
             "type": "tabs",
             "children": [
               {
-                "id": "96a0e224cfc25e5c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Readme.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "pinned": true
-                }
-              },
-              {
                 "id": "d81decc5fc303cb6",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Supports Carter.md",
-                    "mode": "source",
-                    "source": false
-                  },
+                  "type": "empty",
+                  "state": {},
                   "pinned": true
                 }
               }
@@ -145,7 +127,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -162,7 +143,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -240,40 +220,44 @@
   },
   "active": "383cbb2581d029bc",
   "lastOpenFiles": [
-    "Readme.md",
-    "Embedded 1/Lanzetta v. New Jersey.md",
-    "Embedded 1/Lewis v. City of New Orleans.md",
-    "Embedded 1/Lazarus v. Faircloth.md",
-    "Embedded 1/Aptheker v. Secretary of State.md",
-    "Supports Carter.md",
-    "Embedded 1/Brown v. Texas (1979).md",
-    "Embedded 1/City of Chicago v. Morales.md",
-    "Embedded 1/Cline v. Frink Dairy Co. (1927).md",
-    "Embedded 1/Coates v. City of Cincinnati.md",
-    "Embedded 1/Coker v. Georgia (1977).md",
-    "Embedded 1/Colautti v. Franklin.md",
-    "Case Law/Connally v. General Construction (1926).md",
-    "Embedded 1/Davis v. Mississippi.md",
-    "Embedded 1/Dunaway v. New York.md",
-    "Embedded 1/Ellis v. Dyson.md",
-    "Embedded 1/Florida v. Royer.md",
-    "Embedded 1/Furman v. Georgia (1972).md",
-    "Embedded 1/Gregory v. Chicago.md",
-    "Embedded 1/Headley v. Selkowitz.md",
-    "Embedded 1/Herndon v. Lowry.md",
-    "Embedded 1/Hutto v. Davis.md",
-    "Embedded 1/International Harvester Co. v. Kentucky.md",
-    "Embedded 1/Kent v. Dulles.md",
-    "Embedded 1/Keyishian v. Board of Regents.md",
-    "Case Law/Kolender v. Lawson (1983).md",
-    "TN Codes or Laws",
-    "Embedded 2",
-    "Embedded 2",
-    "Embedded 1",
-    "Case Law",
+    "YIG_2024/TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
+    "YIG_2024/TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
+    "YIG_2024/Technical/Name of embedded.md",
+    "YIG_2024/Technical/Important Quirbs.md",
+    "YIG_2024/Technical/Important Cases.md",
+    "YIG_2024/Technical/Ambiguous Cases.md",
+    "YIG_2024/Embedded 1/Workman v. Commonwealth.md",
+    "YIG_2024/Embedded 1/Woodson v. North Carolina.md",
+    "YIG_2024/Embedded 1/Woods v. Cochrane and Smith.md",
+    "YIG_2024/Embedded 1/Winters v. New York.md",
+    "YIG_2024/Embedded 1/Whitley v. Warden.md",
+    "YIG_2024/Embedded 1/Weems v. United States.md",
+    "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md",
+    "YIG_2024/Embedded 1/Wainwright v. Stone.md",
+    "YIG_2024/Embedded 1/Village of Hoffman Estates v Flipside, Hoffman Estate, Inc..md",
+    "YIG_2024/Embedded 1/United States v. Spector.md",
+    "YIG_2024/Embedded 1/United States v. Reese.md",
+    "YIG_2024/Embedded 1/United States v. Powell.md",
+    "YIG_2024/Embedded 1/United States v. Petrillo.md",
+    "YIG_2024/Embedded 1/United States v. National Dairy Products Corp..md",
+    "YIG_2024/Embedded 1/United States v. Mendenhall.md",
+    "YIG_2024/Embedded 1/United States v. Mazurie.md",
+    "YIG_2024/Embedded 1/United States v. Harriss.md",
+    "YIG_2024/Embedded 1/United States v. Cohen Grocery Co..md",
+    "YIG_2024/Embedded 1/United States v. Capital Traction Co..md",
+    "YIG_2024/Embedded 1/United States v. Brignoni-Ponce.md",
+    "YIG_2024/TN Codes or Laws",
+    "YIG_2024/Technical",
+    "YIG_2024/Embedded 1",
+    "YIG_2024/Case Law",
+    "YIG_2024/Embedded 2",
+    "YIG_2024",
+    "MUN_2024/Information",
+    "MUN_2024",
+    "AP_GOV/15 Essential Cases",
+    "AP_GOV",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
-    "The Fall and Rise of Gather/Images",
     "The Fall and Rise of Gather/Gather.canvas",
     "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
