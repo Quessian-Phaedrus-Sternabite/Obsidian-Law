@@ -1,0 +1,1 @@
+https://www.icj.org/wp-content/uploads/2000/01/Death-penalty-condemned-conference-report-2000-eng.pdf

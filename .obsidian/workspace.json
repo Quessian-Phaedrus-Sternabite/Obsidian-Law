@@ -13,43 +13,18 @@
             "dimension": 56.4870259481038,
             "children": [
               {
-                "id": "9dc9fef7bc68d20e",
+                "id": "64e7c6d8ee0b3bf7",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "377bea2270a4d3ba",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
-                    "mode": "source",
-                    "source": false
-                  }
-                }
-              },
-              {
-                "id": "aa83eeaf3a1ab527",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+                    "file": "MUN_2024/Other Useful/Death Penalty Condemned.md",
                     "mode": "source",
                     "source": false
                   }
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
             "id": "480bbc16bbb2740a",
@@ -75,15 +50,17 @@
                     }
                   },
                   {
-                    "id": "065f3346c699fd70",
+                    "id": "377bea2270a4d3ba",
                     "type": "leaf",
+                    "pinned": true,
                     "state": {
                       "type": "markdown",
                       "state": {
-                        "file": "AP_GOV/Readme.md",
+                        "file": "MUN_2024/Information/Overview.md",
                         "mode": "source",
                         "source": false
-                      }
+                      },
+                      "pinned": true
                     }
                   }
                 ],
@@ -183,7 +160,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                "file": "MUN_2024/Other Useful/Death Penalty Condemned.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -200,7 +177,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+                "file": "MUN_2024/Other Useful/Death Penalty Condemned.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -223,7 +200,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md"
+                "file": "MUN_2024/Other Useful/Death Penalty Condemned.md"
               }
             }
           },
@@ -278,10 +255,19 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "8dad60c80133c474",
+  "active": "64e7c6d8ee0b3bf7",
   "lastOpenFiles": [
+    "MUN_2024/Useful Cases/Cameroon V. Nigeria.md",
+    "MUN_2024/Other Useful/Death Penalty Condemned.md",
+    "MUN_2024/Other Useful",
     "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
+    "MUN_2024/Argument/For United States (Counter Memorial).md",
+    "MUN_2024/Argument/For Germany (Memorial).md",
     "MUN_2024/Information/Overview.md",
+    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "YIG_2024/Readme.md",
+    "AP_GOV/Readme.md",
     "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md",
     "AP_GOV/Important Cases",
     "AP_GOV/Vocab/Vocab.md",
@@ -296,26 +282,17 @@
     "YIG_2024/Embedded 1/Boyce Motor Lines v. United States.md",
     "YIG_2024/Embedded 1/Brown v. United States.md",
     "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
-    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
     "YIG_2024/Technical/Important Quirbs.md",
-    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
-    "AP_GOV/Readme.md",
     "Untitled.md",
     "Untitled 1.md",
     "YIG_2024/Embedded 1/Johnson v. State.md",
     "YIG_2024/Embedded 1/Herndon v. Lowry.md",
     "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md",
-    "YIG_2024/Readme.md",
     "YIG_2024/Case Law/Connally v. General Construction (1926).md",
     "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
     "YIG_2024/Embedded 1/People v Caylor.md",
-    "YIG_2024/Embedded 1/Smith v. Florida.md",
-    "YIG_2024/Embedded 1/Steffel v. Thompson.md",
-    "YIG_2024/Embedded 2/In re Sawyer  (1888).md",
-    "YIG_2024/Embedded 2/Kennington v. Palmer.md",
     "AP_GOV/15 Essential Cases",
     "MUN_2024",
-    "MUN_2025",
     "The Fall and Rise of Gather/Images/Doorknob.png",
     "The Fall and Rise of Gather/Images/Spider.png",
     "The Fall and Rise of Gather/Gather.canvas",
