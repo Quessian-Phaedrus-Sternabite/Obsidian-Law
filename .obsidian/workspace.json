@@ -26,8 +26,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Argument/For Germany (Memorial).md",
+                "file": "MUN_2024/Information/Overview.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -43,7 +44,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1ebd2dd3ca66a9b4",
@@ -61,7 +62,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "AP_GOV/Readme.md",
+                    "file": "MUN_2024/Readme.md",
                     "mode": "source",
                     "source": false
                   }
@@ -159,7 +160,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -176,7 +176,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -198,9 +197,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf"
-              }
+              "state": {}
             }
           },
           {
@@ -241,8 +238,24 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "44c3efc869a0b2ff",
+  "active": "a409abbda40c6d31",
   "lastOpenFiles": [
+    "MUN_2024/Information/Overview.md",
+    "MUN_2024/Argument/For Germany (Memorial).md",
+    "MUN_2024/Info",
+    "MUN_2024/Other Useful/International Covenant on Civil and Political Rights.md",
+    "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
+    "MUN_2024/Other Useful/Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (1984).md",
+    "MUN_2024/Other Useful/Death Penalty Condemned.md",
+    "MUN_2024/Other Useful/Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.md",
+    "MUN_2024/Other Useful/UN Charter.md",
+    "MUN_2024/Other Useful/Universal Declaration of Human Rights.md",
+    "MUN_2024/Readme.md",
+    "MUN_2024/Argument/For United States (Counter Memorial).md",
+    "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
+    "MUN_2024/Other Useful/US memoriam cases to go through.md",
+    "YIG_2024/Readme.md",
+    "AP_GOV/Readme.md",
     "Obsidian-Law/Obsidian-Law",
     "Obsidian-Law/YIG_2024/TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
     "Obsidian-Law/YIG_2024/TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
@@ -255,29 +268,12 @@
     "Obsidian-Law/YIG_2024/Embedded 2/United States v. Winslow.md",
     "Obsidian-Law/YIG_2024/Embedded 2/United States v. Ragen.md",
     "Obsidian-Law/YIG_2024/Embedded 2/United States v. Trans-Missouri Freight Association.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Pennsylvania R. Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. American Tobacco Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Brewer.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Union Pac. R. Co. v. Botsford.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Todd v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Tinker v. Des Moines School District.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/The Germanic.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Tedrow v. Lewis & Son Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Standard Oil Co. v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Swift & Co. v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Sproles v. Binford.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Sligh v. Kirkwood.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Savage v. Jones.md",
     "Obsidian-Law/YIG_2024/TN Codes or Laws",
     "Obsidian-Law/YIG_2024/Technical",
     "Obsidian-Law/YIG_2024/Embedded 2",
     "Obsidian-Law/YIG_2024/Embedded 1",
     "Obsidian-Law/YIG_2024/Case Law",
     "Obsidian-Law/YIG_2024",
-    "Obsidian-Law/MUN_2024/Treaties",
-    "Obsidian-Law/MUN_2024/Useful Cases",
-    "Obsidian-Law/MUN_2024/Other Useful",
-    "Obsidian-Law/MUN_2024/Information"
+    "Obsidian-Law/MUN_2024/Treaties"
   ]
 }
