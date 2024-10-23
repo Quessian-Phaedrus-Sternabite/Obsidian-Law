@@ -1,9 +1,3 @@
 {
-  "alwaysUpdateLinks": true,
-  "attachmentFolderPath": "",
-  "promptDelete": false,
-  "userIgnoreFilters": [
-    "/\\#hidden/",
-    "/HIDED"
-  ]
+  "promptDelete": false
 }

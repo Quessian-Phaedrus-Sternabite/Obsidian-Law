@@ -1,11 +1,5 @@
 {
-  "accentColor": "",
-  "cssTheme": "AnuPpuccin",
-  "enabledCssSnippets": [
-    "extended-colorschemes"
-  ],
-  "textFontFamily": "Solitas Serif Norm,Open Sans",
-  "baseFontSize": 16,
-  "interfaceFontFamily": "",
-  "theme": "obsidian"
+  "cssTheme": "Minimal",
+  "theme": "obsidian",
+  "accentColor": "#3f70ab"
 }

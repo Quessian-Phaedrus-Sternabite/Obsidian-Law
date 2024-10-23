@@ -17,7 +17,9 @@
                 "file": "AP_GOV/Vocab/Vocab.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Vocab"
             }
           },
           {
@@ -26,24 +28,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Argument/For Germany (Memorial).md",
+                "file": "AP_GOV/15 Essential Cases/McDonald v. City of Chicago (2010).md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "44c3efc869a0b2ff",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf"
-              }
+              },
+              "icon": "lucide-file",
+              "title": "McDonald v. City of Chicago (2010)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "1ebd2dd3ca66a9b4",
@@ -64,7 +58,9 @@
                     "file": "AP_GOV/Readme.md",
                     "mode": "source",
                     "source": false
-                  }
+                  },
+                  "icon": "lucide-file",
+                  "title": "Readme"
                 }
               }
             ]
@@ -79,7 +75,9 @@
                 "type": "leaf",
                 "state": {
                   "type": "graph",
-                  "state": {}
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
                 }
               }
             ]
@@ -105,7 +103,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -120,7 +120,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -128,7 +130,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           },
           {
@@ -136,7 +140,9 @@
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {}
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -159,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -167,7 +173,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -176,10 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -190,7 +200,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -199,8 +211,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf"
-              }
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -208,7 +222,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
-              "state": {}
+              "state": {},
+              "icon": "ag-node-list",
+              "title": "Juggl nodes"
             }
           },
           {
@@ -216,7 +232,9 @@
             "type": "leaf",
             "state": {
               "type": "juggl_style",
-              "state": {}
+              "state": {},
+              "icon": "ag-style",
+              "title": "Juggl style"
             }
           }
         ]
@@ -228,56 +246,46 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "3d-graph:3D Graph": false,
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordy:Wordy view": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-wordnet-plugin:WordNet Dictionary": false,
-      "3d-graph:3D Graph": false,
-      "juggl:Juggl global graph": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordy:Wordy view": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "44c3efc869a0b2ff",
+  "active": "9d4b4f7db4fefdca",
   "lastOpenFiles": [
-    "Obsidian-Law/Obsidian-Law",
-    "Obsidian-Law/YIG_2024/TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md",
-    "Obsidian-Law/YIG_2024/TN Codes or Laws/TN Code § 39-17-417 (2021) - Drugs - Criminal Offenses and Penalties..md",
-    "Obsidian-Law/YIG_2024/Technical/Name of embedded.md",
-    "Obsidian-Law/YIG_2024/Technical/Important Quirbs.md",
-    "Obsidian-Law/YIG_2024/Technical/Important Cases.md",
-    "Obsidian-Law/YIG_2024/Technical/Ambiguous Cases.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Whipple v. Martinson.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Weeds, Inc. v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Winslow.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Ragen.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Trans-Missouri Freight Association.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Pennsylvania R. Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. American Tobacco Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/United States v. Brewer.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Union Pac. R. Co. v. Botsford.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Todd v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Tinker v. Des Moines School District.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/The Germanic.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Tedrow v. Lewis & Son Co..md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Standard Oil Co. v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Swift & Co. v. United States.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Sproles v. Binford.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Sligh v. Kirkwood.md",
-    "Obsidian-Law/YIG_2024/Embedded 2/Savage v. Jones.md",
-    "Obsidian-Law/YIG_2024/TN Codes or Laws",
-    "Obsidian-Law/YIG_2024/Technical",
-    "Obsidian-Law/YIG_2024/Embedded 2",
-    "Obsidian-Law/YIG_2024/Embedded 1",
-    "Obsidian-Law/YIG_2024/Case Law",
-    "Obsidian-Law/YIG_2024",
-    "Obsidian-Law/MUN_2024/Treaties",
-    "Obsidian-Law/MUN_2024/Useful Cases",
+    "MUN_2024/Other Useful/US memoriam cases to go through.md",
+    "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
+    "AP_GOV/Important Cases/Duncan v. Louisiana (1968).md",
+    "AP_GOV/15 Essential Cases/McDonald v. City of Chicago (2010).md",
+    "AP_GOV/Vocab/Vocab.md",
+    "AP_GOV/Important Cases/District of Columbia v. Heller.md",
+    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+    "AP_GOV/Important Cases/West Virginia Board of Education v. Barnette (1943).md",
+    "AP_GOV/Readme.md",
+    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
+    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
+    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+    "US memoriam cases to go through.md",
+    "MUN_2024/Other Useful/Death Penalty Condemned.md",
+    "MUN_2024/Useful Cases/Cameroon V. Nigeria.md",
+    "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+    "MUN_2024/Useful Cases/Nicaragua v. Honduras.md",
+    "Obsidian-Law/MUN_2024/Useful Cases/Cameroon V. Nigeria.md",
+    "Obsidian-Law/MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
+    "Obsidian-Law/MUN_2024/Other Useful/Death Penalty Condemned.md",
     "Obsidian-Law/MUN_2024/Other Useful",
-    "Obsidian-Law/MUN_2024/Information"
+    "Obsidian-Law/MUN_2024/Argument/For United States (Counter Memorial).md",
+    "Obsidian-Law/MUN_2024/Argument/For Germany (Memorial).md",
+    "Obsidian-Law/AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
+    "Obsidian-Law/AP_GOV/15 Essential Cases/Baker v. Carr (1962).md"
   ]
 }

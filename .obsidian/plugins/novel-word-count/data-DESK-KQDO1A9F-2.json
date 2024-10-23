@@ -39,6 +39,60 @@
     "debugMode": false
   },
   "cachedCounts": {
+    "US memoriam cases to go through.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729203963143,
+      "modifiedDate": 1729027015000,
+      "sizeInBytes": 0
+    },
+    "YIG_2024/Supports Carter.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 125,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 894,
+      "nonWhitespaceCharacterCount": 769,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 32,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311017,
+      "modifiedDate": 1709308435000,
+      "sizeInBytes": 894
+    },
+    "YIG_2024/Supports State.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 116,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.38666666666666666,
+      "characterCount": 851,
+      "nonWhitespaceCharacterCount": 733,
+      "readingTimeInMinutes": 0.4377358490566038,
+      "linkCount": 29,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311017,
+      "modifiedDate": 1725556804000,
+      "sizeInBytes": 851
+    },
     "YIG_2024/TN Codes or Laws/TN Code § 39-17-432 (2021)  - Drug-Free School Zone.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -74,24 +128,6 @@
       "createdDate": 1729025311018,
       "modifiedDate": 1709251226000,
       "sizeInBytes": 8049
-    },
-    "YIG_2024/Technical/Name of embedded.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 66,
-      "nonWhitespaceCharacterCount": 55,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311020,
-      "modifiedDate": 1708130063000,
-      "sizeInBytes": 66
     },
     "YIG_2024/Technical/Important Quirbs.md": {
       "isCountable": true,
@@ -129,6 +165,24 @@
       "modifiedDate": 1708375014000,
       "sizeInBytes": 201
     },
+    "YIG_2024/Technical/Name of embedded.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 11,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 66,
+      "nonWhitespaceCharacterCount": 55,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311020,
+      "modifiedDate": 1708130063000,
+      "sizeInBytes": 66
+    },
     "YIG_2024/Technical/Ambiguous Cases.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -152,42 +206,6 @@
         ]
       }
     },
-    "YIG_2024/Supports State.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 116,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.38666666666666666,
-      "characterCount": 851,
-      "nonWhitespaceCharacterCount": 733,
-      "readingTimeInMinutes": 0.4377358490566038,
-      "linkCount": 29,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311017,
-      "modifiedDate": 1725556804000,
-      "sizeInBytes": 851
-    },
-    "YIG_2024/Supports Carter.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 125,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4166666666666667,
-      "characterCount": 894,
-      "nonWhitespaceCharacterCount": 769,
-      "readingTimeInMinutes": 0.4716981132075472,
-      "linkCount": 32,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311017,
-      "modifiedDate": 1709308435000,
-      "sizeInBytes": 894
-    },
     "YIG_2024/Readme.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -205,24 +223,6 @@
       "createdDate": 1729025311016,
       "modifiedDate": 1725558217000,
       "sizeInBytes": 1460
-    },
-    "YIG_2024/Embedded 2/Whipple v. Martinson.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 222,
-      "nonWhitespaceCharacterCount": 170,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311016,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 222
     },
     "YIG_2024/Embedded 2/Weeds, Inc. v. United States.md": {
       "isCountable": true,
@@ -245,6 +245,24 @@
         "supports": null,
         "level": "2"
       }
+    },
+    "YIG_2024/Embedded 2/Whipple v. Martinson.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 170,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311016,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 222
     },
     "YIG_2024/Embedded 2/United States v. Winslow.md": {
       "isCountable": true,
@@ -286,24 +304,6 @@
         "level": "2"
       }
     },
-    "YIG_2024/Embedded 2/United States v. Ragen.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 196,
-      "nonWhitespaceCharacterCount": 152,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311015,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 196
-    },
     "YIG_2024/Embedded 2/United States v. Pennsylvania R. Co..md": {
       "isCountable": true,
       "isDirectory": false,
@@ -326,6 +326,24 @@
         "level": "2"
       }
     },
+    "YIG_2024/Embedded 2/United States v. Ragen.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 196,
+      "nonWhitespaceCharacterCount": 152,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311015,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 196
+    },
     "YIG_2024/Embedded 2/United States v. Brewer.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -347,6 +365,24 @@
         "supports": null,
         "level": "2"
       }
+    },
+    "YIG_2024/Embedded 2/Tinker v. Des Moines School District.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311013,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 175
     },
     "YIG_2024/Embedded 2/United States v. American Tobacco Co..md": {
       "isCountable": true,
@@ -384,6 +420,24 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 224
     },
+    "YIG_2024/Embedded 2/The Germanic.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 233,
+      "nonWhitespaceCharacterCount": 179,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311011,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 233
+    },
     "YIG_2024/Embedded 2/Todd v. United States.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -405,42 +459,6 @@
         "supports": null,
         "level": "2"
       }
-    },
-    "YIG_2024/Embedded 2/Tinker v. Des Moines School District.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 124,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311013,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 175
-    },
-    "YIG_2024/Embedded 2/The Germanic.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 233,
-      "nonWhitespaceCharacterCount": 179,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311011,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 233
     },
     "YIG_2024/Embedded 2/Terrace v. Thompson (1923).md": {
       "isCountable": true,
@@ -506,24 +524,6 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 224
     },
-    "YIG_2024/Embedded 2/Sproles v. Binford.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 222,
-      "nonWhitespaceCharacterCount": 170,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311010,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 222
-    },
     "YIG_2024/Embedded 2/Standard Oil Co. v. United States.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -545,6 +545,24 @@
         "supports": null,
         "level": "2"
       }
+    },
+    "YIG_2024/Embedded 2/Sproles v. Binford.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 170,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311010,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 222
     },
     "YIG_2024/Embedded 2/Sligh v. Kirkwood.md": {
       "isCountable": true,
@@ -570,6 +588,24 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 2/Police Department of the City of Chicago v. Mosley.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 222,
+      "nonWhitespaceCharacterCount": 170,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311009,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 222
+    },
     "YIG_2024/Embedded 2/Savage v. Jones.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -594,41 +630,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 2/Police Department of the City of Chicago v. Mosley.md": {
+    "YIG_2024/Embedded 2/People v. Atlas.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 27,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 222,
-      "nonWhitespaceCharacterCount": 170,
-      "readingTimeInMinutes": 0.09433962264150944,
+      "pageCount": 0.09,
+      "characterCount": 226,
+      "nonWhitespaceCharacterCount": 173,
+      "readingTimeInMinutes": 0.1018867924528302,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025311009,
+      "createdDate": 1729025311008,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 222
-    },
-    "YIG_2024/Embedded 2/Picard v. Connor.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 169,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311009,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 221
+      "sizeInBytes": 226
     },
     "YIG_2024/Embedded 2/Perez v. Brownell.md": {
       "isCountable": true,
@@ -648,24 +666,6 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 186
     },
-    "YIG_2024/Embedded 2/People v. Atlas.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 226,
-      "nonWhitespaceCharacterCount": 173,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311008,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 226
-    },
     "YIG_2024/Embedded 2/Packard v. Banton (1924).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -683,6 +683,24 @@
       "createdDate": 1729025311007,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 224
+    },
+    "YIG_2024/Embedded 2/Picard v. Connor.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 169,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311009,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 221
     },
     "YIG_2024/Embedded 2/Miller v. Strahl.md": {
       "isCountable": true,
@@ -730,6 +748,28 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 2/Kennington v. Palmer.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 145,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311005,
+      "modifiedDate": 1706534740000,
+      "sizeInBytes": 202,
+      "frontmatter": {
+        "supports": null,
+        "level": null
+      }
+    },
     "YIG_2024/Embedded 2/Loewe v. Lawlor.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -746,6 +786,28 @@
       "aliases": null,
       "createdDate": 1729025311006,
       "modifiedDate": 1708138970000,
+      "sizeInBytes": 205,
+      "frontmatter": {
+        "supports": null,
+        "level": "2"
+      }
+    },
+    "YIG_2024/Embedded 2/Hyde v. United States.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 145,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311004,
+      "modifiedDate": 1709309027000,
       "sizeInBytes": 205,
       "frontmatter": {
         "supports": null,
@@ -790,28 +852,6 @@
       "frontmatter": {
         "supports": null,
         "level": "2"
-      }
-    },
-    "YIG_2024/Embedded 2/Kennington v. Palmer.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 145,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311005,
-      "modifiedDate": 1706534740000,
-      "sizeInBytes": 202,
-      "frontmatter": {
-        "supports": null,
-        "level": null
       }
     },
     "YIG_2024/Embedded 2/In re Sawyer  (1888).md": {
@@ -862,50 +902,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 2/Hyde v. United States.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 145,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311004,
-      "modifiedDate": 1709309027000,
-      "sizeInBytes": 205,
-      "frontmatter": {
-        "supports": null,
-        "level": "2"
-      }
-    },
-    "YIG_2024/Embedded 2/Gorin v. United States.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 141,
-      "nonWhitespaceCharacterCount": 116,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311003,
-      "modifiedDate": 1725557360000,
-      "sizeInBytes": 170,
-      "frontmatter": {
-        "supports": null,
-        "level": "2"
-      }
-    },
     "YIG_2024/Embedded 2/Grayned v. City of Rockford (1972).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -928,6 +924,28 @@
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 2/Gorin v. United States.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 141,
+      "nonWhitespaceCharacterCount": 116,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311003,
+      "modifiedDate": 1725557360000,
+      "sizeInBytes": 170,
+      "frontmatter": {
+        "supports": null,
+        "level": "2"
       }
     },
     "YIG_2024/Embedded 2/Fenner v. Boykin.md": {
@@ -976,28 +994,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 2/Fox v. Washington.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 176,
-      "nonWhitespaceCharacterCount": 145,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311003,
-      "modifiedDate": 1708017825000,
-      "sizeInBytes": 205,
-      "frontmatter": {
-        "supports": null,
-        "level": "2"
-      }
-    },
     "YIG_2024/Embedded 2/Ex parte Young.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1038,6 +1034,28 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 225
     },
+    "YIG_2024/Embedded 2/Fox v. Washington.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 176,
+      "nonWhitespaceCharacterCount": 145,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311003,
+      "modifiedDate": 1708017825000,
+      "sizeInBytes": 205,
+      "frontmatter": {
+        "supports": null,
+        "level": "2"
+      }
+    },
     "YIG_2024/Embedded 2/Donathan v. McMinn County.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1060,28 +1078,6 @@
         "level": "1"
       }
     },
-    "YIG_2024/Embedded 2/Dobbin v. Los Angeles.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 16,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.05333333333333334,
-      "characterCount": 140,
-      "nonWhitespaceCharacterCount": 116,
-      "readingTimeInMinutes": 0.06037735849056604,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311001,
-      "modifiedDate": 1708017266000,
-      "sizeInBytes": 169,
-      "frontmatter": {
-        "supports": null,
-        "level": "2"
-      }
-    },
     "YIG_2024/Embedded 2/Davis & Farnum Manufacturing Co. v. Los Angeles.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1099,6 +1095,28 @@
       "createdDate": 1729025311001,
       "modifiedDate": 1706289815000,
       "sizeInBytes": 205,
+      "frontmatter": {
+        "supports": null,
+        "level": "2"
+      }
+    },
+    "YIG_2024/Embedded 2/Dobbin v. Los Angeles.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 16,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.05333333333333334,
+      "characterCount": 140,
+      "nonWhitespaceCharacterCount": 116,
+      "readingTimeInMinutes": 0.06037735849056604,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311001,
+      "modifiedDate": 1708017266000,
+      "sizeInBytes": 169,
       "frontmatter": {
         "supports": null,
         "level": "2"
@@ -1140,24 +1158,6 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 222
     },
-    "YIG_2024/Embedded 2/Brown v. Elliot.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 124,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025311000,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 175
-    },
     "YIG_2024/Embedded 2/Baltimore Ohio R. Co_. v. _Interstate Commerce Comm'n.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1175,6 +1175,24 @@
       "createdDate": 1729025310999,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 189
+    },
+    "YIG_2024/Embedded 2/Brown v. Elliot.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025311000,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 175
     },
     "YIG_2024/Embedded 2/American Seeding Machine Co. v. Kentucky.md": {
       "isCountable": true,
@@ -1198,6 +1216,24 @@
         "level": "2"
       }
     },
+    "YIG_2024/Embedded 1/Winters v. New York.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 172,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310997,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 225
+    },
     "YIG_2024/Embedded 1/Workman v. Commonwealth.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1215,6 +1251,42 @@
       "createdDate": 1729025310999,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 255
+    },
+    "YIG_2024/Embedded 1/Woods v. Cochrane and Smith.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 180,
+      "nonWhitespaceCharacterCount": 127,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310998,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 180
+    },
+    "YIG_2024/Embedded 1/Whitley v. Warden.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310997,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 175
     },
     "YIG_2024/Embedded 1/Woodson v. North Carolina.md": {
       "isCountable": true,
@@ -1238,59 +1310,27 @@
         "level": null
       }
     },
-    "YIG_2024/Embedded 1/Woods v. Cochrane and Smith.md": {
+    "YIG_2024/Embedded 1/Wainwright v. Stone.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 25,
+      "wordCount": 21,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 180,
-      "nonWhitespaceCharacterCount": 127,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310998,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 180
-    },
-    "YIG_2024/Embedded 1/Winters v. New York.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 225,
-      "nonWhitespaceCharacterCount": 172,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310997,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 225
-    },
-    "YIG_2024/Embedded 1/Whitley v. Warden.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 24,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08,
+      "pageCount": 0.07,
       "characterCount": 175,
-      "nonWhitespaceCharacterCount": 124,
-      "readingTimeInMinutes": 0.09056603773584905,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.07924528301886792,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310997,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 175
+      "createdDate": 1729025310996,
+      "modifiedDate": 1725557163000,
+      "sizeInBytes": 204,
+      "frontmatter": {
+        "supports": null,
+        "level": "1"
+      }
     },
     "YIG_2024/Embedded 1/Weems v. United States.md": {
       "isCountable": true,
@@ -1316,45 +1356,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md": {
+    "YIG_2024/Embedded 1/United States v. Spector.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 20,
+      "wordCount": 29,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 143,
-      "readingTimeInMinutes": 0.07547169811320754,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 213,
+      "nonWhitespaceCharacterCount": 173,
+      "readingTimeInMinutes": 0.10943396226415095,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310996,
-      "modifiedDate": 1706721663000,
-      "sizeInBytes": 204,
-      "frontmatter": {
-        "supports": null,
-        "level": "1"
-      }
-    },
-    "YIG_2024/Embedded 1/Wainwright v. Stone.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 21,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 143,
-      "readingTimeInMinutes": 0.07924528301886792,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310996,
-      "modifiedDate": 1725557163000,
-      "sizeInBytes": 204,
+      "createdDate": 1729025310995,
+      "modifiedDate": 1709268741000,
+      "sizeInBytes": 242,
       "frontmatter": {
         "supports": null,
         "level": "1"
@@ -1384,23 +1402,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/United States v. Spector.md": {
+    "YIG_2024/Embedded 1/Waters-Pierce Oil Co. v. Texas.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 29,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.09666666666666666,
-      "characterCount": 213,
-      "nonWhitespaceCharacterCount": 173,
-      "readingTimeInMinutes": 0.10943396226415095,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 143,
+      "readingTimeInMinutes": 0.07547169811320754,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310995,
-      "modifiedDate": 1709268741000,
-      "sizeInBytes": 242,
+      "createdDate": 1729025310996,
+      "modifiedDate": 1706721663000,
+      "sizeInBytes": 204,
       "frontmatter": {
         "supports": null,
         "level": "1"
@@ -1423,24 +1441,6 @@
       "createdDate": 1729025310995,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 167
-    },
-    "YIG_2024/Embedded 1/United States v. Powell.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 221,
-      "nonWhitespaceCharacterCount": 170,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310994,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 221
     },
     "YIG_2024/Embedded 1/United States v. Petrillo.md": {
       "isCountable": true,
@@ -1483,6 +1483,24 @@
       "createdDate": 1729025310994,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 225
+    },
+    "YIG_2024/Embedded 1/United States v. Powell.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 221,
+      "nonWhitespaceCharacterCount": 170,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310994,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 221
     },
     "YIG_2024/Embedded 1/United States v. Mendenhall.md": {
       "isCountable": true,
@@ -1566,6 +1584,24 @@
         "level": "1"
       }
     },
+    "YIG_2024/Embedded 1/Trop v. Dulles.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 171,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310990,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 225
+    },
     "YIG_2024/Embedded 1/United States v. Capital Traction Co..md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1587,42 +1623,6 @@
         "supports": null
       }
     },
-    "YIG_2024/Embedded 1/United States v. Brignoni-Ponce.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 229,
-      "nonWhitespaceCharacterCount": 176,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310990,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 229
-    },
-    "YIG_2024/Embedded 1/Trop v. Dulles.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 25,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08333333333333333,
-      "characterCount": 225,
-      "nonWhitespaceCharacterCount": 171,
-      "readingTimeInMinutes": 0.09433962264150944,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310990,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 225
-    },
     "YIG_2024/Embedded 1/Thornhill v. Alabama.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1640,6 +1640,24 @@
       "createdDate": 1729025310989,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 222
+    },
+    "YIG_2024/Embedded 1/United States v. Brignoni-Ponce.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 229,
+      "nonWhitespaceCharacterCount": 176,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310990,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 229
     },
     "YIG_2024/Embedded 1/Thomas v. Marshfield.md": {
       "isCountable": true,
@@ -1709,30 +1727,6 @@
         "level": null
       }
     },
-    "YIG_2024/Embedded 1/State v. Wilkins.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 20,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06666666666666667,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 144,
-      "readingTimeInMinutes": 0.07547169811320754,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310987,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 237,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
     "YIG_2024/Embedded 1/State v. Tibbetts.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -1768,6 +1762,30 @@
       "createdDate": 1729025310986,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 476
+    },
+    "YIG_2024/Embedded 1/State v. Wilkins.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 144,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310987,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 237,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
     },
     "YIG_2024/Embedded 1/State v. Partlow.md": {
       "isCountable": true,
@@ -1959,6 +1977,24 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Smith v. State.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 24,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08,
+      "characterCount": 175,
+      "nonWhitespaceCharacterCount": 124,
+      "readingTimeInMinutes": 0.09056603773584905,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310980,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 175
+    },
     "YIG_2024/Embedded 1/State ex rel. Christie v. Meek.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2001,23 +2037,29 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Smith v. State.md": {
+    "YIG_2024/Embedded 1/Shuttlesworth v. Birmingham.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 24,
+      "wordCount": 125,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08,
-      "characterCount": 175,
-      "nonWhitespaceCharacterCount": 124,
-      "readingTimeInMinutes": 0.09056603773584905,
-      "linkCount": 1,
+      "pageCount": 0.4166666666666667,
+      "characterCount": 874,
+      "nonWhitespaceCharacterCount": 731,
+      "readingTimeInMinutes": 0.4716981132075472,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310980,
+      "createdDate": 1729025310978,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 175
+      "sizeInBytes": 933,
+      "frontmatter": {
+        "supports": "N/A",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
     },
     "YIG_2024/Embedded 1/Smith v. Florida.md": {
       "isCountable": true,
@@ -2059,6 +2101,24 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 175
     },
+    "YIG_2024/Embedded 1/Schneider v. State.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 26,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 225,
+      "nonWhitespaceCharacterCount": 172,
+      "readingTimeInMinutes": 0.09811320754716982,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310977,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 225
+    },
     "YIG_2024/Embedded 1/Sibron v. New York.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2076,30 +2136,6 @@
       "createdDate": 1729025310979,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 223
-    },
-    "YIG_2024/Embedded 1/Shuttlesworth v. Birmingham.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 125,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.4166666666666667,
-      "characterCount": 874,
-      "nonWhitespaceCharacterCount": 731,
-      "readingTimeInMinutes": 0.4716981132075472,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310978,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 933,
-      "frontmatter": {
-        "supports": "N/A",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
     },
     "YIG_2024/Embedded 1/Screws v. United States.md": {
       "isCountable": true,
@@ -2125,24 +2161,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Schneider v. State.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 26,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 225,
-      "nonWhitespaceCharacterCount": 172,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310977,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 225
-    },
     "YIG_2024/Embedded 1/Schmidt v. Kansas City Distilling Co..md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2160,6 +2178,46 @@
       "createdDate": 1729025310976,
       "modifiedDate": 1709310617000,
       "sizeInBytes": 156,
+      "frontmatter": {
+        "supports": null,
+        "level": "1"
+      }
+    },
+    "YIG_2024/Embedded 1/People v. Solomon.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 253,
+      "nonWhitespaceCharacterCount": 199,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310975,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 253
+    },
+    "YIG_2024/Embedded 1/People v. Bullock.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 23,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07666666666666666,
+      "characterCount": 209,
+      "nonWhitespaceCharacterCount": 175,
+      "readingTimeInMinutes": 0.08679245283018867,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310974,
+      "modifiedDate": 1708130176000,
+      "sizeInBytes": 239,
       "frontmatter": {
         "supports": null,
         "level": "1"
@@ -2212,24 +2270,6 @@
         "group": "YIG-2024",
         "year": "xxxx"
       }
-    },
-    "YIG_2024/Embedded 1/People v. Solomon.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 27,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.09,
-      "characterCount": 253,
-      "nonWhitespaceCharacterCount": 199,
-      "readingTimeInMinutes": 0.1018867924528302,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310975,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 253
     },
     "YIG_2024/Embedded 1/People v. Moss.md": {
       "isCountable": true,
@@ -2289,28 +2329,6 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 518
     },
-    "YIG_2024/Embedded 1/People v. Bullock.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 209,
-      "nonWhitespaceCharacterCount": 175,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310974,
-      "modifiedDate": 1708130176000,
-      "sizeInBytes": 239,
-      "frontmatter": {
-        "supports": null,
-        "level": "1"
-      }
-    },
     "YIG_2024/Embedded 1/People v Caylor.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2351,30 +2369,6 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 250
     },
-    "YIG_2024/Embedded 1/Pearson v. State (1975).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 229,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7633333333333333,
-      "characterCount": 1570,
-      "nonWhitespaceCharacterCount": 1326,
-      "readingTimeInMinutes": 0.8641509433962264,
-      "linkCount": 23,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310973,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 1631,
-      "frontmatter": {
-        "supports": "State",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
     "YIG_2024/Embedded 1/Payne v. Tennessee.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2393,6 +2387,30 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 229
     },
+    "YIG_2024/Embedded 1/NAACP v. Button (1963).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 43,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.14333333333333334,
+      "characterCount": 344,
+      "nonWhitespaceCharacterCount": 275,
+      "readingTimeInMinutes": 0.16226415094339622,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310970,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 411,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Parker v. Levy.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2410,6 +2428,30 @@
       "createdDate": 1729025310972,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 746,
+      "frontmatter": {
+        "supports": "State",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/Pearson v. State (1975).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 229,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7633333333333333,
+      "characterCount": 1570,
+      "nonWhitespaceCharacterCount": 1326,
+      "readingTimeInMinutes": 0.8641509433962264,
+      "linkCount": 23,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310973,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 1631,
       "frontmatter": {
         "supports": "State",
         "level": "1",
@@ -2465,30 +2507,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/NAACP v. Button (1963).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 43,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.14333333333333334,
-      "characterCount": 344,
-      "nonWhitespaceCharacterCount": 275,
-      "readingTimeInMinutes": 0.16226415094339622,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310970,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 411,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
     "YIG_2024/Embedded 1/Morrissey v. Brewer.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2537,6 +2555,52 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 92,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.30666666666666664,
+      "characterCount": 682,
+      "nonWhitespaceCharacterCount": 578,
+      "readingTimeInMinutes": 0.3471698113207547,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310968,
+      "modifiedDate": 1725558169000,
+      "sizeInBytes": 744,
+      "frontmatter": {
+        "supports": "State",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/Los Angeles v. Lyons.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 39,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13,
+      "characterCount": 300,
+      "nonWhitespaceCharacterCount": 244,
+      "readingTimeInMinutes": 0.1471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310967,
+      "modifiedDate": 1708375014000,
+      "sizeInBytes": 331,
+      "frontmatter": {
+        "supports": "N/A",
+        "level": null
+      }
+    },
     "YIG_2024/Embedded 1/Miranda v. Arizona.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2561,25 +2625,25 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md": {
+    "YIG_2024/Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 92,
+      "wordCount": 11,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.30666666666666664,
-      "characterCount": 682,
-      "nonWhitespaceCharacterCount": 578,
-      "readingTimeInMinutes": 0.3471698113207547,
-      "linkCount": 3,
+      "pageCount": 0.03666666666666667,
+      "characterCount": 128,
+      "nonWhitespaceCharacterCount": 103,
+      "readingTimeInMinutes": 0.04150943396226415,
+      "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310968,
-      "modifiedDate": 1725558169000,
-      "sizeInBytes": 744,
+      "createdDate": 1729025310967,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 192,
       "frontmatter": {
-        "supports": "State",
+        "supports": "N/A",
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -2650,52 +2714,6 @@
       "createdDate": 1729025310968,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 162,
-      "frontmatter": {
-        "supports": "N/A",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/Los Angeles v. Lyons.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 39,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.13,
-      "characterCount": 300,
-      "nonWhitespaceCharacterCount": 244,
-      "readingTimeInMinutes": 0.1471698113207547,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310967,
-      "modifiedDate": 1708375014000,
-      "sizeInBytes": 331,
-      "frontmatter": {
-        "supports": "N/A",
-        "level": null
-      }
-    },
-    "YIG_2024/Embedded 1/Liverpool N.Y. & P. S.S. Co. v. Commisioners of Emigration.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 11,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.03666666666666667,
-      "characterCount": 128,
-      "nonWhitespaceCharacterCount": 103,
-      "readingTimeInMinutes": 0.04150943396226415,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310967,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 192,
       "frontmatter": {
         "supports": "N/A",
         "level": "1",
@@ -2895,6 +2913,30 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Hill v. Colorado.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 382,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2733333333333334,
+      "characterCount": 3371,
+      "nonWhitespaceCharacterCount": 2969,
+      "readingTimeInMinutes": 1.441509433962264,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310961,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 3446,
+      "frontmatter": {
+        "supports": "State",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Ingraham v. Wright.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -2985,6 +3027,30 @@
       "modifiedDate": 1725558087000,
       "sizeInBytes": 228
     },
+    "YIG_2024/Embedded 1/Gregory v. Chicago.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 101,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.33666666666666667,
+      "characterCount": 791,
+      "nonWhitespaceCharacterCount": 658,
+      "readingTimeInMinutes": 0.38113207547169814,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310959,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 858,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Hutto v. Davis.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3004,30 +3070,6 @@
       "sizeInBytes": 483,
       "frontmatter": {
         "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/Hill v. Colorado.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 382,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2733333333333334,
-      "characterCount": 3371,
-      "nonWhitespaceCharacterCount": 2969,
-      "readingTimeInMinutes": 1.441509433962264,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310961,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 3446,
-      "frontmatter": {
-        "supports": "State",
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -3081,6 +3123,30 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Florida v. Royer.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 362,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.2066666666666668,
+      "characterCount": 2440,
+      "nonWhitespaceCharacterCount": 2051,
+      "readingTimeInMinutes": 1.3660377358490565,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310958,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 2510,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Headley v. Selkowitz.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3105,23 +3171,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Gregory v. Chicago.md": {
+    "YIG_2024/Embedded 1/Furman v. Georgia (1972).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 101,
+      "wordCount": 46,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.33666666666666667,
-      "characterCount": 791,
-      "nonWhitespaceCharacterCount": 658,
-      "readingTimeInMinutes": 0.38113207547169814,
-      "linkCount": 1,
+      "pageCount": 0.15333333333333332,
+      "characterCount": 406,
+      "nonWhitespaceCharacterCount": 347,
+      "readingTimeInMinutes": 0.17358490566037735,
+      "linkCount": 3,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310959,
+      "createdDate": 1729025310958,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 858,
+      "sizeInBytes": 468,
       "frontmatter": {
         "supports": "Carter",
         "level": "1",
@@ -3177,52 +3243,26 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Furman v. Georgia (1972).md": {
+    "YIG_2024/Embedded 1/Ellenberg v. State.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 46,
+      "wordCount": 26,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.15333333333333332,
-      "characterCount": 406,
-      "nonWhitespaceCharacterCount": 347,
-      "readingTimeInMinutes": 0.17358490566037735,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310958,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 468,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/Florida v. Royer.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 362,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.2066666666666668,
-      "characterCount": 2440,
-      "nonWhitespaceCharacterCount": 2051,
-      "readingTimeInMinutes": 1.3660377358490565,
+      "pageCount": 0.08666666666666667,
+      "characterCount": 234,
+      "nonWhitespaceCharacterCount": 197,
+      "readingTimeInMinutes": 0.09811320754716982,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310958,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 2510,
+      "createdDate": 1729025310957,
+      "modifiedDate": 1709268634000,
+      "sizeInBytes": 265,
       "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
+        "supports": null,
+        "level": "1"
       }
     },
     "YIG_2024/Embedded 1/Ellis v. Dyson.md": {
@@ -3249,23 +3289,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Ellenberg v. State.md": {
+    "YIG_2024/Embedded 1/Cramp v. Board of Public Instruction.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 26,
+      "wordCount": 30,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08666666666666667,
+      "pageCount": 0.1,
       "characterCount": 234,
-      "nonWhitespaceCharacterCount": 197,
-      "readingTimeInMinutes": 0.09811320754716982,
-      "linkCount": 1,
+      "nonWhitespaceCharacterCount": 193,
+      "readingTimeInMinutes": 0.11320754716981132,
+      "linkCount": 2,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310957,
-      "modifiedDate": 1709268634000,
-      "sizeInBytes": 265,
+      "createdDate": 1729025310954,
+      "modifiedDate": 1709277962000,
+      "sizeInBytes": 263,
       "frontmatter": {
         "supports": null,
         "level": "1"
@@ -3319,30 +3359,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Dembowski v. State.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 67,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22333333333333333,
-      "characterCount": 523,
-      "nonWhitespaceCharacterCount": 423,
-      "readingTimeInMinutes": 0.2528301886792453,
-      "linkCount": 3,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310956,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 587,
-      "frontmatter": {
-        "supports": "N/A",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
     "YIG_2024/Embedded 1/Davis-Kidd Booksellers, Inc. v. McWherter (1993).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3362,6 +3378,30 @@
       "sizeInBytes": 2727,
       "frontmatter": {
         "supports": "Both",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/Dembowski v. State.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 67,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22333333333333333,
+      "characterCount": 523,
+      "nonWhitespaceCharacterCount": 423,
+      "readingTimeInMinutes": 0.2528301886792453,
+      "linkCount": 3,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310956,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 587,
+      "frontmatter": {
+        "supports": "N/A",
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -3391,28 +3431,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Cramp v. Board of Public Instruction.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 30,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.1,
-      "characterCount": 234,
-      "nonWhitespaceCharacterCount": 193,
-      "readingTimeInMinutes": 0.11320754716981132,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310954,
-      "modifiedDate": 1709277962000,
-      "sizeInBytes": 263,
-      "frontmatter": {
-        "supports": null,
-        "level": "1"
-      }
-    },
     "YIG_2024/Embedded 1/Cozzolino v. State.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3432,30 +3450,6 @@
       "sizeInBytes": 2523,
       "frontmatter": {
         "supports": "State",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/Connecticut Board of Pardons v. Dumschat.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 55,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.18333333333333332,
-      "characterCount": 437,
-      "nonWhitespaceCharacterCount": 353,
-      "readingTimeInMinutes": 0.20754716981132076,
-      "linkCount": 2,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310953,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 501,
-      "frontmatter": {
-        "supports": "N/A",
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -3485,6 +3479,30 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Connecticut Board of Pardons v. Dumschat.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 55,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.18333333333333332,
+      "characterCount": 437,
+      "nonWhitespaceCharacterCount": 353,
+      "readingTimeInMinutes": 0.20754716981132076,
+      "linkCount": 2,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310953,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 501,
+      "frontmatter": {
+        "supports": "N/A",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Collins v. Kentucky.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3502,30 +3520,6 @@
       "createdDate": 1729025310953,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 936,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/Colautti v. Franklin.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 218,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7266666666666667,
-      "characterCount": 1418,
-      "nonWhitespaceCharacterCount": 1163,
-      "readingTimeInMinutes": 0.8226415094339623,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310951,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 1490,
       "frontmatter": {
         "supports": "Carter",
         "level": "1",
@@ -3581,47 +3575,23 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Cline v. Frink Dairy Co. (1927).md": {
+    "YIG_2024/Embedded 1/Colautti v. Franklin.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 242,
+      "wordCount": 218,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.8066666666666666,
-      "characterCount": 1724,
-      "nonWhitespaceCharacterCount": 1460,
-      "readingTimeInMinutes": 0.9132075471698113,
-      "linkCount": 28,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310950,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 1799,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/City of Chicago v. Morales.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 166,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.5533333333333333,
-      "characterCount": 1198,
-      "nonWhitespaceCharacterCount": 1018,
-      "readingTimeInMinutes": 0.6264150943396226,
+      "pageCount": 0.7266666666666667,
+      "characterCount": 1418,
+      "nonWhitespaceCharacterCount": 1163,
+      "readingTimeInMinutes": 0.8226415094339623,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310949,
+      "createdDate": 1729025310951,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 1260,
+      "sizeInBytes": 1490,
       "frontmatter": {
         "supports": "Carter",
         "level": "1",
@@ -3677,6 +3647,30 @@
         "year": "xxxx"
       }
     },
+    "YIG_2024/Embedded 1/Cline v. Frink Dairy Co. (1927).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 242,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.8066666666666666,
+      "characterCount": 1724,
+      "nonWhitespaceCharacterCount": 1460,
+      "readingTimeInMinutes": 0.9132075471698113,
+      "linkCount": 28,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310950,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 1799,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
     "YIG_2024/Embedded 1/Cannon v. Gladden (1955).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3694,6 +3688,54 @@
       "createdDate": 1729025310948,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 868,
+      "frontmatter": {
+        "supports": "State",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/City of Chicago v. Morales.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 166,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5533333333333333,
+      "characterCount": 1198,
+      "nonWhitespaceCharacterCount": 1018,
+      "readingTimeInMinutes": 0.6264150943396226,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310949,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 1260,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/California v. Byers.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 212,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7066666666666667,
+      "characterCount": 1514,
+      "nonWhitespaceCharacterCount": 1272,
+      "readingTimeInMinutes": 0.8,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310947,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 1581,
       "frontmatter": {
         "supports": "State",
         "level": "1",
@@ -3720,30 +3762,6 @@
       "sizeInBytes": 655,
       "frontmatter": {
         "supports": "N/A",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Embedded 1/California v. Byers.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 212,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7066666666666667,
-      "characterCount": 1514,
-      "nonWhitespaceCharacterCount": 1272,
-      "readingTimeInMinutes": 0.8,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310947,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 1581,
-      "frontmatter": {
-        "supports": "State",
         "level": "1",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -3791,30 +3809,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Embedded 1/Broadrick v. Oklahoma.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 227,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.7566666666666667,
-      "characterCount": 1514,
-      "nonWhitespaceCharacterCount": 1267,
-      "readingTimeInMinutes": 0.8566037735849057,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310946,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 1576,
-      "frontmatter": {
-        "supports": "State",
-        "level": "1",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
     "YIG_2024/Embedded 1/Boyce Motor Lines v. United States.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -3832,6 +3826,30 @@
       "createdDate": 1729025310945,
       "modifiedDate": 1725558087000,
       "sizeInBytes": 1053,
+      "frontmatter": {
+        "supports": "State",
+        "level": "1",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Embedded 1/Broadrick v. Oklahoma.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 227,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.7566666666666667,
+      "characterCount": 1514,
+      "nonWhitespaceCharacterCount": 1267,
+      "readingTimeInMinutes": 0.8566037735849057,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310946,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 1576,
       "frontmatter": {
         "supports": "State",
         "level": "1",
@@ -3911,50 +3929,6 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Case Law/U.S. v. McDonald (1993).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 111,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.37,
-      "characterCount": 806,
-      "nonWhitespaceCharacterCount": 683,
-      "readingTimeInMinutes": 0.4188679245283019,
-      "linkCount": 22,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310944,
-      "modifiedDate": 1709308663000,
-      "sizeInBytes": 836,
-      "frontmatter": {
-        "supports": null,
-        "level": "Base"
-      }
-    },
-    "YIG_2024/Case Law/State v. Jenkins (1999).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 19,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.06333333333333334,
-      "characterCount": 127,
-      "nonWhitespaceCharacterCount": 97,
-      "readingTimeInMinutes": 0.07169811320754717,
-      "linkCount": 1,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310943,
-      "modifiedDate": 1709248490000,
-      "sizeInBytes": 157,
-      "frontmatter": {
-        "supports": null,
-        "level": "Base"
-      }
-    },
     "YIG_2024/Case Law/State v. Hinsley (1982).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4001,6 +3975,74 @@
         "year": null
       }
     },
+    "YIG_2024/Case Law/U.S. v. McDonald (1993).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 111,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.37,
+      "characterCount": 806,
+      "nonWhitespaceCharacterCount": 683,
+      "readingTimeInMinutes": 0.4188679245283019,
+      "linkCount": 22,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310944,
+      "modifiedDate": 1709308663000,
+      "sizeInBytes": 836,
+      "frontmatter": {
+        "supports": null,
+        "level": "Base"
+      }
+    },
+    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 911,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 3.0366666666666666,
+      "characterCount": 5693,
+      "nonWhitespaceCharacterCount": 4764,
+      "readingTimeInMinutes": 3.4377358490566037,
+      "linkCount": 25,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310941,
+      "modifiedDate": 1725558087000,
+      "sizeInBytes": 5757,
+      "frontmatter": {
+        "supports": "Carter",
+        "level": "Base",
+        "group": "YIG-2024",
+        "year": "xxxx"
+      }
+    },
+    "YIG_2024/Case Law/State v. Jenkins (1999).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 19,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310943,
+      "modifiedDate": 1709248490000,
+      "sizeInBytes": 157,
+      "frontmatter": {
+        "supports": null,
+        "level": "Base"
+      }
+    },
     "YIG_2024/Case Law/State v. Burkhart (2001).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4025,25 +4067,25 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Case Law/Solem v. Helm (1983).md": {
+    "YIG_2024/Case Law/Harmelin v. Michigan (1991).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 157,
+      "wordCount": 286,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.5233333333333333,
-      "characterCount": 1155,
-      "nonWhitespaceCharacterCount": 980,
-      "readingTimeInMinutes": 0.5924528301886792,
+      "pageCount": 0.9533333333333334,
+      "characterCount": 1914,
+      "nonWhitespaceCharacterCount": 1597,
+      "readingTimeInMinutes": 1.079245283018868,
       "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310942,
+      "createdDate": 1729025310940,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 1218,
+      "sizeInBytes": 1976,
       "frontmatter": {
-        "supports": "Carter",
+        "supports": "State",
         "level": "Base",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -4073,49 +4115,25 @@
         "year": "xxxx"
       }
     },
-    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md": {
+    "YIG_2024/Case Law/Solem v. Helm (1983).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 911,
+      "wordCount": 157,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 3.0366666666666666,
-      "characterCount": 5693,
-      "nonWhitespaceCharacterCount": 4764,
-      "readingTimeInMinutes": 3.4377358490566037,
-      "linkCount": 25,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310941,
-      "modifiedDate": 1725558087000,
-      "sizeInBytes": 5757,
-      "frontmatter": {
-        "supports": "Carter",
-        "level": "Base",
-        "group": "YIG-2024",
-        "year": "xxxx"
-      }
-    },
-    "YIG_2024/Case Law/Harmelin v. Michigan (1991).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 286,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.9533333333333334,
-      "characterCount": 1914,
-      "nonWhitespaceCharacterCount": 1597,
-      "readingTimeInMinutes": 1.079245283018868,
+      "pageCount": 0.5233333333333333,
+      "characterCount": 1155,
+      "nonWhitespaceCharacterCount": 980,
+      "readingTimeInMinutes": 0.5924528301886792,
       "linkCount": 17,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729025310940,
+      "createdDate": 1729025310942,
       "modifiedDate": 1725558087000,
-      "sizeInBytes": 1976,
+      "sizeInBytes": 1218,
       "frontmatter": {
-        "supports": "State",
+        "supports": "Carter",
         "level": "Base",
         "group": "YIG-2024",
         "year": "xxxx"
@@ -4163,24 +4181,6 @@
       "modifiedDate": 1725556819000,
       "sizeInBytes": 954
     },
-    "MUN_2024/Useful Cases/Cameroon V. Nigeria.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 1,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.0033333333333333335,
-      "characterCount": 27,
-      "nonWhitespaceCharacterCount": 27,
-      "readingTimeInMinutes": 0.0037735849056603774,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025368163,
-      "modifiedDate": 1729024852385,
-      "sizeInBytes": 27
-    },
     "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4205,6 +4205,96 @@
         "year": 1963
       }
     },
+    "MUN_2024/Useful Cases/Interpretation of Peace Treaties with Bulgaria, Hungary, and Romania.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 10,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03333333333333333,
+      "characterCount": 103,
+      "nonWhitespaceCharacterCount": 92,
+      "readingTimeInMinutes": 0.03773584905660377,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729028978742,
+      "modifiedDate": 1729029007670,
+      "sizeInBytes": 103
+    },
+    "MUN_2024/Useful Cases/Cameroon V. Nigeria.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 1,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.0033333333333333335,
+      "characterCount": 27,
+      "nonWhitespaceCharacterCount": 27,
+      "readingTimeInMinutes": 0.0037735849056603774,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025368163,
+      "modifiedDate": 1729024852385,
+      "sizeInBytes": 27
+    },
+    "MUN_2024/Useful Cases/Paraguay v. United States of America.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 12,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.04,
+      "characterCount": 110,
+      "nonWhitespaceCharacterCount": 98,
+      "readingTimeInMinutes": 0.045283018867924525,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729027199594,
+      "modifiedDate": 1729027243653,
+      "sizeInBytes": 110
+    },
+    "MUN_2024/Useful Cases/Nicaragua v. Honduras.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 9,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.03,
+      "characterCount": 95,
+      "nonWhitespaceCharacterCount": 84,
+      "readingTimeInMinutes": 0.033962264150943396,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729026728429,
+      "modifiedDate": 1729029093120,
+      "sizeInBytes": 95
+    },
+    "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 20,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 154,
+      "nonWhitespaceCharacterCount": 134,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729029055499,
+      "modifiedDate": 1729029067378,
+      "sizeInBytes": 154
+    },
     "MUN_2024/Other Useful/Death Penalty Condemned.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -4222,42 +4312,6 @@
       "createdDate": 1729025368135,
       "modifiedDate": 1729024957531,
       "sizeInBytes": 101
-    },
-    "MUN_2024/Information/Overview.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 22,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07333333333333333,
-      "characterCount": 457,
-      "nonWhitespaceCharacterCount": 432,
-      "readingTimeInMinutes": 0.0830188679245283,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025310938,
-      "modifiedDate": 1729024584608,
-      "sizeInBytes": 457
-    },
-    "MUN_2024/Argument/For United States (Counter Memorial).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729025368104,
-      "modifiedDate": 1729024342246,
-      "sizeInBytes": 0
     },
     "MUN_2024/Argument/For Germany (Memorial).md": {
       "isCountable": true,
@@ -4277,23 +4331,59 @@
       "modifiedDate": 1729024353008,
       "sizeInBytes": 0
     },
+    "MUN_2024/Argument/For United States (Counter Memorial).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025368104,
+      "modifiedDate": 1729024342246,
+      "sizeInBytes": 0
+    },
+    "MUN_2024/Information/Overview.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 22,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.07333333333333333,
+      "characterCount": 457,
+      "nonWhitespaceCharacterCount": 432,
+      "readingTimeInMinutes": 0.0830188679245283,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729025310938,
+      "modifiedDate": 1729024584608,
+      "sizeInBytes": 457
+    },
     "AP_GOV/Vocab/Vocab.md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 26,
+      "wordCount": 48,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.08666666666666667,
-      "characterCount": 181,
-      "nonWhitespaceCharacterCount": 152,
-      "readingTimeInMinutes": 0.09811320754716982,
+      "pageCount": 0.16,
+      "characterCount": 335,
+      "nonWhitespaceCharacterCount": 282,
+      "readingTimeInMinutes": 0.1811320754716981,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729025310937,
-      "modifiedDate": 1727234434484,
-      "sizeInBytes": 181
+      "modifiedDate": 1729556490538,
+      "sizeInBytes": 335
     },
     "AP_GOV/Readme.md": {
       "isCountable": true,
@@ -4333,6 +4423,28 @@
       "frontmatter": {
         "group": "AP-GOV",
         "year": 2015
+      }
+    },
+    "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 681,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 2.27,
+      "characterCount": 4459,
+      "nonWhitespaceCharacterCount": 3744,
+      "readingTimeInMinutes": 2.569811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729206447132,
+      "modifiedDate": 1729211699490,
+      "sizeInBytes": 4491,
+      "frontmatter": {
+        "group": "AP-GOV",
+        "year": 1969
       }
     },
     "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md": {
@@ -4445,23 +4557,99 @@
         "year": 1962
       }
     },
-    "MUN_2024/Useful Cases/Nicaragua v. Honduras.md": {
+    "AP_GOV/15 Essential Cases/McDonald v. City of Chicago (2010).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 9,
+      "wordCount": 711,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.03,
-      "characterCount": 93,
-      "nonWhitespaceCharacterCount": 83,
-      "readingTimeInMinutes": 0.033962264150943396,
+      "pageCount": 2.37,
+      "characterCount": 4473,
+      "nonWhitespaceCharacterCount": 3725,
+      "readingTimeInMinutes": 2.6830188679245284,
+      "linkCount": 4,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729556145491,
+      "modifiedDate": 1729560305289,
+      "sizeInBytes": 4515,
+      "frontmatter": {
+        "group": "AP-GOV",
+        "year": 2010
+      }
+    },
+    "AP_GOV/Important Cases/West Virginia Board of Education v. Barnette (1943).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
-      "createdDate": 1729026728429,
-      "modifiedDate": 1729026758106,
-      "sizeInBytes": 93
+      "createdDate": 1729556331743,
+      "modifiedDate": 1729556331743,
+      "sizeInBytes": 0
+    },
+    "AP_GOV/Important Cases/District of Columbia v. Heller.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729556339270,
+      "modifiedDate": 1729556339270,
+      "sizeInBytes": 0
+    },
+    "AP_GOV/Important Cases/Duncan v. Louisiana (1968).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729556663412,
+      "modifiedDate": 1729556663412,
+      "sizeInBytes": 0
+    },
+    "MUN_2024/Other Useful/US memoriam cases to go through.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 0,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0,
+      "characterCount": 0,
+      "nonWhitespaceCharacterCount": 0,
+      "readingTimeInMinutes": 0,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1729203963143,
+      "modifiedDate": 1729027015000,
+      "sizeInBytes": 0
     }
   }
 }

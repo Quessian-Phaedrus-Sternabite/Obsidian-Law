@@ -1,0 +1,1 @@
+Use the [[Universal Declaration of Human Rights]]
