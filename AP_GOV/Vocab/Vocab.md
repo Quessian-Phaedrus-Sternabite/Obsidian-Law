@@ -1,2 +1,3 @@
 - Reserved Power - One allotted to the states. ^dace56
 - Compelling Governmental Interest - When the government has a stake in a topic concerning public rights or liberties. ^91b38e
+- Selective Incorporation - The process of applying Bill of Rights' rights through the 14th amendment. Happens selectively: e.g. not all at once. ^e88384

@@ -1,0 +1,293 @@
+{
+  "main": {
+    "id": "d7a3b218431fe5d6",
+    "type": "split",
+    "children": [
+      {
+        "id": "6958bef71b6c53eb",
+        "type": "split",
+        "children": [
+          {
+            "id": "40a27d551ba5b70e",
+            "type": "tabs",
+            "dimension": 56.4870259481038,
+            "children": [
+              {
+                "id": "9dc9fef7bc68d20e",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "480bbc16bbb2740a",
+            "type": "split",
+            "dimension": 43.51297405189621,
+            "children": [
+              {
+                "id": "2dfb73b200020366",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0e2a685063a8be60",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "YIG_2024/Readme.md",
+                        "mode": "source",
+                        "source": false
+                      },
+                      "pinned": true
+                    }
+                  },
+                  {
+                    "id": "065f3346c699fd70",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "AP_GOV/Readme.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "17f9b420e93e47f0",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "8dad60c80133c474",
+                    "type": "leaf",
+                    "pinned": true,
+                    "state": {
+                      "type": "graph",
+                      "state": {},
+                      "pinned": true
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          }
+        ],
+        "direction": "vertical"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d8c21d283608f134",
+    "type": "split",
+    "children": [
+      {
+        "id": "4d22c90a1fbdc9d8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "502f692d6c89d690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d431aec6b78eee93",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "vagra",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9271dec1ba2e51d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2f2f1a0936cca18f",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 291
+  },
+  "right": {
+    "id": "95e6cd6d8d4f9916",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd509c68b02093fc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4f9007d817820cf",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ec4d7757a75f30ca",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "197c82391c91ca24",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "da641d67723d948c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "5c003a23a9bc2665",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a63726b3fb99150",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          },
+          {
+            "id": "9806703a13b884c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "3d-graph:3D Graph": false,
+      "juggl:Juggl global graph": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-wordy:Wordy view": false
+    }
+  },
+  "active": "8dad60c80133c474",
+  "lastOpenFiles": [
+    "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
+    "MUN_2024/Information/Overview.md",
+    "MUN_2024/Treaties",
+    "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md",
+    "AP_GOV/Important Cases",
+    "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
+    "AP_GOV/Vocab/Vocab.md",
+    "AP_GOV/Vocab",
+    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
+    "AP_GOV/15 Essential Cases/Brown v. Board of Education of Topeka (1954).md",
+    "YIG_2024/Readme.md",
+    "AP_GOV/Readme.md",
+    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
+    "AP_GOV/15 Essential Cases/McCulloch v. Maryland (1819).md",
+    "YIG_2024/Case Law/State v. Harris (1992).md",
+    "MUN_2024/Information",
+    "MUN_2024/Argument",
+    "MUN_2024/Maps",
+    "MUN_2024/Useful Cases",
+    "YIG_2024/Case Law/U.S. v. McDonald (1993).md",
+    "YIG_2024/Embedded 1/Boyce Motor Lines v. United States.md",
+    "YIG_2024/Embedded 1/Brown v. United States.md",
+    "YIG_2024/Technical/Important Quirbs.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "YIG_2024/Embedded 1/Johnson v. State.md",
+    "YIG_2024/Embedded 1/Herndon v. Lowry.md",
+    "YIG_2024/Case Law/Papachristou v. City of Jacksonville (1972).md",
+    "YIG_2024/Case Law/Connally v. General Construction (1926).md",
+    "YIG_2024/Embedded 1/Minnesota ex rel. Pearson v. Probate Court.md",
+    "YIG_2024/Embedded 1/People v Caylor.md",
+    "YIG_2024/Embedded 1/Smith v. Florida.md",
+    "AP_GOV/15 Essential Cases",
+    "MUN_2024",
+    "MUN_2025",
+    "The Fall and Rise of Gather/Images/Doorknob.png",
+    "The Fall and Rise of Gather/Images/Spider.png",
+    "The Fall and Rise of Gather/Gather.canvas",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
+  ]
+}
