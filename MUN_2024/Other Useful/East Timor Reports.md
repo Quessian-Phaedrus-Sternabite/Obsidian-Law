@@ -1,0 +1,1 @@
+East Timor, Judgment, J.C.J. Reports 1995. p. 99; see also Northern Cameroons, Judgment, J.C.J Reports 1963. p. 27: J\1avrommatis Palestine Concessions, Judgment No. 2, 1924. P.CJ.J. Series A, No. 2, p. 11; see also I.C.J. Statute, art. 36(2) (listing

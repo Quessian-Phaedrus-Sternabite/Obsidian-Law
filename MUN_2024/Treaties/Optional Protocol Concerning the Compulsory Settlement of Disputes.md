@@ -1,5 +1,5 @@
 ---
-group: YIG-2024
+group: MUN-2024
 year: 1961
 tags:
   - important
