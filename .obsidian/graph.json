@@ -1,79 +1,30 @@
 {
-  "collapse-filter": true,
-  "search": "-tag:#hidden",
+  "collapse-filter": false,
+  "search": "-group ",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
-      "query": "[\"supports\":carter], [\"level\":base]",
+      "query": "",
       "color": {
         "a": 1,
-        "rgb": 65280
-      }
-    },
-    {
-      "query": "[\"supports\":carter], [\"level\":1]",
-      "color": {
-        "a": 1,
-        "rgb": 7338905
-      }
-    },
-    {
-      "query": "[\"supports\":carter], [\"level\":2]",
-      "color": {
-        "a": 1,
-        "rgb": 11403191
-      }
-    },
-    {
-      "query": "[\"supports\":state], [\"level\":base]",
-      "color": {
-        "a": 1,
-        "rgb": 16711680
-      }
-    },
-    {
-      "query": "[\"supports\":state], [\"level\":1]",
-      "color": {
-        "a": 1,
-        "rgb": 16679297
-      }
-    },
-    {
-      "query": "[\"supports\":state], [\"level\":2]",
-      "color": {
-        "a": 1,
-        "rgb": 16758968
-      }
-    },
-    {
-      "query": "[\"supports\":N/A]",
-      "color": {
-        "a": 1,
-        "rgb": 14075484
-      }
-    },
-    {
-      "query": "[\"supports\":both]",
-      "color": {
-        "a": 1,
-        "rgb": 6069206
+        "rgb": 14701138
       }
     }
   ],
-  "collapse-display": false,
-  "showArrow": true,
-  "textFadeMultiplier": -1.3,
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.364583333333333,
-  "repelStrength": 16.0416666666667,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.10273140764401076,
-  "close": true
+  "scale": 0.09392927902847073,
+  "close": false
 }
