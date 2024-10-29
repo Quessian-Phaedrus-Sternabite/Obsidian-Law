@@ -4799,24 +4799,6 @@
       "modifiedDate": 1729736822571,
       "sizeInBytes": 0
     },
-    "MUN_2024/Useful Cases/United States Diplomatic and Consular Staff in Tehran.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 357,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 1.19,
-      "characterCount": 2595,
-      "nonWhitespaceCharacterCount": 2111,
-      "readingTimeInMinutes": 1.3471698113207546,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1729737337254,
-      "modifiedDate": 1729738019573,
-      "sizeInBytes": 2596
-    },
     "MUN_2024/Other Useful/East Timor Reports.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -5338,6 +5320,47 @@
       "createdDate": 1730084746009,
       "modifiedDate": 1730084746009,
       "sizeInBytes": 0
+    },
+    "MUN_2024/Other Useful/ICJ Statute.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 106,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.35333333333333333,
+      "characterCount": 776,
+      "nonWhitespaceCharacterCount": 616,
+      "readingTimeInMinutes": 0.4,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730170270715,
+      "modifiedDate": 1730170270716,
+      "sizeInBytes": 776
+    },
+    "MUN_2024/Useful Cases/(United States of America v. Iran) United States Diplomatic and Consular Staff in Tehran.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 357,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 1.19,
+      "characterCount": 2489,
+      "nonWhitespaceCharacterCount": 2111,
+      "readingTimeInMinutes": 1.3471698113207546,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730170270723,
+      "modifiedDate": 1730170270723,
+      "sizeInBytes": 2542,
+      "frontmatter": {
+        "group": "MUN-2024",
+        "supports": "N/A",
+        "year": 1979
+      }
     }
   }
 }
