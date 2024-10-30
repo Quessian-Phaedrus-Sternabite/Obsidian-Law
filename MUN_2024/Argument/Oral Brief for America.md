@@ -1,0 +1,1 @@
+Good afternoon honorable justices and members of the International Court of Justice. May it please the court, my name is Johnathan Robins, and this is my co-counsel Ian Kelley. We're arguing in favor of the respondent, the United States of America. 
