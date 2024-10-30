@@ -4195,15 +4195,15 @@
       "wordCountTowardGoal": 0,
       "wordGoal": null,
       "pageCount": 1.6966666666666668,
-      "characterCount": 3559,
-      "nonWhitespaceCharacterCount": 3030,
+      "characterCount": 3554,
+      "nonWhitespaceCharacterCount": 3025,
       "readingTimeInMinutes": 1.920754716981132,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1727233606500,
-      "modifiedDate": 1730170424205,
-      "sizeInBytes": 3574
+      "modifiedDate": 1730257297589,
+      "sizeInBytes": 3569
     },
     "AP_GOV/Readme.md": {
       "isCountable": true,
@@ -4490,19 +4490,19 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 50,
+      "wordCount": 53,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.16666666666666666,
-      "characterCount": 355,
-      "nonWhitespaceCharacterCount": 305,
-      "readingTimeInMinutes": 0.18867924528301888,
+      "pageCount": 0.17666666666666667,
+      "characterCount": 372,
+      "nonWhitespaceCharacterCount": 318,
+      "readingTimeInMinutes": 0.2,
       "linkCount": 0,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1729735310367,
-      "modifiedDate": 1730178206247,
-      "sizeInBytes": 355
+      "modifiedDate": 1730257300849,
+      "sizeInBytes": 372
     },
     "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf": {
       "isCountable": false,
@@ -5414,6 +5414,24 @@
       "createdDate": 1730257121097,
       "modifiedDate": 1730257121097,
       "sizeInBytes": 0
+    },
+    "MUN_2024/Argument/Oral Brief for America.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 41,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.13666666666666666,
+      "characterCount": 250,
+      "nonWhitespaceCharacterCount": 208,
+      "readingTimeInMinutes": 0.15471698113207547,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730257396725,
+      "modifiedDate": 1730257773062,
+      "sizeInBytes": 250
     }
   }
 }
