@@ -4,7 +4,7 @@ supports: N/A
 year: 1979
 ---
 
-## United States of America v. Iran
+## United States Diplomatic and Consular Staff in Tehran (United States of America v. Iran)
 https://www.wikiwand.com/en/articles/United_States_Diplomatic_and_Consular_Staff_in_Tehran
 https://www.icj-cij.org/case/64
 
