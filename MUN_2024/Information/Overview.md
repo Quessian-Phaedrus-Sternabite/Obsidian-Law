@@ -19,7 +19,7 @@ Germany
 2. Violation of Vienna Convention.
 3. Individual vs. State rights
 United States
-1. Procedural Default (In support of Germany). 
+1. Procedural Default (In support of us). 
 2. Non-binding procedural measures
 3. Individual vs. State rights
 
