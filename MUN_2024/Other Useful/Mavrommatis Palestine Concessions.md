@@ -1,6 +1,6 @@
 ---
 group: MUN-2024
-supports: 
+supports: America
 year: 1924
 tags:
 ---
