@@ -5378,6 +5378,24 @@
         "supports": "N/A",
         "year": 1979
       }
+    },
+    "MUN_2024/Other Useful/Optional Protocol.md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 169,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.5633333333333334,
+      "characterCount": 1014,
+      "nonWhitespaceCharacterCount": 845,
+      "readingTimeInMinutes": 0.6377358490566037,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1730178271506,
+      "modifiedDate": 1730178375623,
+      "sizeInBytes": 1014
     }
   }
 }
