@@ -14,3 +14,9 @@ During the takeover, the guards assigned to protect the U.S. Embassy mysteriousl
 1. The first decision, an Order of Provisional Measures, was issued on December 15, 1979. This order did not address the merits of the case but instead aimed to preserve the rights and obligations between the United States and Iran while the court deliberated on the final decision. In this order, the ICJ unanimously declared that Iran should restore the U.S. Embassy in Tehran to U.S. possession, release the hostages, and provide diplomatic officials with the full protections mandated by the Vienna Convention on Diplomatic Relations. 
 2.  The second decision addressed the merits of Iran's actions. However, Iran did not participate in the proceedings.
    On May 24, 1980, the ICJ rendered its judgment. Regarding the first question, the court found that the militants and students were 'agents' of the Iranian Government because the government had approved and supported their actions, thus transforming the occupation of the embassy and the detention of the hostages into official acts of the state. As a result, the perpetrators, though initially acting in private capacities, were considered agents of the Iranian state. 
+
+Use:
+We can use Tehran to claim that the US has acknowledged the optional protocol.
+We can refute that claim by saying the case does not apply
+We can refute that refutation by saying that the case need not be exact, as it simply also recognizes a dispute.
+We can refute that refutation by continuing the argument against the dispute. 
