@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
+  "collapse-color-groups": false,
   "colorGroups": [
     {
       "query": "[\"supports\":carter], [\"level\":base]",
@@ -62,6 +62,20 @@
         "a": 1,
         "rgb": 6069206
       }
+    },
+    {
+      "query": "[\"supports\":Germany]",
+      "color": {
+        "a": 1,
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "[\"supports\":America]",
+      "color": {
+        "a": 1,
+        "rgb": 10543186
+      }
     }
   ],
   "collapse-display": false,
@@ -74,6 +88,6 @@
   "repelStrength": 16.0416666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.10016074247794306,
+  "scale": 0.03397197880273073,
   "close": true
 }

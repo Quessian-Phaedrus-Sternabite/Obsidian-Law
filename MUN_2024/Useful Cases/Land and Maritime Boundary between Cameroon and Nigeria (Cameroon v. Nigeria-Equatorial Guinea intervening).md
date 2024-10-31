@@ -1,7 +1,7 @@
 ---
-group:
-supports:
-year:
+group: YIG-2024
+supports: Germany
+year: 1994
 tags:
 ---
 ##   
@@ -15,7 +15,7 @@ Sovereignty over an island.
 
 ### Use
 
-How it may be used and quotes
+This can be used as defense against the U.S. argument that Germany submitted information "too late." In this case, it was established that there is no statute of limitations in addressing action. 
 
 ### Embedded
 
