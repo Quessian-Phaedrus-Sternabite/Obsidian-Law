@@ -17,6 +17,8 @@ https://legal.un.org/ilc/texts/instruments/english/conventions/9_1_1961_disputes
 This is nearly **essential** for the case. It can be used to show that the case at bar should be adjudicated in the ICJ, as it concerns a "dispute"
 
 "Party to the present Protocol" - **State**, not individual. 
+
+See [[Mavrommatis Palestine Concessions]] for description of a dispute.
 ### Embedded
 
 See 
