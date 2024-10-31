@@ -1,106 +1,103 @@
 {
   "main": {
-    "id": "c7f74b5e31c8734b",
+    "id": "d7a3b218431fe5d6",
     "type": "split",
     "children": [
       {
-        "id": "7bfbcbf7915f8851",
+        "id": "17f9b420e93e47f0",
         "type": "tabs",
-        "dimension": 70.17766497461929,
         "children": [
           {
-            "id": "9d4b4f7db4fefdca",
+            "id": "8dad60c80133c474",
             "type": "leaf",
+            "pinned": true,
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MUN_2024/Useful Cases/Paraguay v. United States of America.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Paraguay v. United States of America"
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "f81eeb2c5fbf6fce",
+            "id": "383cbb2581d029bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+                "file": "MUN_2024/Argument/For Germany (Memorial).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947"
+              "title": "For Germany (Memorial)"
             }
           },
           {
-            "id": "c4e4f440df3e22a2",
+            "id": "9f99171fec47b023",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Other Useful/UN Charter.md",
+                "file": "MUN_2024/Useful Cases/Case of the Free Zones of Upper Savoy and the District of Gex.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "UN Charter"
+              "title": "Case of the Free Zones of Upper Savoy and the District of Gex"
+            }
+          },
+          {
+            "id": "8b2518e3d9e8cf64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "MUN_2024/Useful Cases/Fisheries Jurisdiction (Spain v. Canada).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Fisheries Jurisdiction (Spain v. Canada)"
             }
           }
         ],
         "currentTab": 2
       },
       {
-        "id": "1ebd2dd3ca66a9b4",
+        "id": "064579bc2961175e",
         "type": "split",
-        "dimension": 29.822335025380706,
         "children": [
           {
-            "id": "9f60b3e542cbbfd0",
+            "id": "48e0e31bbb8c6125",
             "type": "tabs",
-            "dimension": 70.05813953488372,
             "children": [
               {
-                "id": "727e9e4ed3e07f9a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AP_GOV/Readme.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Readme"
-                }
-              },
-              {
-                "id": "4fd2b739161b394c",
+                "id": "76dbe62470afdbb9",
                 "type": "leaf",
                 "state": {
                   "type": "markdown",
                   "state": {
                     "file": "MUN_2024/Readme.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Readme"
                 }
               }
-            ],
-            "currentTab": 1
+            ]
           },
           {
-            "id": "94fcd4e6c4a3a5db",
+            "id": "e3216650b508c65c",
             "type": "tabs",
-            "dimension": 29.941860465116278,
             "children": [
               {
-                "id": "a409abbda40c6d31",
+                "id": "8c3d3f7f5d9c9a50",
                 "type": "leaf",
                 "state": {
                   "type": "graph",
@@ -118,15 +115,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "f2e53042d0a3ea55",
+    "id": "d8c21d283608f134",
     "type": "split",
     "children": [
       {
-        "id": "ebe4b30c5b6df7a2",
+        "id": "4d22c90a1fbdc9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "1152c984c97506e6",
+            "id": "502f692d6c89d690",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -138,7 +135,7 @@
             }
           },
           {
-            "id": "e57d2a5061ff06ff",
+            "id": "d431aec6b78eee93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -155,7 +152,7 @@
             }
           },
           {
-            "id": "4a4a25de26fcb67e",
+            "id": "9271dec1ba2e51d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -165,7 +162,7 @@
             }
           },
           {
-            "id": "a0491e4bf5f64cd9",
+            "id": "2f2f1a0936cca18f",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -178,23 +175,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 314.5
   },
   "right": {
-    "id": "2a13eaa8837365fe",
+    "id": "95e6cd6d8d4f9916",
     "type": "split",
     "children": [
       {
-        "id": "9f57df5b0cf722b8",
+        "id": "cd509c68b02093fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b84cdc507aa48b67",
+            "id": "a4f9007d817820cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUN_2024/Other Useful/UN Charter.md",
+                "file": "MUN_2024/Useful Cases/Case of the Free Zones of Upper Savoy and the District of Gex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -204,25 +201,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for UN Charter"
+              "title": "Backlinks for Case of the Free Zones of Upper Savoy and the District of Gex"
             }
           },
           {
-            "id": "2c42615d243a8a72",
+            "id": "ec4d7757a75f30ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
+                "file": "MUN_2024/Argument/For United States (Counter Memorial).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outgoing links from For United States (Counter Memorial)"
             }
           },
           {
-            "id": "403d4aae40f1827b",
+            "id": "197c82391c91ca24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -235,19 +232,19 @@
             }
           },
           {
-            "id": "d68121f81ceca8ec",
+            "id": "da641d67723d948c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
+                "file": "MUN_2024/Argument/For United States (Counter Memorial).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outline of For United States (Counter Memorial)"
             }
           },
           {
-            "id": "72a8f6eb1c0aa658",
+            "id": "5c003a23a9bc2665",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -257,7 +254,7 @@
             }
           },
           {
-            "id": "0976b19bd60c4a67",
+            "id": "8a63726b3fb99150",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -265,60 +262,85 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
+          },
+          {
+            "id": "9806703a13b884c0",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 465,
     "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "3d-graph:3D Graph": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordy:Wordy view": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "c4e4f440df3e22a2",
+  "active": "9f99171fec47b023",
   "lastOpenFiles": [
-    "MUN_2024/Other Useful/Universal Declaration of Human Rights.md",
-    "MUN_2024/Other Useful/International Covenant on Civil and Political Rights.md",
+    "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
+    "MUN_2024/Treaties/Optional Protocol Concerning the Compulsory Settlement of Disputes-LAPTOP-KQDO1A9F.md",
     "MUN_2024/Other Useful/International Convention on the Elimination of All Forms of Racial Discrimination.md",
-    "MUN_2024/Other Useful/Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.md",
-    "MUN_2024/Other Useful/Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965.md",
-    "MUN_2024/Other Useful/Death Penalty Condemned.md",
-    "MUN_2024/Other Useful/Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations.md",
-    "MUN_2024/Other Useful/Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (1984).md",
+    "MUN_2024/Readme.md",
+    "MUN_2024/Useful Cases/Case of the Free Zones of Upper Savoy and the District of Gex.md",
     "MUN_2024/Other Useful/East Timor Reports.md",
-    "MUN_2024/Other Useful/US memoriam cases to go through.md",
-    "MUN_2024/Other Useful/UN Charter.md",
+    "MUN_2024/Argument/For Germany (Memorial).md",
+    "MUN_2024/Argument/For United States (Counter Memorial).md",
     "MUN_2024/Other Useful/Mavrommatis Palestine Concessions.md",
     "MUN_2024/Treaties/Optional Protocol Concerning the Compulsory Settlement of Disputes.md",
-    "MUN_2024/Other Useful/Optional Protocol.md",
-    "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
+    "MUN_2024/Treaties/Untitled.md",
     "MUN_2024/Other Useful/ICJ Statute.md",
-    "MUN_2024/Treaties/Vienna Convention on Consular Relations of 24 April 1963.md",
-    "MUN_2024/Readme.md",
-    "MUN_2024/Useful Cases/United States Diplomatic and Consular Staff in Tehran (United States of America v. Iran).md",
-    "MUN_2024/Argument/For Germany (Memorial).md",
-    "MUN_2024/Argument/Oral Brief for America.md",
-    "MUN_2024/Information/Overview.md",
+    "MUN_2024/Other Useful/Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965.md",
     "MUN_2024/Useful Cases/Land and Maritime Boundary between Cameroon and Nigeria (Cameroon v. Nigeria-Equatorial Guinea intervening).md",
-    "MUN_2024/Useful Cases/Case of the Free Zones of Upper Savoy and the District of Gex.md",
-    "MUN_2024/Useful Cases/Paraguay v. United States of America.md",
+    "MUN_2024/Useful Cases/Fisheries Jurisdiction (Spain v. Canada).md",
+    "MUN_2024/Other Useful/Optional Protocol.md",
+    "MUN_2024/Other Useful/US memoriam cases to go through.md",
+    "MUN_2024/Useful Cases/Untitled.md",
+    "MUN_2024/Useful Cases/Cameroon V. Nigeria.md",
+    "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+    "MUN_2024/Useful Cases/Interpretation of Peace Treaties with Bulgaria, Hungary, and Romania.md",
+    "MUN_2024/Useful Cases/United States Diplomatic and Consular Staff in Tehran (United States of America v. Iran).md",
     "MUN_2024/Useful Cases/Nicaragua v. Honduras.md",
-    "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
+    "YIG_2024/Readme.md",
+    "MUN_2024/Information/Overview.md",
+    "MUN_2024/Argument/Oral Brief for America.md",
     "MUN_2024/Files/Pasted image 20241023172537.png",
+    "MUN_2024/Useful Cases",
+    "MUN_2024/Other Useful",
+    "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
     "MUN_2024/Files",
-    "Obsidian-Law/MUN_2024/Other Useful"
+    "MUN_2024/Argument",
+    "MUN_2024/Treaties",
+    "AP_GOV/Vocab",
+    "AP_GOV/Important Cases",
+    "YIG_2024/TN Codes or Laws",
+    "YIG_2024/Technical",
+    "The Fall and Rise of Gather/Images/Doorknob.png",
+    "The Fall and Rise of Gather/Images/Spider.png",
+    "The Fall and Rise of Gather/Gather.canvas",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
 }
