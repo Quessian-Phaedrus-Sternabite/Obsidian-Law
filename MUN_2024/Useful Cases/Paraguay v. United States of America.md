@@ -13,7 +13,7 @@ Paraguay alleged that the U.S. violated Article 36 of the [[Vienna Convention on
 
 ### Use
 
-The case was discontinued. Unfortunately, this potential phenomenal piece of precedent doesn't apply. As such, we can only use cited aspects *of* this case.
+
 
 ### Embedded
 

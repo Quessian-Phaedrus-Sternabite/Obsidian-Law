@@ -14,9 +14,8 @@ Summary of Case
 
 ### Use
 
-How it may be used and quotes
+Although the rights provided for in this article must be exercised in conformity with the laws and regulations of the receiving State, this does not mean that these laws and regulations can nullify the rights in question. A
 
 ### Embedded
 
 [[Name of embedded]]
-Although the rights provided for in this article must be exercised in conformity with the laws and regulations of the receiving State, this does not mean that these laws and regulations can nullify the rights in question. A
