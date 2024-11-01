@@ -22,6 +22,9 @@ https://legal.un.org/ilc/texts/instruments/english/conventions/9_2_1963.pdf
 The United States *did not* inform the two German citizens of their right of notification (Article 36, paragraph 1 (b)). Furthermore, this breach led to violations of (a) and (c) of the Article. 
 
 ### Plaintext
+
+#### Article 5
+(a) "protecting in the receiving State the interests of the sending State and of its nationals, both individuals and bodies corporate, within the limits permitted by international law;"
 #### Article 36 
 ##### Communication and contact with nationals of the sending State 
 

@@ -1,9 +1,15 @@
-https://www.icj-cij.org/sites/default/files/case-related/104/8554.pdf
+---
+group: YIG-2024
+supports: America
+year: 1999
+tags:
+---
+## The Right to Information on Consular Assistance in the Framework of the Guarantees of the Due Process of Law, Advisory Opinion OC-16/99, October 1, 1999, Inter-Am. Ct. H.R. (Ser A) No. 16 (1999)
 
-Basic argument: Perpetrated crimes in the US against her and her people, and as such, the US has every right to try and sentence them under the US legal system.
-Argument against Tehran: multiple countries involved, not parallel to the case at bar as it's addressing a different issue.
+Link
 
-http://hrlibrary.umn.edu/iachr/A/OC-16ingles-sinfirmas.html
+### Summary
+
 
 Transcript of events happening in 1998
 
@@ -17,3 +23,10 @@ When States have wished to agree to specify a precise time by which the consular
 
 "There is nothing to suggest that failure to give consular notification invalidates the convictions of a state criminal justice system; any such interpretation would be completely at odds with the Vienna Convention on Consular Relations and the practice of States;"
 
+### Use
+
+Combines with [[Convention relating to the Status of Stateless Persons]]
+
+### Embedded
+
+[[Name of embedded]]
