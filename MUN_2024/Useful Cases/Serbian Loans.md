@@ -1,6 +1,6 @@
 ---
 group: YIG-2024
-supports: Germany
+supports: Both
 year: 1929
 tags:
 ---
@@ -18,7 +18,10 @@ https://icj-cij.org/sites/default/files/permanent-court-of-international-justice
 cites [[Mavrommatis Palestine Concessions]]
 ### Use
 
-In his opinion on the case, just
+In his opinion on the case, Justice M. Novacovitch provides an argument in support of Germany. Because public international law is being breached, the issue is elevated.
+
+Rebuttal:
+Novacovitch is the dissenting opinion. Therefore, the Court did not find this argument valid.
 
 ### Embedded
 
