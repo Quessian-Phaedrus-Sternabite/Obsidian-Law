@@ -23,7 +23,7 @@ Article 25
 When a State comes into conflict with an individual belonging to another State, this counts as a dispute (see [[Optional Protocol Concerning the Compulsory Settlement of Disputes]] and [[Vienna Convention on Consular Relations of 24 April 1963]]). As such, this directly contradicts the American viewpoint that it is only State v. State issues covered by the Convention.
 
 Rebuttal:
-HOWEVER! This can be rebutted with the much more recent 
+HOWEVER! This can be rebutted with existing case law. ADD MORE!!!
 
 ### Embedded
 
