@@ -6,7 +6,7 @@ tags:
 ---
 ## The Right to Information on Consular Assistance in the Framework of the Guarantees of the Due Process of Law, Advisory Opinion OC-16/99, October 1, 1999, Inter-Am. Ct. H.R. (Ser A) No. 16 (1999)
 
-Link
+http://hrlibrary.umn.edu/iachr/A/OC-16ingles-sinfirmas.html
 
 ### Summary
 
