@@ -56,12 +56,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
+                "file": "AP_GOV/15 Essential Cases/Marbury v. Madison (1803).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Shaw v. Reno"
+              "title": "Marbury v. Madison (1803)"
             }
           }
         ],
@@ -99,6 +100,7 @@
                   "state": {
                     "file": "AP_GOV/Readme.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   },
                   "pinned": true,
@@ -306,11 +308,13 @@
   },
   "active": "3a83d61d819949e4",
   "lastOpenFiles": [
+    "Untitled 1.md",
+    "AP_GOV/15 Essential Cases/Marbury v. Madison (1803).md",
+    "AP_GOV/Readme.md",
+    "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
     "README.md",
     "Pasted image 20241111234912.png",
     "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
-    "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
-    "AP_GOV/Readme.md",
     "MUN_2024/Readme.md",
     "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
     "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md",
@@ -331,8 +335,6 @@
     "MUN_2024/Other Useful/Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.md",
     "MUN_2024/Useful Cases/Mavrommatis Palestine Concessions.md",
     "MUN_2024/Useful Cases/Nicaragua v. Honduras.md",
-    "MUN_2024/Useful Cases/Serbian Loans.md",
-    "MUN_2024/Other Useful/The Right to Information on Consular Assistance in the Framework of the Guarantees of the Due Process of Law.md",
     "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
     "MUN_2024/Files/Pasted image 20241023172537.png",
     "MUN_2024/Files",
