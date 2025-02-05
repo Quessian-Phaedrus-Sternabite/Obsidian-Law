@@ -37,7 +37,7 @@ STK
 	Can be used because the 14th Amendment expands 14th Amendment protections to include violations from the state.
 	Issue is very similar
 Woodson
-	The issue is not similar. There are no religious reasons for this 
+	The issue is not similar. There are no religious reasons for STK to object against, and rights are not being infringed upon.
 
 ### Embedded
 
