@@ -14,12 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Useful Cases/Paraguay v. United States of America.md",
+                "file": "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Paraguay v. United States of America"
+              "title": "Wisconsin v. Yoder (1972)"
             }
           },
           {
@@ -28,12 +29,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+                "file": "YIG_2025/Case List.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947"
+              "title": "Case List"
             }
           },
           {
@@ -42,30 +44,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Useful Cases/Fisheries Jurisdiction (Spain v. Canada).md",
+                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fisheries Jurisdiction (Spain v. Canada)"
-            }
-          },
-          {
-            "id": "3a83d61d819949e4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Shaw v. Reno"
+              "title": "Wisconsin v. Yoder (1972) (YIG)"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       },
       {
         "id": "abe2fdfcfe191bdb",
@@ -84,10 +73,28 @@
                   "state": {
                     "file": "AP_GOV/Readme.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   },
                   "icon": "lucide-file",
                   "title": "Readme"
+                }
+              },
+              {
+                "id": "3a83d61d819949e4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Readme 2025.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme 2025"
                 }
               },
               {
@@ -99,6 +106,7 @@
                   "state": {
                     "file": "AP_GOV/Readme.md",
                     "mode": "source",
+                    "backlinks": false,
                     "source": false
                   },
                   "pinned": true,
@@ -304,15 +312,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3a83d61d819949e4",
+  "active": "c4e4f440df3e22a2",
   "lastOpenFiles": [
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
+    "MUN_2024/Useful Cases/Paraguay v. United States of America.md",
+    "YIG_2025/Case List.md",
+    "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+    "YIG_2024/Case Law/Solem v. Helm (1983).md",
+    "YIG_2024/Case Law/Kolender v. Lawson (1983).md",
+    "YIG_2024/Case Law/Connally v. General Construction (1926).md",
+    "YIG_2024/Readme.md",
+    "AP_GOV/Readme.md",
+    "YIG_2025/TN Codes or Laws",
+    "YIG_2025/Technical",
+    "YIG_2025/Embedded 2",
+    "YIG_2025/Embedded 1",
+    "YIG_2025/Case Law",
+    "YIG_2025/Untitled.md",
+    "AP_GOV/15 Essential Cases/Marbury v. Madison (1803).md",
+    "YIG_2025",
+    "Untitled 1.md",
+    "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
     "README.md",
     "Pasted image 20241111234912.png",
     "AP_GOV/15 Essential Cases/Baker v. Carr (1962).md",
-    "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
-    "AP_GOV/Readme.md",
     "MUN_2024/Readme.md",
-    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
     "AP_GOV/Important Cases/Obergefell v. Hodges, 576 U.S. 644 (2015).md",
     "AP_GOV/Important Cases/West Virginia Board of Education v. Barnette (1943).md",
     "So on and so forth.md",
@@ -321,18 +347,6 @@
     "MUN_2024/Useful Cases/Aegean Sea Continental Shelf (Greece v. Turkey).md",
     "MUN_2024/Useful Cases/Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United Kingdom)-DESK-KQDO1A9F.md",
     "MUN_2024/Useful Cases/Questions of Interpretation and Application of the 1971 Montreal Convention arising from the Aerial Incident at Lockerbie (Libyan Arab Jamahiriya v. United Kingdom).md",
-    "MUN_2024/Useful Cases/Aerial Incident of 3 July 1988 (Islamic Republic of Iran v. United States of America).md",
-    "MUN_2024/Other Useful/ICJ Statute.md",
-    "MUN_2024/Other Useful/INTERNATIONAL LAW COMMISSION- DRAFT ARTICLES ON STATE RESPONSIBILITY.md",
-    "MUN_2024/Other Useful/International Convention on the Elimination of All Forms of Racial Discrimination.md",
-    "MUN_2024/Other Useful/UN Charter.md",
-    "MUN_2024/Other Useful/Convention relating to the Status of Stateless Persons.md",
-    "MUN_2024/Other Useful/Convention on Certain Questions Relating to the Conflict of Nationality Law.md",
-    "MUN_2024/Other Useful/Declaration on the Protection of All Persons from Being Subjected to Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment.md",
-    "MUN_2024/Useful Cases/Mavrommatis Palestine Concessions.md",
-    "MUN_2024/Useful Cases/Nicaragua v. Honduras.md",
-    "MUN_2024/Useful Cases/Serbian Loans.md",
-    "MUN_2024/Other Useful/The Right to Information on Consular Assistance in the Framework of the Guarantees of the Due Process of Law.md",
     "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
     "MUN_2024/Files/Pasted image 20241023172537.png",
     "MUN_2024/Files",
