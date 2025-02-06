@@ -5632,24 +5632,24 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 23,
+      "wordCount": 83,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 149,
-      "nonWhitespaceCharacterCount": 115,
-      "readingTimeInMinutes": 0.08679245283018867,
+      "pageCount": 0.27666666666666667,
+      "characterCount": 561,
+      "nonWhitespaceCharacterCount": 465,
+      "readingTimeInMinutes": 0.3132075471698113,
       "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774598877,
-      "modifiedDate": 1738774795246,
-      "sizeInBytes": 189,
+      "modifiedDate": 1738775991098,
+      "sizeInBytes": 621,
       "frontmatter": {
-        "supports": null,
-        "level": null,
-        "group": null,
-        "year": null
+        "supports": "STK",
+        "level": "Base",
+        "group": "YIG-2025",
+        "year": 1993
       }
     },
     "YIG_2025/Case Law/Curtis v. Falouth (1995).md": {
@@ -5759,6 +5759,24 @@
       "createdDate": 1738774701380,
       "modifiedDate": 1738774743518,
       "sizeInBytes": 0
+    },
+    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 27,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09,
+      "characterCount": 254,
+      "nonWhitespaceCharacterCount": 212,
+      "readingTimeInMinutes": 0.1018867924528302,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738775933329,
+      "modifiedDate": 1738775958804,
+      "sizeInBytes": 254
     }
   }
 }
