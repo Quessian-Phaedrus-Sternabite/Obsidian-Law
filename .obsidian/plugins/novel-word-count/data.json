@@ -5619,13 +5619,13 @@
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774037538,
-      "modifiedDate": 1738774481166,
-      "sizeInBytes": 3822,
+      "modifiedDate": 1738850774958,
+      "sizeInBytes": 3827,
       "frontmatter": {
         "supports": null,
         "level": null,
         "group": null,
-        "year": null
+        "year": 1972
       }
     },
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md": {
@@ -5652,113 +5652,125 @@
         "year": 1993
       }
     },
-    "YIG_2025/Case Law/Curtis v. Falouth (1995).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1738774598877,
-      "modifiedDate": 1738774646184,
-      "sizeInBytes": 0
-    },
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774598877,
-      "modifiedDate": 1738774661776,
-      "sizeInBytes": 0
+      "modifiedDate": 1738850830045,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": 1998
+      }
     },
     "YIG_2025/Case Law/Hawk v. Hawk (1993).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774701380,
-      "modifiedDate": 1738774701380,
-      "sizeInBytes": 0
+      "modifiedDate": 1738850836489,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": 1993
+      }
     },
     "YIG_2025/Case Law/Meyer v. Nebraska (1923).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774701380,
-      "modifiedDate": 1738774714217,
-      "sizeInBytes": 0
+      "modifiedDate": 1738850833238,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": 1923
+      }
     },
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774701380,
-      "modifiedDate": 1738774728256,
-      "sizeInBytes": 0
+      "modifiedDate": 1738850815373,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": 1925
+      }
     },
     "YIG_2025/Case Law/Prince v. Massachusetts (1944).md": {
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 19,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06333333333333334,
+      "characterCount": 127,
+      "nonWhitespaceCharacterCount": 97,
+      "readingTimeInMinutes": 0.07169811320754717,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1738774701380,
-      "modifiedDate": 1738774743518,
-      "sizeInBytes": 0
+      "modifiedDate": 1738850778573,
+      "sizeInBytes": 172,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": 1944
+      }
     },
     "YIG_2025/Embedded 1/Bonner v. Moran (1941).md": {
       "isCountable": true,
@@ -5777,6 +5789,30 @@
       "createdDate": 1738775933329,
       "modifiedDate": 1738775958804,
       "sizeInBytes": 254
+    },
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 181,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.6033333333333334,
+      "characterCount": 1268,
+      "nonWhitespaceCharacterCount": 1070,
+      "readingTimeInMinutes": 0.6830188679245283,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1738774598877,
+      "modifiedDate": 1738949637892,
+      "sizeInBytes": 1332,
+      "frontmatter": {
+        "supports": "Woodson",
+        "level": "Base",
+        "group": "YIG-2025",
+        "year": 1995
+      }
     }
   }
 }
