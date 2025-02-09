@@ -6,7 +6,7 @@
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 54.05669599217987,
+        "dimension": 54.049586776859506,
         "children": [
           {
             "id": "9d4b4f7db4fefdca",
@@ -44,13 +44,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wisconsin v. Yoder (1972) (YIG)"
+              "title": "Parents United v. Philadelphia BOE (1998)"
             }
           }
         ],
@@ -59,7 +59,7 @@
       {
         "id": "abe2fdfcfe191bdb",
         "type": "split",
-        "dimension": 45.94330400782013,
+        "dimension": 45.950413223140494,
         "children": [
           {
             "id": "9f60b3e542cbbfd0",
@@ -314,18 +314,18 @@
   },
   "active": "c4e4f440df3e22a2",
   "lastOpenFiles": [
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Readme 2025-DESK-KQDO1A9F.md",
     "YIG_2025/Case List-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
     "YIG_2025/Readme 2025.md",
     "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
     "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
     "YIG_2025/Case List.md",
