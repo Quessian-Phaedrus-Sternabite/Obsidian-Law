@@ -21,7 +21,7 @@ This case also argues that parents have ultimate say in the upbringing of their 
 
 This is heavily in favor of STK. Giving children access to condoms against the parent's wishes goes against the definition of a family. In the case of familial matters, it is up to the parents to have the final word. See also [[Davis v. Davis (1992)]], which establishes a right to familial privacy. The court can only interfere when the child is actively being harmed. \*580
 	Note: This can be used to argue against the claim. The children are not being harmed. VERY weak defense, but interesting. 
-	
+See also [[Stanley v. Illinois (1972)]], which further supports State intervention only when the child is actively being harmed.
 
 
 ### Embedded
@@ -34,4 +34,7 @@ This is heavily in favor of STK. Giving children access to condoms against the p
 [[Moore v. City of East Cleveland 1977]] 
 [[Roe v. Wade]]
 [[Griswold v. Connecticut (1965)]]
+[[Stanley v. Illinois (1972)]]
+[[Bennet v. Jeffreys (1976)]]
+[[Matter of Hamilton (1983)]]
 
