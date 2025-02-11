@@ -1,7 +1,7 @@
 ---
-supports: 
-level: 
-group: 
+supports: STK
+level: Base
+group: YIG-2025
 year: 1925
 ---
 ## Case Number

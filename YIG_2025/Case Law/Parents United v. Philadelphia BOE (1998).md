@@ -1,5 +1,5 @@
 ---
-supports: Woodson County
+supports: Woodson
 level: Base
 group: YIG-2025
 year: 1998
