@@ -31,7 +31,7 @@ _Chambersburg Area School Dist. v. Pennsylvania,_ 60 Pa.Commw. 29, 430 A.2d 740
 _Barth v. School Dist.,_ 393 Pa. 557, 143 A.2d 909 (1958)
 _Cf._ _Chevron v. Natural Resources Defense Council,_ [467 U.S. 837](https://supreme.justia.com/cases/federal/us/467/837/)
 _Roberts v. Board of Directors of the School Dist.,_ 462 Pa. 464
-_Zebra v._ ***206** _School Dist.,_ 449 Pa. 432
+_Zebra v._ ***206** _School Dist.,_ 449 Pa. 432_
 _Spann v. Joint Boards of School Directors,_ 381 Pa. 338
 _Duffield v. School Dist.,_ 162 Pa. 476
 _See_ _Moure v. Raeuchle,_ 529 Pa. 394, 404, [604 A.2d 1003](https://law.justia.com/cases/pennsylvania/supreme-court/1992/529-pa-394-1.html)
@@ -58,6 +58,7 @@ _McConnaughey v. Building Components, Inc.,_ 536 Pa. 95, [637 A.2d 1331](https
  _Doe v. Irwin,_ 615 F.2d 1162
  _Curtis v. School Comm.,_ 420 Mass. 749
  _Prince v. Massachusetts,_ [321 U.S. 158](https://supreme.justia.com/cases/federal/us/321/158/)
+ [[Prince v. Massachusetts (1944)]]
  _John v. Louisiana (Bd. of Trustees for State Colleges & Univs.),_ 757 F.2d 698, 709-10 (5th Cir. 1985)
  _Commonwealth v. Mack,_ 467 Pa. 613, [359 A.2d 770](https://law.justia.com/cases/pennsylvania/supreme-court/1976/467-pa-613-0.html)
  _Commonwealth v. Cardwell,_ 357 Pa.Super. 38, [515 A.2d 311](https://law.justia.com/cases/pennsylvania/supreme-court/1986/357-pa-super-38-1.html)

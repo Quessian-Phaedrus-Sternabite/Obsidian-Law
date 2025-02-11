@@ -6,7 +6,7 @@
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 54.05669599217987,
+        "dimension": 54.049586776859506,
         "children": [
           {
             "id": "9d4b4f7db4fefdca",
@@ -44,52 +44,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Meyer v. Nebraska (1923)"
-            }
-          },
-          {
-            "id": "bb9a1642a610b802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Alfonso v. Fernandez (1993)"
-            }
-          },
-          {
-            "id": "18b9d818872c2a91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "State of N.Y. v. Heckler (1983)"
+              "title": "Parents United v. Philadelphia BOE (1998)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       },
       {
         "id": "abe2fdfcfe191bdb",
         "type": "split",
-        "dimension": 45.94330400782013,
+        "dimension": 45.950413223140494,
         "children": [
           {
             "id": "9f60b3e542cbbfd0",
@@ -232,7 +202,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 455.5
+    "width": 281.5026054382324
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -342,45 +312,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "18b9d818872c2a91",
+  "active": "c4e4f440df3e22a2",
   "lastOpenFiles": [
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
-    "YIG_2025/Readme 2025.md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2025/Codes or Laws/Public Health Service Act.md",
-    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
-    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
     "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
+    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
+    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
     "YIG_2025/Embedded 1/Cochran v. Cochran (1909).md",
     "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977).md",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2025/Codes or Laws/Public Health Service Act.md",
+    "YIG_2025/Codes or Laws",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
-    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "AP_GOV/15 Essential Cases/United States v. Lopez (1995).md",
-    "YIG_2025/Case Law/Curtis v. Falouth (1995).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Readme 2025-DESK-KQDO1A9F.md",
     "YIG_2025/Case List-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
     "YIG_2025/Case List.md",
     "YIG_2025/Case Law/New Text Document.txt",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (.txt",
     "YIG_2025/Case Law/Untitled.md",
     "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
-    "YIG_2025/Codes or Laws",
+    "MUN_2024/Useful Cases/Paraguay v. United States of America.md",
+    "MUN_2024/Useful Cases/Applicability of the Obligation to Arbitrate under Section 21 of the United Nations Headquarters Agreement of 26 June 1947.md",
+    "YIG_2025/TN Codes or Laws",
     "YIG_2025/Technical",
     "YIG_2025/Embedded 2",
     "YIG_2025/Embedded 1",
     "YIG_2025/Case Law",
     "YIG_2025",
     "Pasted image 20241111234912.png",
-    "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
     "MUN_2024/Files/Pasted image 20241023172537.png"
   ]
 }
