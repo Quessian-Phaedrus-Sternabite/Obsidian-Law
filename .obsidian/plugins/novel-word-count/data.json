@@ -4199,24 +4199,6 @@
       "modifiedDate": 1732247548000,
       "sizeInBytes": 0
     },
-    "So on and so forth.md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 0,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1730134022119,
-      "modifiedDate": 1730081988000,
-      "sizeInBytes": 0
-    },
     "README.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6077,6 +6059,54 @@
       "createdDate": 1739291348524,
       "modifiedDate": 1739291384057,
       "sizeInBytes": 278
+    },
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 31,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.10333333333333333,
+      "characterCount": 263,
+      "nonWhitespaceCharacterCount": 220,
+      "readingTimeInMinutes": 0.1169811320754717,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739291570452,
+      "modifiedDate": 1739292697151,
+      "sizeInBytes": 326,
+      "frontmatter": {
+        "supports": "Woodson",
+        "level": "2",
+        "group": "YIG-2025",
+        "year": 1982
+      }
+    },
+    "YIG_2025/Embedded 2/Custody of A Minor (1978).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 29,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.09666666666666666,
+      "characterCount": 256,
+      "nonWhitespaceCharacterCount": 215,
+      "readingTimeInMinutes": 0.10943396226415095,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1739294211416,
+      "modifiedDate": 1739298416845,
+      "sizeInBytes": 319,
+      "frontmatter": {
+        "supports": "Woodson",
+        "level": "2",
+        "group": "YIG-2025",
+        "year": 1978
+      }
     }
   }
 }
