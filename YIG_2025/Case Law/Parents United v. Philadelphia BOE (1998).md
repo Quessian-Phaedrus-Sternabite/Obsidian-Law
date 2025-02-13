@@ -38,7 +38,7 @@ _See_ _Moure v. Raeuchle,_ 529 Pa. 394, 404, [604 A.2d 1003](https://law.just
 _Boyer v. Smith,_ 345 Pa.Super. 66, 72, [497 A.2d 646](https://law.justia.com/cases/pennsylvania/supreme-court/1985/345-pa-super-66-1.html), [649](https://law.justia.com/cases/pennsylvania/supreme-court/1985/345-pa-super-73-1.html) (1985)
 _Karibjanian v. Thomas Jefferson Univ. Hosp.,_ [717 F. Supp. 1081](https://law.justia.com/cases/federal/district-courts/FSupp/717/1081/1583850/), 1084 (E.D.Pa.1989)
 _Zaman v. Schultz,_ 19 Pa. D. & C. 309 (Com.Pl.1933)
-_Alfonso v. Fernandez,_ 195 A.D.2d 46, 606 N.Y.S.2d 259, 270 (1993)
+[[Alfonso v. Fernandez (1993)]] 195 A.D.2d 46, 606 N.Y.S.2d 259, 270 (1993)
 _Guerrieri v. Tyson,_ 147 Pa.Super. 239, 24 A.2d 468 (1942)
 _McConnaughey v. Building Components, Inc.,_ 536 Pa. 95, [637 A.2d 1331](https://law.justia.com/cases/pennsylvania/supreme-court/1994/536-pa-95-1.html), 1334 n. 4 (1994)
  _T.H. v. Jones,_ [425 F. Supp. 873](https://law.justia.com/cases/federal/district-courts/FSupp/425/873/1513203/), 881 n. 5 (D.Utah 1975)
@@ -51,13 +51,13 @@ _McConnaughey v. Building Components, Inc.,_ 536 Pa. 95, [637 A.2d 1331](https
  _Hodgson v. Minnesota,_ [497 U.S. 417](https://supreme.justia.com/cases/federal/us/497/417/)
  _Bellotti v. Baird,_ [443 U.S. 622](https://supreme.justia.com/cases/federal/us/443/622/)
  _Planned Parenthood Ass'n v. Matheson,_ [582 F. Supp. 1001](https://law.justia.com/cases/federal/district-courts/FSupp/582/1001/1761144/)
- _Wisconsin v. Yoder,_ [406 U.S. 205](https://supreme.justia.com/cases/federal/us/406/205/)
+ [[Wisconsin v. Yoder (1972) (YIG)]] [406 U.S. 205](https://supreme.justia.com/cases/federal/us/406/205/)
  _Farrington v. Tokushige,_ [273 U.S. 284](https://supreme.justia.com/cases/federal/us/273/284/)
- _Pierce v. Society of the Sisters of the Holy Names of Jesus and Mary,_ [268 U.S. 510](https://supreme.justia.com/cases/federal/us/268/510/)
- _Meyer v. Nebraska,_ [262 U.S. 390](https://supreme.justia.com/cases/federal/us/262/390/)
+ [[Pierce v. Society of Sisters (1925)]][268 U.S. 510](https://supreme.justia.com/cases/federal/us/268/510/)
+ [[Meyer v. Nebraska (1923)]] [262 U.S. 390](https://supreme.justia.com/cases/federal/us/262/390/)
  _Doe v. Irwin,_ 615 F.2d 1162
  _Curtis v. School Comm.,_ 420 Mass. 749
- _Prince v. Massachusetts,_ [321 U.S. 158](https://supreme.justia.com/cases/federal/us/321/158/)
+[[Prince v. Massachusetts (1944)]] [321 U.S. 158](https://supreme.justia.com/cases/federal/us/321/158/)
  [[Prince v. Massachusetts (1944)]]
  _John v. Louisiana (Bd. of Trustees for State Colleges & Univs.),_ 757 F.2d 698, 709-10 (5th Cir. 1985)
  _Commonwealth v. Mack,_ 467 Pa. 613, [359 A.2d 770](https://law.justia.com/cases/pennsylvania/supreme-court/1976/467-pa-613-0.html)

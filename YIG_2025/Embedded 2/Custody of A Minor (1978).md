@@ -17,5 +17,6 @@ When the life of a child is at risk, it overrides familial rights.
 How it may be used and quotes
 
 ### Embedded
-
-[[Name of embedded]]
+These are just to fill out the graph a bit
+[[Wisconsin v. Yoder (1972)]]
+[[Prince v. Massachusetts (1944)]]
