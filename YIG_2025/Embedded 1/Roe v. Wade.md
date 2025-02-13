@@ -1,8 +1,8 @@
 ---
-supports: STK
-level: Base
-group: YIG-2025
-year: 1925
+supports: "1973"
+level: "1"
+group: 
+year:
 ---
 ## Case Number
 
@@ -14,7 +14,7 @@ Summary of case
 
 ### Use
 
-How it may be used and quotes
+Supports right to privacy in matters of sexuality. 
 
 ### Embedded
 
