@@ -39,3 +39,4 @@ In light of our determination that the condom availability component lacks commo
 [[Planned Parenthood Ass'n of Utah v. Dandoy (1987)]]
 [[Jane Does v. State of Utah Dept. of Health (1985)]]
 [[State of N.Y. v. Heckler (1983)]]
+[[Carey v. Population Servs. Intl. (1977)]]
