@@ -1,7 +1,7 @@
 ---
 group: YIG-2024
 supports: Germany
-year: 
+year: 1969
 tags:
 ---
 ## Official Name

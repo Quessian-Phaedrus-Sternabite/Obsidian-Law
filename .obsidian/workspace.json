@@ -1,54 +1,186 @@
 {
   "main": {
-    "id": "d7a3b218431fe5d6",
+    "id": "c7f74b5e31c8734b",
     "type": "split",
     "children": [
       {
-        "id": "17f9b420e93e47f0",
+        "id": "7bfbcbf7915f8851",
         "type": "tabs",
+        "dimension": 54.05669599217987,
         "children": [
           {
-            "id": "8dad60c80133c474",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "383cbb2581d029bc",
+            "id": "9d4b4f7db4fefdca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MUN_2024/Other Useful/Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965.md",
+                "file": "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965"
+              "title": "Wisconsin v. Yoder (1972)"
+            }
+          },
+          {
+            "id": "f81eeb2c5fbf6fce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curtis v. School Committee of Falmouth  (1995)"
+            }
+          },
+          {
+            "id": "c4e4f440df3e22a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meyer v. Nebraska (1923)"
+            }
+          },
+          {
+            "id": "bb9a1642a610b802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfonso v. Fernandez (1993)"
+            }
+          },
+          {
+            "id": "18b9d818872c2a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meyer v. Nebraska (1923)"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 4
+      },
+      {
+        "id": "abe2fdfcfe191bdb",
+        "type": "split",
+        "dimension": 45.94330400782013,
+        "children": [
+          {
+            "id": "9f60b3e542cbbfd0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "727e9e4ed3e07f9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/Readme.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Readme"
+                }
+              },
+              {
+                "id": "3a83d61d819949e4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Readme 2025.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme 2025"
+                }
+              },
+              {
+                "id": "4fd2b739161b394c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/Readme.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "cc5db2bde383e658",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a409abbda40c6d31",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "d8c21d283608f134",
+    "id": "f2e53042d0a3ea55",
     "type": "split",
     "children": [
       {
-        "id": "4d22c90a1fbdc9d8",
+        "id": "ebe4b30c5b6df7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "502f692d6c89d690",
+            "id": "1152c984c97506e6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -60,7 +192,7 @@
             }
           },
           {
-            "id": "d431aec6b78eee93",
+            "id": "e57d2a5061ff06ff",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -77,7 +209,7 @@
             }
           },
           {
-            "id": "9271dec1ba2e51d6",
+            "id": "4a4a25de26fcb67e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -87,7 +219,7 @@
             }
           },
           {
-            "id": "2f2f1a0936cca18f",
+            "id": "a0491e4bf5f64cd9",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -100,23 +232,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535
+    "width": 455.5
   },
   "right": {
-    "id": "95e6cd6d8d4f9916",
+    "id": "2a13eaa8837365fe",
     "type": "split",
     "children": [
       {
-        "id": "cd509c68b02093fc",
+        "id": "9f57df5b0cf722b8",
         "type": "tabs",
         "children": [
           {
-            "id": "a4f9007d817820cf",
+            "id": "b84cdc507aa48b67",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "MUN_2024/Other Useful/Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965.md",
+                "file": "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -126,25 +258,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965"
+              "title": "Backlinks for Shaw v. Reno"
             }
           },
           {
-            "id": "ec4d7757a75f30ca",
+            "id": "2c42615d243a8a72",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Nottebohm (Liechtenstein v. Guatemala)"
+              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
-            "id": "197c82391c91ca24",
+            "id": "403d4aae40f1827b",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -157,19 +289,19 @@
             }
           },
           {
-            "id": "da641d67723d948c",
+            "id": "d68121f81ceca8ec",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md"
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Nottebohm (Liechtenstein v. Guatemala)"
+              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
-            "id": "5c003a23a9bc2665",
+            "id": "72a8f6eb1c0aa658",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -179,7 +311,7 @@
             }
           },
           {
-            "id": "8a63726b3fb99150",
+            "id": "0976b19bd60c4a67",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -187,84 +319,68 @@
               "icon": "ag-style",
               "title": "Juggl style"
             }
-          },
-          {
-            "id": "9806703a13b884c0",
-            "type": "leaf",
-            "state": {
-              "type": "all-properties",
-              "state": {
-                "sortOrder": "frequency",
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
-            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 465
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "3d-graph:3D Graph": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordy:Wordy view": false
+      "obsidian-wordy:Wordy view": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "383cbb2581d029bc",
+  "active": "18b9d818872c2a91",
   "lastOpenFiles": [
-    "MUN_2024/Other Useful/Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (1984).md",
-    "MUN_2024/Other Useful/American Convention on Human Rights.md",
-    "MUN_2024/Other Useful/Agreement between the United Nations and the United States of America regarding the Headquarters of the United Nations.md",
-    "MUN_2024/Information/Overview.md",
-    "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
-    "MUN_2024/Useful Cases/Serbian Loans.md",
-    "MUN_2024/Useful Cases/Mavrommatis Palestine Concessions.md",
-    "MUN_2024/Useful Cases/Fisheries Jurisdiction (United Kingdom v. Iceland).md",
-    "MUN_2024/Other Useful/The Right to Information on Consular Assistance in the Framework of the Guarantees of the Due Process of Law.md",
-    "MUN_2024/Other Useful/INTERNATIONAL LAW COMMISSION- DRAFT ARTICLES ON STATE RESPONSIBILITY.md",
-    "MUN_2024/Other Useful/Draft Articles on Consular Relations with commentaries, 1961.md",
-    "MUN_2024/Other Useful/Convention relating to the Status of Stateless Persons.md",
-    "MUN_2024/Useful Cases/Case of the Free Zones of Upper Savoy and the District of Gex.md",
-    "MUN_2024/Other Useful/Optional Protocol.md",
-    "MUN_2024/Other Useful/Mavrommatis Palestine Concessions.md",
-    "MUN_2024/Other Useful/International Covenant on Civil and Political Rights.md",
-    "MUN_2024/Other Useful/ICJ Statute.md",
-    "MUN_2024/Other Useful/UN Charter.md",
-    "MUN_2024/Other Useful/Universal Declaration of Human Rights.md",
-    "MUN_2024/Other Useful/Death Penalty Condemned.md",
-    "MUN_2024/Treaties/Untitled 12.md",
-    "MUN_2024/Useful Cases/United States Diplomatic and Consular Staff in Tehran (United States of America v. Iran).md",
-    "MUN_2024/Useful Cases/Land and Maritime Boundary between Cameroon and Nigeria (Cameroon v. Nigeria-Equatorial Guinea intervening).md",
-    "MUN_2024/Useful Cases/Fisheries Jurisdiction (Spain v. Canada).md",
-    "MUN_2024/Other Useful/International Convention on the Elimination of All Forms of Racial Discrimination.md",
-    "MUN_2024/Other Useful/Convention on the settlement of investment disputes between States and nationals of other States. Opened for signature at Washington, on 18 March 1965.md",
-    "MUN_2024/Files/Pasted image 20241023172537.png",
-    "MUN_2024/Useful Cases",
-    "MUN_2024/Other Useful",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
+    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
+    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
+    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
+    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
+    "YIG_2025/Embedded 1/Stanley v. Illinois (1972).md",
+    "YIG_2025/Embedded 1/Roe v. Wade.md",
+    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
+    "YIG_2025/Arguments.md",
+    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Codes or Laws/Public Health Service Act.md",
+    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
+    "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
+    "YIG_2025/Embedded 1/Cochran v. Cochran (1909).md",
+    "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977).md",
+    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
+    "YIG_2025/Case Law/New Text Document.txt",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (.txt",
+    "YIG_2025/Codes or Laws",
+    "YIG_2025/Technical",
+    "YIG_2025/Embedded 2",
+    "YIG_2025/Embedded 1",
+    "YIG_2025/Case Law",
+    "YIG_2025",
+    "Pasted image 20241111234912.png",
     "MUN_2024/Files/Rodley-HumanRightsHumanitarian-1989.pdf",
-    "MUN_2024/Files",
-    "MUN_2024/Argument",
-    "MUN_2024/Treaties",
-    "AP_GOV/Vocab",
-    "AP_GOV/Important Cases",
-    "YIG_2024/TN Codes or Laws",
-    "YIG_2024/Technical",
-    "The Fall and Rise of Gather/Images/Doorknob.png",
-    "The Fall and Rise of Gather/Images/Spider.png",
-    "The Fall and Rise of Gather/Gather.canvas",
-    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
+    "MUN_2024/Files/Pasted image 20241023172537.png"
   ]
 }

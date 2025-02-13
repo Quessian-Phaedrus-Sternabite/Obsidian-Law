@@ -4,7 +4,7 @@ supports: Germany
 year: 1998
 tags:
 ---
-## Official Name
+## Official Namew
 
 https://www.jstor.org/stable/20698780?seq=16
 
