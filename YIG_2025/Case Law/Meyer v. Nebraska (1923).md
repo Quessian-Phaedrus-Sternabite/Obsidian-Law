@@ -13,7 +13,7 @@ The Court struck down a law forbidding the teaching of foreign languages to youn
 
 ### Use
 
-How it may be used and quotes
+Very clearly supports 
 
 ### Embedded
 
