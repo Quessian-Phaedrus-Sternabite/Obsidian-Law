@@ -26,11 +26,11 @@ Offers possible counterpoints to pierce? Argue what's detailed in the summary an
 ### Embedded
 
 [[Name of embedded]]
-_Cf. Meyer v. Nebraska,_ [262 U. S. 390](https://supreme.justia.com/cases/federal/us/262/390/)
+[[Meyer v. Nebraska (1923)]]
 _Schneider v. State,_ [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
 _Cantwell v. Connecticut,_ [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
 _[West Virginia State Board of Education v. Barnette](https://supreme.justia.com/cases/federal/us/319/624/),_ 319 U.S.
-_Pierce v. Society of Sisters,_ [268 U. S. 510](https://supreme.justia.com/cases/federal/us/268/510/)
+[[Pierce v. Society of Sisters (1925)]]
 _Reynolds v. United States,_ [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
 _Davis v. Beason,_ [133 U. S. 333](https://supreme.justia.com/cases/federal/us/133/333/)
 _People v. Pierson,_ 176 N.Y. 201, 68 N.E. 243
@@ -42,7 +42,8 @@ _Murdock v. Pennsylvania,_ [319 U. S. 105](https://supreme.justia.com/cases/fed
 _Martin v. City of Struthers,_ [319 U. S. 141](https://supreme.justia.com/cases/federal/us/319/141/)
 _Largent v. Texas,_ [318 U. S. 418](https://supreme.justia.com/cases/federal/us/318/418/)
 _Busey v. District of Columbia,_ 75 U.S.App.D.C. 352
-*Following are used by the court as the massachusetts verdict runs contrary to them*
+
+Following are used by the court as the massachusetts verdict runs contrary to them
 _State v. Mead,_ 230 Iowa 1217
 _State v. Meredith,_ 197 S.C. 351
 _Semansky v. Stark,_ 196 La. 307
@@ -51,7 +52,8 @@ _People v. Barber,_ 289 N.Y. 378
 _Thomas v. Atlanta,_ 59 Ga.App. 520
 _Cincinnati v. Mosier,_ 61 Ohio App. 81, 22 N.E.2d 418
 _: McSparran v. Portland_ (Circuit Court, Multnomah County, Oregon, June 8, 1942), _cert. denied,_ 318 U.S. 768.
-*End stated Caveat
+End stated Caveat
+
 _State v. Bailey,_ 157 Ind. 324
 _West Virginia State Board of Education v. Barnette,_ [319 U. S. 624](https://supreme.justia.com/cases/federal/us/319/624/)
 _Sturges & Burn Mfg. Co. v. Beauchamp,_ [231 U. S. 320](https://supreme.justia.com/cases/federal/us/231/320/)
@@ -60,7 +62,7 @@ _Cf. People v. Ewer,_ 141 N.Y. 129, 36 N.E. 4
 _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/).
 _State v. Chenoweth,_ 163 Ind. 94, 71 N.E. 197
 _Owens v. State,_ 6 Okla.Cr. 110, 116 P. 345
-_Lovell v. City of Griffin,_ [303 U. S. 444](https://supreme.justia.com/cases/federal/us/303/444/)
+[[Lovell v. City of Griffin]]
 _Schneider v. State,_ [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
 _Hague v. Committee for Industrial Organization,_ [307 U. S. 496](https://supreme.justia.com/cases/federal/us/307/496/)
 _Cox v. New Hampshire,_ [312 U. S. 569](https://supreme.justia.com/cases/federal/us/312/569/)
