@@ -4,7 +4,7 @@ level: Base
 group: YIG-2025
 year: 1995
 ---
-## Case Number
+ ## Case Number
 
 https://casetext.com/case/curtis-v-school-committee-of-falmouth/
 
