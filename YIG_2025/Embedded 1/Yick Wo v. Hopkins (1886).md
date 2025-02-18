@@ -1,7 +1,7 @@
 ---
-supports: "1973"
+supports: N/A
 level: "1"
-group: 
+group: YIG-2025
 year:
 ---
 ## Case Number
@@ -14,7 +14,7 @@ Summary of case
 
 ### Use
 
-Supports right to privacy in matters of sexuality. 
+How it may be used and quotes
 
 ### Embedded
 

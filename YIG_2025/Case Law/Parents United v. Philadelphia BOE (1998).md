@@ -16,10 +16,8 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 
 ### Embedded
 
-[[Name of embedded]]
-_Parents United for Better Schools, Inc. v. School Dist.,_ 17 Pa. D. & C
 _Parents United for Better Schools, Inc. v. School Dist.,_ 166 Pa.Commw. 462, [646 A.2d 689](https://law.justia.com/cases/pennsylvania/commonwealth-court/1994/166-pa-commw-462-1.html) (1994) (_en banc_).
-_Parents United for Better Schools, Inc. v. School Dist.,_ No. 96-3791, 1996 WL 442887 (E.D.Pa. July 31, 1996).
+[[Parents United for Better Schools, Inc. v. School Dist (1994)]]
 _Anderson v. Liberty Lobby, Inc.,_ [477 U.S. 242](https://supreme.justia.com/cases/federal/us/477/242/)
 _Siegel Transfer, Inc. v. Carrier Express, Inc.,_ 54 F.3d 1125, 1127 (3d Cir. 1995).
 _J.F. Feeser, Inc. v. Serv-A-Portion, Inc.,_ 909 F.2d 1524

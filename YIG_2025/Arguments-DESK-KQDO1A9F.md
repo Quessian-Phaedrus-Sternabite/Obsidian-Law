@@ -1,3 +1,0 @@
-STK - It is not for the state to interfere in matters of upbringing. Parents have the ultimate say in the raising of their children.
-
-Woodson - The pressing harm caused by the HIV/AIDS pandemic renders condom dispersal as an essential medical service. As such, the State has a compelling government interest in making such service available. Since the program having a non-anonymous opt-out option could harm the students and reduce the likelihood of them asking for help, it would be detrimental to the program and the health of the children as a whole. 
