@@ -1,12 +1,12 @@
 ---
-supports: Woodson
+supports: N/A
 level: "1"
 group: YIG-2025
-year: 1977
+year: 1890
 ---
-## Case Number
+## 136 U.S. 313
 
-Link
+https://supreme.justia.com/cases/federal/us/136/313/
 
 ### Summary
 
@@ -14,7 +14,7 @@ Summary of case
 
 ### Use
 
-How it may be used and quotes
+Not applicable.
 
 ### Embedded
 

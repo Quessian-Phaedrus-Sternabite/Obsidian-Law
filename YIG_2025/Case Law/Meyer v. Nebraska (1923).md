@@ -17,9 +17,10 @@ Very clearly supports STK. The State cannot provide education against the intere
 
 ### Embedded
 
-_[Slaughter-House Cases](https://supreme.justia.com/cases/federal/us/83/36/),_ 16 Wall. 36; _Butchers' Union Co. v. Crescent City Co.,_ [111 U. S. 746](https://supreme.justia.com/cases/federal/us/111/746/); 
-_Yick Wo v. Hopkins,_ [118 U. S. 356](https://supreme.justia.com/cases/federal/us/118/356/); 
-_Minnesota v. Barber,_ [136 U. S. 313](https://supreme.justia.com/cases/federal/us/136/313/); 
+[[Slaughter-House Cases (1872)]]
+[[Butchers' Union  Co. v. Crescent City Co. (1884)]]
+[[Yick Wo v. Hopkins (1886)]]
+[[Minnesota v. Barber (1890)]]
 _Allgeyer v. Louisiana,_ [165 U. S. 578](https://supreme.justia.com/cases/federal/us/165/578/); 
 _Lochner v. New York,_ [198 U. S. 45](https://supreme.justia.com/cases/federal/us/198/45/); _
 Twining v. New Jersey,_ [211 U. S. 78](https://supreme.justia.com/cases/federal/us/211/78/); 
