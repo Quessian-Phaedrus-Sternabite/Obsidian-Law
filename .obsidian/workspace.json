@@ -6,7 +6,7 @@
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 54.049586776859506,
+        "dimension": 54.05669599217987,
         "children": [
           {
             "id": "9d4b4f7db4fefdca",
@@ -44,37 +44,52 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pierce v. Society of Sisters (1925)"
+              "title": "Meyer v. Nebraska (1923)"
             }
           },
           {
-            "id": "c2aac4bf86745cff",
+            "id": "bb9a1642a610b802",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Arguments.md",
+                "file": "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Arguments"
+              "title": "Alfonso v. Fernandez (1993)"
+            }
+          },
+          {
+            "id": "18b9d818872c2a91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meyer v. Nebraska (1923)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "abe2fdfcfe191bdb",
         "type": "split",
-        "dimension": 45.950413223140494,
+        "dimension": 45.94330400782013,
         "children": [
           {
             "id": "9f60b3e542cbbfd0",
@@ -217,7 +232,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 281.5026054382324
+    "width": 455.5
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -233,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "AP_GOV/15 Essential Cases/Shaw v. Reno.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -243,7 +258,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pierce v. Society of Sisters (1925)"
+              "title": "Backlinks for Shaw v. Reno"
             }
           },
           {
@@ -252,12 +267,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pierce v. Society of Sisters (1925)"
+              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -279,10 +294,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md"
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Pierce v. Society of Sisters (1925)"
+              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -305,8 +320,7 @@
               "title": "Juggl style"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -328,44 +342,44 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c4e4f440df3e22a2",
+  "active": "18b9d818872c2a91",
   "lastOpenFiles": [
-    "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
-    "Truax v. Corrigan (1921).md",
-    "YIG_2025/Readme 2025.md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "Northwestern National Life Ins. Co. v. Riggs (1906).md",
-    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
-    "YIG_2025/Arguments.md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "YIG_2025/Embedded 1/Truax v. Reich (1915).md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Embedded 1/Cochran v. Cochran (1909).md",
     "YIG_2025/Technical/Fourteenth Amendment to the United States Constitution.md",
-    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
+    "YIG_2025/Embedded 1/Truax v. Reich (1915).md",
+    "Truax v. Corrigan (1921).md",
+    "Northwestern National Life Ins. Co. v. Riggs (1906).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/Matter of Jensen (1981)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/Custody of A Minor (1978)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Matter of Hamilton (1983)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Stanley v. Illinois (1972)-DESK-KQDO1A9F.md",
+    "YIG_2025/Arguments-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Roe v. Wade-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983)-DESK-KQDO1A9F.md",
+    "YIG_2025/Codes or Laws-DESK-KQDO1A9F/Public Health Service Act.md",
+    "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
+    "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "So on and so forth.md",
-    "YIG_2025/Embedded 1/Stanley v. Illinois (1972).md",
-    "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
-    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
     "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
-    "YIG_2025/Codes or Laws",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
     "YIG_2025/Case Law/New Text Document.txt",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (.txt",
-    "YIG_2025/TN Codes or Laws",
+    "YIG_2025/Codes or Laws",
     "YIG_2025/Technical",
     "YIG_2025/Embedded 2",
     "YIG_2025/Embedded 1",
     "YIG_2025/Case Law",
-    "YIG_2025",
     "Pasted image 20241111234912.png",
     "MUN_2024/Files/Pasted image 20241023172537.png"
   ]
