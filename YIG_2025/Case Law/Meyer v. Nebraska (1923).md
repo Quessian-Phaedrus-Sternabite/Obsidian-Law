@@ -21,13 +21,14 @@ Very clearly supports STK. The State cannot provide education against the intere
 [[Butchers' Union  Co. v. Crescent City Co. (1884)]]
 [[Yick Wo v. Hopkins (1886)]]
 [[Minnesota v. Barber (1890)]]
-_Allgeyer v. Louisiana,_ [165 U. S. 578](https://supreme.justia.com/cases/federal/us/165/578/); 
-_Lochner v. New York,_ [198 U. S. 45](https://supreme.justia.com/cases/federal/us/198/45/); _
-Twining v. New Jersey,_ [211 U. S. 78](https://supreme.justia.com/cases/federal/us/211/78/); 
-_Chicago, Burlington & Quincy R.R. Co. v. McGuire,_ [219 U. S. 549](https://supreme.justia.com/cases/federal/us/219/549/); 
+[[Allgeyer v. Louisiana (1897)]]
+[[Lochner v. New York (1905)]]
+[[Twining v. New Jersey (1908)]]
+[[Chicago, Burlington & Quincy R. Co. v. McGuire (1911)]]
 [[Truax v. Reich (1915)]] 
-_Adams v. Tanner,_ [244 U. S. 590](https://supreme.justia.com/cases/federal/us/244/590/); 
+[[Adams v. Tanner (1917)]]
 _New York Life Ins. Co. v. Dodge,_ [246 U. S. 357](https://supreme.justia.com/cases/federal/us/246/357/); 
+[[New York Life Ins. Co. v. Dodge (1918)]]
 _Truax v. Corrigan,_ [257 U. S. 312](https://supreme.justia.com/cases/federal/us/257/312/); 
 _Adkins v. Children's Hospital,_ [261 U. S. 525](https://supreme.justia.com/cases/federal/us/261/525/); 
 _Wyeth v. Cambridge Board of Health,_ 200 Mass. 474.

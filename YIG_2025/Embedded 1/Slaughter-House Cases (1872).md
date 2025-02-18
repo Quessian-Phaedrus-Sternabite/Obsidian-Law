@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: Base
 group: YIG-2025
 year: 1872
