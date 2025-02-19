@@ -1,7 +1,7 @@
 ---
-supports: 
-level: 
-group: 
+supports: Woodson
+level: Base
+group: "1944"
 year: 1944
 ---
 ## 321 U.S. 158, 64 S. Ct. 438
@@ -23,6 +23,8 @@ The state’s interest in protecting children through the child labor laws overr
 ### Use
 Offers possible counterpoints to pierce? Argue what's detailed in the summary and if that's insufficient use linked justia.
 
+Very useful. State takes precedence over parents when the parents are acting in a manner harmful to the children. As HIV/AIDS is harmful, and their inaction constitutes harm, this means that the State has a right to act.
+
 ### Embedded
 
 [[Name of embedded]]
@@ -43,7 +45,7 @@ _Martin v. City of Struthers,_ [319 U. S. 141](https://supreme.justia.com/cases
 _Largent v. Texas,_ [318 U. S. 418](https://supreme.justia.com/cases/federal/us/318/418/)
 _Busey v. District of Columbia,_ 75 U.S.App.D.C. 352
 
-Following are used by the court as the massachusetts verdict runs contrary to them
+Following are used by the court as the Massachusetts verdict runs contrary to them
 _State v. Mead,_ 230 Iowa 1217
 _State v. Meredith,_ 197 S.C. 351
 _Semansky v. Stark,_ 196 La. 307
