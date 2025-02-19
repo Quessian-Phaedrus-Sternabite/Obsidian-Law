@@ -23,21 +23,35 @@
             }
           },
           {
-            "id": "1cf508aec749c691",
+            "id": "8ee72ade3d2038a0",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/268/510/#tab-opinion-1930961",
-                "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center",
+                "url": "https://law.justia.com/cases/tennessee/supreme-court/1993/855-s-w-2d-573-2.html",
+                "title": "Hawk v. Hawk :: 1993 :: Tennessee Supreme Court Decisions :: Tennessee Case Law :: Tennessee Law :: U.S. Law :: Justia",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center"
+              "title": "Hawk v. Hawk :: 1993 :: Tennessee Supreme Court Decisions :: Tennessee Case Law :: Tennessee Law :: U.S. Law :: Justia"
+            }
+          },
+          {
+            "id": "b5d0b6f3d1997b5c",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://supreme.justia.com/cases/federal/us/310/296/",
+                "title": "Cantwell v. Connecticut | 310 U.S. 296 (1940) | Justia U.S. Supreme Court Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Cantwell v. Connecticut | 310 U.S. 296 (1940) | Justia U.S. Supreme Court Center"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7bfbcbf7915f8851",
@@ -80,17 +94,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Pierce v. Society of Sisters (1925)"
+              "title": "Hawk v. Hawk (1993)"
+            }
+          },
+          {
+            "id": "7e96c5b5bb5916cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Matter of Hamilton (1983)"
+            }
+          },
+          {
+            "id": "cbe58bb8e169ca93",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Prince v. Massachusetts (1944)"
+            }
+          },
+          {
+            "id": "d4e6371437fc0f8d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cantwell v. Connecticut (1940).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Cantwell v. Connecticut (1940)"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -326,13 +385,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                    "file": "YIG_2024/Embedded 1/In re Foss.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Pierce v. Society of Sisters (1925)"
+                  "title": "In re Foss"
                 }
               }
             ]
@@ -401,34 +460,34 @@
       }
     ]
   },
-  "active": "1cf508aec749c691",
+  "active": "3a83d61d819949e4",
   "lastOpenFiles": [
+    "YIG_2024/Embedded 1/In re Foss.md",
+    "Cantwell v. Connecticut (1940).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Embedded 1/Schneider v. State (1939).md",
+    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
+    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
+    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
+    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
+    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
+    "YIG_2025/Embedded 1/Davis v. Davis (1992).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977).md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
+    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
+    "YIG_2025/Embedded 1/Roe v. Wade.md",
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
     "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
     "YIG_2024/Embedded 2/Loewe v. Lawlor.md",
     "YIG_2025/Case Law/Prince v. Massachusetts (1944)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
-    "Twining v. New Jersey (1908).md",
-    "New York Life Ins. Co. v. Dodge (1918).md",
-    "YIG_2025/Readme 2025.md",
-    "Lochner v. New York (1905).md",
-    "Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
-    "Butchers' Union  Co. v. Crescent City Co. (1884).md",
-    "Allgeyer v. Louisiana (1897).md",
-    "Adams v. Tanner (1917).md",
-    "YIG_2025/Embedded 1/Truax v. Corrigan (1921)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Slaughter-House Cases (1872)-DESK-KQDO1A9F.md",
-    "YIG_2025/Readme 2025-DESK-KQDO1A9F.md",
-    "YIG_2024/Embedded 1/Lovell v. City of Griffin-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Minnesota v. Barber (1890)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Baker v. Carr (1962) (YIG)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Brown v. Board of Education of Topeka (1954) (YIG)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906)-DESK-KQDO1A9F.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

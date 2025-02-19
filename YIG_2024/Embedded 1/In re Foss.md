@@ -2,7 +2,7 @@
 supports: Both
 level: "1"
 group: YIG-2024
-year: xxxx
+year: 1972
 ---
 ## 8 Cal. 3d 410, 424, 105 Cal. Rptr. 217, 226, 503 P.2d 921, 930 (1972)
 
