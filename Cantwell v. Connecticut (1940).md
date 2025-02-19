@@ -10,11 +10,11 @@ https://supreme.justia.com/cases/federal/us/310/296/
 
 ### Summary
 
-Summary of case
+"A State constitutionally may, by general and nondiscriminatory legislation, regulate the time, place and manner of soliciting upon its streets, and of holding meetings thereon, and may in other respects safeguard the peace, good order and comfort of the community."
 
 ### Use
 
-How it may be used and quotes
+Not applicable. About the soliciting part and not children.
 
 ### Embedded
 

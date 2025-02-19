@@ -23,31 +23,31 @@
             }
           },
           {
-            "id": "8ee72ade3d2038a0",
+            "id": "7810227d199755bf",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://law.justia.com/cases/tennessee/supreme-court/1993/855-s-w-2d-573-2.html",
-                "title": "Hawk v. Hawk :: 1993 :: Tennessee Supreme Court Decisions :: Tennessee Case Law :: Tennessee Law :: U.S. Law :: Justia",
+                "url": "https://supreme.justia.com/cases/federal/us/321/158/",
+                "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Hawk v. Hawk :: 1993 :: Tennessee Supreme Court Decisions :: Tennessee Case Law :: Tennessee Law :: U.S. Law :: Justia"
+              "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center"
             }
           },
           {
-            "id": "b5d0b6f3d1997b5c",
+            "id": "95a20f02da735779",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/310/296/",
-                "title": "Cantwell v. Connecticut | 310 U.S. 296 (1940) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/98/145/",
+                "title": "Reynolds v. United States | 98 U.S. 145 (1878) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Cantwell v. Connecticut | 310 U.S. 296 (1940) | Justia U.S. Supreme Court Center"
+              "title": "Reynolds v. United States | 98 U.S. 145 (1878) | Justia U.S. Supreme Court Center"
             }
           }
         ],
@@ -134,18 +134,18 @@
             }
           },
           {
-            "id": "d4e6371437fc0f8d",
+            "id": "8b1ba32deceec53e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cantwell v. Connecticut (1940).md",
+                "file": "Reynolds v. United States (1878).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Cantwell v. Connecticut (1940)"
+              "title": "Reynolds v. United States (1878)"
             }
           }
         ],
@@ -460,12 +460,13 @@
       }
     ]
   },
-  "active": "3a83d61d819949e4",
+  "active": "8b1ba32deceec53e",
   "lastOpenFiles": [
-    "YIG_2024/Embedded 1/In re Foss.md",
-    "Cantwell v. Connecticut (1940).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
     "YIG_2025/Readme 2025.md",
+    "Reynolds v. United States (1878).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "Cantwell v. Connecticut (1940).md",
+    "YIG_2024/Embedded 1/In re Foss.md",
     "YIG_2025/Embedded 1/Schneider v. State (1939).md",
     "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
     "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
@@ -487,7 +488,6 @@
     "YIG_2025/Case Law/Prince v. Massachusetts (1944)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998)-DESK-KQDO1A9F.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
