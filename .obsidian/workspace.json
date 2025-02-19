@@ -9,12 +9,26 @@
         "dimension": 39.05325443786983,
         "children": [
           {
-            "id": "fa4b633e7ad2f2df",
+            "id": "5353a3967110737a",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/268/510/#535",
+                "url": "https://supreme.justia.com/cases/federal/us/263/197/",
+                "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center"
+            }
+          },
+          {
+            "id": "1cf508aec749c691",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://supreme.justia.com/cases/federal/us/268/510/#tab-opinion-1930961",
                 "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
@@ -23,31 +37,17 @@
             }
           },
           {
-            "id": "e6401b6109de7fe6",
+            "id": "888fc13f57229c4f",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/211/45/",
-                "title": "Berea College v. Kentucky | 211 U.S. 45 (1908) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/257/184/",
+                "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Berea College v. Kentucky | 211 U.S. 45 (1908) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
-            "id": "edb4715b2ccf95ef",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/204/359/",
-                "title": "Western Turf Association v. Greenberg | 204 U.S. 359 (1907) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Western Turf Association v. Greenberg | 204 U.S. 359 (1907) | Justia U.S. Supreme Court Center"
+              "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center"
             }
           }
         ],
@@ -74,22 +74,7 @@
             }
           },
           {
-            "id": "0c8b679f4b1223aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Pierce v. Society of Sisters (1925)"
-            }
-          },
-          {
-            "id": "6e6ad4cba50a1380",
+            "id": "e0cf1548539889b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -101,6 +86,21 @@
               },
               "icon": "lucide-file",
               "title": "Western Turf Association v. Greenberg (1907)"
+            }
+          },
+          {
+            "id": "fb407eb40f1823ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pierce v. Society of Sisters (1925)"
             }
           }
         ],
@@ -340,13 +340,13 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+                    "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "Prince v. Massachusetts (1944)"
+                  "title": "Pierce v. Society of Sisters (1925)"
                 }
               }
             ]
@@ -415,17 +415,22 @@
       }
     ]
   },
-  "active": "6e6ad4cba50a1380",
+  "active": "888fc13f57229c4f",
   "lastOpenFiles": [
-    "YIG_2025/Readme 2025.md",
-    "Western Turf Association v. Greenberg (1907).md",
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "Duplex Printing Press Co. v. Deering (1921).md",
+    "YIG_2024/Technical/Name of embedded.md",
+    "YIG_2025/Readme 2025.md",
+    "Hitchman Coal & Coke Co. v. Mitchell (1917).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2024/Case Law/State v. Hinsley (1982).md",
+    "Allgeyer v. Louisiana (1897).md",
+    "YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
+    "Western Turf Association v. Greenberg (1907).md",
     "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906).md",
     "Berea College v. Kentucky (1908).md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "Allgeyer v. Louisiana (1897).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
     "Adams v. Tanner (1917).md",
     "Adkins v. Children's Hospital (1923).md",
     "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
@@ -438,11 +443,6 @@
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Technical/Fourteenth Amendment to the United States Constitution.md",
     "YIG_2025/Embedded 1/Truax v. Reich (1915).md",
-    "Truax v. Corrigan (1921).md",
-    "Northwestern National Life Ins. Co. v. Riggs (1906).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

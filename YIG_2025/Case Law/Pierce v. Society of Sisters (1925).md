@@ -26,14 +26,13 @@ Supports STK.
 
 [[Truax v. Reich (1915)]]
 [[Meyer v. Nebraska (1923)]]
-[[Northwestern National Life Ins. Co. v. Riggs (1906)]]
-[[Truax v. Corrigan (1921)]]
-[[Berea College v. Kentucky (1908)]]
-_Western Turf Association v. Greenberg,_ [204 U. S. 359](https://supreme.justia.com/cases/federal/us/204/359/), [204 U. S. 363](https://supreme.justia.com/cases/federal/us/204/359/#363)
-[[Western Turf Association v. Greenberg (1907)]]
-_Terrace v. Thompson,_ [263 U. S. 197](https://supreme.justia.com/cases/federal/us/263/197/)
-_Hitchman Coal & Coke Co. v. Mitchell,_ [245 U. S. 229](https://supreme.justia.com/cases/federal/us/245/229/)
- _Duplex Printing Press Co. v. Deering,_ [254 U. S. 443](https://supreme.justia.com/cases/federal/us/254/443/)
+[[Northwestern National Life Ins. Co. v. Riggs (1906)]] (corpo argument)
+[[Truax v. Corrigan (1921)]] (corpo argument)
+[[Berea College v. Kentucky (1908)]] (corpo argument)
+[[Western Turf Association v. Greenberg (1907)]] (corpo argument)
+[[Terrace v. Thompson (1923)]]
+[[Hitchman Coal & Coke Co. v. Mitchell (1917)]]
+ [[Duplex Printing Press Co. v. Deering (1921)]]
  _American Steel Foundries v. Tri-City Central Trades Council,_ [257 U. S. 184](https://supreme.justia.com/cases/federal/us/257/184/)
  _Nebraska District v. McKelvie,_ [262 U. S. 404](https://supreme.justia.com/cases/federal/us/262/404/)
  
