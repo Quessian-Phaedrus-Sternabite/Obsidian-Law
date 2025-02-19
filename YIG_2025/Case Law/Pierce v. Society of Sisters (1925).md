@@ -33,7 +33,6 @@ Supports STK.
 [[Terrace v. Thompson (1923)]]
 [[Hitchman Coal & Coke Co. v. Mitchell (1917)]]
  [[Duplex Printing Press Co. v. Deering (1921)]]
- _American Steel Foundries v. Tri-City Central Trades Council,_ [257 U. S. 184](https://supreme.justia.com/cases/federal/us/257/184/)
  [[American Steel Foundries v. Tri-City (1921)]]
- _Nebraska District v. McKelvie,_ [262 U. S. 404](https://supreme.justia.com/cases/federal/us/262/404/)
+ _Nebraska District v. McKelvie,_ [262 U. S. 404](https://supreme.justia.com/cases/federal/us/262/404/) (Don't know what's going on with this one)
  

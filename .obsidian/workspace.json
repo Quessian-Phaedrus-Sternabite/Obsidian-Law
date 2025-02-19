@@ -35,23 +35,9 @@
               "icon": "globe-2",
               "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center"
             }
-          },
-          {
-            "id": "888fc13f57229c4f",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/257/184/",
-                "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center"
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "7bfbcbf7915f8851",
@@ -102,24 +88,9 @@
               "icon": "lucide-file",
               "title": "Pierce v. Society of Sisters (1925)"
             }
-          },
-          {
-            "id": "14a682839a9f4774",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "American Steel Foundries v. Tri-City (1921)"
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -187,7 +158,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 400.51103591918945
+    "width": 580.5110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -429,10 +401,18 @@
       }
     ]
   },
-<<<<<<< HEAD
-  "active": "14a682839a9f4774",
+  "active": "1cf508aec749c691",
   "lastOpenFiles": [
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
+    "YIG_2024/Embedded 2/Loewe v. Lawlor.md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
     "Twining v. New Jersey (1908).md",
     "New York Life Ins. Co. v. Dodge (1918).md",
     "YIG_2025/Readme 2025.md",
@@ -442,52 +422,13 @@
     "Allgeyer v. Louisiana (1897).md",
     "Adams v. Tanner (1917).md",
     "YIG_2025/Embedded 1/Truax v. Corrigan (1921)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Slaughter-House Cases (1872)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944)-DESK-KQDO1A9F.md",
     "YIG_2025/Readme 2025-DESK-KQDO1A9F.md",
     "YIG_2024/Embedded 1/Lovell v. City of Griffin-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Minnesota v. Barber (1890)-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Baker v. Carr (1962) (YIG)-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Brown v. Board of Education of Topeka (1954) (YIG)-DESK-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Yick Wo v. Hopkins (1886)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
-=======
-  "active": "a409abbda40c6d31",
-  "lastOpenFiles": [
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "YIG_2025/Readme 2025.md",
-    "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
-    "YIG_2025/Embedded 1/Duplex Printing Press Co. v. Deering (1921).md",
-    "YIG_2024/Technical/Name of embedded.md",
-    "YIG_2025/Embedded 1/Hitchman Coal & Coke Co. v. Mitchell (1917).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2024/Case Law/State v. Hinsley (1982).md",
-    "YIG_2025/Embedded 1/Allgeyer v. Louisiana (1897).md",
-    "YIG_2024/Embedded 2/Terrace v. Thompson (1923).md",
-    "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
-    "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906).md",
-    "YIG_2025/Embedded 1/Berea College v. Kentucky (1908).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Embedded 1/Adams v. Tanner (1917).md",
-    "YIG_2025/Embedded 1/Adkins v. Children's Hospital (1923).md",
-    "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
-    "YIG_2025/Embedded 1/Truax v. Corrigan (1921).md",
-    "YIG_2025/Embedded 1/New York Life Ins. Co. v. Dodge (1918).md",
-    "YIG_2025/Embedded 1/Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
-    "YIG_2025/Embedded 1/Twining v. New Jersey (1908).md",
-    "YIG_2025/Embedded 1/Slaughter-House Cases (1872).md",
-    "YIG_2025/Embedded 1/Lochner v. New York (1905).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Technical/Fourteenth Amendment to the United States Constitution.md",
->>>>>>> 178de0e6e884f54849962c070fde66b93db1e807
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
