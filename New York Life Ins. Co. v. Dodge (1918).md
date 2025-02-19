@@ -1,8 +1,8 @@
 ---
-supports: 
-level: 
-group: 
-year:
+supports: N/A
+level: "1"
+group: YIG-2025
+year: 1918
 ---
 ## Case Number
 
