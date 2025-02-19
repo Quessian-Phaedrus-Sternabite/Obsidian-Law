@@ -28,9 +28,9 @@ Supports STK.
 [[Meyer v. Nebraska (1923)]]
 [[Northwestern National Life Ins. Co. v. Riggs (1906)]]
 [[Truax v. Corrigan (1921)]]
-_Berea College v. Kentucky,_ [211 U. S. 45](https://supreme.justia.com/cases/federal/us/211/45/). P. [268 U. S. 535](https://supreme.justia.com/cases/federal/us/268/510/#535)
-_Northwestern Life Ins. Co. v. Riggs,_ [203 U. S. 243](https://supreme.justia.com/cases/federal/us/203/243/), [203 U. S. 255](https://supreme.justia.com/cases/federal/us/203/243/#255)
+[[Berea College v. Kentucky (1908)]]
 _Western Turf Association v. Greenberg,_ [204 U. S. 359](https://supreme.justia.com/cases/federal/us/204/359/), [204 U. S. 363](https://supreme.justia.com/cases/federal/us/204/359/#363)
+[[Western Turf Association v. Greenberg (1907)]]
 _Terrace v. Thompson,_ [263 U. S. 197](https://supreme.justia.com/cases/federal/us/263/197/)
 _Hitchman Coal & Coke Co. v. Mitchell,_ [245 U. S. 229](https://supreme.justia.com/cases/federal/us/245/229/)
  _Duplex Printing Press Co. v. Deering,_ [254 U. S. 443](https://supreme.justia.com/cases/federal/us/254/443/)

@@ -9,49 +9,49 @@
         "dimension": 39.05325443786983,
         "children": [
           {
-            "id": "3f93612b2a7c716e",
+            "id": "fa4b633e7ad2f2df",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/261/525/",
-                "title": "Adkins v. Children's Hospital | 261 U.S. 525 (1923) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/268/510/#535",
+                "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Adkins v. Children's Hospital | 261 U.S. 525 (1923) | Justia U.S. Supreme Court Center"
+              "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center"
             }
           },
           {
-            "id": "87ca18b9d4484e8e",
+            "id": "e6401b6109de7fe6",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/262/390/",
-                "title": "Meyer v. Nebraska | 262 U.S. 390 (1923) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/211/45/",
+                "title": "Berea College v. Kentucky | 211 U.S. 45 (1908) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Meyer v. Nebraska | 262 U.S. 390 (1923) | Justia U.S. Supreme Court Center"
+              "title": "Berea College v. Kentucky | 211 U.S. 45 (1908) | Justia U.S. Supreme Court Center"
             }
           },
           {
-            "id": "1d64e01786615dcd",
+            "id": "edb4715b2ccf95ef",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/165/578/",
-                "title": "Allgeyer v. Louisiana | 165 U.S. 578 (1897) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/204/359/",
+                "title": "Western Turf Association v. Greenberg | 204 U.S. 359 (1907) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Allgeyer v. Louisiana | 165 U.S. 578 (1897) | Justia U.S. Supreme Court Center"
+              "title": "Western Turf Association v. Greenberg | 204 U.S. 359 (1907) | Justia U.S. Supreme Court Center"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "7bfbcbf7915f8851",
@@ -72,8 +72,39 @@
               "icon": "lucide-file",
               "title": "Allgeyer v. Louisiana (1897)"
             }
+          },
+          {
+            "id": "0c8b679f4b1223aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pierce v. Society of Sisters (1925)"
+            }
+          },
+          {
+            "id": "6e6ad4cba50a1380",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Western Turf Association v. Greenberg (1907).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Western Turf Association v. Greenberg (1907)"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -375,23 +406,27 @@
           }
         ],
         "direction": "vertical",
-        "x": 2465,
-        "y": -192,
-        "width": 364,
+        "x": 2620,
+        "y": -333,
+        "width": 260,
         "height": 216,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "9d4b4f7db4fefdca",
+  "active": "6e6ad4cba50a1380",
   "lastOpenFiles": [
     "YIG_2025/Readme 2025.md",
-    "Allgeyer v. Louisiana (1897).md",
+    "Western Turf Association v. Greenberg (1907).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906).md",
+    "Berea College v. Kentucky (1908).md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "Adams v. Tanner (1917).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "Allgeyer v. Louisiana (1897).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "Adams v. Tanner (1917).md",
     "Adkins v. Children's Hospital (1923).md",
     "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
     "YIG_2025/Embedded 1/Truax v. Corrigan (1921).md",
@@ -408,10 +443,6 @@
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982)-DESK-KQDO1A9F.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
