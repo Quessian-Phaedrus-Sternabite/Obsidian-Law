@@ -6,173 +6,120 @@
       {
         "id": "3f4cc2115ffcace7",
         "type": "tabs",
-        "dimension": 27.028347996089934,
+        "dimension": 39.05325443786983,
         "children": [
           {
-            "id": "836d770ce4264d52",
+            "id": "5353a3967110737a",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/246/357/",
-                "title": "New York Life Ins. Co. v. Dodge | 246 U.S. 357 (1918) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/263/197/",
+                "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "New York Life Ins. Co. v. Dodge | 246 U.S. 357 (1918) | Justia U.S. Supreme Court Center"
+              "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center"
+            }
+          },
+          {
+            "id": "1cf508aec749c691",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://supreme.justia.com/cases/federal/us/268/510/#tab-opinion-1930961",
+                "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Pierce v. Society of Sisters | 268 U.S. 510 (1925) | Justia U.S. Supreme Court Center"
+            }
+          },
+          {
+            "id": "888fc13f57229c4f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://supreme.justia.com/cases/federal/us/257/184/",
+                "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "American Steel Foundries v. Tri-City Trades Council | 257 U.S. 184 (1921) | Justia U.S. Supreme Court Center"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 27.028347996089934,
+        "dimension": 60.946745562130175,
         "children": [
-          {
-            "id": "9d4b4f7db4fefdca",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AP_GOV/15 Essential Cases/Wisconsin v. Yoder (1972).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wisconsin v. Yoder (1972)"
-            }
-          },
           {
             "id": "f81eeb2c5fbf6fce",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-                "mode": "source",
-                "backlinks": false,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Curtis v. School Committee of Falmouth  (1995)"
-            }
-          },
-          {
-            "id": "c4e4f440df3e22a2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+                "file": "YIG_2025/Embedded 1/Allgeyer v. Louisiana (1897).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Meyer v. Nebraska (1923)"
+              "title": "Allgeyer v. Louisiana (1897)"
             }
           },
           {
-            "id": "24fe9e95d3ec00b4",
+            "id": "e0cf1548539889b5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New York Life Ins. Co. v. Dodge (1918).md",
+                "file": "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "New York Life Ins. Co. v. Dodge (1918)"
+              "title": "Western Turf Association v. Greenberg (1907)"
+            }
+          },
+          {
+            "id": "fb407eb40f1823ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Pierce v. Society of Sisters (1925)"
+            }
+          },
+          {
+            "id": "14a682839a9f4774",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "American Steel Foundries v. Tri-City (1921)"
             }
           }
         ],
         "currentTab": 3
-      },
-      {
-        "id": "abe2fdfcfe191bdb",
-        "type": "split",
-        "dimension": 45.94330400782013,
-        "children": [
-          {
-            "id": "9f60b3e542cbbfd0",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "727e9e4ed3e07f9a",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AP_GOV/Readme.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Readme"
-                }
-              },
-              {
-                "id": "3a83d61d819949e4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              },
-              {
-                "id": "4fd2b739161b394c",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "AP_GOV/Readme.md",
-                    "mode": "source",
-                    "backlinks": false,
-                    "source": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Readme"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "cc5db2bde383e658",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "a409abbda40c6d31",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -185,19 +132,6 @@
         "id": "ebe4b30c5b6df7a2",
         "type": "tabs",
         "children": [
-          {
-            "id": "1152c984c97506e6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
           {
             "id": "e57d2a5061ff06ff",
             "type": "leaf",
@@ -234,13 +168,26 @@
               "icon": "longform",
               "title": "Longform"
             }
+          },
+          {
+            "id": "1152c984c97506e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 455.5,
-    "collapsed": true
+    "width": 400.51103591918945
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -364,34 +311,152 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "24fe9e95d3ec00b4",
+  "floating": {
+    "id": "27105a3040bded84",
+    "type": "floating",
+    "children": [
+      {
+        "id": "9e701ca44941eee7",
+        "type": "window",
+        "children": [
+          {
+            "id": "2c42e27615a8de0b",
+            "type": "tabs",
+            "dimension": 24.429223744292234,
+            "children": [
+              {
+                "id": "3a83d61d819949e4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Readme 2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme 2025"
+                }
+              }
+            ]
+          },
+          {
+            "id": "3bc42bba15d1f052",
+            "type": "tabs",
+            "dimension": 39.55479452054795,
+            "children": [
+              {
+                "id": "9d4b4f7db4fefdca",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Pierce v. Society of Sisters (1925)"
+                }
+              }
+            ]
+          },
+          {
+            "id": "9535aa25473f3057",
+            "type": "tabs",
+            "dimension": 36.01598173515982,
+            "children": [
+              {
+                "id": "a409abbda40c6d31",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2585,
+        "y": -1047,
+        "width": 480,
+        "height": 480,
+        "maximize": true,
+        "zoom": 0.5
+      },
+      {
+        "id": "c3bbef89598b5502",
+        "type": "window",
+        "children": [
+          {
+            "id": "191599a372311246",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "5eb0a7074fcefeff",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Readme 2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Readme 2025"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 2620,
+        "y": -333,
+        "width": 260,
+        "height": 216,
+        "maximize": false,
+        "zoom": 0.5
+      }
+    ]
+  },
+  "active": "14a682839a9f4774",
   "lastOpenFiles": [
-    "YIG_2025/Readme 2025.md",
-    "New York Life Ins. Co. v. Dodge (1918).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "Adams v. Tanner (1917).md",
-    "Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
     "Twining v. New Jersey (1908).md",
-    "YIG_2025/Embedded 1/Slaughter-House Cases (1872).md",
+    "New York Life Ins. Co. v. Dodge (1918).md",
+    "YIG_2025/Readme 2025.md",
     "Lochner v. New York (1905).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
+    "Butchers' Union  Co. v. Crescent City Co. (1884).md",
     "Allgeyer v. Louisiana (1897).md",
-    "YIG_2025/Technical/Fourteenth Amendment to the United States Constitution.md",
-    "YIG_2025/Embedded 1/Truax v. Reich (1915).md",
-    "Truax v. Corrigan (1921).md",
-    "Northwestern National Life Ins. Co. v. Riggs (1906).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
+    "Adams v. Tanner (1917).md",
+    "YIG_2025/Embedded 1/Truax v. Corrigan (1921)-DESK-KQDO1A9F.md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923)-DESK-KQDO1A9F.md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978)-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Stanley v. Illinois (1972)-DESK-KQDO1A9F.md",
-    "YIG_2025/Arguments-DESK-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Roe v. Wade-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Slaughter-House Cases (1872)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925)-DESK-KQDO1A9F.md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944)-DESK-KQDO1A9F.md",
+    "YIG_2025/Readme 2025-DESK-KQDO1A9F.md",
+    "YIG_2024/Embedded 1/Lovell v. City of Griffin-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Minnesota v. Barber (1890)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Baker v. Carr (1962) (YIG)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Brown v. Board of Education of Topeka (1954) (YIG)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Northwestern National Life Ins. Co. v. Riggs (1906)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Yick Wo v. Hopkins (1886)-DESK-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/American Steel Foundries v. Tri-City (1921).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

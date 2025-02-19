@@ -17,6 +17,7 @@ Very clearly supports STK. The State cannot provide education against the intere
 
 ### Embedded
 
+Most seem to be useless.
 [[Slaughter-House Cases (1872)]]
 [[Butchers' Union  Co. v. Crescent City Co. (1884)]]
 [[Yick Wo v. Hopkins (1886)]]
@@ -29,5 +30,7 @@ Very clearly supports STK. The State cannot provide education against the intere
 [[Adams v. Tanner (1917)]]
 [[New York Life Ins. Co. v. Dodge (1918)]]
 [[Truax v. Corrigan (1921)]]
-_Adkins v. Children's Hospital,_ [261 U. S. 525](https://supreme.justia.com/cases/federal/us/261/525/); 
-_Wyeth v. Cambridge Board of Health,_ 200 Mass. 474.
+[[Adkins v. Children's Hospital (1923)]]
+_Lawton v. Steele,_ [152 U. S. 133](https://supreme.justia.com/cases/federal/us/152/133/),
+ [[Adams v. Tanner (1917)]]
+ 
