@@ -42,16 +42,16 @@ Woodson
 ### Embedded
 
 [[Name of embedded]]
-_Pierce v. Society of Sisters,_ [268 U. S. 510](https://supreme.justia.com/cases/federal/us/268/510/), [268 U. S. 534](https://supreme.justia.com/cases/federal/us/268/510/#534)
+[[Pierce v. Society of Sisters (1925)]]
 _Ginsberg v. New York,_ [390 U. S. 629](https://supreme.justia.com/cases/federal/us/390/629/), [390 U. S. 639](https://supreme.justia.com/cases/federal/us/390/629/#639)
-_Meyer v. Nebraska,_ [262 U. S. 390](https://supreme.justia.com/cases/federal/us/262/390/)
+[[Meyer v. Nebraska (1923)]]
 _Rowan v. Post Office Dept.,_ [397 U. S. 728](https://supreme.justia.com/cases/federal/us/397/728/)
  _[Lemon v.](https://supreme.justia.com/cases/federal/us/403/602/)__Kurtzman,_ [403 U. S. 602](https://supreme.justia.com/cases/federal/us/403/602/)
  _Tilton v. Richardson,_ [403 U. S. 672](https://supreme.justia.com/cases/federal/us/403/672/)
  _Everson v. Board of Education,_ [330 U. S. 1](https://supreme.justia.com/cases/federal/us/330/1/), [330 U. S. 18](https://supreme.justia.com/cases/federal/us/330/1/#18)
  _Sherbert v. Verner,_ [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
  _McGowan v. Maryland,_ [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
- _Prince v. Massachusetts,_ [321 U. S. 158](https://supreme.justia.com/cases/federal/us/321/158/), [321 U. S. 165](https://supreme.justia.com/cases/federal/us/321/158/#165)
+[[Prince v. Massachusetts (1944)]]
  _Braunfeld v. Brown,_ [366 U. S. 599](https://supreme.justia.com/cases/federal/us/366/599/), [366 U. S. 605](https://supreme.justia.com/cases/federal/us/366/599/#605)
  _Gillette v. United States,_ [401 U. S. 437](https://supreme.justia.com/cases/federal/us/401/437/)
  _Reynolds v. United States,_ [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)

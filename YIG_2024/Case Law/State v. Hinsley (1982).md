@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: Base
 ---
 ## 627 S.W.2d 351 (1982)
