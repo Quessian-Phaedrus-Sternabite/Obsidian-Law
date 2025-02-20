@@ -6466,42 +6466,6 @@
         "year": null
       }
     },
-    "Cantwell v. Connecticut (1940).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 68,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.22666666666666666,
-      "characterCount": 543,
-      "nonWhitespaceCharacterCount": 443,
-      "readingTimeInMinutes": 0.25660377358490566,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740011518289,
-      "modifiedDate": 1740011518289,
-      "sizeInBytes": 543
-    },
-    "Reynolds v. United States (1878).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 194,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.6466666666666666,
-      "characterCount": 1270,
-      "nonWhitespaceCharacterCount": 1036,
-      "readingTimeInMinutes": 0.7320754716981132,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740011518294,
-      "modifiedDate": 1740011518294,
-      "sizeInBytes": 1271
-    },
     "YIG_2024/Embedded 1/Lovell v. City of Griffin-DESK-KQDO1A9F.md": {
       "isCountable": true,
       "isDirectory": false,
@@ -6684,6 +6648,48 @@
         "level": null,
         "group": null,
         "year": null
+      }
+    },
+    "YIG_2025/Embedded 1/Cantwell v. Connecticut (1940).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 68,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.22666666666666666,
+      "characterCount": 543,
+      "nonWhitespaceCharacterCount": 443,
+      "readingTimeInMinutes": 0.25660377358490566,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740019151722,
+      "modifiedDate": 1740019151722,
+      "sizeInBytes": 543
+    },
+    "YIG_2025/Embedded 1/Reynolds v. United States (1878).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 186,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.62,
+      "characterCount": 1202,
+      "nonWhitespaceCharacterCount": 982,
+      "readingTimeInMinutes": 0.7018867924528301,
+      "linkCount": 1,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740019151722,
+      "modifiedDate": 1740019151722,
+      "sizeInBytes": 1271,
+      "frontmatter": {
+        "supports": "Woodson",
+        "level": "1",
+        "group": "YIG-2025",
+        "year": 1878
       }
     }
   }
