@@ -35,6 +35,7 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Karibjanian v. Thomas Jefferson University Hosp (1989)]]
 [[Alfonso v. Fernandez (1993)]]
 _Guerrieri v. Tyson,_ 147 Pa.Super. 239, 24 A.2d 468 (1942)
+[[Guerrieri v. Tyson (1942)]]
 [[McConnaughey v. Building Components, Inc. (1994)]]
 [[T.H. v. Jones (1975)]]
 _Planned Parenthood Fed'n of America v. Heckler,_ 712 F.2d 650, 651-52 (D.C.Cir.1983)
