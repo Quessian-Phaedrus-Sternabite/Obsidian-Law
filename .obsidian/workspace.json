@@ -4,60 +4,8 @@
     "type": "split",
     "children": [
       {
-        "id": "3f4cc2115ffcace7",
-        "type": "tabs",
-        "dimension": 39.05325443786983,
-        "children": [
-          {
-            "id": "297ad54eb28bf47a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Wisconsin v. Yoder (1972) (YIG)"
-            }
-          },
-          {
-            "id": "d81963111f7f41fb",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/717/1081/1583850/",
-                "title": "Karibjanian v. Thomas Jefferson University Hosp., 717 F. Supp. 1081 (E.D. Pa. 1989) :: Justia",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Karibjanian v. Thomas Jefferson University Hosp., 717 F. Supp. 1081 (E.D. Pa. 1989) :: Justia"
-            }
-          },
-          {
-            "id": "bd4e55b2affbd97e",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/978/197/2136129/",
-                "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia"
-            }
-          }
-        ],
-        "currentTab": 2
-      },
-      {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 60.946745562130175,
         "children": [
           {
             "id": "f81eeb2c5fbf6fce",
@@ -120,21 +68,6 @@
             }
           },
           {
-            "id": "da3ac111f4573154",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995)"
-            }
-          },
-          {
             "id": "41625b07b90ffbcb",
             "type": "leaf",
             "state": {
@@ -150,7 +83,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -218,8 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5110359191895,
-    "collapsed": true
+    "width": 446.51103591918945
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -235,6 +167,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -244,7 +177,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Parents United v. Philadelphia BOE (1998)"
             }
           },
           {
@@ -352,7 +285,7 @@
           {
             "id": "2c42e27615a8de0b",
             "type": "tabs",
-            "dimension": 24.429223744292234,
+            "dimension": 24.429223744292237,
             "children": [
               {
                 "id": "3a83d61d819949e4",
@@ -376,7 +309,7 @@
           {
             "id": "3bc42bba15d1f052",
             "type": "tabs",
-            "dimension": 39.55479452054795,
+            "dimension": 23.858447488584474,
             "children": [
               {
                 "id": "9d4b4f7db4fefdca",
@@ -407,12 +340,13 @@
                   "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           },
           {
             "id": "9535aa25473f3057",
             "type": "tabs",
-            "dimension": 36.01598173515982,
+            "dimension": 51.71232876712328,
             "children": [
               {
                 "id": "a409abbda40c6d31",
@@ -430,8 +364,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 195,
-        "y": -776,
+        "x": 1693,
+        "y": -682,
         "width": 384,
         "height": 384,
         "maximize": true,
@@ -465,25 +399,32 @@
         ],
         "direction": "vertical",
         "x": 2645,
-        "y": -252,
+        "y": -589,
         "width": 241,
-        "height": 186,
+        "height": 523,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "a409abbda40c6d31",
+  "active": "f0fcff7de05fc1ce",
   "lastOpenFiles": [
+    "Duffield v. School District of City of Williamsport (1894).md",
     "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
-    "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
     "YIG_2025/Readme 2025.md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "Spann v. Joint Bds. of Sch. Directors (1955).md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "Zebra v. Pittsburgh Sch. Dist. (1972).md",
+    "Roberts v. School Dist. of Scranton (1975).md",
     "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
+    "Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981).md",
+    "Harris v. Bd. of P. E. of Phila. S. Dist (1932).md",
+    "J.F. Feeser, Inc. v. Serv-A-Portion, Inc. (1990).md",
+    "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
     "YIG_2025/Embedded 1/Abington v. Schempp (1963).md",
     "YIG_2025/Embedded 1/Lee v. Weisman (1992).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
     "YIG_2025/Embedded 1/Abington School District v. Schempp (1963).md",
     "YIG_2025/Embedded 1/Engel v. Vitale (1962).md",
     "YIG_2025/Embedded 1/Commonwealth v. Miller (1992).md",
@@ -494,13 +435,6 @@
     "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
     "YIG_2025/Embedded 1/Employment Div., Dep't of Human Resources of Or. v. Smith (1990.md",
     "YIG_2025/Embedded 1/Epperson v. Arkansas (1968).md",
-    "YIG_2025/Embedded 1/Fedele v. School Comm. of Westwood (1992).md",
-    "YIG_2025/Embedded 1/Grove v. Mead Sch. Dist. (1985).md",
-    "YIG_2025/Embedded 1/Hernandez v. Commissioner of Internal Revenue (1989).md",
-    "YIG_2025/Embedded 1/Hobbie v. Unemployment Appeals Comm'n of Fla. (1987).md",
-    "YIG_2025/Embedded 1/Judson v. Essex Agric. & Technical Inst. (1994).md",
-    "YIG_2025/Embedded 1/Kourouvacilis v. General Motors Corp. (1991).md",
-    "YIG_2025/Embedded 1/McNulty v. McDowell (1993).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

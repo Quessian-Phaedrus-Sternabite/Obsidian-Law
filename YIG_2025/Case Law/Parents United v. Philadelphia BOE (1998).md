@@ -19,22 +19,20 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Parents United for Better Schools, Inc. v. School Dist (1994)]]
 [[Anderson v. Liberty Lobby, Inc. (1986)
 [[Siegel Transfer, Inc. v. Carrier Express, Inc. (1995)]]
-
-_J.F. Feeser, Inc. v. Serv-A-Portion, Inc.,_ 909 F.2d 1524
+[[J.F. Feeser, Inc. v. Serv-A-Portion, Inc. (1990)]]
 [[Celotex Corp. v. Catrett (1986)
 [[Pennsylvania Fed'n of Teachers v. School Dist. (1984)
-_Harris v. Board of Pub. Ed. of School Dist. of Phila.,_ 306 Pa. 546, 548, 160 A. 443
-_Chambersburg Area School Dist. v. Pennsylvania,_ 60 Pa.Commw. 29, 430 A.2d 740, 743 (1981)
+[[Harris v. Bd. of P. E. of Phila. S. Dist (1932)
+[[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]]
 [[Barth v. Philadelphia School District  (1958)]]
 [[Chevron U.S.A., Inc. v. NRDC (1984)]]
-_Roberts v. Board of Directors of the School Dist.,_ 462 Pa. 464
-_Zebra v._ ***206*** _School Dist.,_ 449 Pa. 432_
-_Spann v. Joint Boards of School Directors,_ 381 Pa. 338
-_Duffield v. School Dist.,_ 162 Pa. 476_
+[[Roberts v. School Dist. of Scranton (1975)]]
+[[Zebra v. Pittsburgh Sch. Dist. (1972)]]
+[[Spann v. Joint Bds. of Sch. Directors (1955)]]
+[[Duffield v. School District of City of Williamsport (1894)]]
 [[Moure v. Raeuchle (1992)
 [[Boyer v. Smith (1985)
 [[Karibjanian v. Thomas Jefferson University Hosp (1989)]]
-_Zaman v. Schultz,_ 19 Pa. D. & C. 309 (Com.Pl.1933)
 [[Alfonso v. Fernandez (1993)]]
 _Guerrieri v. Tyson,_ 147 Pa.Super. 239, 24 A.2d 468 (1942)
 [[McConnaughey v. Building Components, Inc. (1994)]]

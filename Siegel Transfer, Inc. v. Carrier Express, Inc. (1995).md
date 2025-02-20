@@ -18,4 +18,4 @@ Not applicable.
 
 ### Embedded
 
-[[United States v. American Tobacco Co.]]]
+[[United States v. American Tobacco Co.]]
