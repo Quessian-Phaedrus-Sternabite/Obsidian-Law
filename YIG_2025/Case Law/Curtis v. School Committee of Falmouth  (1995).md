@@ -27,3 +27,15 @@ Constitutional concerns DO NOT APPLY. Wasn't ruled on due to not bringing them u
 ### Embedded
 
 [[Name of embedded]]
+ Judson v. Essex Agric. & Technical Inst. (1994)
+ McDonough v. Marr Scaffolding Co. (1992)
+ Kourouvacilis v. General Motors Corp. (1991)
+ Doe v. Irwin (1980)
+ Zorach v. Clauson (1952)
+ Attorney Gen. v. Bailey, Bailey V. Bellotti (1982)
+ McNulty v. McDowell (1993)
+  Epperson v. Arkansas (1968)
+  Grove v. Mead Sch. Dist. (1985)
+  Mozert v. Hawkins County Bd. of Educ. (1988)
+  [[Wisconsin v. Yoder (1972) (YIG)]]
+  
