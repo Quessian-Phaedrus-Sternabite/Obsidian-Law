@@ -4,9 +4,9 @@ level:
 group: 
 year:
 ---
-## Case Number
+## 319 U.S. 624 
+https://supreme.justia.com/cases/federal/us/319/624/
 
-Link
 
 ### Summary
 

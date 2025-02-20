@@ -4,9 +4,9 @@ level:
 group: 
 year:
 ---
-## Case Number
+## # 374 U.S. 203 (1963)
 
-Link
+https://supreme.justia.com/cases/federal/us/374/203/
 
 ### Summary
 

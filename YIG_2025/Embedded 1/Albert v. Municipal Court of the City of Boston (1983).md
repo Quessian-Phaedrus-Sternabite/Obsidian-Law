@@ -4,9 +4,8 @@ level:
 group: 
 year:
 ---
-## Case Number
-
-Link
+## 388 Mass. 491
+https://law.justia.com/cases/massachusetts/supreme-court/1983/388-mass-491-2.html
 
 ### Summary
 
