@@ -32,7 +32,7 @@ See also [[Stanley v. Illinois (1972)]], which further supports State interventi
 [[Wisconsin v. Yoder (1972)]]
 [[Prince v. Massachusetts (1944)]]
 [[Moore v. City of East Cleveland 1977]] 
-[[Roe v. Wade]]
+[[Roe v. Wade (1973)]]
 [[Griswold v. Connecticut (1965)]]
 [[Stanley v. Illinois (1972)]]
 [[Bennet v. Jeffreys (1976)]]
