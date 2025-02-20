@@ -70,7 +70,7 @@ _Rowan v. Post Office Dept.,_ [397 U. S. 728](https://supreme.justia.com/cases/
  _Brown v. Board of Education,_ [347 U. S. 483](https://supreme.justia.com/cases/federal/us/347/483/), [347 U. S. 493](https://supreme.justia.com/cases/federal/us/347/483/#493)
  _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/)
  _Cleveland v. United States,_ [329 U. S. 14](https://supreme.justia.com/cases/federal/us/329/14/)
-_Haley v. Ohio,_ [332 U. S. 596](https://supreme.justia.com/cases/federal/us/332/596/)
+_Haley v. tOhio,_ [332 U. S. 596](https://supreme.justia.com/cases/federal/us/332/596/)
 _Tinker v. Des Moines School District,_ [393 U. S. 503](https://supreme.justia.com/cases/federal/us/393/503/)
 _Board of Education v. Barnette,_ [319 U. S. 624](https://supreme.justia.com/cases/federal/us/319/624/)
 _United States v. Ballard,_ [322 U. S. 78](https://supreme.justia.com/cases/federal/us/322/78/)
