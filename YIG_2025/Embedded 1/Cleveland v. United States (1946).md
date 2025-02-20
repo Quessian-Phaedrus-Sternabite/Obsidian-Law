@@ -4,9 +4,8 @@ level:
 group: 
 year:
 ---
-## Case Number
-
-Link
+## 329 U.S. 14
+https://supreme.justia.com/cases/federal/us/329/14/
 
 ### Summary
 

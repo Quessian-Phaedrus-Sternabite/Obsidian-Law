@@ -4,9 +4,8 @@ level:
 group: 
 year:
 ---
-## Case Number
-
-Link
+## # 476 U.S. 693
+https://supreme.justia.com/cases/federal/us/476/693/
 
 ### Summary
 
