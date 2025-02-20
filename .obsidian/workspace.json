@@ -1,154 +1,108 @@
 {
   "main": {
-    "id": "c7f74b5e31c8734b",
+    "id": "d7a3b218431fe5d6",
     "type": "split",
     "children": [
       {
-        "id": "3f4cc2115ffcace7",
-        "type": "tabs",
-        "dimension": 39.05325443786983,
+        "id": "60bb34d652722540",
+        "type": "split",
         "children": [
           {
-            "id": "5353a3967110737a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/263/197/",
-                "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center"
-            }
+            "id": "0f567150d386e32d",
+            "type": "tabs",
+            "dimension": 45.97701149425287,
+            "children": [
+              {
+                "id": "ea7931dd8a42958d",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
           },
           {
-            "id": "7810227d199755bf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/321/158/",
-                "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
+            "id": "17f9b420e93e47f0",
+            "type": "tabs",
+            "dimension": 54.02298850574713,
+            "children": [
+              {
+                "id": "383cbb2581d029bc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Wisconsin v. Yoder (1972) (YIG)"
+                }
               },
-              "icon": "globe-2",
-              "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
-            "id": "297ad54eb28bf47a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/978/197/2136129/",
-                "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia",
-                "mode": "webview"
+              {
+                "id": "ca99070330422818",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Wisconsin v. Yoder (1972) (YIG)"
+                }
               },
-              "icon": "globe-2",
-              "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia"
-            }
+              {
+                "id": "8aa6da317cddb832",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Curtis v. School Committee of Falmouth  (1995)"
+                }
+              }
+            ],
+            "currentTab": 1
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "7bfbcbf7915f8851",
-        "type": "tabs",
-        "dimension": 60.946745562130175,
-        "children": [
-          {
-            "id": "f81eeb2c5fbf6fce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Allgeyer v. Louisiana (1897).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Allgeyer v. Louisiana (1897)"
-            }
-          },
-          {
-            "id": "e0cf1548539889b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Western Turf Association v. Greenberg (1907)"
-            }
-          },
-          {
-            "id": "fb407eb40f1823ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hawk v. Hawk (1993)"
-            }
-          },
-          {
-            "id": "7e96c5b5bb5916cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Matter of Hamilton (1983)"
-            }
-          },
-          {
-            "id": "cbe58bb8e169ca93",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Parents United v. Philadelphia BOE (1998)"
-            }
-          }
-        ],
-        "currentTab": 4
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2e53042d0a3ea55",
+    "id": "d8c21d283608f134",
     "type": "split",
     "children": [
       {
-        "id": "ebe4b30c5b6df7a2",
+        "id": "4d22c90a1fbdc9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e57d2a5061ff06ff",
+            "id": "502f692d6c89d690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d431aec6b78eee93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -165,7 +119,7 @@
             }
           },
           {
-            "id": "4a4a25de26fcb67e",
+            "id": "9271dec1ba2e51d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -175,7 +129,7 @@
             }
           },
           {
-            "id": "a0491e4bf5f64cd9",
+            "id": "2f2f1a0936cca18f",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -185,40 +139,40 @@
             }
           },
           {
-            "id": "1152c984c97506e6",
+            "id": "dbcbd32099b244d0",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "YIG_2025/Embedded 1/Braunfeld v. Brown (1961).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Braunfeld v. Brown (1961)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 580.5110359191895
+    "width": 535
   },
   "right": {
-    "id": "2a13eaa8837365fe",
+    "id": "95e6cd6d8d4f9916",
     "type": "split",
     "children": [
       {
-        "id": "9f57df5b0cf722b8",
+        "id": "cd509c68b02093fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b84cdc507aa48b67",
+            "id": "a4f9007d817820cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New York Life Ins. Co. v. Dodge (1918).md",
+                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -228,25 +182,25 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for New York Life Ins. Co. v. Dodge (1918)"
+              "title": "Backlinks for Wisconsin v. Yoder (1972) (YIG)"
             }
           },
           {
-            "id": "2c42615d243a8a72",
+            "id": "ec4d7757a75f30ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
+                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outgoing links from Nottebohm (Liechtenstein v. Guatemala)"
             }
           },
           {
-            "id": "403d4aae40f1827b",
+            "id": "197c82391c91ca24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -259,19 +213,19 @@
             }
           },
           {
-            "id": "d68121f81ceca8ec",
+            "id": "da641d67723d948c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
+                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outline of Nottebohm (Liechtenstein v. Guatemala)"
             }
           },
           {
-            "id": "72a8f6eb1c0aa658",
+            "id": "5c003a23a9bc2665",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -281,7 +235,7 @@
             }
           },
           {
-            "id": "0976b19bd60c4a67",
+            "id": "8a63726b3fb99150",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -291,7 +245,7 @@
             }
           },
           {
-            "id": "fb4cf93779dd376c",
+            "id": "9806703a13b884c0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -300,189 +254,73 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 465
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "3d-graph:3D Graph": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordy:Wordy view": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "floating": {
-    "id": "27105a3040bded84",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e701ca44941eee7",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c42e27615a8de0b",
-            "type": "tabs",
-            "dimension": 24.429223744292234,
-            "children": [
-              {
-                "id": "3a83d61d819949e4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              }
-            ]
-          },
-          {
-            "id": "3bc42bba15d1f052",
-            "type": "tabs",
-            "dimension": 39.55479452054795,
-            "children": [
-              {
-                "id": "9d4b4f7db4fefdca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2024/Embedded 1/In re Foss.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "In re Foss"
-                }
-              }
-            ]
-          },
-          {
-            "id": "9535aa25473f3057",
-            "type": "tabs",
-            "dimension": 36.01598173515982,
-            "children": [
-              {
-                "id": "a409abbda40c6d31",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2585,
-        "y": -1047,
-        "width": 480,
-        "height": 480,
-        "maximize": true,
-        "zoom": 0.5
-      },
-      {
-        "id": "c3bbef89598b5502",
-        "type": "window",
-        "children": [
-          {
-            "id": "191599a372311246",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5eb0a7074fcefeff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2620,
-        "y": -333,
-        "width": 260,
-        "height": 216,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "cbe58bb8e169ca93",
+  "active": "502f692d6c89d690",
   "lastOpenFiles": [
-    "YIG_2025/Readme 2025.md",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "YIG_2025/Embedded 1/Reynolds v. United States (1878).md",
-    "YIG_2025/Embedded 1/Cantwell v. Connecticut (1940).md",
-    "YIG_2024/Embedded 1/In re Foss.md",
-    "YIG_2025/Embedded 1/Schneider v. State (1939).md",
-    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
-    "YIG_2025/Embedded 1/Davis v. Davis (1992).md",
-    "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977).md",
-    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
-    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
-    "YIG_2025/Embedded 1/Roe v. Wade.md",
-    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
+    "YIG_2025/Embedded 1/Lemon v. Kurtzman (1971).md",
+    "YIG_2025/Embedded 1/Tilton v. Richardson (1971).md",
+    "YIG_2025/Embedded 1/McGowan v. Maryland (1961).md",
+    "YIG_2025/Embedded 1/Callicott v. Callicott (1963).md",
+    "YIG_2025/Embedded 1/Eisenstadt v. Baird (1972).md",
+    "YIG_2025/Embedded 1/United States v. Seeger (1965).md",
+    "YIG_2025/Embedded 1/Board of Education v. Barnette (1943).md",
+    "YIG_2025/Embedded 1/Tinker v. Des Moines School District (1969).md",
+    "YIG_2025/Embedded 1/Haley v. Ohio (1948).md",
+    "YIG_2025/Embedded 1/Cleveland v. United States (1946).md",
+    "YIG_2025/Embedded 1/Brown v. Board of Education (1954).md",
+    "Wright v. DeWitt School District (1965).md",
+    "YIG_2025/Embedded 1/Commonwealth v. Beiler, (1950).md",
+    "YIG_2025/Embedded 1/State v. Garber [419 P.2d 896.md",
+    "YIG_2025/Embedded 1/United States v. Ballard (1940).md",
+    "Welsh v. United States (1970).md",
+    "YIG_2025/Embedded 1/Jacobson v. Massachusetts (1905).md",
+    "YIG_2025/Embedded 1/Schneider v. State, (1939).md",
+    "YIG_2025/Embedded 1/Martin v. City of Struthers (1943).md",
+    "YIG_2025/Embedded 1/Cantwell v. Connecticut (1940) 1.md",
+    "Sherbert v. Verner.md",
+    "YIG_2025/Embedded 1/Reynolds v. United States, (1879).md",
+    "YIG_2025/Embedded 1/Gillette v. United States (1971).md",
+    "YIG_2025/Embedded 1/Braunfeld v. Brown (1961).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
-    "-DESK-KQDO1A9F.gitignore",
-    "YIG_2025/Case Law/New Text Document.txt",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (.txt",
-    "YIG_2025/Codes or Laws",
     "YIG_2025/Technical",
+    "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Embedded 2",
+    "YIG_2025/Codes or Laws",
     "YIG_2025/Embedded 1",
     "YIG_2025/Case Law",
-    "Pasted image 20241111234912.png",
-    "MUN_2024/Files/Pasted image 20241023172537.png"
+    "YIG_2025",
+    "MUN_2024/Files/Pasted image 20241023172537.png",
+    "MUN_2024/Useful Cases",
+    "MUN_2024/Other Useful",
+    "The Fall and Rise of Gather/Images/Doorknob.png",
+    "The Fall and Rise of Gather/Images/Spider.png",
+    "The Fall and Rise of Gather/Gather.canvas",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
 }
