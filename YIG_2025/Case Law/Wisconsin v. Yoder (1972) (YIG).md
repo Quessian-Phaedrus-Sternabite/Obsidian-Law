@@ -1,7 +1,7 @@
 ---
 supports: STK
-level: Base
-group: YIG-2025
+level: 
+group: 
 year: 1972
 ---
 ## 406 U.S. 205 (1972)
@@ -43,37 +43,34 @@ Woodson
 
 [[Name of embedded]]
 [[Pierce v. Society of Sisters (1925)]]
-_Ginsberg v. New York,_ [390 U. S. 629](https://supreme.justia.com/cases/federal/us/390/629/), [390 U. S. 639](https://supreme.justia.com/cases/federal/us/390/629/#639)
+[[Ginsberg v. New York (1968)]] [390 U. S. 629](https://supreme.justia.com/cases/federal/us/390/629/), [390 U. S. 639](https://supreme.justia.com/cases/federal/us/390/629/#639)
 [[Meyer v. Nebraska (1923)]]
-_Rowan v. Post Office Dept.,_ [397 U. S. 728](https://supreme.justia.com/cases/federal/us/397/728/)
- _[Lemon v.](https://supreme.justia.com/cases/federal/us/403/602/)__Kurtzman,_ [403 U. S. 602](https://supreme.justia.com/cases/federal/us/403/602/)
- _Tilton v. Richardson,_ [403 U. S. 672](https://supreme.justia.com/cases/federal/us/403/672/)
- _Everson v. Board of Education,_ [330 U. S. 1](https://supreme.justia.com/cases/federal/us/330/1/), [330 U. S. 18](https://supreme.justia.com/cases/federal/us/330/1/#18)
- _Sherbert v. Verner,_ [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
- _McGowan v. Maryland,_ [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
+[[Rowan v. Post Office Dept. (1970)]] [397 U. S. 728](https://supreme.justia.com/cases/federal/us/397/728/)
+ [[Lemon v. Kurtzman (1971)]] [403 U. S. 602](https://supreme.justia.com/cases/federal/us/403/602/)
+ [[Tilton v. Richardson (1971)]] [403 U. S. 672](https://supreme.justia.com/cases/federal/us/403/672/)
+ [[Everson v. Board of Education (1941)]] [330 U. S. 1](https://supreme.justia.com/cases/federal/us/330/1/), [330 U. S. 18](https://supreme.justia.com/cases/federal/us/330/1/#18)
+ [[Sherbert v. Verner (1963)]] [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
+ [[McGowan v. Maryland (1961)]] [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
 [[Prince v. Massachusetts (1944)]]
- _Braunfeld v. Brown,_ [366 U. S. 599](https://supreme.justia.com/cases/federal/us/366/599/), [366 U. S. 605](https://supreme.justia.com/cases/federal/us/366/599/#605)
- _Gillette v. United States,_ [401 U. S. 437](https://supreme.justia.com/cases/federal/us/401/437/)
- _Reynolds v. United States,_ [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
- _Sherbert v. Verner,_ [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
- _Cantwell v. Connecticut_ [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
- _Martin v. City of Struthers,_ [319 U. S. 141](https://supreme.justia.com/cases/federal/us/319/141/)
- _Schneider v. State,_ [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
- _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/us/197/11/)
- _Welsh v. United States,_ [398 U. S. 333](https://supreme.justia.com/cases/federal/us/398/333/), [398 U. S. 351](https://supreme.justia.com/cases/federal/us/398/333/#351)-361
- _United States v. Ballard,_ [322 U. S. 78](https://supreme.justia.com/cases/federal/us/322/78/)
- _State v. Garber,_ 197 Kan. 567, [419 P.2d 896](https://supreme.justia.com/cases/kansas/supreme-court/1966/44-583-0.html)
- _State v. Hershberger,_ 103 Ohio App. 188, 144 N.E.2d 693
- _Commonwealth v. Beiler,_ 168 Pa.Super. 462, 79 A.2d 134
- _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/)
- _Wright v. DeWitt School District,_ 238 Ark. 906, [385 S.W.2d 64](https://supreme.justia.com/cases/arkansas/supreme-court/1965/5-3408-0.html)
-[[Brown v. Board of Education of Topeka (1954) (YIG)]]
- _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/)
- _Cleveland v. United States,_ [329 U. S. 14](https://supreme.justia.com/cases/federal/us/329/14/)
-_Haley v. Ohio,_ [332 U. S. 596](https://supreme.justia.com/cases/federal/us/332/596/)
-_Tinker v. Des Moines School District,_ [393 U. S. 503](https://supreme.justia.com/cases/federal/us/393/503/)
-_Board of Education v. Barnette,_ [319 U. S. 624](https://supreme.justia.com/cases/federal/us/319/624/)
-_United States v. Ballard,_ [322 U. S. 78](https://supreme.justia.com/cases/federal/us/322/78/)
-_United States v. Seeger_ [380 U. S. 163](https://supreme.justia.com/cases/federal/us/380/163/)
-_Eisenstadt v. Baird,_ [405 U. S. 438](https://supreme.justia.com/cases/federal/us/405/438/), [405 U. S. 446](https://supreme.justia.com/cases/federal/us/405/438/#446)
-_Callicott v. Callicott,_ 364 S.W.2d 455
+ [[Braunfeld v. Brown (1961)]] [366 U. S. 599](https://supreme.justia.com/cases/federal/us/366/599/), [366 U. S. 605](https://supreme.justia.com/cases/federal/us/366/599/#605)
+ [[Gillette v. United States (1971)]] [401 U. S. 437](https://supreme.justia.com/cases/federal/us/401/437/)
+[[Reynolds v. United States, (1879)]] [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
+ [[Sherbert v. Verner]] (1963) [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
+ [[Cantwell v. Connecticut (1940) 1]] [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
+ [[Martin v. City of Struthers (1943)]] [319 U. S. 141](https://supreme.justia.com/cases/federal/us/319/141/)
+ [[Schneider v. State, (1939)]] [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
+ [[Jacobson v. Massachusetts (1905)]] [197 U. S. 11](https://supreme.justia.com/us/197/11/)
+ [[Welsh v. United States (1970)]] [398 U. S. 333](https://supreme.justia.com/cases/federal/us/398/333/), [398 U. S. 351](https://supreme.justia.com/cases/federal/us/398/333/#351)-361
+ [[United States v. Ballard (1940)]] [322 U. S. 78](https://supreme.justia.com/cases/federal/us/322/78/)
+ [[State v. Garber [419 P.2d 896]](https://supreme.justia.com/cases/kansas/supreme-court/1966/44-583-0.html)
+ State v. Hershberger,_ 103 Ohio App. 188, 144 N.E.2d 693
+ [[Commonwealth v. Beiler, (1950)]] 168 Pa.Super. 462, 79 A.2d 134
+ [[Wright v. DeWitt School District (1965)]] 238 Ark. 906, [385 S.W.2d 64](https://supreme.justia.com/cases/arkansas/supreme-court/1965/5-3408-0.html)
+ [[Brown v. Board of Education (1954)]]  [347 U. S. 483](https://supreme.justia.com/cases/federal/us/347/483/), [347 U. S. 493](https://supreme.justia.com/cases/federal/us/347/483/#493)
+ [[Cleveland v. United States (1946)]] [329 U. S. 14](https://supreme.justia.com/cases/federal/us/329/14/)
+[[Haley v. Ohio (1948)]] [332 U. S. 596](https://supreme.justia.com/cases/federal/us/332/596/)
+[[Tinker v. Des Moines School District (1969)]] [393 U. S. 503](https://supreme.justia.com/cases/federal/us/393/503/)
+[[Board of Education v. Barnette (1943)]] [319 U. S. 624](https://supreme.justia.com/cases/federal/us/319/624/)
+[[United States v. Seeger (1965)]] [380 U. S. 163](https://supreme.justia.com/cases/federal/us/380/163/)
+[[Eisenstadt v. Baird (1972)]] [405 U. S. 438](https://supreme.justia.com/cases/federal/us/405/438/), [405 U. S. 446](https://supreme.justia.com/cases/federal/us/405/438/#446)
+[[Callicott v. Callicott (1963)]] 364 S.W.2d 455
