@@ -34,17 +34,17 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Boyer v. Smith (1985)
 [[Karibjanian v. Thomas Jefferson University Hosp (1989)]]
 [[Alfonso v. Fernandez (1993)]]
-_Guerrieri v. Tyson,_ 147 Pa.Super. 239, 24 A.2d 468 (1942)
 [[Guerrieri v. Tyson (1942)]]
 [[McConnaughey v. Building Components, Inc. (1994)]]
 [[T.H. v. Jones (1975)]]
 _Planned Parenthood Fed'n of America v. Heckler,_ 712 F.2d 650, 651-52 (D.C.Cir.1983)
+[[Planned Parenthood Fed. of America v. Heckler (1983)]]
 _County of St. Charles, Mo. v. Missouri Family Health Council,_ 107 F.3d 682, 684-85 (8th Cir.1997)
 [[Planned Parenthood v. Danforth (1976)]]
 [[Carey v. Population Services Int'l (1977)]]
 [[Planned Parenthood v. Casey (1992)]]
 [[Hodgson v. Minnesota (1990)]]
-[[Bellotti v. Baird (1976)]]eral/district-courts/FSupp/582/1001/1761144/)
+[[Bellotti v. Baird (1976)]]
 [[Planned Parenthood Ass'n of Utah v. Matheson (1983)]]
 [[Wisconsin v. Yoder (1972) (YIG)]] [406 U.S. 205](https://supreme.justia.com/cases/federal/us/406/205/)
 _Farrington v. Tokushige,_ [273 U.S. 284](https://supreme.justia.com/cases/federal/us/273/284/)
