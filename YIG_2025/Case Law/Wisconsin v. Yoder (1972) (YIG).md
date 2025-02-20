@@ -1,7 +1,7 @@
 ---
 supports: STK
-level: 
-group: 
+level: Base
+group: YIG-2025
 year: 1972
 ---
 ## 406 U.S. 205 (1972)
@@ -67,7 +67,7 @@ _Rowan v. Post Office Dept.,_ [397 U. S. 728](https://supreme.justia.com/cases/
  _Commonwealth v. Beiler,_ 168 Pa.Super. 462, 79 A.2d 134
  _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/)
  _Wright v. DeWitt School District,_ 238 Ark. 906, [385 S.W.2d 64](https://supreme.justia.com/cases/arkansas/supreme-court/1965/5-3408-0.html)
- _Brown v. Board of Education,_ [347 U. S. 483](https://supreme.justia.com/cases/federal/us/347/483/), [347 U. S. 493](https://supreme.justia.com/cases/federal/us/347/483/#493)
+[[Brown v. Board of Education of Topeka (1954) (YIG)]]
  _Jacobson v. Massachusetts,_ [197 U. S. 11](https://supreme.justia.com/cases/federal/us/197/11/)
  _Cleveland v. United States,_ [329 U. S. 14](https://supreme.justia.com/cases/federal/us/329/14/)
 _Haley v. Ohio,_ [332 U. S. 596](https://supreme.justia.com/cases/federal/us/332/596/)

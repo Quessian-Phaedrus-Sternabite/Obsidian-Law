@@ -9,34 +9,6 @@
         "dimension": 39.05325443786983,
         "children": [
           {
-            "id": "5353a3967110737a",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/263/197/",
-                "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Terrace v. Thompson | 263 U.S. 197 (1923) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
-            "id": "7810227d199755bf",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/321/158/",
-                "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Prince v. Massachusetts | 321 U.S. 158 (1944) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
             "id": "297ad54eb28bf47a",
             "type": "leaf",
             "state": {
@@ -49,9 +21,51 @@
               "icon": "globe-2",
               "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia"
             }
+          },
+          {
+            "id": "d81963111f7f41fb",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/717/1081/1583850/",
+                "title": "Karibjanian v. Thomas Jefferson University Hosp., 717 F. Supp. 1081 (E.D. Pa. 1989) :: Justia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Karibjanian v. Thomas Jefferson University Hosp., 717 F. Supp. 1081 (E.D. Pa. 1989) :: Justia"
+            }
+          },
+          {
+            "id": "d72409c5fc8f31d8",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://supreme.justia.com/cases/federal/us/505/833/",
+                "title": "Planned Parenthood of Southeastern Pa. v. Casey | 505 U.S. 833 (1992) | Justia U.S. Supreme Court Center",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Planned Parenthood of Southeastern Pa. v. Casey | 505 U.S. 833 (1992) | Justia U.S. Supreme Court Center"
+            }
+          },
+          {
+            "id": "61ad4fd95476592f",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://law.justia.com/cases/federal/district-courts/FSupp/582/1001/1761144/",
+                "title": "Planned Parenthood Ass'n of Utah v. Matheson, 582 F. Supp. 1001 (D. Utah 1983) :: Justia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Planned Parenthood Ass'n of Utah v. Matheson, 582 F. Supp. 1001 (D. Utah 1983) :: Justia"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       },
       {
         "id": "7bfbcbf7915f8851",
@@ -104,22 +118,7 @@
             }
           },
           {
-            "id": "7e96c5b5bb5916cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Matter of Hamilton (1983)"
-            }
-          },
-          {
-            "id": "cbe58bb8e169ca93",
+            "id": "f0fcff7de05fc1ce",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -134,7 +133,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -369,13 +368,27 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "YIG_2024/Embedded 1/In re Foss.md",
+                    "file": "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "icon": "lucide-file",
-                  "title": "In re Foss"
+                  "title": "Roe v. Wade (1973)"
+                }
+              },
+              {
+                "id": "e7841b72f927e038",
+                "type": "leaf",
+                "state": {
+                  "type": "webviewer",
+                  "state": {
+                    "url": "https://casetext.com/case/planned-parenthood-assn-of-utah-v-dandoy",
+                    "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator",
+                    "mode": "webview"
+                  },
+                  "icon": "globe-2",
+                  "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator"
                 }
               }
             ]
@@ -435,43 +448,43 @@
           }
         ],
         "direction": "vertical",
-        "x": 2620,
-        "y": -333,
-        "width": 260,
-        "height": 216,
+        "x": 2582,
+        "y": -300,
+        "width": 269,
+        "height": 230,
         "maximize": false,
         "zoom": 0.5
       }
     ]
   },
-  "active": "cbe58bb8e169ca93",
+  "active": "a409abbda40c6d31",
   "lastOpenFiles": [
-    "YIG_2025/Readme 2025.md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Matheson (1983).md",
+    "YIG_2025/Embedded 1/Carey v. Population Services Int'l (1977).md",
+    "YIG_2025/Embedded 1/Carey v. Population Servs. Int'l. (1977).md",
+    "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
+    "YIG_2025/Embedded 1/Planned Parenthood v. Casey (1992).md",
+    "YIG_2025/Embedded 1/Ohio v. Akron Center (1990).md",
+    "YIG_2025/Embedded 1/Bellotti v. Baird (1976).md",
+    "YIG_2025/Embedded 1/Griswold v. Connecticut (1965).md",
+    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
+    "YIG_2025/Embedded 1/Planned Parenthood v. Danforth (1976).md",
+    "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
+    "YIG_2025/Embedded 2/Doe v. Planned Parenthood Association of Utah (1973).md",
+    "YIG_2025/Embedded 1/McConnaughey v. Building Components, Inc. (1994).md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "YIG_2025/Embedded 1/Reynolds v. United States (1878).md",
-    "YIG_2025/Embedded 1/Cantwell v. Connecticut (1940).md",
-    "YIG_2024/Embedded 1/In re Foss.md",
-    "YIG_2025/Embedded 1/Schneider v. State (1939).md",
-    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978).md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
-    "YIG_2025/Embedded 1/Davis v. Davis (1992).md",
-    "YIG_2025/Embedded 1/Carey v. Population Servs. Intl. (1977).md",
     "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
-    "YIG_2025/Embedded 1/Bonner v. Moran (1941).md",
-    "YIG_2025/Embedded 1/Roe v. Wade.md",
-    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
+    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
+    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
+    "YIG_2025/Embedded 1/Karibjanian v. Thomas Jefferson University Hosp (1989).md",
+    "YIG_2025/Embedded 1/Boyer v. Smith (1985).md",
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "YIG_2025/Embedded 1/Moure v. Raeuchle (1992).md",
+    "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
+    "YIG_2025/Embedded 1/Chevron U.S.A., Inc. v. NRDC (1984).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

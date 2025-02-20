@@ -1,8 +1,8 @@
 ---
-supports: Woodson
-level: "1"
-group: YIG-2025
-year: 1977
+supports: 
+level: 
+group: 
+year:
 ---
 ## Case Number
 
