@@ -51,7 +51,7 @@ Constitutional concerns DO NOT APPLY. Wasn't ruled on due to not bringing them u
   [[United states v. Means (1989)]]
   [[United States v. Lee (1982)]]
   [[Hernandez v. Commissioner of Internal Revenue (1989)]]
-  [[Abington v. Schempp (1963)]]
+  [[Abington School District v. Schempp (1963)]]
   [[Bowen v. Roy (1986)]]
   [[Smith v. Board of Educ., N. Babylon Union Free Sch. Dist. (1988)]]
   [[Mozert v. Hawkis County Bd. of Educ. (1987)]]

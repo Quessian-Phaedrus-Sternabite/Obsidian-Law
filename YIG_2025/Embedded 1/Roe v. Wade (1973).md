@@ -1,5 +1,5 @@
 ---
-supports: N/A
+supports: Woodson
 level: "1"
 group: YIG-2025
 year: 1973

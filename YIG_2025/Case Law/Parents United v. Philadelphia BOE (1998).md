@@ -54,15 +54,14 @@ _Doe v. Irwin,_ 615 F.2d 1162
 _Curtis v. School Comm.,_ 420 Mass. 749
 [[Prince v. Massachusetts (1944)]]
 _John v. Louisiana (Bd. of Trustees for State Colleges & Univs.),_ 757 F.2d 698, 709-10 (5th Cir. 1985)
-_Commonwealth v. Mack,_ 467 Pa. 613, [359 A.2d 770](https://law.justia.com/cases/pennsylvania/supreme-court/1976/467-pa-613-0.html)
-_Commonwealth v. Cardwell,_ 357 Pa.Super. 38, [515 A.2d 311](https://law.justia.com/cases/pennsylvania/supreme-court/1986/357-pa-super-38-1.html)
-_Commonwealth v. Miller,_ 411 Pa.Super. 33, [600 A.2d 988](https://law.justia.com/cases/pennsylvania/superior-court/1992/411-pa-super-33-2.html), 992 (1992)
+[[Commonwealth v. Mack (1976)]]
+[[Commonwealth v. Cardwell (1986)]]
+[[Commonwealth v. Miller (1992)]]
 _Josey v. John R. Hollingsworth Corp.,_ 996 F.2d 632
 _Agustin v. Quern,_ 611 F.2d 206
 _Man O'War Racing Ass'n v. State Horse Racing Comm'n,_ 433 Pa. 432 - (2nd level embed _Mielcuszny v. Rosol,_ 317 Pa. 91, 94, 176 A. 236, 237 (1934))
 _Mielcuszny v. Rosol,_ 317 Pa. 91, 94, 176 A. 236, 237 (1934)
  _Aetna Cas. & Sur. Co. v. Duncan,_ 972 F.2d 523, 526
- _School Dist. v. Schempp,_ [374 U.S. 203](https://supreme.justia.com/cases/federal/us/374/203/)
- _Engel v. Vitale,_ [370 U.S. 421](https://supreme.justia.com/cases/federal/us/370/421/), 430, 82 S. Ct. 1261, 1266-67, 8 L. Ed. 2d 601 (1962)
- _Lee v. Weisman,_ [505 U.S. 577](https://supreme.justia.com/cases/federal/us/505/577/)
- 
+ [[Abington School District v. Schempp (1963)]]
+ [[Engel v. Vitale (1962)]]
+ [[Lee v. Weisman (1992)]]
