@@ -68,18 +68,18 @@
             }
           },
           {
-            "id": "ab5f2cce86ab71bb",
+            "id": "171b2b3829957f92",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Guerrieri v. Tyson (1942).md",
+                "file": "Planned Parenthood Fed. of America v. Heckler (1983).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Guerrieri v. Tyson (1942)"
+              "title": "Planned Parenthood Fed. of America v. Heckler (1983)"
             }
           },
           {
@@ -98,7 +98,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -182,7 +182,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+                "file": "Planned Parenthood Fed. of America v. Heckler (1983).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -192,7 +192,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parents United v. Philadelphia BOE (1998)"
+              "title": "Backlinks for Planned Parenthood Fed. of America v. Heckler (1983)"
             }
           },
           {
@@ -413,8 +413,8 @@
           }
         ],
         "direction": "vertical",
-        "x": 3198,
-        "y": -761,
+        "x": 2622,
+        "y": -690,
         "width": 241,
         "height": 523,
         "maximize": false,
@@ -422,11 +422,16 @@
       }
     ]
   },
-  "active": "f0fcff7de05fc1ce",
+  "active": "171b2b3829957f92",
   "lastOpenFiles": [
-    "Guerrieri v. Tyson (1942).md",
-    "YIG_2025/Readme 2025.md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "Planned Parenthood Fed. of America v. Heckler (1983).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Embedded 2/Doe v. Planned Parenthood Association of Utah (1973).md",
+    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
+    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
+    "Guerrieri v. Tyson (1942).md",
     "Duffield v. School District of City of Williamsport (1894).md",
     "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
     "Spann v. Joint Bds. of Sch. Directors (1955).md",
@@ -445,11 +450,6 @@
     "YIG_2025/Embedded 1/Engel v. Vitale (1962).md",
     "YIG_2025/Embedded 1/Commonwealth v. Miller (1992).md",
     "YIG_2025/Embedded 1/Commonwealth v. Cardwell (1986).md",
-    "YIG_2025/Embedded 1/Commonwealth v. Mack (1976).md",
-    "YIG_2025/Embedded 1/Citizens for Parental Rights v. San Mateo County Bd. of Educ. (1976).md",
-    "YIG_2025/Embedded 1/Commonwealth v. Stowell (1983).md",
-    "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
-    "YIG_2025/Embedded 1/Employment Div., Dep't of Human Resources of Or. v. Smith (1990.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

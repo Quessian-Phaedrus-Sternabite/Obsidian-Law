@@ -16,7 +16,7 @@ https://casetext.com/case/guerrieri-et-ux-v-tyson-et-al
 
 ### Use
 
-How it may be used and quotes
+Not applicable.
 
 ### Embedded
 
