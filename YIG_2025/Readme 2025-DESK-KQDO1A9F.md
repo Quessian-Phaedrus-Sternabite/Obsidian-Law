@@ -11,7 +11,7 @@ Welcome to the YIG 2024 obsidian database! To submit changes, please use Github,
 
 ### Shortcuts
 
-* ctrl+shift+f - Search entire repo
+* ctrl+shift+f - Search entire document
 * ctrl+o - quick switcher
 * ctrl+t - open tab
 

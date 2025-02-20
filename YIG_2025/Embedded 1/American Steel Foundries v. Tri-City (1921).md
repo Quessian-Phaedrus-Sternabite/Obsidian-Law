@@ -1,22 +1,23 @@
 ---
 supports: N/A
-level: 
-group: 
-year:
+level: "1"
+group: YIG-2025
+year: 1921
 ---
-## Case Number
+## 257 U.S. 184 (1921)
 
-Link
+https://supreme.justia.com/cases/federal/us/257/184/
 
 ### Summary
 
-Summary of case
+Picketing and Unions bad
 
 ### Use
 
-How it may be used and quotes
+Not applicable
 
 ### Embedded
 
 [[Duplex Printing Press Co. v. Deering (1921)]]
-[[]]
+[[Hitchman Coal & Coke Co. v. Mitchell (1917)]]
+[[Loewe v. Lawlor]]

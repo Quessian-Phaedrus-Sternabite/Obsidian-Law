@@ -28,12 +28,13 @@ Very useful. State takes precedence over parents when the parents are acting in 
 ### Embedded
 
 [[Name of embedded]]
-[[Meyer v. Nebraska (1923)]]
-_Schneider v. State,_ [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
-_Cantwell v. Connecticut,_ [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
+[[Meyer v. Nebraska (1923)
+[[Schneider v. State (1939)]] (Could *maybe* be useful for Woodson)
+[[Cantwell v. Connecticut (1940)]] (Could *maybe* be useful for Woodson)
 _[West Virginia State Board of Education v. Barnette](https://supreme.justia.com/cases/federal/us/319/624/),_ 319 U.S.
 [[Pierce v. Society of Sisters (1925)]]
 _Reynolds v. United States,_ [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
+[[Reynolds v. United States (1878)]]
 _Davis v. Beason,_ [133 U. S. 333](https://supreme.justia.com/cases/federal/us/133/333/)
 _People v. Pierson,_ 176 N.Y. 201, 68 N.E. 243
 _Schenck v. United States,_ [249 U. S. 47](https://supreme.justia.com/cases/federal/us/249/47/)

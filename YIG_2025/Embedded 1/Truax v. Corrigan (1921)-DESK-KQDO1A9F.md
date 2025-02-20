@@ -6,10 +6,7 @@ year: 1921
 ---
 ## 257 U.S. 312 (1921)
 
-<<<<<<< HEAD
-=======
 
->>>>>>> 178de0e6e884f54849962c070fde66b93db1e807
 https://supreme.justia.com/cases/federal/us/257/312/
 
 ### Summary
@@ -27,5 +24,3 @@ May be some relevancy.
 ### Embedded
 
 [[Name of embedded]]
-[[Yick Wo v. Hopkins (1886)]]
-[[Truax v. Reich (1915)]]

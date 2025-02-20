@@ -1,9 +1,12 @@
-$1group: YIG-2024
-year: xxxx
-$2
-## 308 U. S. 147
+---
+supports: N/A
+level: "1"
+group: YIG-2025
+year:
+---
+## Case Number
 
-https://supreme.justia.com/cases/federal/us/308/147/
+Link
 
 ### Summary
 

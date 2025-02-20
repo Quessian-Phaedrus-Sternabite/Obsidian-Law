@@ -18,4 +18,4 @@ Supports right to privacy in matters of sexuality.
 
 ### Embedded
 
-[[Name of embedded]]
+[[Pierce v. Society of Sisters (1925)]]

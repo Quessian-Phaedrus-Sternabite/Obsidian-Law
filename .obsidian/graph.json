@@ -116,7 +116,7 @@
       "query": "[\"supports\":Woodson], [\"level\":2]",
       "color": {
         "a": 1,
-        "rgb": 12895465
+        "rgb": 9145317
       }
     }
   ],
@@ -130,6 +130,6 @@
   "repelStrength": 16.0416666666667,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.33681779856734717,
+  "scale": 0.1186810346620467,
   "close": true
 }

@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: N/A
 level: "2"
 ---
 ## 208 U.S. 274
