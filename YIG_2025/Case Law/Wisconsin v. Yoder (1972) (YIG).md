@@ -1,5 +1,5 @@
 ---
-supports: STK
+supports: Both
 level: 
 group: 
 year: 1972
