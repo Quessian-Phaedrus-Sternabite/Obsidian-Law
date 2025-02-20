@@ -1,118 +1,97 @@
 {
   "main": {
-    "id": "c7f74b5e31c8734b",
+    "id": "d7a3b218431fe5d6",
     "type": "split",
     "children": [
       {
-        "id": "7bfbcbf7915f8851",
+        "id": "17f9b420e93e47f0",
         "type": "tabs",
         "children": [
           {
-            "id": "f81eeb2c5fbf6fce",
+            "id": "383cbb2581d029bc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Allgeyer v. Louisiana (1897).md",
+                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Allgeyer v. Louisiana (1897)"
+              "title": "Wisconsin v. Yoder (1972) (YIG)"
             }
           },
           {
-            "id": "e0cf1548539889b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Western Turf Association v. Greenberg (1907)"
-            }
-          },
-          {
-            "id": "fb407eb40f1823ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hawk v. Hawk (1993)"
-            }
-          },
-          {
-            "id": "f0fcff7de05fc1ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Parents United v. Philadelphia BOE (1998)"
-            }
-          },
-          {
-            "id": "171b2b3829957f92",
+            "id": "8aa6da317cddb832",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Planned Parenthood Fed. of America v. Heckler (1983).md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
               "title": "Planned Parenthood Fed. of America v. Heckler (1983)"
             }
           },
           {
-            "id": "41625b07b90ffbcb",
+            "id": "e44e001c8ff0b9a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+                "file": "Planned Parenthood Fed. of America v. Heckler (1983).md",
                 "mode": "source",
-                "source": false,
-                "backlinks": false
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "Curtis v. School Committee of Falmouth  (1995)"
+              "title": "Planned Parenthood Fed. of America v. Heckler (1983)"
+            }
+          },
+          {
+            "id": "81887addb519f75f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Doe V. Irwin (1980)"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "f2e53042d0a3ea55",
+    "id": "d8c21d283608f134",
     "type": "split",
     "children": [
       {
-        "id": "ebe4b30c5b6df7a2",
+        "id": "4d22c90a1fbdc9d8",
         "type": "tabs",
         "children": [
           {
-            "id": "e57d2a5061ff06ff",
+            "id": "502f692d6c89d690",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d431aec6b78eee93",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -129,7 +108,7 @@
             }
           },
           {
-            "id": "4a4a25de26fcb67e",
+            "id": "9271dec1ba2e51d6",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -139,7 +118,7 @@
             }
           },
           {
-            "id": "a0491e4bf5f64cd9",
+            "id": "2f2f1a0936cca18f",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_LONGFORM_EXPLORER",
@@ -149,35 +128,35 @@
             }
           },
           {
-            "id": "1152c984c97506e6",
+            "id": "dbcbd32099b244d0",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "markdown",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "file": "YIG_2025/Embedded 1/Braunfeld v. Brown (1961).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
+              "icon": "lucide-file",
+              "title": "Braunfeld v. Brown (1961)"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 446.51103591918945
+    "width": 535
   },
   "right": {
-    "id": "2a13eaa8837365fe",
+    "id": "95e6cd6d8d4f9916",
     "type": "split",
     "children": [
       {
-        "id": "9f57df5b0cf722b8",
+        "id": "cd509c68b02093fc",
         "type": "tabs",
         "children": [
           {
-            "id": "b84cdc507aa48b67",
+            "id": "a4f9007d817820cf",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -189,28 +168,28 @@
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
               "title": "Backlinks for Planned Parenthood Fed. of America v. Heckler (1983)"
             }
           },
           {
-            "id": "2c42615d243a8a72",
+            "id": "ec4d7757a75f30ca",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
+                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outgoing links from Nottebohm (Liechtenstein v. Guatemala)"
             }
           },
           {
-            "id": "403d4aae40f1827b",
+            "id": "197c82391c91ca24",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -223,19 +202,19 @@
             }
           },
           {
-            "id": "d68121f81ceca8ec",
+            "id": "da641d67723d948c",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md"
+                "file": "MUN_2024/Useful Cases/Nottebohm (Liechtenstein v. Guatemala).md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Tinker v. Des Moines Independent Community School District (1969)"
+              "title": "Outline of Nottebohm (Liechtenstein v. Guatemala)"
             }
           },
           {
-            "id": "72a8f6eb1c0aa658",
+            "id": "5c003a23a9bc2665",
             "type": "leaf",
             "state": {
               "type": "juggl_nodes",
@@ -245,7 +224,7 @@
             }
           },
           {
-            "id": "0976b19bd60c4a67",
+            "id": "8a63726b3fb99150",
             "type": "leaf",
             "state": {
               "type": "juggl_style",
@@ -255,7 +234,7 @@
             }
           },
           {
-            "id": "fb4cf93779dd376c",
+            "id": "9806703a13b884c0",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -264,203 +243,73 @@
                 "showSearch": false,
                 "searchQuery": ""
               },
-              "icon": "lucide-archive",
-              "title": "All properties"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 465
   },
   "left-ribbon": {
     "hiddenItems": {
+      "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
       "obsidian-wordnet-plugin:WordNet Dictionary": false,
       "3d-graph:3D Graph": false,
       "juggl:Juggl global graph": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-wordy:Wordy view": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "obsidian-wordy:Wordy view": false
     }
   },
-  "floating": {
-    "id": "27105a3040bded84",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e701ca44941eee7",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c42e27615a8de0b",
-            "type": "tabs",
-            "dimension": 24.429223744292237,
-            "children": [
-              {
-                "id": "3a83d61d819949e4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              }
-            ]
-          },
-          {
-            "id": "3bc42bba15d1f052",
-            "type": "tabs",
-            "dimension": 23.858447488584474,
-            "children": [
-              {
-                "id": "9d4b4f7db4fefdca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Roe v. Wade (1973)"
-                }
-              },
-              {
-                "id": "e7841b72f927e038",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://casetext.com/case/planned-parenthood-assn-of-utah-v-dandoy",
-                    "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "9535aa25473f3057",
-            "type": "tabs",
-            "dimension": 51.71232876712328,
-            "children": [
-              {
-                "id": "a409abbda40c6d31",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1693,
-        "y": -682,
-        "width": 384,
-        "height": 384,
-        "maximize": true,
-        "zoom": 0.5
-      },
-      {
-        "id": "c3bbef89598b5502",
-        "type": "window",
-        "children": [
-          {
-            "id": "191599a372311246",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5eb0a7074fcefeff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2622,
-        "y": -690,
-        "width": 241,
-        "height": 523,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "171b2b3829957f92",
+  "active": "e44e001c8ff0b9a7",
   "lastOpenFiles": [
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "Planned Parenthood Fed. of America v. Heckler (1983).md",
+    "YIG_2025/Embedded 2/Morton v. Ruiz (1974).md",
     "YIG_2025/Readme 2025.md",
-    "YIG_2025/Embedded 2/Doe v. Planned Parenthood Association of Utah (1973).md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
-    "Guerrieri v. Tyson (1942).md",
-    "Duffield v. School District of City of Williamsport (1894).md",
-    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
-    "Spann v. Joint Bds. of Sch. Directors (1955).md",
+    "README.md",
+    "Planned Parenthood Fed. of America v. Heckler (1983).md",
+    "YIG_2025/Embedded 2/Planned Parenthood Federation of America, Inc. v. Schweiker (1983).md",
+    "YIG_2025/Embedded 2/Batterton v. Francis (1977).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "Zebra v. Pittsburgh Sch. Dist. (1972).md",
-    "Roberts v. School Dist. of Scranton (1975).md",
-    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "YIG_2025/Embedded 1/Albert v. Municipal Court of the City of Boston (1983).md",
+    "YIG_2025/Embedded 1/Adkins v. Children's Hospital (1923).md",
+    "YIG_2025/Embedded 1/Hernandez v. Commissioner of Internal Revenue (1989).md",
     "Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981).md",
-    "Harris v. Bd. of P. E. of Phila. S. Dist (1932).md",
-    "J.F. Feeser, Inc. v. Serv-A-Portion, Inc. (1990).md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Embedded 1/Commonwealth v. Beiler, (1950).md",
+    "Guerrieri v. Tyson (1942).md",
+    "Spann v. Joint Bds. of Sch. Directors (1955).md",
     "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
-    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
-    "YIG_2025/Embedded 1/Abington v. Schempp (1963).md",
-    "YIG_2025/Embedded 1/Lee v. Weisman (1992).md",
-    "YIG_2025/Embedded 1/Abington School District v. Schempp (1963).md",
-    "YIG_2025/Embedded 1/Engel v. Vitale (1962).md",
-    "YIG_2025/Embedded 1/Commonwealth v. Miller (1992).md",
-    "YIG_2025/Embedded 1/Commonwealth v. Cardwell (1986).md",
+    "Roberts v. School Dist. of Scranton (1975).md",
+    "J.F. Feeser, Inc. v. Serv-A-Portion, Inc. (1990).md",
+    "Harris v. Bd. of P. E. of Phila. S. Dist (1932).md",
+    "Duffield v. School District of City of Williamsport (1894).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
-    "-DESK-KQDO1A9F.gitignore",
-    "YIG_2025/Case Law/New Text Document.txt",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (.txt",
-    "YIG_2025/Codes or Laws",
     "YIG_2025/Technical",
+    "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Embedded 2",
+    "YIG_2025/Codes or Laws",
     "YIG_2025/Embedded 1",
     "YIG_2025/Case Law",
-    "Pasted image 20241111234912.png",
-    "MUN_2024/Files/Pasted image 20241023172537.png"
+    "YIG_2025",
+    "MUN_2024/Files/Pasted image 20241023172537.png",
+    "MUN_2024/Useful Cases",
+    "MUN_2024/Other Useful",
+    "The Fall and Rise of Gather/Images/Doorknob.png",
+    "The Fall and Rise of Gather/Images/Spider.png",
+    "The Fall and Rise of Gather/Gather.canvas",
+    "The Fall and Rise of Gather/5. The Fifth Gathering/Spider.png"
   ]
 }

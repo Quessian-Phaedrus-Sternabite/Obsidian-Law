@@ -19,3 +19,6 @@ Very useful for Woodson, as it supports the idea that Title X protects the priva
 ### Embedded
 
 [[Name of embedded]]
+[[Planned Parenthood Federation of America, Inc. v. Schweiker (1983)]]
+[[Batterton v. Francis (1977) ]]
+[[Morton v. Ruiz (1974)]]
