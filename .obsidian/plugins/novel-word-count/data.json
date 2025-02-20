@@ -1693,19 +1693,25 @@
       "isCountable": true,
       "isDirectory": false,
       "noteCount": 1,
-      "wordCount": 0,
+      "wordCount": 20,
       "wordCountTowardGoal": 0,
       "wordGoal": null,
-      "pageCount": 0,
-      "characterCount": 0,
-      "nonWhitespaceCharacterCount": 0,
-      "readingTimeInMinutes": 0,
-      "linkCount": 0,
+      "pageCount": 0.06666666666666667,
+      "characterCount": 192,
+      "nonWhitespaceCharacterCount": 145,
+      "readingTimeInMinutes": 0.07547169811320754,
+      "linkCount": 1,
       "embedCount": 0,
       "aliases": null,
       "createdDate": 1740077858962,
-      "modifiedDate": 1740077858962,
-      "sizeInBytes": 0
+      "modifiedDate": 1740086767223,
+      "sizeInBytes": 237,
+      "frontmatter": {
+        "supports": null,
+        "level": null,
+        "group": null,
+        "year": null
+      }
     },
     "YIG_2025/Embedded 1/Boyer v. Smith (1985).md": {
       "isCountable": true,
@@ -7736,24 +7742,6 @@
       "modifiedDate": 1740084955062,
       "sizeInBytes": 187
     },
-    "YIG_2025/Embedded 1/Attorney Gen. v. Bailey, Bailey V. Bellotti (1982).md": {
-      "isCountable": true,
-      "isDirectory": false,
-      "noteCount": 1,
-      "wordCount": 23,
-      "wordCountTowardGoal": 0,
-      "wordGoal": null,
-      "pageCount": 0.07666666666666666,
-      "characterCount": 187,
-      "nonWhitespaceCharacterCount": 129,
-      "readingTimeInMinutes": 0.08679245283018867,
-      "linkCount": 0,
-      "embedCount": 0,
-      "aliases": null,
-      "createdDate": 1740084955062,
-      "modifiedDate": 1740084955062,
-      "sizeInBytes": 187
-    },
     "YIG_2025/Embedded 1/Attorney Gen. v. Desilets (1994).md": {
       "isCountable": true,
       "isDirectory": false,
@@ -8533,6 +8521,24 @@
       "createdDate": 1740086517058,
       "modifiedDate": 1740086705971,
       "sizeInBytes": 442
+    },
+    "YIG_2025/Embedded 1/Abington v. Schempp (1963).md": {
+      "isCountable": true,
+      "isDirectory": false,
+      "noteCount": 1,
+      "wordCount": 25,
+      "wordCountTowardGoal": 0,
+      "wordGoal": null,
+      "pageCount": 0.08333333333333333,
+      "characterCount": 245,
+      "nonWhitespaceCharacterCount": 184,
+      "readingTimeInMinutes": 0.09433962264150944,
+      "linkCount": 0,
+      "embedCount": 0,
+      "aliases": null,
+      "createdDate": 1740086767198,
+      "modifiedDate": 1740086767198,
+      "sizeInBytes": 245
     }
   }
 }
