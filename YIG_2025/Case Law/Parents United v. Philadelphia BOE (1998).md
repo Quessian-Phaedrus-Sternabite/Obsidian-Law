@@ -37,9 +37,9 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Guerrieri v. Tyson (1942)]]
 [[McConnaughey v. Building Components, Inc. (1994)]]
 [[T.H. v. Jones (1975)]]
-_Planned Parenthood Fed'n of America v. Heckler,_ 712 F.2d 650, 651-52 (D.C.Cir.1983)
 [[Planned Parenthood Fed. of America v. Heckler (1983)]]
 _County of St. Charles, Mo. v. Missouri Family Health Council,_ 107 F.3d 682, 684-85 (8th Cir.1997)
+[[County of St. Charles, Missouri v. Missouri Family Health Council (1997)]]
 [[Planned Parenthood v. Danforth (1976)]]
 [[Carey v. Population Services Int'l (1977)]]
 [[Planned Parenthood v. Casey (1992)]]
