@@ -17,8 +17,9 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 ### Embedded
 
 [[Parents United for Better Schools, Inc. v. School Dist (1994)]]
-[[Anderson v. Liberty Lobby, Inc. (1986)]]
-_Siegel Transfer, Inc. v. Carrier Express, Inc.,_ 54 F.3d 1125, 1127 (3d Cir. 1995).
+[[Anderson v. Liberty Lobby, Inc. (1986)
+[[Siegel Transfer, Inc. v. Carrier Express, Inc. (1995)]]
+
 _J.F. Feeser, Inc. v. Serv-A-Portion, Inc.,_ 909 F.2d 1524
 [[Celotex Corp. v. Catrett (1986)
 [[Pennsylvania Fed'n of Teachers v. School Dist. (1984)

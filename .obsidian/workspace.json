@@ -38,14 +38,14 @@
             }
           },
           {
-            "id": "d12c292dc86f86ac",
+            "id": "bd4e55b2affbd97e",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
                 "url": "https://law.justia.com/cases/federal/district-courts/FSupp/978/197/2136129/",
                 "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia",
-                "mode": "blank"
+                "mode": "webview"
               },
               "icon": "globe-2",
               "title": "Parents United for Better Schools, Inc. v. SCHOOL DIST. OF PHILA. BD. OF EDUCATION, 978 F. Supp. 197 (E.D. Pa. 1997) :: Justia"
@@ -120,6 +120,21 @@
             }
           },
           {
+            "id": "da3ac111f4573154",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995)"
+            }
+          },
+          {
             "id": "41625b07b90ffbcb",
             "type": "leaf",
             "state": {
@@ -135,7 +150,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -203,7 +218,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 580.5110359191895
+    "width": 580.5110359191895,
+    "collapsed": true
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -219,7 +235,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +244,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Parents United v. Philadelphia BOE (1998)"
+              "title": "Backlinks"
             }
           },
           {
@@ -458,19 +473,22 @@
       }
     ]
   },
-  "active": "1152c984c97506e6",
+  "active": "a409abbda40c6d31",
   "lastOpenFiles": [
+    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
+    "Siegel Transfer, Inc. v. Carrier Express, Inc. (1995).md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
+    "YIG_2025/Embedded 1/Abington v. Schempp (1963).md",
     "YIG_2025/Embedded 1/Lee v. Weisman (1992).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Embedded 1/Abington v. Schempp (1963).md",
     "YIG_2025/Embedded 1/Abington School District v. Schempp (1963).md",
-    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
-    "YIG_2025/Readme 2025.md",
     "YIG_2025/Embedded 1/Engel v. Vitale (1962).md",
     "YIG_2025/Embedded 1/Commonwealth v. Miller (1992).md",
     "YIG_2025/Embedded 1/Commonwealth v. Cardwell (1986).md",
     "YIG_2025/Embedded 1/Commonwealth v. Mack (1976).md",
-    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
     "YIG_2025/Embedded 1/Citizens for Parental Rights v. San Mateo County Bd. of Educ. (1976).md",
     "YIG_2025/Embedded 1/Commonwealth v. Stowell (1983).md",
     "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
@@ -483,9 +501,6 @@
     "YIG_2025/Embedded 1/Judson v. Essex Agric. & Technical Inst. (1994).md",
     "YIG_2025/Embedded 1/Kourouvacilis v. General Motors Corp. (1991).md",
     "YIG_2025/Embedded 1/McNulty v. McDowell (1993).md",
-    "YIG_2025/Embedded 1/Medeiros v. Kiyosaki (1970).md",
-    "YIG_2025/Embedded 1/Quilloin v. Walcott (1978).md",
-    "YIG_2025/Embedded 1/Moore v. City of East Cleveland 1977.md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
