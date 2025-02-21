@@ -1,7 +1,7 @@
 ---
-supports: 
-level: 
-group: 
+supports: Woodson
+level: Base
+group: "1944"
 year: 1944
 ---
 ## 321 U.S. 158, 64 S. Ct. 438
@@ -23,15 +23,18 @@ The state’s interest in protecting children through the child labor laws overr
 ### Use
 Offers possible counterpoints to pierce? Argue what's detailed in the summary and if that's insufficient use linked justia.
 
+Very useful. State takes precedence over parents when the parents are acting in a manner harmful to the children. As HIV/AIDS is harmful, and their inaction constitutes harm, this means that the State has a right to act.
+
 ### Embedded
 
 [[Name of embedded]]
-[[Meyer v. Nebraska (1923)]]
-_Schneider v. State,_ [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
-_Cantwell v. Connecticut,_ [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
+[[Meyer v. Nebraska (1923)
+[[Schneider v. State (1939)]] (Could *maybe* be useful for Woodson)
+[[Cantwell v. Connecticut (1940) 1]] (Could *maybe* be useful for Woodson)
 _[West Virginia State Board of Education v. Barnette](https://supreme.justia.com/cases/federal/us/319/624/),_ 319 U.S.
 [[Pierce v. Society of Sisters (1925)]]
 _Reynolds v. United States,_ [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
+[[Reynolds v. United States (1878)]]
 _Davis v. Beason,_ [133 U. S. 333](https://supreme.justia.com/cases/federal/us/133/333/)
 _People v. Pierson,_ 176 N.Y. 201, 68 N.E. 243
 _Schenck v. United States,_ [249 U. S. 47](https://supreme.justia.com/cases/federal/us/249/47/)
@@ -43,7 +46,7 @@ _Martin v. City of Struthers,_ [319 U. S. 141](https://supreme.justia.com/cases
 _Largent v. Texas,_ [318 U. S. 418](https://supreme.justia.com/cases/federal/us/318/418/)
 _Busey v. District of Columbia,_ 75 U.S.App.D.C. 352
 
-Following are used by the court as the massachusetts verdict runs contrary to them
+Following are used by the court as the Massachusetts verdict runs contrary to them
 _State v. Mead,_ 230 Iowa 1217
 _State v. Meredith,_ 197 S.C. 351
 _Semansky v. Stark,_ 196 La. 307

@@ -65,4 +65,4 @@ Gomez v. Layton (N/A)
 [[Parker v. Levy]]
 [[Lewis v. City of New Orleans]]
 [[Lovell v. City of Griffin]]
-[[Schneider v. State]]
+[[Schneider v. State (1939)]]

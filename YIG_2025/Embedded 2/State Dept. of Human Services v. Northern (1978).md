@@ -1,5 +1,5 @@
 ---
-supports: Woodson
+supports: N/A
 level: "1"
 group: YIG-2025
 year: 1978
@@ -10,7 +10,7 @@ https://law.justia.com/cases/tennessee/court-of-appeals/1978/563-s-w-2d-197-1.ht
 
 ### Summary
 
-Summary of case
+Elderly people are viable for state protection.
 
 ### Use
 
