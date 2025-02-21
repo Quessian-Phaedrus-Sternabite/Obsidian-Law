@@ -27,8 +27,7 @@ Very clearly supports STK. The State cannot provide education against the intere
 [[Chicago, Burlington & Quincy R. Co. v. McGuire (1911)]]
 [[Truax v. Reich (1915)]] 
 [[Adams v. Tanner (1917)]]
-_New York Life Ins. Co. v. Dodge,_ [246 U. S. 357](https://supreme.justia.com/cases/federal/us/246/357/); 
 [[New York Life Ins. Co. v. Dodge (1918)]]
-_Truax v. Corrigan,_ [257 U. S. 312](https://supreme.justia.com/cases/federal/us/257/312/); 
+[[Truax v. Corrigan (1921)]]
 _Adkins v. Children's Hospital,_ [261 U. S. 525](https://supreme.justia.com/cases/federal/us/261/525/); 
 _Wyeth v. Cambridge Board of Health,_ 200 Mass. 474.
