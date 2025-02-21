@@ -46,10 +46,10 @@ Woodson
 [[Ginsberg v. New York (1968)]]
 [[Meyer v. Nebraska (1923)]]
 [[Rowan v. Post Office Dept. (1970)]]
- [[Lemon v. Kurtzman (1971)]]
- [[Tilton v. Richardson (1971)]] [403 U. S. 672](https://supreme.justia.com/cases/federal/us/403/672/)
+[[Lemon v. Kurtzman (1971)]]
+ [[Tilton v. Richardson (1971)
  [[Everson v. Board of Education (1941)]] [330 U. S. 1](https://supreme.justia.com/cases/federal/us/330/1/), [330 U. S. 18](https://supreme.justia.com/cases/federal/us/330/1/#18)
- [[Sherbert v. Verner (1963)]] [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
+ [[Sherbert v. Verner (1963)]] 
  [[McGowan v. Maryland (1961)]] [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
 [[Prince v. Massachusetts (1944)]]
  [[Braunfeld v. Brown (1961)]] [366 U. S. 599](https://supreme.justia.com/cases/federal/us/366/599/), [366 U. S. 605](https://supreme.justia.com/cases/federal/us/366/599/#605)

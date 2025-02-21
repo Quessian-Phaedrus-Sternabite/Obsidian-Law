@@ -1,8 +1,8 @@
 ---
 supports: STK
-level: 
-group: 
-year:
+level: "1"
+group: YIG-2025
+year: 1968
 ---
 ## 390 U.S. 629 (1968)
 

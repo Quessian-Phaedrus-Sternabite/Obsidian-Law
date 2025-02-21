@@ -1,20 +1,20 @@
 ---
-supports: 
-level: 
-group: 
-year:
+supports: N/A
+level: "1"
+group: YIG-2025
+year: 1941
 ---
-## Case Number
+## 330 U.S. 1 (1947)
 
-Link
+https://supreme.justia.com/cases/federal/us/330/1/
 
 ### Summary
 
-Summary of case
+Although the Establishment Clause does require governments to avoid excessive entanglement with religion, it is permissible for a state to reimburse the costs of transportation for students in parochial schools.
 
 ### Use
 
-How it may be used and quotes
+Not applicable.
 
 ### Embedded
 
