@@ -9,7 +9,7 @@ https://supreme.justia.com/cases/federal/us/262/390/
 
 ### Summary
 
-The Court struck down a law forbidding the teaching of foreign languages to young students on account of the parental right to choose their children's education. Freedom includes the right to choose the education of your dhildren. 
+The Court struck down a law forbidding the teaching of foreign languages to young students on account of the parental right to choose their children's education. Freedom includes the right to choose the education of your children. 
 
 ### Use
 
