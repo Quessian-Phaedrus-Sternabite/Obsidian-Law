@@ -50,7 +50,7 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Pierce v. Society of Sisters (1925)]][268 U.S. 510](https://supreme.justia.com/cases/federal/us/268/510/)
 [[Meyer v. Nebraska (1923)]] [262 U.S. 390](https://supreme.justia.com/cases/federal/us/262/390/)
 [[Doe V. Irwin (1980)]]
-[[Curtis v. School Committee of Falmouth  (1995)]]
+[[Curtis v. School Committee of Falmouth (1995)]]
 [[Prince v. Massachusetts (1944)]]
 [[John v. Louisiana (1985)]]
 [[Commonwealth v. Mack (1976)]]
@@ -60,7 +60,6 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Agustin v. Quern (1979)]]
 [[Man O' War R. A., Inc. v. State H. R. Comm (1969)]]
 [[Mielcuszny et Ux. v. Rosol (1934)]]
- _Aetna Cas. & Sur. Co. v. Duncan,_ 972 F.2d 523, 526
  [[Aetna Cas. Sur. Co. v. Duncan (1992)]]
  [[Abington School District v. Schempp (1963)]]
  [[Engel v. Vitale (1962)]]
