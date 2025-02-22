@@ -1,5 +1,5 @@
 ---
-supports: N/A
+supports: STK
 level: "1"
 group: YIG-2025
 year: 1942

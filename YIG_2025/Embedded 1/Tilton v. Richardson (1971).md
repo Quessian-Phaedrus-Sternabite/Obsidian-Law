@@ -1,20 +1,20 @@
 ---
-supports: 
-level: 
-group: 
-year:
+supports: N/A
+level: "1"
+group: YIG-2025
+year: 1971
 ---
-## Case Number
+## 403 U.S. 672 (1971)
 
-Link
+https://supreme.justia.com/cases/federal/us/403/672/
 
 ### Summary
 
-Summary of case
+Religion in colleges issue.
 
 ### Use
 
-How it may be used and quotes
+Not applicable.
 
 ### Embedded
 
