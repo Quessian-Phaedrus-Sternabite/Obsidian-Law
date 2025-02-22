@@ -9,30 +9,33 @@ Promoting condom awareness and family planning guidelines does not constitute as
 
 I. The State has a right to intervene in matters of education when there is a dire health issue present, overriding the Fourteenth Amendment right to rear children.
 
-[[Bellotti v. Baird (1976)]]
 [[Custody of A Minor (1978)]]
-[[Hodgson v. Minnesota (1990)]]
 [[Matter of Jensen (1981)]]
 [[Matter of Hamilton (1983)]]
 [[People In Interest of D.L.E (1982)]]
 [[Santosky v. Kramer (1982)]]
 [[Prince v. Massachusetts (1944)]]
-[[Reynolds v. United States (1878)]]
-[[Santosky v. Kramer (1982)
 [[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]]
 [[Commonwealth v. Mack (1976)]]
 
+The appellee would like to begin by bringing up the idea that the 14th Amendment right to guide the upbringing of children is overridden when such upbringing would directly harm the child. This is majorly seen in the case of [[Prince v. Massachusetts (1944)]], which focused on the right of a parent to control the raising of their children. Despite the case focusing on selling newspapers against child labor laws, the ruling still shows a valid point in State authority. In *Prince*, the Court ruled that the State's authority over the wellbeing of children is higher than the protection of a parent's right to raise a child. When the safety of the child is at risk, the state is bound to intervene. This can be further supported by [[Matter of Hamilton (1983)]], a case that saw a child denied medical treatment by her father due to religious reasons. Much like Prince, this is a case that established a definition that a child's safety overwrites parenting choices. In the case at bar, the astoundingly high rate of teen pregnancies and HIV/AIDS present in the Woodson school area constitute a minor safety crisis. 
 
+The inaction of the parents to respond is grounds enough for the forfeiture of rights, as evidenced by [[People In Interest of D.L.E (1982)]], in which parents did not give their child his epilepsy medicine, resulting in permanent brain damage. Despite the inaction being carried out to fulfil religious and moral beliefs, it was ruled as neglect by the Court. When parents have an opportunity to protect their children and they refuse to take it, it becomes reasonable for the State to step in. [[Matter of Jensen (1981)]] follows this precedent as well, arguing that the court has jurisdiction in matters involving a minor being a risk to themself or others. While these cases have been concerned with life threatening medical issues, it is important to remember that HIV/AIDS is a life threatening medical issue that is preventable through proper education and contraceptive use. 
+
+The Court has previously applied this definition to a wide gamut of medical issues. With leukemia, a similarly debilitating and often fatal disease, [[Custody of A Minor (1978)]] again ruled that the parents, in failing to provide treatment for the condition, were providing inadequate care and protection to the child. [[Santosky v. Kramer (1982)]], a case concerning neglect proceedings related to the care of a child. Every one of these cases shows that the State defers towards protection when the life of a child may come to risk. Even though condoms and family education are preventative measures, they still are life saving, and can often mean the difference between teen pregnancy or STDs and a healthy life. Similar definitions have even been implied from cases such as [[Commonwealth v. Mack (1976)]], which argued that the common sense of decency, propriety, and morality entertained by society is valid reason to act to protect a child. The program, which serves in a fully protective capacity, is acting to protect the mental and physical health of the children of Lee High School, and as such, has adequate precedent. The final case with a similar purview is [[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]], which upheld a ban on smoking due to the idea that providing positive role models to students and providing examples of healthy behavior was valid reason to change educational standards. Providing students with a message of healthy contraceptive practice and role models in the form of the nurses who encourage abstinence and safety above all aligns with the ruling in *Chambersburg*, with the sole difference being the matter demonstrated. In each of the cases, the rulings align in that the State may intervene and provide education when it is determined that the parents are lacking in the upbringing of their children and a definite health benefit is present from the service.
 
 II. Promoting condom awareness and family planning guidelines does not constitute as promoting gateway sexual activity, and the attempt to restrict such programs through TN Code § 49-6-1303 (2021) is unconstitutional.
 
 [[Carey v. Population Services Int'l (1977)]]
-[[Cochran v. Cochran (1909)]]
-[[Curtis v. School Committee of Falmouth  (1995)]]
+[[Curtis v. School Committee of Falmouth (1995)]]
 [[Parents United v. Philadelphia BOE (1998)]]
 [[Ware v. Valley Stream High (1989)]]
 
-III. Title X ( Family Planning Services and Population Research Act of 1970) and XIX (Medicaid) demonstrate a Federal and State interest in providing family planning and health services to minors regardless of parental consent.
+The next point brokered was that the program acted to promote gateway sexual activity, and as such, could validly be restricted. However, the program has severe merit, and as such, does not fit established standards of obscenity and depravity needed to promote said illicit activity. In [[Memoirs v. Massachusetts (1966)]], a test for obscene material is laid out: material provided must be pruriently devoted towards sex, must offend contemporary community standards, and is without social value. However, material that by nature is provided to reduce teenage pregnancies out of wedlock patently agrees with standards and provides immense social value.  This interpretation was supported by [[Curtis v. School Committee of Falmouth (1995)]], which ruled that a similar condom program was constitutionally valid. The program, by virtue of taking an abstinence-only approach and emphasizing sexual health was not deemed obscene. Instead, it was upheld by the Court as not invading on the rights of the parents. 
+
+Furthermore, laws that restrict providing contraceptives to minors have previously been struck down as unconstitutional. In [[Carey v. Population Services Int'l (1977)]], it was ruled that providing, advertising, and offering contraceptives to minors is constitutionally protected under the First Amendment. This applies directly to the case at bar, in which TN Code § 49-6-1303 (2021) is attempting to be used to block the distribution of condoms to minors. Furthermore, Carey cites [[Roe v. Wade (1973)]] as further evidence towards the sanctity of privacy in matters of sexual life, regardless of age. This is again supported by [[Planned Parenthood v. Danforth (1976)]], which was used to argue against blatant prohibition of distributing contraceptives to minors. In each of these cases, it was ruled that distributing contraceptives is protected, and furthermore, minors have rights to access these contraceptives. Finally, the case that is perhaps the most applicable is [[Ware v. Valley Stream High (1989)]], in which mandatory AIDS education was held as not "overrun[ning] other cherished values" in society. The program, which aims to reduce HIV/AIDS infections and teen pregnancies, similarly acts solely as a protective means and does not promote gateway sexual activity.
+
+III. Title X (Family Planning Services and Population Research Act of 1970) and XIX (Medicaid) demonstrate a Federal and State interest in providing family planning and health services to minors regardless of parental consent. 
 
 [[County of St. Charles, Missouri v. Missouri Family Health Council (1997)]]
 [[Jane Does v. State of Utah Dept. of Health (1985)]]
@@ -40,3 +43,7 @@ III. Title X ( Family Planning Services and Population Research Act of 1970) and
 [[Planned Parenthood Ass'n of Utah v. Matheson (1983)]]
 [[State of N.Y. v. Heckler (1983)]]
 [[T.H. v. Jones (1975)]]
+[[Bellotti v. Baird (1976)]]
+[[Hodgson v. Minnesota (1990)]]
+
+Finally, the lack of an opt-out protocol has been previously supported on a wide scale by the federal government, and has been upheld time and time again. The Family Planning Services and Population Research Act of 1970, enacted as Title X of the Public Health Service Act, directly prescribes for the provision of contraceptives and family planning material to minors, regardless of parental consent. In [[County of St. Charles, Missouri v. Missouri Family Health Council (1997)]], this definition was upheld, with a decision being made that minors could receive contraceptives without their parents opting in. While the case concerned funding being delivered, it remains relevant in showing the constitutionality of withholding contraceptives on account of age. [[Jane Does v. State of Utah Dept. of Health (1985)]] argues a similar fact, striking down a requirement for parental consent before delivering Title X funds. Even when parents are uninformed, the Public Health Service Act ensures that the children are given adequate protection. For the case at 

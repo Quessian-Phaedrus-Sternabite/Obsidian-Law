@@ -10,7 +10,7 @@ https://casetext.com/case/cochran-v-cochran-10
 
 ### Summary
 
-Struck down law saying that it is a crime to sell contraceptives to minors.
+Marriage = adults. 
 
 ### Use
 
