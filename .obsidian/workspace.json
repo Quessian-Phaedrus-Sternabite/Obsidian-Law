@@ -129,14 +129,24 @@
             "id": "67c4687e927044fd",
             "type": "leaf",
             "state": {
-              "type": "webviewer",
+              "type": "markdown",
               "state": {
-                "url": "https://casetext.com/case/jane-does-v-state-of-utah-dept-of-health",
-                "title": "Jane Does v. State of Utah Dept. of Health, 776 F.2d 253 | Casetext Search + Citator",
-                "mode": "webview"
+                "file": "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "globe-2",
-              "title": "Jane Does v. State of Utah Dept. of Health, 776 F.2d 253 | Casetext Search + Citator"
+              "icon": "lucide-file",
+              "title": "Hodgson v. Minnesota (1990)"
             }
           }
         ],
@@ -228,8 +238,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Argument for Woodson.md",
-                "mode": "source",
+                "file": "YIG_2025/Argument for Woodson.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": false
               },
@@ -238,12 +248,12 @@
             }
           },
           {
-            "id": "156808ded570e5c8",
+            "id": "092f13bcfcce31e9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
+                "file": "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -258,11 +268,59 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Bennet v. Jeffreys (1976)"
+              "title": "Roe v. Wade (1973)"
+            }
+          },
+          {
+            "id": "b7bf55e0a8b2ca31",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "T.H. v. Jones (1975)"
+            }
+          },
+          {
+            "id": "ba5ebde8b4e673c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pierce v. Society of Sisters (1925)"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -325,7 +383,8 @@
               "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -346,7 +405,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -356,7 +415,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Bennet v. Jeffreys (1976)"
+              "title": "Backlinks for Pierce v. Society of Sisters (1925)"
             }
           },
           {
@@ -365,12 +424,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
+                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Bennet v. Jeffreys (1976)"
+              "title": "Outgoing links from Pierce v. Society of Sisters (1925)"
             }
           },
           {
@@ -541,7 +600,7 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Argument for STK.md",
+                    "file": "YIG_2025/Argument for STK.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
@@ -617,14 +676,24 @@
       }
     ]
   },
-  "active": "156808ded570e5c8",
+  "active": "ba5ebde8b4e673c5",
   "lastOpenFiles": [
-    "Argument for Woodson.md",
+    "YIG_2025/Embedded 1/Stanley v. Illinois (1972).md",
+    "YIG_2025/Argument for STK.md",
+    "YIG_2025/Argument for Woodson.md",
+    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
+    "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
+    "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
+    "YIG_2025/Embedded 1/Bellotti v. Baird (1976).md",
+    "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
+    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Matheson (1983).md",
+    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
     "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
     "YIG_2025/Embedded 1/County of St. Charles, Missouri v. Missouri Family Health Council (1997).md",
+    "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
     "YIG_2024/Embedded 1/Woodson v. North Carolina.md",
-    "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
-    "Argument for STK.md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Embedded 1/Carey v. Population Services Int'l (1977).md",
     "YIG_2025/Embedded 1/Planned Parenthood v. Danforth (1976).md",
@@ -633,18 +702,8 @@
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
     "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
     "YIG_2025/Readme 2025.md",
-    "Memoirs v. Massachusetts (1966).md",
+    "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
     "YIG_2025/Embedded 1/Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981).md",
-    "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
-    "YIG_2025/Embedded 1/Commonwealth v. Mack (1976).md",
-    "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2025/Embedded 1/Bellotti v. Baird (1976).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "YIG_2025/Embedded 1/Reynolds v. United States (1878).md",
-    "YIG_2025/Embedded 2/Custody of A Minor (1978).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981).md",
-    "YIG_2025/Embedded 2/People In Interest of D.L.E (1982).md",
     "Pasted image 20241111234912.png",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
