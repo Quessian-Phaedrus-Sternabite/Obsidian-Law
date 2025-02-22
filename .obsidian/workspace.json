@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 2/Morton v. Ruiz (1974).md",
+                "file": "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Morton v. Ruiz (1974)"
+              "title": "Alfonso v. Fernandez (1993)"
             }
           },
           {
@@ -161,7 +161,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Embedded 2/Morton v. Ruiz (1974).md",
+                "file": "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Morton v. Ruiz (1974)"
+              "title": "Backlinks for Alfonso v. Fernandez (1993)"
             }
           },
           {
@@ -270,6 +270,10 @@
   },
   "active": "e44e001c8ff0b9a7",
   "lastOpenFiles": [
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
+    "YIG_2025/Embedded 1/Chevron U.S.A., Inc. v. NRDC (1984).md",
+    "YIG_2025/Embedded 2/Morton v. Ruiz (1974).md",
     "Rowan v. Post Office Dept. (1970).md",
     "Argument for STK.md",
     "YIG_2025/Embedded 2/Planned Parenthood Federation of America, Inc. v. Schweiker (1983).md",
@@ -285,7 +289,6 @@
     "YIG_2025/Embedded 1/Duffield v. School District of City of Williamsport (1894).md",
     "YIG_2025/Embedded 1/County of St. Charles, Missouri v. Missouri Family Health Council (1997).md",
     "YIG_2025/Embedded 1/Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981).md",
-    "YIG_2025/Embedded 2/Morton v. Ruiz (1974).md",
     "YIG_2025/Readme 2025.md",
     "README.md",
     "YIG_2025/Embedded 2/Batterton v. Francis (1977).md",
@@ -293,9 +296,6 @@
     "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
     "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
     "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
-    "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth  (1995).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "YIG_2025/Technical",
     "-DESK-KQDO1A9F.gitignore",
