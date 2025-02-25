@@ -1,4 +1,11 @@
+https://docs.google.com/document/d/1uyWifT68yRWK1LMPc6Cu2pZ5JfHNuqTU00NJ7VoNrAM/edit?usp=sharing
+
+
+
+
 There are three points to address. The first is that the condom distribution and sex ed program violates previously established ideals of role models in school and keeping obscenity out of the classroom. Secondly, in prior cases, the Court has ruled against similar programs that fail to provide an opt-in or out protocol for parents, on account of the rights to rear their children granted to the parents by the 14th Amendment. Finally, there are no provisions in the Constitution that allow for schools to implement these programs.
+
+
 
 Primarily, the position of schools has always been to promote good behavior and actions to children. This stance has previously been upheld by the Court, such as in [[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]]. In that case, teachers were banned from smoking due to the act being a negative one that would harm students through exposure. The ban on smoking was done to ensure students were being exposed to proper values and role modelling. By providing condoms to students, promiscuity and fornication is seemingly endorsed by the schools. This case supports the idea that schools need to be places of positive values.
 
@@ -7,7 +14,7 @@ Furthermore, the idea of classifying materials that inform minors of sexual acts
 The State has no right to interfere unless the children are actively being harmed. This definition is supported by [[Bennet v. Jeffreys (1976)]], which ruled that State intervention in matters of custody is impermissible unless the child is actively being harmed. Bennet sets a precedent that the right to read and control a child belongs to the parents first.  Furthermore, while a physician or authority figure could deliver medical services in an emergency, this does not extend to non-emergency conditions, such as the current state of STD's in the county. This is supported by [[Guerrieri v. Tyson (1942)]], in which a student was treated for an infection despite the issue not being life-threatening or immediately dangerous. The scenario present is not one that is life threatening, and there is no ground for the state to deprive parents of their right to rear their children.
 
 Another precedent for the State leaving matters to the parents comes from [[Davis v. Davis (1992)]]. While the ruling was concerned with a matter of whether or not preembryos count as property or people, the same issue present in the case at bar was upheld. The State only has a right to interfere when a child is at risk.
- 
+
 
 For the second argument, the appellee would like the Court to consider [[Alfonso v. Fernandez (1993)]]. In this case, a program handing out condoms without prior consent was struck down for several reasons. Notably, a child's default position is that of incompetency. A minor is unable to provide informed consent under this definition, and the ultimate right therefore goes to the parents. Supporting this is the case of [[Parents United for Better Schools, Inc. v. School Dist (1994)]], which argued that a failure to opt-out does not equal consent. In Better Schools, Inc., the ruling was in favor of decisions concerning sexual education to be one for the parents.
 
