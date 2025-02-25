@@ -6,7 +6,7 @@ year:
 ---
 ## Case Number
 
-Link
+https://law.justia.com/cases/california/court-of-appeal/3d/51/1.html
 
 ### Summary
 

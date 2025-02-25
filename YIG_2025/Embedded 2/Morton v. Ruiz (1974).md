@@ -1,11 +1,12 @@
 ---
 supports: 
-level: 
+level: "2"
 group: 
 year:
 ---
-## 329 U.S. 14
-https://supreme.justia.com/cases/federal/us/329/14/
+## Case Number
+
+https://casetext.com/case/morton-v-ruiz#p237
 
 ### Summary
 
