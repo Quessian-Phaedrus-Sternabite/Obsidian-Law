@@ -1,5 +1,5 @@
 ---
-supports: 
+supports: Both
 level: 
 group: 
 year:
@@ -10,11 +10,11 @@ Link
 
 ### Summary
 
-Summary of case
+Whether a religious belief is true or false is irrelevant to a judicial determination, as long as the belief is sincerely held.
 
 ### Use
 
-How it may be used and quotes
+Baller counterargument to anything disregarding religion from the Appellee.
 
 ### Embedded
 

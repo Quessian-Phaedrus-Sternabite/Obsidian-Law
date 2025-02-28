@@ -1,0 +1,26 @@
+---
+supports: Woodson
+level: 
+group: 
+year:
+---
+## Case Number
+
+
+
+### Summary
+
+The stipulation of the parties reveals the following pertinent facts: Defendant LeRoy Garber is a member of the Old Order Amish Mennonite Church. He is the father of Sharon Garber, who was born September 18, 1950, and who is under his control. Sharon completed the eighth grade in the public schools, finishing at Elreka, Reno County, Kansas, in May of 1964; since that time she has not been enrolled as a student at any public school in Reno County, Kansas. Her home school district is the Partridge Rural High School District in Reno County which commenced its 1965-1966 school year on August 25, 1965, to run for 180 days. In September of 1964 Sharon enrolled as a high school student in a correspondence school in Chicago, Illinois, known as the American school, and at all times applicable herein she has continued to take certain correspondence courses contained in what is known as a vocational cultural plan and has made high grades. This school is approved by the United States Office of Education for private home study under certain laws whereby tuition may be paid by the federal *569 government. On September 3, 1965, following the passage by the 1965 legislature of our present law requiring school attendance up to age sixteen, a group of Amish people in the Yoder community in Reno County, Kansas, established a school for their children known as the Harmony school. This school was organized pursuant to a written plan in accordance with the Amish religious faith and way of life. Its pupils are limited to those who have completed the eighth grade in public schools but have not attained the age of sixteen. It is taught by an Amish farmer whose formal education has consisted of eight grades in the public schools. Formal classes are held in the Harmony school one morning each week. On each of the remaining four school days students spend at home one hour in study and five hours in pursuit of vocational training upon which a written report is submitted to the instructor. All instruction is given in the English language except in a German reading course in which the German bible is used. Emphasis is placed on the vocational home training consisting generally of farming projects for boys and home economics and home management for girls. On October 5, 1965, defendant was served with a statutory notice of truancy (K.S.A. 72-4802) of his daughter Sharon. Thereafter and on October 15, 1965, Sharon enrolled in the Harmony school and was so enrolled on October 18, 1965.
+
+The agreed statement of facts also contains a history of the Amish people and a recital of their religious tenets and practices. Their religion stems from a seventeenth century branch of the Mennonite Church and they adhere strictly to the beliefs, customs and traditions embraced by their forefathers. Extremely conservative, they are a quiet, industrious, plain people who cherish three great values: A devout religion, an agrarian way of life, and a cohesive family and community. These values are deeply rooted in their educational views as in all aspects of their life. A cardinal tenet in the Amish faith is the Biblical injunction, "Be not conformed to this world," adherence to which, under their rigid interpretation, has doubtless contributed to their survival as a cultural group. Opposition to public secondary schools derives from their feeling that eventually this exposure of their children to that secular influence will erode the Amish way of life.
+
+The first question posed is whether the facts support the finding of guilt of the defendant. Our compulsory school attendance statute is K.S.A. 1965 Supp. 72-4801 which provides in pertinent part:
+
+*570 "That every parent, guardian or other person in the state of Kansas, having control over or charge of any child who has reached the age of seven years and is under the age of sixteen years, shall require such child to attend continuously a public school or a private, denominational or parochial school taught by a competent instructor, in which all instruction shall be given in the English language only, each school year, for such period as the public school of the district in which the child resides is in session. "Any child who is physically or mentally incapacitated for the work of the common schools is exempt from the provisions of this act.... If such child is found capable of doing the work of the common or high schools, as the case may be, the child shall not be exempt from the provisions of this act, except as specifically provided herein. A child attending secondary schools in this state shall not be required to participate in any activity which is contrary to the religious teachings of such child, if a written statement signed by one of the parents or the guardian of such child is filed with the proper authorities of the school attended, requesting that the child not be required to participate in such activity and stating the reason for such request."
+### Use
+
+Really can be disregarded as it only applies to those who are mentally incapable
+
+### Embedded
+
+[[Name of embedded]]

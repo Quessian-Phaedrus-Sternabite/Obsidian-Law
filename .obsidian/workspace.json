@@ -256,8 +256,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 342.5,
-    "collapsed": true
+    "width": 342.5
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -273,7 +272,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Embedded 1/Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -283,7 +281,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981)"
+              "title": "Backlinks"
             }
           },
           {
@@ -380,8 +378,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "102bcf851c93bd0a",
+  "active": "a409abbda40c6d31",
   "lastOpenFiles": [
+    "YIG_2025/Embedded 1/Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981).md",
+    "State v. Garber [419 P.2d 896.md",
+    "Reynolds v. United States, (1879).md",
+    "McGowan v. Mearyland (1961).md",
+    "Cantwell v. Connecticut (1940).md",
     "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
     "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
     "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
@@ -403,11 +406,6 @@
     "YIG_2024/Embedded 1/Dembowski v. State.md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
     "YIG_2025/Embedded 1/Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Planned Parenthood v. Casey (1992).md",
-    "YIG_2025/Embedded 1/Boyer v. Smith (1985).md",
-    "YIG_2025/Embedded 1/Lee v. Weisman (1992).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

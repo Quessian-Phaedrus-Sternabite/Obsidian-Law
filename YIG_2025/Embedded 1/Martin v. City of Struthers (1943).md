@@ -1,16 +1,16 @@
 ---
-supports: 
+supports: N/A
 level: 
 group: 
 year:
 ---
 ## Case Number
 
-Link
+https://supreme.justia.com/cases/federal/us/319/141/
 
 ### Summary
 
-Summary of case
+I aint writin allat
 
 ### Use
 

@@ -47,16 +47,15 @@ Woodson
 [[Meyer v. Nebraska (1923)]]
 [[Rowan v. Post Office Dept. (1970)]]
 [[Lemon v. Kurtzman (1971)]]
- [[Tilton v. Richardson (1971)
+ [[Tilton v. Richardson (1971)]]
  [[Everson v. Board of Education (1941)]] [330 U. S. 1](https://supreme.justia.com/cases/federal/us/330/1/), [330 U. S. 18](https://supreme.justia.com/cases/federal/us/330/1/#18)
  [[Sherbert v. Verner (1963)]] 
- [[McGowan v. Maryland (1961)]] [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
+ [[McGowan v. Mearyland (1961)]] [366 U. S. 420](https://supreme.justia.com/cases/federal/us/366/420/), [366 U. S. 459](https://supreme.justia.com/cases/federal/us/366/420/#459)
 [[Prince v. Massachusetts (1944)]]
  [[Braunfeld v. Brown (1961)]] [366 U. S. 599](https://supreme.justia.com/cases/federal/us/366/599/), [366 U. S. 605](https://supreme.justia.com/cases/federal/us/366/599/#605)
  [[Gillette v. United States (1971)]] [401 U. S. 437](https://supreme.justia.com/cases/federal/us/401/437/)
 [[Reynolds v. United States, (1879)]] [98 U. S. 145](https://supreme.justia.com/cases/federal/us/98/145/)
- [[Sherbert v. Verner]] (1963) [374 U. S. 398](https://supreme.justia.com/cases/federal/us/374/398/)
- [[Cantwell v. Connecticut (1940) 1]] [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
+ [[Cantwell v. Connecticut (1940)]] [310 U. S. 296](https://supreme.justia.com/cases/federal/us/310/296/)
  [[Martin v. City of Struthers (1943)]] [319 U. S. 141](https://supreme.justia.com/cases/federal/us/319/141/)
  [[Schneider v. State, (1939)]] [308 U. S. 147](https://supreme.justia.com/cases/federal/us/308/147/)
  [[Jacobson v. Massachusetts (1905)]] [197 U. S. 11](https://supreme.justia.com/us/197/11/)
