@@ -6,7 +6,7 @@
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 66.85314685314685,
+        "dimension": 66.7132867132867,
         "children": [
           {
             "id": "e7607f4e837d8906",
@@ -14,13 +14,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Jacobson v. Massachusetts (1905).md",
+                "file": "YIG_2024/Technical/Name of embedded.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Jacobson v. Massachusetts (1905)"
+              "title": "Name of embedded"
             }
           }
         ]
@@ -28,7 +28,7 @@
       {
         "id": "abe2fdfcfe191bdb",
         "type": "split",
-        "dimension": 33.14685314685315,
+        "dimension": 33.28671328671329,
         "children": [
           {
             "id": "9f60b3e542cbbfd0",
@@ -317,8 +317,18 @@
       "obsidian-wordy:Wordy view": false
     }
   },
-  "active": "e7607f4e837d8906",
+  "active": "a409abbda40c6d31",
   "lastOpenFiles": [
+    "YIG_2024/Technical/Name of embedded.md",
+    "YIG_2025/Embedded 1/Wright v. DeWitt School District (1965).md",
+    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Embedded 1/Commonwealth v. Beiler, (1950).md",
+    "State v. Garber [419 P.2d 896.md",
+    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Embedded 1/United States v. Ballard (1940).md",
+    "YIG_2025/Embedded 1/Welsh v. United States (1970).md",
+    "YIG_2025/Embedded 1/Jacobson v. Massachusetts (1905).md",
     "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978)-LAPTOP-KQDO1A9F.md",
     "YIG_2025/Embedded 2/Matter of Jensen (1981)-LAPTOP-KQDO1A9F.md",
     "YIG_2025/Embedded 1/Wilson v. Block (1983).md",
@@ -327,24 +337,14 @@
     "YIG_2025/Case Law/Meyer v. Nebraska (1923)-LAPTOP-KQDO1A9F.md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-LAPTOP-KQDO1A9F.md",
     "Matter of Marie B..md",
-    "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-    "YIG_2025/Embedded 1/Jacobson v. Massachusetts (1905).md",
     "YIG_2025/Embedded 1/Schneider v. State, (1939).md",
     "YIG_2025/Embedded 1/Martin v. City of Struthers (1943).md",
     "YIG_2025/Embedded 1/Commonwealth v. Miller (1992).md",
-    "YIG_2025/Readme 2025.md",
     "Cantwell v. Connecticut (1940).md",
     "Reynolds v. United States, (1879).md",
     "YIG_2025/Embedded 1/Gillette v. United States (1971).md",
     "YIG_2025/Embedded 1/Braunfeld v. Brown (1961).md",
     "McGowan v. Mearyland (1961).md",
-    "Untitled.md",
-    "YIG_2025/Embedded 1/Sherbert v. Verner (1963).md",
-    "YIG_2025/Embedded 1/Everson v. Board of Education (1941).md",
-    "YIG_2025/Embedded 1/Tilton v. Richardson (1971).md",
-    "YIG_2025/Embedded 1/Lemon v. Kurtzman (1971).md",
-    "YIG_2025/Embedded 1/Rowan v. Post Office Dept. (1970).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
