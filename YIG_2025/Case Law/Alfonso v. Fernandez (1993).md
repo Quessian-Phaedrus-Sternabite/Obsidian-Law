@@ -34,7 +34,7 @@ In light of our determination that the condom availability component lacks commo
 [[Roe v. Wade (1973)]]
 [[Meyer v. Nebraska (1923)]]
 [[Wisconsin v. Yoder (1972)]]
-[[Matter of Marie B.]]
+[[Matter of Marie B.]] (!)
 [[Ware v. Valley Stream High (1989)]]
 [[Planned Parenthood Ass'n of Utah v. Dandoy (1987)]]
 [[Jane Does v. State of Utah Dept. of Health (1985)]]
