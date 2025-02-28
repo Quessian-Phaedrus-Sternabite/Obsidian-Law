@@ -1,16 +1,16 @@
 ---
-supports: 
-level: 
-group: 
-year:
+supports: Woodson
+level: "1"
+group: YIG-2025
+year: 1980
 ---
-## Case Number
+## 441 F. Supp. 1247
 
-Link
+https://law.justia.com/cases/federal/district-courts/FSupp/441/1247/1427533/
 
 ### Summary
 
-Summary of case
+No infringement of the parent's rights which would require him to examine state's interest.
 
 ### Use
 

@@ -19,5 +19,5 @@ Directly supports STK. It is the right of the parents to decide how to raise the
 ### Embedded
 
 [[Baker v. Carr (1962) (YIG)]]
-[[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]]
+[[Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981)]]
 

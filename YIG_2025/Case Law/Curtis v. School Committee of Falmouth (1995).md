@@ -71,7 +71,7 @@ Constitutional concerns DO NOT APPLY. Wasn't ruled on due to not bringing them u
 [[ Planned Parenthood of Southeastern Pa. v. Casey (1992)]]
 [[Ohio v. Akron Center for Reproductive Health (1990)]]
 [[Hodgson v. Minnesota (1990)]] 
-[[Cantwell v. Connecticut (1940)]]
+[[YIG_2025/Embedded 1/Cantwell v. Connecticut (1940)]]
 [[Attorney Gen. v. Desilets (1994)]]
 [[Employment Div., Dep't of Human Resources of Or. v. Smith (1990]]
 [[Salvation Army v.  Department of Community Affairs (1990)]]

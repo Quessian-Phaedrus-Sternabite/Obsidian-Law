@@ -23,7 +23,7 @@ HEAVILY supports Woodson county, further embedded may be extremely useful.
 [[Celotex Corp. v. Catrett (1986)]]
 [[Pennsylvania Fed'n of Teachers v. School Dist. (1984)]]
 [[Harris v. Bd. of P. E. of Phila. S. Dist (1932)]]
-[[Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981)]]
+[[Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981)]]
 [[Barth v. Philadelphia School District  (1958)]]
 [[Chevron U.S.A., Inc. v. NRDC (1984)]]
 [[Roberts v. School Dist. of Scranton (1975)]]

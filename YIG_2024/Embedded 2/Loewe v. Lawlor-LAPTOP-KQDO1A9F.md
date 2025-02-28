@@ -1,16 +1,14 @@
 ---
 supports: N/A
-level: 
-group: 
-year:
+level: "2"
 ---
-## Case Number
+## 208 U.S. 274
 
-https://supreme.justia.com/cases/federal/us/319/141/
+https://supreme.justia.com/cases/federal/us/208/274/
 
 ### Summary
 
-I aint writin allat
+Summary of case
 
 ### Use
 

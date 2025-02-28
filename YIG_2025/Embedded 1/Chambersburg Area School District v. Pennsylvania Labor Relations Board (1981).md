@@ -19,6 +19,8 @@ STK: The ban on smoking was done to ensure students were being exposed to proper
 
 Woodson: The ban on smoking was done as a fact of health education. Teachers were providing an example of how to act positively by not smoking. Compare that to the program at bar, which provides healthy education to students and allows them to see how they should act with sexual intercourse.
 
+Chambersburg Area School District v. Pennsylvania Labor Relations Board,
+
 ### Embedded
 
  _State College,_ [461 Pa. at 506](https://casetext.com/case/pennsylvania-l-r-bd-v-state-col-a-s-d#p506), [337 A.2d at 268](https://casetext.com/case/pennsylvania-l-r-bd-v-state-col-a-s-d#p268) (emphasis added).

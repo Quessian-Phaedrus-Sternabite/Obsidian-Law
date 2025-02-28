@@ -11,7 +11,7 @@ https://law.justia.com/cases/utah/supreme-court/1973/13041-0.html
 ### Summary
 
 Planned parenthood is trying to provide family planning equipment and information to a minor. 
-
+	
 Previously ruled that giving material to a child increases their propensity to fornicate underage, and therefore, this furthers lawless activities. 
 
 ### Use

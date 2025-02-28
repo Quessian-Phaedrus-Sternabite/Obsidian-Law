@@ -4,221 +4,78 @@
     "type": "split",
     "children": [
       {
-        "id": "855337a213c43872",
+        "id": "b65af4627290d168",
         "type": "tabs",
-        "dimension": 43.84517766497462,
+        "dimension": 28.523489932885905,
         "children": [
           {
-            "id": "ec4e5335b82eab7c",
+            "id": "4e6a59334c54a793",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth(1995).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Curtis v. School Committee of Falmouth(1995)"
+            }
+          },
+          {
+            "id": "069cb988b1852ffb",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/273/284/",
-                "title": "Farrington v. Tokushige | 273 U.S. 284 (1927) | Justia U.S. Supreme Court Center",
+                "url": "https://casetext.com/case/curtis-v-school-committee-of-falmouth/",
+                "title": "Curtis v. School Committee of Falmouth, 420 Mass. 749 | Casetext Search + Citator",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Farrington v. Tokushige | 273 U.S. 284 (1927) | Justia U.S. Supreme Court Center"
+              "title": "Curtis v. School Committee of Falmouth, 420 Mass. 749 | Casetext Search + Citator"
             }
           },
           {
-            "id": "b2e481719e8a8711",
+            "id": "094d253a9438e3c1",
             "type": "leaf",
             "state": {
               "type": "webviewer",
               "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/397/728/",
-                "title": "Rowan v. Post Office Dept. | 397 U.S. 728 (1970) | Justia U.S. Supreme Court Center",
+                "url": "https://supreme.justia.com/cases/federal/us/390/629/",
+                "title": "Ginsberg v. New York | 390 U.S. 629 (1968) | Justia U.S. Supreme Court Center",
                 "mode": "webview"
               },
               "icon": "globe-2",
-              "title": "Rowan v. Post Office Dept. | 397 U.S. 728 (1970) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
-            "id": "246050f4c8569e4d",
-            "type": "leaf",
-            "state": {
-              "type": "webviewer",
-              "state": {
-                "url": "https://supreme.justia.com/cases/federal/us/330/1/",
-                "title": "Everson v. Board of Education | 330 U.S. 1 (1947) | Justia U.S. Supreme Court Center",
-                "mode": "webview"
-              },
-              "icon": "globe-2",
-              "title": "Everson v. Board of Education | 330 U.S. 1 (1947) | Justia U.S. Supreme Court Center"
-            }
-          },
-          {
-            "id": "74517f554083cf6a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Matter of Hamilton (1983)"
-            }
-          },
-          {
-            "id": "669bee29ef8e8765",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hodgson v. Minnesota (1990)"
-            }
-          },
-          {
-            "id": "79e5ec898be0d00d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Commonwealth v. Mack (1976).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Commonwealth v. Mack (1976)"
-            }
-          },
-          {
-            "id": "763bce1896edca4a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Carey v. Population Services Int'l (1977).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Carey v. Population Services Int'l (1977)"
-            }
-          },
-          {
-            "id": "752200a17a64e5cc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Jane Does v. State of Utah Dept. of Health (1985)"
-            }
-          },
-          {
-            "id": "67c4687e927044fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Hodgson v. Minnesota (1990)"
+              "title": "Ginsberg v. New York | 390 U.S. 629 (1968) | Justia U.S. Supreme Court Center"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 2
       },
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 56.15482233502538,
+        "dimension": 54.69798657718121,
         "children": [
           {
-            "id": "f81eeb2c5fbf6fce",
+            "id": "eb748f2aa186686b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Allgeyer v. Louisiana (1897).md",
+                "file": "YIG_2025/Embedded 1/Truax v. Corrigan (1921).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Allgeyer v. Louisiana (1897)"
+              "title": "Truax v. Corrigan (1921)"
             }
           },
           {
-            "id": "e0cf1548539889b5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/Western Turf Association v. Greenberg (1907).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Western Turf Association v. Greenberg (1907)"
-            }
-          },
-          {
-            "id": "fb407eb40f1823ed",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Hawk v. Hawk (1993)"
-            }
-          },
-          {
-            "id": "41625b07b90ffbcb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Curtis v. School Committee of Falmouth (1995)"
-            }
-          },
-          {
-            "id": "1c53229dcac82039",
+            "id": "e7607f4e837d8906",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -233,94 +90,121 @@
             }
           },
           {
-            "id": "76b14200bdf0bb6b",
+            "id": "102bcf851c93bd0a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Argument for Woodson.md",
-                "mode": "preview",
+                "file": "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Argument for Woodson"
+              "title": "Memoirs v. Massachusetts (1966)"
             }
           },
           {
-            "id": "092f13bcfcce31e9",
+            "id": "6be8390b30d29499",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
+                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Roe v. Wade (1973)"
-            }
-          },
-          {
-            "id": "b7bf55e0a8b2ca31",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "T.H. v. Jones (1975)"
-            }
-          },
-          {
-            "id": "ba5ebde8b4e673c5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "Pierce v. Society of Sisters (1925)"
+              "title": "Wisconsin v. Yoder (1972) (YIG)"
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 3
+      },
+      {
+        "id": "abe2fdfcfe191bdb",
+        "type": "split",
+        "dimension": 16.778523489932887,
+        "children": [
+          {
+            "id": "9f60b3e542cbbfd0",
+            "type": "tabs",
+            "dimension": 35.294117647058826,
+            "children": [
+              {
+                "id": "727e9e4ed3e07f9a",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/Readme.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Readme"
+                }
+              },
+              {
+                "id": "3a83d61d819949e4",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "YIG_2025/Readme 2025.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme 2025"
+                }
+              },
+              {
+                "id": "4fd2b739161b394c",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "AP_GOV/Readme.md",
+                    "mode": "source",
+                    "backlinks": false,
+                    "source": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Readme"
+                }
+              }
+            ],
+            "currentTab": 1
+          },
+          {
+            "id": "cc5db2bde383e658",
+            "type": "tabs",
+            "dimension": 64.70588235294117,
+            "children": [
+              {
+                "id": "a409abbda40c6d31",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -334,12 +218,25 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1152c984c97506e6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
             "id": "e57d2a5061ff06ff",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"supports\":STK]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -369,27 +266,12 @@
               "icon": "longform",
               "title": "Longform"
             }
-          },
-          {
-            "id": "1152c984c97506e6",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 490.5,
-    "collapsed": true
+    "width": 229.5
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -405,17 +287,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": false
+                "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pierce v. Society of Sisters (1925)"
+              "title": "Backlinks for Wisconsin v. Yoder (1972) (YIG)"
             }
           },
           {
@@ -424,12 +306,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+                "file": "AP_GOV/15 Essential Cases/Tinker v. Des Moines Independent Community School District (1969).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Pierce v. Society of Sisters (1925)"
+              "title": "Outgoing links from Tinker v. Des Moines Independent Community School District (1969)"
             }
           },
           {
@@ -495,7 +377,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 328.5
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -512,199 +394,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "floating": {
-    "id": "27105a3040bded84",
-    "type": "floating",
-    "children": [
-      {
-        "id": "9e701ca44941eee7",
-        "type": "window",
-        "children": [
-          {
-            "id": "2c42e27615a8de0b",
-            "type": "tabs",
-            "dimension": 16.210045662100455,
-            "children": [
-              {
-                "id": "3a83d61d819949e4",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              },
-              {
-                "id": "2d782eaa2f7e1fb9",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Ginsberg v. New York (1968)"
-                }
-              }
-            ],
-            "currentTab": 1
-          },
-          {
-            "id": "3bc42bba15d1f052",
-            "type": "tabs",
-            "dimension": 40.01141552511416,
-            "children": [
-              {
-                "id": "9d4b4f7db4fefdca",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Roe v. Wade (1973)"
-                }
-              },
-              {
-                "id": "e7841b72f927e038",
-                "type": "leaf",
-                "state": {
-                  "type": "webviewer",
-                  "state": {
-                    "url": "https://casetext.com/case/planned-parenthood-assn-of-utah-v-dandoy",
-                    "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator",
-                    "mode": "webview"
-                  },
-                  "icon": "globe-2",
-                  "title": "Planned Parenthood Ass'n of Utah v. Dandoy, 810 F.2d 984 | Casetext Search + Citator"
-                }
-              },
-              {
-                "id": "debdb3409dc0ed5b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Argument for STK.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Argument for STK"
-                }
-              }
-            ],
-            "currentTab": 2
-          },
-          {
-            "id": "9535aa25473f3057",
-            "type": "tabs",
-            "dimension": 43.77853881278539,
-            "children": [
-              {
-                "id": "a409abbda40c6d31",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "Graph view"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 1693,
-        "y": -682,
-        "width": 384,
-        "height": 384,
-        "maximize": true,
-        "zoom": 0.5
-      },
-      {
-        "id": "c3bbef89598b5502",
-        "type": "window",
-        "children": [
-          {
-            "id": "191599a372311246",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "5eb0a7074fcefeff",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "YIG_2025/Readme 2025.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Readme 2025"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 2626,
-        "y": -617,
-        "width": 241,
-        "height": 523,
-        "maximize": false,
-        "zoom": 0.5
-      }
-    ]
-  },
-  "active": "ba5ebde8b4e673c5",
+  "active": "6be8390b30d29499",
   "lastOpenFiles": [
-    "YIG_2025/Embedded 1/Stanley v. Illinois (1972).md",
-    "YIG_2025/Argument for STK.md",
-    "YIG_2025/Argument for Woodson.md",
-    "YIG_2025/Embedded 1/Roe v. Wade (1973).md",
-    "YIG_2025/Embedded 1/Ware v. Valley Stream High (1989).md",
-    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
-    "YIG_2025/Embedded 1/Hodgson v. Minnesota (1990).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
     "YIG_2025/Embedded 1/Bellotti v. Baird (1976).md",
+    "YIG_2024/Embedded 2/Loewe v. Lawlor-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Embedded 2/Terrace v. Thompson (1923)-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Embedded 1/In re Foss-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Case Law/Kolender v. Lawson (1983)-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Case Law/State v. Hinsley (1982)-LAPTOP-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Schneider v. State (1939)-LAPTOP-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/Doe v. Planned Parenthood Association of Utah (1973).md",
     "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
-    "YIG_2025/Embedded 1/State of N.Y. v. Heckler (1983).md",
-    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Matheson (1983).md",
-    "YIG_2025/Embedded 1/Planned Parenthood Ass'n of Utah v. Dandoy (1987).md",
-    "YIG_2025/Embedded 1/Jane Does v. State of Utah Dept. of Health (1985).md",
-    "YIG_2025/Embedded 1/County of St. Charles, Missouri v. Missouri Family Health Council (1997).md",
-    "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
-    "YIG_2024/Embedded 1/Woodson v. North Carolina.md",
+    "YIG_2025/Embedded 1/Farrington v. Tokushige (1927).md",
     "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Embedded 1/Carey v. Population Services Int'l (1977).md",
-    "YIG_2025/Embedded 1/Planned Parenthood v. Danforth (1976).md",
-    "Carey v. Population Servs. Intl.md",
-    "YIG_2025/Embedded 1/Cochran v. Cochran (1909).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
-    "YIG_2025/Readme 2025.md",
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "YIG_2025/Embedded 1/Guerrieri v. Tyson (1942).md",
+    "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
+    "YIG_2025/Embedded 1/Adams v. Tanner (1917).md",
     "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
-    "YIG_2025/Embedded 1/Chambersburg A. S.D. v. Pa. Lab. Rel. Bd. (1981).md",
-    "Pasted image 20241111234912.png",
+    "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
+    "YIG_2025/Embedded 1/Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981).md",
+    "YIG_2025/Embedded 1/Parents United for Better Schools, Inc. v. School Dist (1994).md",
+    "State v. Garber [419 P.2d 896.md",
+    "Reynolds v. United States, (1879).md",
+    "McGowan v. Mearyland (1961).md",
+    "Cantwell v. Connecticut (1940).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",
@@ -715,6 +432,7 @@
     "YIG_2025/Embedded 2",
     "YIG_2025/Embedded 1",
     "YIG_2025/Case Law",
+    "Pasted image 20241111234912.png",
     "MUN_2024/Files/Pasted image 20241023172537.png"
   ]
 }
