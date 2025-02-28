@@ -88,7 +88,7 @@
       "query": "[\"supports\":STK], [\"level\":Base]",
       "color": {
         "a": 1,
-        "rgb": 16735770
+        "rgb": 16727066
       }
     },
     {
@@ -116,7 +116,7 @@
       "query": "[\"supports\":Woodson], [\"level\":2]",
       "color": {
         "a": 1,
-        "rgb": 9145317
+        "rgb": 12895465
       }
     }
   ],
@@ -130,6 +130,10 @@
   "repelStrength": 16.0416666666667,
   "linkStrength": 1,
   "linkDistance": 250,
+<<<<<<< HEAD
   "scale": 0.13190213833693937,
+=======
+  "scale": 0.04857619967670718,
+>>>>>>> 6a01b848c3348bb9cbab5e915b32cb0838adc042
   "close": true
 }

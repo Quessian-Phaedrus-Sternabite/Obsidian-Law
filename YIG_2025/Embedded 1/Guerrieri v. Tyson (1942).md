@@ -14,6 +14,8 @@ https://casetext.com/case/guerrieri-et-ux-v-tyson-et-al
 
 2. A teacher does not have implied authority to exercise her lay judgment as a parent may, in the matter of the treatment of injury or disease suffered by a pupil.
 
+Kid had infection, teacher stuck his hand in boiling water until the hand basically burned to further infection.
+
 ### Use
 
 Not applicable.

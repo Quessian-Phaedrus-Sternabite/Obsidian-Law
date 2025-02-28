@@ -4,9 +4,13 @@ level:
 group: 
 year: 1994
 ---
-## Case Number
+## Judson v. Essex Agricultural Technical Institute, 418 Mass. 159, 635 N.E.2d 1172 (Mass. 1994)
 
+<<<<<<< HEAD
 
+=======
+https://casetext.com/case/judson-v-essex-agricultural-technical-institute#p162
+>>>>>>> 6a01b848c3348bb9cbab5e915b32cb0838adc042
 
 ### Summary
 
