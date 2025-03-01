@@ -57,7 +57,7 @@
       {
         "id": "7bfbcbf7915f8851",
         "type": "tabs",
-        "dimension": 27.936241610738254,
+        "dimension": 54.69798657718121,
         "children": [
           {
             "id": "eb748f2aa186686b",
@@ -95,22 +95,66 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "YIG_2025/Embedded 1/Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981).md",
+                "file": "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981)"
+              "title": "Memoirs v. Massachusetts (1966)"
+            }
+          },
+          {
+            "id": "6be8390b30d29499",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Doe V. Irwin (1980)"
+            }
+          },
+          {
+            "id": "b8c3762a7e0a9dce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "YIG_2025/Embedded 1/Guerrieri v. Tyson (1942).md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Guerrieri v. Tyson (1942)"
+            }
+          },
+          {
+            "id": "373ebaf36995f939",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://law.justia.com/cases/pennsylvania/supreme-court/1975/462-pa-464-0.html",
+                "title": "Roberts v. School Dist. of Scranton :: 1975 :: Supreme Court of Pennsylvania Decisions :: Pennsylvania Case Law :: Pennsylvania Law :: U.S. Law :: Justia",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "Roberts v. School Dist. of Scranton :: 1975 :: Supreme Court of Pennsylvania Decisions :: Pennsylvania Case Law :: Pennsylvania Law :: U.S. Law :: Justia"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       },
       {
         "id": "abe2fdfcfe191bdb",
         "type": "split",
-        "dimension": 43.54026845637584,
+        "dimension": 16.778523489932887,
         "children": [
           {
             "id": "9f60b3e542cbbfd0",
@@ -221,7 +265,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infect",
+                "query": "[\"supports\":STK]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -252,11 +296,12 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 342.5
+    "width": 246.5
   },
   "right": {
     "id": "2a13eaa8837365fe",
@@ -272,6 +317,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "YIG_2025/Embedded 1/Guerrieri v. Tyson (1942).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -281,7 +327,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Guerrieri v. Tyson (1942)"
             }
           },
           {
@@ -378,34 +424,34 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a409abbda40c6d31",
+  "active": "b8c3762a7e0a9dce",
   "lastOpenFiles": [
-    "YIG_2025/Embedded 1/Chambersburg Area School District v. Pennsylvania Labor Relations Board (1981).md",
-    "State v. Garber [419 P.2d 896.md",
-    "Reynolds v. United States, (1879).md",
-    "McGowan v. Mearyland (1961).md",
-    "Cantwell v. Connecticut (1940).md",
-    "YIG_2025/Embedded 1/Ginsberg v. New York (1968).md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
-    "YIG_2025/Embedded 1/Memoirs v. Massachusetts (1966).md",
+    "YIG_2025/Embedded 1/Jacobson v. Massachusetts (1905).md",
     "YIG_2025/Embedded 1/Guerrieri v. Tyson (1942).md",
-    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
-    "YIG_2024/Technical/Name of embedded.md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Embedded 1/Adams v. Tanner (1917).md",
-    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
-    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
-    "YIG_2025/Embedded 1/Matter of Hamilton (1983).md",
     "YIG_2025/Case Law/Hawk v. Hawk (1993).md",
-    "YIG_2025/Embedded 2/Matter of Jensen (1981)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Embedded 2/State Dept. of Human Services v. Northern (1978)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Case Law/Meyer v. Nebraska (1923)-LAPTOP-KQDO1A9F.md",
-    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth(1995).md",
-    "YIG_2024/Embedded 1/Lazarus v. Faircloth.md",
-    "YIG_2024/Case Law/State v. Burkhart (2001).md",
-    "YIG_2024/Embedded 1/Dembowski v. State.md",
+    "YIG_2025/Case Law/Meyer v. Nebraska (1923).md",
+    "YIG_2025/Embedded 1/Roberts v. School Dist. of Scranton (1975).md",
+    "YIG_2025/Case Law/Curtis v. School Committee of Falmouth (1995).md",
+    "YIG_2025/Embedded 1/T.H. v. Jones (1975).md",
+    "YIG_2025/Case Law/Alfonso v. Fernandez (1993).md",
+    "YIG_2025/Embedded 2/Santosky v. Kramer (1982).md",
+    "YIG_2025/Embedded 1/Doe V. Irwin (1980).md",
+    "YIG_2025/Embedded 1/Planned Parenthood v. Danforth (1976).md",
+    "YIG_2025/Case Law/Pierce v. Society of Sisters (1925).md",
+    "YIG_2025/Case Law/Prince v. Massachusetts (1944).md",
+    "YIG_2025/Embedded 1/Bellotti v. Baird (1976).md",
     "YIG_2025/Case Law/Wisconsin v. Yoder (1972) (YIG).md",
-    "YIG_2025/Embedded 1/Chicago, Burlington & Quincy R. Co. v. McGuire (1911).md",
+    "YIG_2025/Case Law/Parents United v. Philadelphia BOE (1998).md",
+    "YIG_2024/Embedded 2/Loewe v. Lawlor-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Embedded 2/Terrace v. Thompson (1923)-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Embedded 1/In re Foss-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Case Law/Kolender v. Lawson (1983)-LAPTOP-KQDO1A9F.md",
+    "YIG_2024/Case Law/State v. Hinsley (1982)-LAPTOP-KQDO1A9F.md",
+    "YIG_2025/Embedded 1/Schneider v. State (1939)-LAPTOP-KQDO1A9F.md",
+    "YIG_2025/Embedded 2/Doe v. Planned Parenthood Association of Utah (1973).md",
+    "YIG_2025/Embedded 1/Farrington v. Tokushige (1927).md",
+    "YIG_2025/Embedded 1/Barth v. Philadelphia School District  (1958).md",
+    "YIG_2025/Embedded 1/Bennet v. Jeffreys (1976).md",
     "YIG_2025/Codes or Laws-DESK-KQDO1A9F",
     "-DESK-KQDO1A9F.gitignore",
     "YIG_2025/Case Law/New Text Document.txt",

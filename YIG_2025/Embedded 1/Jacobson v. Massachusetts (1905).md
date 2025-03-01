@@ -1,12 +1,12 @@
 ---
 supports: N/A
-level: 
-group: 
-year:
+level: "1"
+group: YIG-2025
+year: 1905
 ---
-## Case Number
+## 197 U.S. 11 (1905)
 
-Link
+https://supreme.justia.com/cases/federal/us/197/11/
 
 ### Summary
 
@@ -14,8 +14,8 @@ A state may enact a compulsory vaccination law, since the legislature has the di
 
 ### Use
 
-Can't be used bc the rebuttal would hurt like a motherfucker
-
+Can't be used bc the rebuttal would hurt like all get out
+Rebuttal?
 ### Embedded
 
 [[Name of embedded]]

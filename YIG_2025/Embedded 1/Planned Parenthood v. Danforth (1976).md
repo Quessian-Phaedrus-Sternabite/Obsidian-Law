@@ -1,5 +1,5 @@
 ---
-supports: N/A
+supports: Woodson
 level: "1"
 group: YIG-2025
 year: 1976
@@ -14,7 +14,7 @@ Definition of viability.
 
 ### Use
 
-Not applicable. 
+Minors do not need parental consent for abortion matters. 
 
 ### Embedded
 
